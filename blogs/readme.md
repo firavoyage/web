@@ -1,7 +1,7 @@
 ```
 about
 blog
-paragraph
+person
 temp
 wiki
 ```
