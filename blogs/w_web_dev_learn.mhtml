@@ -1,22 +1,22 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://web.dev/learn
 Subject: =?utf-8?Q?Learn=20web=20development=20=C2=A0|=C2=A0=20web.dev?=
-Date: Sun, 12 May 2024 18:19:04 +0800
+Date: Sat, 1 Jun 2024 18:22:36 +0800
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----"
+	boundary="----MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----"
 
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: text/html
-Content-ID: <frame-05947AC9595C3A5C26BF3C0AA094AE79@mhtml.blink>
+Content-ID: <frame-447E62F73174861F6155C3CB876824C0@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://web.dev/learn
 
 <!DOCTYPE html><html lang=3D"en" dir=3D"ltr"><head><meta http-equiv=3D"Cont=
 ent-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" t=
-ype=3D"text/css" href=3D"cid:css-0758df78-cf7c-4eb4-a193-a3ad489d012d@mhtml=
+ype=3D"text/css" href=3D"cid:css-a7c6c627-5aed-4e43-880a-3ef16ff7b3aa@mhtml=
 .blink" />
     <meta name=3D"google-signin-client-id" content=3D"157101835696-ooapojlo=
 dmuabs2do2vuhhnf90bccmoi.apps.googleusercontent.com">
@@ -48,14 +48,14 @@ ssorigin=3D""><link rel=3D"stylesheet" href=3D"https://fonts.googleapis.com=
       <link rel=3D"stylesheet" href=3D"https://fonts.googleapis.com/css2?fa=
 mily=3DMaterial+Icons&amp;family=3DMaterial+Symbols+Outlined:opsz,wght,FILL=
 ,GRAD@20..48,100..700,0..1,-50..200&amp;display=3Dblock"><link rel=3D"style=
-sheet" href=3D"https://www.gstatic.com/devrel-devsite/prod/ve5ef9ac7b497e19=
-ece9427facc78d0c59aaab7a2bc6a0f75fdae93f4ee589f67/web/css/app.css">
+sheet" href=3D"https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c4=
+0ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/web/css/app.css">
       <link rel=3D"shortcut icon" href=3D"https://www.gstatic.com/devrel-de=
-vsite/prod/ve5ef9ac7b497e19ece9427facc78d0c59aaab7a2bc6a0f75fdae93f4ee589f6=
-7/web/images/favicon.png">
+vsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec4=
+2/web/images/favicon.png">
     <link rel=3D"apple-touch-icon" href=3D"https://www.gstatic.com/devrel-d=
-evsite/prod/ve5ef9ac7b497e19ece9427facc78d0c59aaab7a2bc6a0f75fdae93f4ee589f=
-67/web/images/touchicon-180.png"><link rel=3D"canonical" href=3D"https://we=
+evsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec=
+42/web/images/touchicon-180.png"><link rel=3D"canonical" href=3D"https://we=
 b.dev/learn"><link rel=3D"search" type=3D"application/opensearchdescription=
 +xml" title=3D"web.dev" href=3D"https://web.dev/s/opensearch.xml">
       <link rel=3D"alternate" hreflang=3D"en" href=3D"https://web.dev/learn=
@@ -124,7 +124,7 @@ ocale" content=3D"en"><meta name=3D"twitter:card" content=3D"summary"><meta=
 e.jpg"><meta name=3D"twitter:site" content=3D"@ChromiumDev">
    =20
       <link rel=3D"stylesheet" href=3D"https://web.dev/extras.css"></head>
-  <body class=3D"viewport--desktop tenant--web" template=3D"landing" theme=
+  <body class=3D"tenant--web viewport--desktop" template=3D"landing" theme=
 =3D"web-theme" type=3D"article" layout=3D"full" style=3D"--devsite-js-heade=
 r-height: 97px; --devsite-panel-height: 0px;" ready=3D"">
     <devsite-progress id=3D"app-progress"></devsite-progress>
@@ -180,8 +180,8 @@ av" track-metadata-eventdetail=3D"nav">
  =20
   <picture>
    =20
-    <img src=3D"https://www.gstatic.com/devrel-devsite/prod/ve5ef9ac7b497e1=
-9ece9427facc78d0c59aaab7a2bc6a0f75fdae93f4ee589f67/web/images/lockup.svg" c=
+    <img src=3D"https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c=
+40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/web/images/lockup.svg" c=
 lass=3D"devsite-site-logo" alt=3D"web.dev">
   </picture>
  =20
@@ -295,7 +295,7 @@ tom Events" data-label=3D"Tab: Learn" track-name=3D"learn">
      =20
     <tab class=3D"devsite-overflow-tab"><!---->
           <a href=3D"https://web.dev/learn#" class=3D"devsite-icon devsite-=
-icon-arrow-drop-down" aria-label=3D"Extended Navigation"><!--?lit$310629587=
+icon-arrow-drop-down" aria-label=3D"Extended Navigation"><!--?lit$066432808=
 $-->More</a>
          =20
         </tab></nav>
@@ -349,8 +349,8 @@ v></div>
    =20
    =20
     <li role=3D"presentation">
-      <a role=3D"menuitem" lang=3D"en" aria-current=3D"true" href=3D"https:=
-//web.dev/learn">English</a>
+      <a role=3D"menuitem" lang=3D"en" href=3D"https://web.dev/learn" aria-=
+current=3D"true">English</a>
     </li>
    =20
     <li role=3D"presentation">
@@ -477,7 +477,7 @@ M10.1 8h3.8q-.3-1.1-.775-2.075Q12.65 4.95 12 4.05q-.65.9-1.125 1.875T10.1 8=
 Zm-5 0h2.95q.225-.95.563-1.838.337-.887.787-1.712Q8 4.9 6.912 5.825 5.825 6=
 .75 5.1 8Z"></path>
         </svg>
-        <span class=3D"label"><!--?lit$310629587$-->English</span>
+        <span class=3D"label"><!--?lit$066432808$-->Language</span>
         <svg aria-hidden=3D"true" class=3D"icon-arrow" viewBox=3D"0 0 24 24=
 " xmlns=3D"http://www.w3.org/2000/svg">
           <path d=3D"m12 15-5-5h10Z"></path>
@@ -760,9 +760,9 @@ idebar-max-height: 546px; --devsite-js-sidebar-offset: 0;">
     <div class=3D"devsite-banner devsite-banner-announcement nocontent">
       <div class=3D"devsite-banner-message">
         <div class=3D"devsite-banner-message-text">
-          The web is back at Google I/O on May 14! <a href=3D"https://io.go=
-ogle/2024/explore/?utm_source=3Dweb&amp;utm_medium=3Dembedded_marketing&amp=
-;utm_campaign=3D&amp;utm_content=3D">Register now</a>.
+          Thanks for tuning in to Google I/O! <a href=3D"https://io.google/=
+2024/explore/?utm_source=3Dweb&amp;utm_medium=3Dembedded_marketing&amp;utm_=
+campaign=3D&amp;utm_content=3D">Watch content on-demand</a>.
         </div>
       </div>
     </div>
@@ -2207,8 +2207,8 @@ el=3D"Footer Manage cookies link" aria-hidden=3D"true">
    =20
    =20
     <li role=3D"presentation">
-      <a role=3D"menuitem" lang=3D"en" aria-current=3D"true" href=3D"https:=
-//web.dev/learn">English</a>
+      <a role=3D"menuitem" lang=3D"en" href=3D"https://web.dev/learn" aria-=
+current=3D"true">English</a>
     </li>
    =20
     <li role=3D"presentation">
@@ -2335,7 +2335,7 @@ M10.1 8h3.8q-.3-1.1-.775-2.075Q12.65 4.95 12 4.05q-.65.9-1.125 1.875T10.1 8=
 Zm-5 0h2.95q.225-.95.563-1.838.337-.887.787-1.712Q8 4.9 6.912 5.825 5.825 6=
 .75 5.1 8Z"></path>
         </svg>
-        <span class=3D"label"><!--?lit$310629587$-->English</span>
+        <span class=3D"label"><!--?lit$066432808$-->Language</span>
         <svg aria-hidden=3D"true" class=3D"icon-arrow" viewBox=3D"0 0 24 24=
 " xmlns=3D"http://www.w3.org/2000/svg">
           <path d=3D"m12 15-5-5h10Z"></path>
@@ -2355,7 +2355,7 @@ Zm-5 0h2.95q.225-.95.563-1.838.337-.887.787-1.712Q8 4.9 6.912 5.825 5.825 6=
 </devsite-snackbar>
     <devsite-tooltip></devsite-tooltip>
     <devsite-heading-link></devsite-heading-link>
-    <devsite-analytics analytics-iframe=3D"" enable-cb=3D"">
+    <devsite-analytics analytics-iframe=3D"">
      =20
        =20
 
@@ -2370,14 +2370,14 @@ Zm-5 0h2.95q.225-.95.563-1.838.337-.887.787-1.712Q8 4.9 6.912 5.825 5.825 6=
 evsite-a11y-announce>
  =20
 </body></html>
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-0758df78-cf7c-4eb4-a193-a3ad489d012d@mhtml.blink
+Content-Location: cid:css-a7c6c627-5aed-4e43-880a-3ef16ff7b3aa@mhtml.blink
 
 @charset "utf-8";
 =0A
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:400,400italic,500,500italic,700,700italic|Roboto+Mono:400,500,700&display=swap
@@ -3030,7 +3030,7 @@ format("woff2"); unicode-range: U+100-2AF, U+304, U+308, U+329, U+1E00-1E9F=
 rmat("woff2"); unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U=
 +2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+21=
 91, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; }
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://fonts.googleapis.com/css2?family=Material+Icons&family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&display=block
@@ -3043,7 +3043,7 @@ cons/v142/flUhRq6tzZclQEJ-Vdg-IuiaDsNc.woff2") format("woff2"); }
 
 @font-face { font-family: "Material Symbols Outlined"; font-style: normal; =
 font-weight: 100 700; font-display: block; src: url("https://fonts.gstatic.=
-com/s/materialsymbolsoutlined/v179/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6o=
+com/s/materialsymbolsoutlined/v190/kJEhBvYX7BgnkSrUwT8OhrdQw4oELdPIeeII9v6o=
 FsI.woff2") format("woff2"); }
 
 .material-icons { font-family: "Material Icons"; font-weight: normal; font-=
@@ -3057,12 +3057,925 @@ thing: antialiased; }
 r-spacing: normal; text-transform: none; display: inline-block; white-space=
 : nowrap; overflow-wrap: normal; direction: ltr; font-feature-settings: "li=
 ga"; -webkit-font-smoothing: antialiased; }
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://www.gstatic.com/devrel-devsite/prod/ve5ef9ac7b497e19ece9427facc78d0c59aaab7a2bc6a0f75fdae93f4ee589f67/web/css/app.css
+Content-Location: https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/web/css/app.css
 
 @charset "utf-8";
+
+:root { --devsite-ref-measurement--px-0: 0px; --devsite-ref-measurement--px=
+-1: 1px; --devsite-ref-measurement--px-104: 104px; --devsite-ref-measuremen=
+t--px-108: 108px; --devsite-ref-measurement--px-112: 112px; --devsite-ref-m=
+easurement--px-12: 12px; --devsite-ref-measurement--px-128: 128px; --devsit=
+e-ref-measurement--px-14: 14px; --devsite-ref-measurement--px-144: 144px; -=
+-devsite-ref-measurement--px-15: 15px; --devsite-ref-measurement--px-16: 16=
+px; --devsite-ref-measurement--px-168: 168px; --devsite-ref-measurement--px=
+-17: 17px; --devsite-ref-measurement--px-172: 172px; --devsite-ref-measurem=
+ent--px-18: 18px; --devsite-ref-measurement--px-190: 190px; --devsite-ref-m=
+easurement--px-192: 192px; --devsite-ref-measurement--px-2: 2px; --devsite-=
+ref-measurement--px-20: 20px; --devsite-ref-measurement--px-24: 24px; --dev=
+site-ref-measurement--px-25: 25px; --devsite-ref-measurement--px-26: 26px; =
+--devsite-ref-measurement--px-28: 28px; --devsite-ref-measurement--px-3: 3p=
+x; --devsite-ref-measurement--px-32: 32px; --devsite-ref-measurement--px-36=
+: 36px; --devsite-ref-measurement--px-4: 4px; --devsite-ref-measurement--px=
+-40: 40px; --devsite-ref-measurement--px-45: 45px; --devsite-ref-measuremen=
+t--px-48: 48px; --devsite-ref-measurement--px-5: 5px; --devsite-ref-measure=
+ment--px-50: 50px; --devsite-ref-measurement--px-52: 52px; --devsite-ref-me=
+asurement--px-56: 56px; --devsite-ref-measurement--px-6: 6px; --devsite-ref=
+-measurement--px-60: 60px; --devsite-ref-measurement--px-64: 64px; --devsit=
+e-ref-measurement--px-65: 65px; --devsite-ref-measurement--px-72: 72px; --d=
+evsite-ref-measurement--px-8: 8px; --devsite-ref-measurement--px-80: 80px; =
+--devsite-ref-measurement--px-88: 88px; --devsite-ref-measurement--px-90: 9=
+0px; --devsite-ref-opacity--alpha-00: 0; --devsite-ref-opacity--alpha-03: 0=
+.03; --devsite-ref-opacity--alpha-04: 0.04; --devsite-ref-opacity--alpha-05=
+: 0.05; --devsite-ref-opacity--alpha-06: 0.06; --devsite-ref-opacity--alpha=
+-08: 0.08; --devsite-ref-opacity--alpha-09: 0.09; --devsite-ref-opacity--al=
+pha-10: 0.1; --devsite-ref-opacity--alpha-100: 1; --devsite-ref-opacity--al=
+pha-11: 0.11; --devsite-ref-opacity--alpha-12: 0.12; --devsite-ref-opacity-=
+-alpha-14: 0.14; --devsite-ref-opacity--alpha-15: 0.15; --devsite-ref-opaci=
+ty--alpha-16: 0.16; --devsite-ref-opacity--alpha-20: 0.2; --devsite-ref-opa=
+city--alpha-21: 0.21; --devsite-ref-opacity--alpha-22: 0.22; --devsite-ref-=
+opacity--alpha-23: 0.23; --devsite-ref-opacity--alpha-24: 0.24; --devsite-r=
+ef-opacity--alpha-25: 0.25; --devsite-ref-opacity--alpha-26: 0.26; --devsit=
+e-ref-opacity--alpha-28: 0.28; --devsite-ref-opacity--alpha-30: 0.3; --devs=
+ite-ref-opacity--alpha-36: 0.36; --devsite-ref-opacity--alpha-38: 0.38; --d=
+evsite-ref-opacity--alpha-40: 0.4; --devsite-ref-opacity--alpha-43: 0.43; -=
+-devsite-ref-opacity--alpha-50: 0.5; --devsite-ref-opacity--alpha-54: 0.54;=
+ --devsite-ref-opacity--alpha-55: 0.55; --devsite-ref-opacity--alpha-60: 0.=
+6; --devsite-ref-opacity--alpha-65: 0.65; --devsite-ref-opacity--alpha-70: =
+0.7; --devsite-ref-opacity--alpha-73: 0.73; --devsite-ref-opacity--alpha-75=
+: 0.75; --devsite-ref-opacity--alpha-80: 0.8; --devsite-ref-opacity--alpha-=
+85: 0.85; --devsite-ref-opacity--alpha-87: 0.87; --devsite-ref-opacity--alp=
+ha-88: 0.88; --devsite-ref-opacity--alpha-90: 0.9; --devsite-ref-opacity--a=
+lpha-92: 0.92; --devsite-ref-opacity--alpha-95: 0.95; --devsite-ref-opacity=
+--alpha-96: 0.96; --devsite-ref-opacity--alpha-98: 0.98; --devsite-ref-opac=
+ity--alpha-99: 0.99; --devsite-ref-palette--ai-analog: #a7edff; --devsite-r=
+ef-palette--ai-blue: #076eff; --devsite-ref-palette--ai-cyan: #4fabff; --de=
+vsite-ref-palette--ai-lightblue: #b1c5ff; --devsite-ref-palette--ai-main: #=
+d7f6ff; --devsite-ref-palette--ai-peach: #ffddb7; --devsite-ref-palette--bl=
+ack: #000; --devsite-ref-palette--blue-grey200: #b0bec5; --devsite-ref-pale=
+tte--blue-grey300: #90a4ae; --devsite-ref-palette--blue-grey400: #78909c; -=
+-devsite-ref-palette--blue-grey500: #607d8b; --devsite-ref-palette--blue-gr=
+ey600: #546e7a; --devsite-ref-palette--blue-grey700: #455a64; --devsite-ref=
+-palette--blue-grey800: #37474f; --devsite-ref-palette--blue-grey900: #2632=
+38; --devsite-ref-palette--blue100: #d2e3fc; --devsite-ref-palette--blue200=
+: #aecbfa; --devsite-ref-palette--blue300: #8ab4f8; --devsite-ref-palette--=
+blue400: #669df6; --devsite-ref-palette--blue50: #e8f0fe; --devsite-ref-pal=
+ette--blue500: #4285f4; --devsite-ref-palette--blue600: #1a73e8; --devsite-=
+ref-palette--blue700: #1967d2; --devsite-ref-palette--blue800: #185abc; --d=
+evsite-ref-palette--blue900: #174ea6; --devsite-ref-palette--cyan100: #cbf0=
+f8; --devsite-ref-palette--cyan200: #a1e4f2; --devsite-ref-palette--cyan300=
+: #78d9ec; --devsite-ref-palette--cyan400: #4ecde6; --devsite-ref-palette--=
+cyan50: #e4f7fb; --devsite-ref-palette--cyan500: #24c1e0; --devsite-ref-pal=
+ette--cyan600: #12b5cb; --devsite-ref-palette--cyan700: #129eaf; --devsite-=
+ref-palette--cyan800: #098591; --devsite-ref-palette--cyan900: #007b83; --d=
+evsite-ref-palette--dark-grey: #2a2b2e; --devsite-ref-palette--green100: #c=
+eead6; --devsite-ref-palette--green200: #a8dab5; --devsite-ref-palette--gre=
+en300: #81c995; --devsite-ref-palette--green400: #5bb974; --devsite-ref-pal=
+ette--green50: #e6f4ea; --devsite-ref-palette--green500: #34a853; --devsite=
+-ref-palette--green600: #1e8e3e; --devsite-ref-palette--green700: #188038; =
+--devsite-ref-palette--green800: #137333; --devsite-ref-palette--green900: =
+#0d652d; --devsite-ref-palette--grey100: #f1f3f4; --devsite-ref-palette--gr=
+ey200: #e8eaed; --devsite-ref-palette--grey300: #dadce0; --devsite-ref-pale=
+tte--grey400: #bdc1c6; --devsite-ref-palette--grey50: #f8f9fa; --devsite-re=
+f-palette--grey500: #9aa0a6; --devsite-ref-palette--grey600: #80868b; --dev=
+site-ref-palette--grey700: #5f6368; --devsite-ref-palette--grey800: #3c4043=
+; --devsite-ref-palette--grey900: #202124; --devsite-ref-palette--indigo100=
+: #c5cae9; --devsite-ref-palette--indigo200: #9fa8da; --devsite-ref-palette=
+--indigo300: #7986cb; --devsite-ref-palette--indigo400: #5c6bc0; --devsite-=
+ref-palette--indigo50: #e8eaf6; --devsite-ref-palette--indigo500: #3f51b5; =
+--devsite-ref-palette--indigo700: #303f9f; --devsite-ref-palette--orange100=
+: #fedfc8; --devsite-ref-palette--orange200: #fdc69c; --devsite-ref-palette=
+--orange300: #fcad70; --devsite-ref-palette--orange400: #fa903e; --devsite-=
+ref-palette--orange50: #feefe3; --devsite-ref-palette--orange500: #fa7b17; =
+--devsite-ref-palette--orange600: #e8710a; --devsite-ref-palette--orange700=
+: #d56e0c; --devsite-ref-palette--orange800: #c26401; --devsite-ref-palette=
+--orange900: #b06000; --devsite-ref-palette--pink100: #fdcfe8; --devsite-re=
+f-palette--pink200: #fba9d6; --devsite-ref-palette--pink300: #ff8bcb; --dev=
+site-ref-palette--pink400: #ff63b8; --devsite-ref-palette--pink50: #fde7f3;=
+ --devsite-ref-palette--pink500: #f439a0; --devsite-ref-palette--pink600: #=
+e52592; --devsite-ref-palette--pink700: #d01884; --devsite-ref-palette--pin=
+k800: #b80672; --devsite-ref-palette--pink900: #9c166b; --devsite-ref-palet=
+te--primary-40: #0b57d0; --devsite-ref-palette--primary-80: #a8c7fa; --devs=
+ite-ref-palette--primary-90: #d3e3fd; --devsite-ref-palette--purple100: #e9=
+d2fd; --devsite-ref-palette--purple200: #d7aefb; --devsite-ref-palette--pur=
+ple300: #c58af9; --devsite-ref-palette--purple400: #af5cf7; --devsite-ref-p=
+alette--purple50: #f3e8fd; --devsite-ref-palette--purple500: #a142f4; --dev=
+site-ref-palette--purple600: #9334e6; --devsite-ref-palette--purple700: #84=
+30ce; --devsite-ref-palette--purple800: #7627bb; --devsite-ref-palette--pur=
+ple900: #681da8; --devsite-ref-palette--red100: #fad2cf; --devsite-ref-pale=
+tte--red200: #f6aea9; --devsite-ref-palette--red300: #f28b82; --devsite-ref=
+-palette--red400: #ee675c; --devsite-ref-palette--red50: #fce8e6; --devsite=
+-ref-palette--red500: #ea4335; --devsite-ref-palette--red600: #d93025; --de=
+vsite-ref-palette--red700: #c5221f; --devsite-ref-palette--red800: #b31412;=
+ --devsite-ref-palette--red900: #a50e0e; --devsite-ref-palette--secondary-1=
+0: #001d35; --devsite-ref-palette--secondary-90: #c2e7ff; --devsite-ref-pal=
+ette--teal100: #b2dfdb; --devsite-ref-palette--teal200: #80cbc4; --devsite-=
+ref-palette--teal300: #4db6ac; --devsite-ref-palette--teal400: #26a69a; --d=
+evsite-ref-palette--teal50: #e0f2f1; --devsite-ref-palette--teal500: #00968=
+8; --devsite-ref-palette--teal600: #00897b; --devsite-ref-palette--teal700:=
+ #00796b; --devsite-ref-palette--white: #fff; --devsite-ref-palette--yellow=
+100: #feefc3; --devsite-ref-palette--yellow200: #fde293; --devsite-ref-pale=
+tte--yellow300: #fdd663; --devsite-ref-palette--yellow400: #fcc934; --devsi=
+te-ref-palette--yellow50: #fef7e0; --devsite-ref-palette--yellow500: #fbbc0=
+4; --devsite-ref-palette--yellow600: #f9ab00; --devsite-ref-palette--yellow=
+700: #f29900; --devsite-ref-palette--yellow800: #ea8600; --devsite-ref-pale=
+tte--yellow900: #e37400; --devsite-ref-palette-non-endorsed--alice-blue: #5=
+fc8f8; --devsite-ref-palette-non-endorsed--amber-orange: #ffa000; --devsite=
+-ref-palette-non-endorsed--bright-pink: #e20074; --devsite-ref-palette-non-=
+endorsed--bright-red: red; --devsite-ref-palette-non-endorsed--bright-yello=
+w: #fcd637; --devsite-ref-palette-non-endorsed--burnt-orange: #d15337; --de=
+vsite-ref-palette-non-endorsed--dark-brown: #40251f; --devsite-ref-palette-=
+non-endorsed--dark-cyan: #283142; --devsite-ref-palette-non-endorsed--dark-=
+web-orange: #fd8c09; --devsite-ref-palette-non-endorsed--darkblue800: #0b2e=
+59; --devsite-ref-palette-non-endorsed--deep-orange200: #ffab91; --devsite-=
+ref-palette-non-endorsed--deep-orange500: #ff5722; --devsite-ref-palette-no=
+n-endorsed--deep-orange700: #e64a19; --devsite-ref-palette-non-endorsed--de=
+ep-purple200: #e1bee7; --devsite-ref-palette-non-endorsed--deep-purple400: =
+#7e57c2; --devsite-ref-palette-non-endorsed--deep-purple700: #512da8; --dev=
+site-ref-palette-non-endorsed--deep-purple900: #50157f; --devsite-ref-palet=
+te-non-endorsed--deepsky-blue: #00b0ff; --devsite-ref-palette-non-endorsed-=
+-dusk-grey: #979797; --devsite-ref-palette-non-endorsed--dust-purple700: #9=
+d75ab; --devsite-ref-palette-non-endorsed--fuscia-pink: #e91e63; --devsite-=
+ref-palette-non-endorsed--green600: #43a047; --devsite-ref-palette-non-endo=
+rsed--grey350: #ddd; --devsite-ref-palette-non-endorsed--grey750: #4e5256; =
+--devsite-ref-palette-non-endorsed--grey850: #36373a; --devsite-ref-palette=
+-non-endorsed--light-blue400: #29b6f6; --devsite-ref-palette-non-endorsed--=
+light-blue500: #03a9f4; --devsite-ref-palette-non-endorsed--light-blue600: =
+#039be5; --devsite-ref-palette-non-endorsed--light-blue700: #0288d1; --devs=
+ite-ref-palette-non-endorsed--light-blue800: #0277bd; --devsite-ref-palette=
+-non-endorsed--light-green200: #c5e1a5; --devsite-ref-palette-non-endorsed-=
+-light-green400: #9ccc65; --devsite-ref-palette-non-endorsed--light-green50=
+0: #8bc34a; --devsite-ref-palette-non-endorsed--light-green700: #689f38; --=
+devsite-ref-palette-non-endorsed--light-red: #ff8080; --devsite-ref-palette=
+-non-endorsed--lime-bright: #eeff41; --devsite-ref-palette-non-endorsed--li=
+me-green: #aed581; --devsite-ref-palette-non-endorsed--lite-slate-blue: #a5=
+c1d4; --devsite-ref-palette-non-endorsed--node-green: #00c853; --devsite-re=
+f-palette-non-endorsed--orange-burst: #ff6e40; --devsite-ref-palette-non-en=
+dorsed--pacific-cyan: #16aaca; --devsite-ref-palette-non-endorsed--rose-red=
+: #c52062; --devsite-ref-palette-non-endorsed--slate-lite: #f5f6f7; --devsi=
+te-ref-palette-non-endorsed--soft-blue: #458ae5; --devsite-ref-palette-non-=
+endorsed--vivid-orange: #ff9100; --devsite-ref-palette-non-endorsed--yellow=
+-highlight: #ffe168; --devsite-ref-palette-tenant--actifio-orange200: #eba4=
+95; --devsite-ref-palette-tenant--actifio-orange500: #d6492a; --devsite-ref=
+-palette-tenant--actifio-orange800: #c63119; --devsite-ref-palette-tenant--=
+actifio-theme: #e96d1f; --devsite-ref-palette-tenant--android-accent100: #e=
+fffc3; --devsite-ref-palette-tenant--android-accent500: #c6ff00; --devsite-=
+ref-palette-tenant--android-accessible-blue: #1769e0; --devsite-ref-palette=
+-tenant--android-black: #000; --devsite-ref-palette-tenant--android-blue-10=
+0: #d2e3fc; --devsite-ref-palette-tenant--android-blue-200: #aecbfa; --devs=
+ite-ref-palette-tenant--android-blue-25: #f6fbff; --devsite-ref-palette-ten=
+ant--android-blue-300: #4285f4; --devsite-ref-palette-tenant--android-blue-=
+400: #356ac3; --devsite-ref-palette-tenant--android-blue-50: #e8f0fe; --dev=
+site-ref-palette-tenant--android-blue-500: #174ea6; --devsite-ref-palette-t=
+enant--android-blue-600: #164590; --devsite-ref-palette-tenant--android-blu=
+e-700: #15305c; --devsite-ref-palette-tenant--android-blue-800: #132137; --=
+devsite-ref-palette-tenant--android-blue-900: #131924; --devsite-ref-palett=
+e-tenant--android-blue-dark: #1156d8; --devsite-ref-palette-tenant--android=
+-blue-dark-theme: #152949; --devsite-ref-palette-tenant--android-chartreuse=
+-100: #efffc3; --devsite-ref-palette-tenant--android-chartreuse-500: #c6ff0=
+0; --devsite-ref-palette-tenant--android-chartreuse-600: #a2d004; --devsite=
+-ref-palette-tenant--android-chartreuse-900: #323d0f; --devsite-ref-palette=
+-tenant--android-dark-green: #00a956; --devsite-ref-palette-tenant--android=
+-green: #3ddc84; --devsite-ref-palette-tenant--android-green-100: #ceead6; =
+--devsite-ref-palette-tenant--android-green-200: #a8dab5; --devsite-ref-pal=
+ette-tenant--android-green-25: #f4f9f5; --devsite-ref-palette-tenant--andro=
+id-green-300: #34a853; --devsite-ref-palette-tenant--android-green-50: #e6f=
+4ea; --devsite-ref-palette-tenant--android-green-500: #2a8642; --devsite-re=
+f-palette-tenant--android-green-600: #0d652d; --devsite-ref-palette-tenant-=
+-android-green-700: #103c20; --devsite-ref-palette-tenant--android-green-80=
+0: #112719; --devsite-ref-palette-tenant--android-green-900: #111c15; --dev=
+site-ref-palette-tenant--android-green-dark-theme: #134229; --devsite-ref-p=
+alette-tenant--android-green-light: #8cd9ae; --devsite-ref-palette-tenant--=
+android-grey-100: #f1f3f4; --devsite-ref-palette-tenant--android-grey-1000:=
+ #121212; --devsite-ref-palette-tenant--android-grey-200: #e8eaed; --devsit=
+e-ref-palette-tenant--android-grey-300: #dadce0; --devsite-ref-palette-tena=
+nt--android-grey-50: #f8f9fa; --devsite-ref-palette-tenant--android-grey-60=
+0: #80868b; --devsite-ref-palette-tenant--android-grey-700: #5f6368; --devs=
+ite-ref-palette-tenant--android-grey-800: #3c4043; --devsite-ref-palette-te=
+nant--android-grey-900: #202124; --devsite-ref-palette-tenant--android-grey=
+900: #2b2b2b; --devsite-ref-palette-tenant--android-hunter-green: #6a8759; =
+--devsite-ref-palette-tenant--android-illustration-green: #00b975; --devsit=
+e-ref-palette-tenant--android-light-blue: #d7effe; --devsite-ref-palette-te=
+nant--android-light-blue-dark: #cdebfe; --devsite-ref-palette-tenant--andro=
+id-light-blue-dark-theme: #1d2532; --devsite-ref-palette-tenant--android-li=
+ght-green: #eff7cf; --devsite-ref-palette-tenant--android-light-green-dark:=
+ #ebf5c3; --devsite-ref-palette-tenant--android-light-green-dark-theme: #36=
+3637; --devsite-ref-palette-tenant--android-light-navy: #0d4c67; --devsite-=
+ref-palette-tenant--android-medium-green: #bbb529; --devsite-ref-palette-te=
+nant--android-medium-grey: #a59d97; --devsite-ref-palette-tenant--android-m=
+edium-slate-blue: #6897bb; --devsite-ref-palette-tenant--android-navy: #073=
+042; --devsite-ref-palette-tenant--android-pale-blue: #ebf7fe; --devsite-re=
+f-palette-tenant--android-pale-blue-dark: #e5f5fe; --devsite-ref-palette-te=
+nant--android-pale-blue-dark-theme: #162031; --devsite-ref-palette-tenant--=
+android-pale-blue50: #f6fbff; --devsite-ref-palette-tenant--android-pale-gr=
+een50: #f4f9f5; --devsite-ref-palette-tenant--android-white: #fff; --devsit=
+e-ref-palette-tenant--android-yellow400: #ffc66d; --devsite-ref-palette-ten=
+ant--apigee-blue200: #8ab4dd; --devsite-ref-palette-tenant--apigee-blue500:=
+ #1568ba; --devsite-ref-palette-tenant--apigee-orange200: #ee9981; --devsit=
+e-ref-palette-tenant--apigee-orange400: #e25229; --devsite-ref-palette-tena=
+nt--apigee-orange500: #dd3303; --devsite-ref-palette-tenant--apigee-orange7=
+00: #d42702; --devsite-ref-palette-tenant--bazel-green300: #44a147; --devsi=
+te-ref-palette-tenant--bazel-green500: #0c713a; --devsite-ref-palette-tenan=
+t--bazel-green800: #1e431e; --devsite-ref-palette-tenant--cel-blue300: #394=
+457; --devsite-ref-palette-tenant--cel-blue400: #465670; --devsite-ref-pale=
+tte-tenant--cel-mauve25: #f0eded; --devsite-ref-palette-tenant--cel-mauve30=
+0: #948cc2; --devsite-ref-palette-tenant--cel-mauve400: #c3bbf2; --devsite-=
+ref-palette-tenant--cel-mauve50: #e8e6e6; --devsite-ref-palette-tenant--cel=
+-mauve500: #d1cbf5; --devsite-ref-palette-tenant--cel-mauve600: #674049; --=
+devsite-ref-palette-tenant--cel-mauve700: #59373f; --devsite-ref-palette-te=
+nant--cel-mauve800: #4d2f36; --devsite-ref-palette-tenant--chrome-blue: #00=
+6bee; --devsite-ref-palette-tenant--chrome-blue-light: #83bbff; --devsite-r=
+ef-palette-tenant--chrome-green: #4da949; --devsite-ref-palette-tenant--chr=
+ome-grey-light: #e1e9f6; --devsite-ref-palette-tenant--chrome-grey-medium: =
+#afb2b6; --devsite-ref-palette-tenant--chrome-lime-green: #16d867; --devsit=
+e-ref-palette-tenant--chrome-primary-dark: #70b1ff; --devsite-ref-palette-t=
+enant--chrome-red: #ea3323; --devsite-ref-palette-tenant--chrome-yellow: #f=
+5b840; --devsite-ref-palette-tenant--cloud-facebook: #3b5998; --devsite-ref=
+-palette-tenant--cloud-legacy-grey400: #afbec5; --devsite-ref-palette-tenan=
+t--cloud-linkedin: #007bb6; --devsite-ref-palette-tenant--cloud-orange-905:=
+ #b05a00; --devsite-ref-palette-tenant--cloud-sky: #0143a3; --devsite-ref-p=
+alette-tenant--cloud-twitter: #4099ff; --devsite-ref-palette-tenant--fireba=
+se-coral: #ff8a65; --devsite-ref-palette-tenant--firebase-grey: #e5eaf0; --=
+devsite-ref-palette-tenant--firebase-icy: #a8c7fa; --devsite-ref-palette-te=
+nant--firebase-lite-orange: #ffc4b1; --devsite-ref-palette-tenant--firebase=
+-navy600: #1b3a57; --devsite-ref-palette-tenant--firebase-navy700: #0c2d48;=
+ --devsite-ref-palette-tenant--firebase-navy900: #031525; --devsite-ref-pal=
+ette-tenant--firebase-orange: #f57c00; --devsite-ref-palette-tenant--fireba=
+se-primary30: #0842a0; --devsite-ref-palette-tenant--firebase-red600: #e036=
+00; --devsite-ref-palette-tenant--firebase-silver: #cecece; --devsite-ref-p=
+alette-tenant--firebase-vivid-orange200: #ff9200; --devsite-ref-palette-ten=
+ant--firebase-yellow-900: #d97917; --devsite-ref-palette-tenant--firebase-y=
+ellow400: #ffc400; --devsite-ref-palette-tenant--firebase-yellow500: #ffaf0=
+1; --devsite-ref-palette-tenant--fuchsia-black: #283238; --devsite-ref-pale=
+tte-tenant--fuchsia-green: #13b294; --devsite-ref-palette-tenant--fuchsia-t=
+eal: #e0f8f3; --devsite-ref-palette-tenant--home-blue200: #cae8ef; --devsit=
+e-ref-palette-tenant--home-blue50: #eaf6f9; --devsite-ref-palette-tenant--h=
+ome-blue500: #86c9ef; --devsite-ref-palette-tenant--home-blue700: #1d7db3; =
+--devsite-ref-palette-tenant--home-blue800: #00639b; --devsite-ref-palette-=
+tenant--home-blue900: #0c333c; --devsite-ref-palette-tenant--home-green200:=
+ #cfebda; --devsite-ref-palette-tenant--home-green50: #e2f1ea; --devsite-re=
+f-palette-tenant--home-green500: #60c0b2; --devsite-ref-palette-tenant--hom=
+e-green700: #3e766d; --devsite-ref-palette-tenant--home-green900: #1f302d; =
+--devsite-ref-palette-tenant--home-orange200: #ffecd8; --devsite-ref-palett=
+e-tenant--home-orange50: #fbefec; --devsite-ref-palette-tenant--home-orange=
+500: #ffcbaa; --devsite-ref-palette-tenant--home-orange700: #ff8569; --devs=
+ite-ref-palette-tenant--home-orange900: #301915; --devsite-ref-palette-tena=
+nt--home-purple200: #e4c9e0; --devsite-ref-palette-tenant--home-purple50: #=
+f9e9f6; --devsite-ref-palette-tenant--home-purple500: #c798d6; --devsite-re=
+f-palette-tenant--home-purple900: #3b2c41; --devsite-ref-palette-tenant--ho=
+me-yellow200: #ffedbd; --devsite-ref-palette-tenant--home-yellow50: #fffaf0=
+; --devsite-ref-palette-tenant--home-yellow500: #f2bd69; --devsite-ref-pale=
+tte-tenant--home-yellow700: #e59849; --devsite-ref-palette-tenant--home-yel=
+low900: #341811; --devsite-ref-palette-tenant--intrinsic-dark-purple: #5431=
+a8; --devsite-ref-palette-tenant--intrinsic-light-grey: #eee; --devsite-ref=
+-palette-tenant--intrinsic-light-purple: #a986fd; --devsite-ref-palette-ten=
+ant--intrinsic-purple: #7e4afc; --devsite-ref-palette-tenant--nest-blue200:=
+ #80d7ec; --devsite-ref-palette-tenant--nest-blue500: #00afd8; --devsite-re=
+f-palette-tenant--nest-blue800: #0096c8; --devsite-ref-palette-tenant--open=
+thread-blue200: #89a2bb; --devsite-ref-palette-tenant--openthread-blue400: =
+#36618b; --devsite-ref-palette-tenant--openthread-blue500: #134576; --devsi=
+te-ref-palette-tenant--openweave-blue: #04adc9; --devsite-ref-palette-tenan=
+t--openweave-blue400: #4fc6d9; --devsite-ref-palette-tenant--openweave-blue=
+800: #0293b5; --devsite-ref-palette-tenant--openweave-blue200: #82d6e4; --d=
+evsite-ref-palette-tenant--openxla-blue02: #6fb6e0; --devsite-ref-palette-t=
+enant--openxla-navy: #1a344c; --devsite-ref-palette-tenant--quantum-yellow2=
+00: #fff9e4; --devsite-ref-palette-tenant--quantum-yellow500: #fff2c8; --de=
+vsite-ref-palette-tenant--stadia-plum200: #cd80b1; --devsite-ref-palette-te=
+nant--stadia-plum300: #d04791; --devsite-ref-palette-tenant--stadia-plum500=
+: #9b0063; --devsite-ref-palette-tenant--stadia-plum700: #680039; --devsite=
+-ref-palette-tenant--tensorflow-amber200: #ffb780; --devsite-ref-palette-te=
+nant--tensorflow-amber500: #ff6f00; --devsite-ref-palette-tenant--tensorflo=
+w-gray-light: #e6e6e6; --devsite-ref-palette-tenant--tensorflow-slate: #425=
+066; --devsite-ref-palette-tenant--tensorflow-slate-dark: #293241; --devsit=
+e-ref-palette-tenant--tensorflow-slate-medium: #677282; --devsite-ref-palet=
+te-tenant--waymo-dark: #00b46e; --devsite-ref-palette-tenant--waymo-light: =
+#66ffce; --devsite-ref-palette-tenant--waymo-primary: #00e89d; --devsite-re=
+f-palette-tenant--webdev-primary: #3740ff; --devsite-ref-palette-tenant--we=
+bdev-primary-dark: #9ba0ff; --devsite-ref-palette-tenant--webdev-secondary:=
+ #e51661; --devsite-ref-palette-tenant--webdev-stroke: #d2d3d7; --devsite-r=
+ef-palette-tenant--webdev-tertiary: #6001ff; --devsite-ref-palette-tenant--=
+wing-dusk: #3c3c3c; --devsite-ref-palette-tenant--wing-yellow-accent: #fff5=
+62; --devsite-ref-palette-tenant--wing-yellow-dark-theme: #feeb9b; --devsit=
+e-ref-palette-tenant--youtube-red700: #c20000; --devsite-ref-palette-tenant=
+--chrome-primary: var(--devsite-ref-palette--blue600); --devsite-ref-palett=
+e-tenant--firebase-amber: var(--devsite-ref-palette-non-endorsed--amber-ora=
+nge); --devsite-ref-palette-tenant--firebase-vivid-orange100: var(--devsite=
+-ref-palette-non-endorsed--vivid-orange); --devsite-ref-palette-tenant--hom=
+e-purple700: var(--devsite-ref-palette-non-endorsed--dust-purple700); --dev=
+site-ref-palette-tenant--openthread-blue800: var(--devsite-ref-palette-non-=
+endorsed--darkblue800); --devsite-ref-palette-tenant--openxla-blue01: var(-=
+-devsite-ref-palette-non-endorsed--soft-blue); --devsite-ref-palette-tenant=
+--tensorflow-orange: var(--devsite-ref-palette-non-endorsed--vivid-orange);=
+ --devsite-ref-palette-tenant--tensorflow-slate-lightest: var(--devsite-ref=
+-palette-non-endorsed--slate-lite); --devsite-ref-palette-tenant--wing-dusk=
+-accent: var(--devsite-ref-palette-non-endorsed--dusk-grey); --devsite-ref-=
+palette-tenant--wing-yellow: var(--devsite-ref-palette-non-endorsed--bright=
+-yellow); --devsite-ref-palette-tenant--youtube-red200: var(--devsite-ref-p=
+alette-non-endorsed--light-red); --devsite-ref-palette-tenant--youtube-red5=
+00: var(--devsite-ref-palette-non-endorsed--bright-red); --devsite-ref-shap=
+e--radius-small: 4px; --devsite-ref-shape--radius-x-small: 1.5px; --devsite=
+-ref-typeface--accessibility: Poppins; --devsite-ref-typeface--bold: 700; -=
+-devsite-ref-typeface--brand-regular: "Google Sans",Roboto,Arial,sans-serif=
+; --devsite-ref-typeface--brand-text: "Google Sans Text",Roboto,Arial,sans-=
+serif; --devsite-ref-typeface--code: "Roboto Mono"; --devsite-ref-typeface-=
+-decoration-none: none; --devsite-ref-typeface--decoration-underline: under=
+line; --devsite-ref-typeface--italic: italic; --devsite-ref-typeface--lette=
+r-spacing-0: 0; --devsite-ref-typeface--letter-spacing-0-06: 0.06px; --devs=
+ite-ref-typeface--letter-spacing-0-1: 0.1px; --devsite-ref-typeface--letter=
+-spacing-0-15: 0.15px; --devsite-ref-typeface--letter-spacing-0-2: 0.2px; -=
+-devsite-ref-typeface--letter-spacing-0-25: 0.25px; --devsite-ref-typeface-=
+-letter-spacing-0-3: 0.3px; --devsite-ref-typeface--letter-spacing-0-4: 0.4=
+px; --devsite-ref-typeface--letter-spacing-0-5: 0.5px; --devsite-ref-typefa=
+ce--letter-spacing-1: 1px; --devsite-ref-typeface--letter-spacing-1-5: 1.5p=
+x; --devsite-ref-typeface--letter-spacing-neg-0-25: -0.25px; --devsite-ref-=
+typeface--letter-spacing-neg-0-5: -0.5px; --devsite-ref-typeface--light: 30=
+0; --devsite-ref-typeface--line-height-10: 10px; --devsite-ref-typeface--li=
+ne-height-14: 14px; --devsite-ref-typeface--line-height-16: 16px; --devsite=
+-ref-typeface--line-height-18: 18px; --devsite-ref-typeface--line-height-2:=
+ 200%; --devsite-ref-typeface--line-height-20: 20px; --devsite-ref-typeface=
+--line-height-22: 22px; --devsite-ref-typeface--line-height-23: 23px; --dev=
+site-ref-typeface--line-height-24: 24px; --devsite-ref-typeface--line-heigh=
+t-26: 26px; --devsite-ref-typeface--line-height-28: 28px; --devsite-ref-typ=
+eface--line-height-30: 30px; --devsite-ref-typeface--line-height-32: 32px; =
+--devsite-ref-typeface--line-height-34: 34px; --devsite-ref-typeface--line-=
+height-36: 36px; --devsite-ref-typeface--line-height-39: 39px; --devsite-re=
+f-typeface--line-height-40: 40px; --devsite-ref-typeface--line-height-42: 4=
+2px; --devsite-ref-typeface--line-height-46: 46px; --devsite-ref-typeface--=
+line-height-48: 48px; --devsite-ref-typeface--line-height-50: 50px; --devsi=
+te-ref-typeface--line-height-52: 52px; --devsite-ref-typeface--line-height-=
+56: 56px; --devsite-ref-typeface--line-height-57: 57px; --devsite-ref-typef=
+ace--line-height-62: 62px; --devsite-ref-typeface--line-height-64: 64px; --=
+devsite-ref-typeface--line-height-66: 66px; --devsite-ref-typeface--line-he=
+ight-68: 68px; --devsite-ref-typeface--line-height-72: 72px; --devsite-ref-=
+typeface--line-height-76: 76px; --devsite-ref-typeface--line-height-82: 82p=
+x; --devsite-ref-typeface--line-height-84: 84px; --devsite-ref-typeface--me=
+dium: 500; --devsite-ref-typeface--monospace: monospace; --devsite-ref-type=
+face--noto-naskh-arabic: "Noto Naskh Arabic"; --devsite-ref-typeface--noto-=
+sans: "Noto Sans"; --devsite-ref-typeface--noto-sans-jp: "Noto Sans JP"; --=
+devsite-ref-typeface--noto-sans-kr: "Noto Sans KR"; --devsite-ref-typeface-=
+-percentage-100: 100%; --devsite-ref-typeface--percentage-90: 90%; --devsit=
+e-ref-typeface--plain-regular: Roboto; --devsite-ref-typeface--regular: 400=
+; --devsite-ref-typeface--sans-serif: sans-serif; --devsite-ref-typeface--s=
+emibold: 600; --devsite-ref-typeface--size-10: 10px; --devsite-ref-typeface=
+--size-11: 11px; --devsite-ref-typeface--size-12: 12px; --devsite-ref-typef=
+ace--size-13: 13px; --devsite-ref-typeface--size-14: 14px; --devsite-ref-ty=
+peface--size-16: 16px; --devsite-ref-typeface--size-18: 18px; --devsite-ref=
+-typeface--size-20: 20px; --devsite-ref-typeface--size-22: 22px; --devsite-=
+ref-typeface--size-24: 24px; --devsite-ref-typeface--size-26: 26px; --devsi=
+te-ref-typeface--size-30: 30px; --devsite-ref-typeface--size-32: 32px; --de=
+vsite-ref-typeface--size-34: 34px; --devsite-ref-typeface--size-38: 38px; -=
+-devsite-ref-typeface--size-40: 40px; --devsite-ref-typeface--size-44: 44px=
+; --devsite-ref-typeface--size-48: 48px; --devsite-ref-typeface--size-50: 5=
+0px; --devsite-ref-typeface--size-56: 56px; --devsite-ref-typeface--size-58=
+: 58px; --devsite-ref-typeface--size-60: 60px; --devsite-ref-typeface--size=
+-62: 62px; --devsite-ref-typeface--size-64: 64px; --devsite-ref-typeface--t=
+ransform-capitalize: capitalize; --devsite-ref-typeface--transform-lowercas=
+e: lowercase; --devsite-ref-typeface--transform-none: none; --devsite-ref-t=
+ypeface--transform-uppercase: uppercase; --devsite-ref-typeface--very-light=
+: 200; --devsite-ref-typeface--vw-1-1: 1.1vw; --devsite-ref-typeface--vw-1-=
+2: 1.2vw; --devsite-ref-typeface--vw-1-9: 1.9vw; --devsite-ref-typeface--vw=
+-10: 10vw; --devsite-ref-typeface--vw-3-5: 3.5vw; --devsite-sys-color--on-p=
+rimary: #fff; --devsite-sys-color--primary: var(--devsite-ref-palette--blue=
+600); --devsite-sys-measurement--canvas-x-large: 168px; --devsite-sys-measu=
+rement--tenant-home-medium: 88px; --devsite-sys-measurement--canvas-large: =
+var(--devsite-ref-measurement--px-112); --devsite-sys-measurement--canvas-m=
+edium: var(--devsite-ref-measurement--px-56); --devsite-sys-measurement--ca=
+nvas-small: var(--devsite-ref-measurement--px-28); --devsite-sys-measuremen=
+t--canvas-tenant-home-medium-2: var(--devsite-ref-measurement--px-80); --de=
+vsite-sys-measurement--header-icon-tenant-home: var(--devsite-ref-measureme=
+nt--px-60); --devsite-sys-measurement--icon-large: var(--devsite-ref-measur=
+ement--px-72); --devsite-sys-measurement--icon-medium: var(--devsite-ref-me=
+asurement--px-36); --devsite-sys-measurement--icon-small: var(--devsite-ref=
+-measurement--px-18); --devsite-sys-measurement--icon-tenant-home-medium: v=
+ar(--devsite-ref-measurement--px-80); --devsite-sys-measurement--icon-x-lar=
+ge: var(--devsite-ref-measurement--px-108); --devsite-sys-measurement--tena=
+nt-android-large: var(--devsite-ref-measurement--px-80); --devsite-sys-meas=
+urement--tenant-android-medium: var(--devsite-ref-measurement--px-56); --de=
+vsite-sys-measurement--tenant-android-small: var(--devsite-ref-measurement-=
+-px-48); --devsite-sys-measurement--tenant-android-x-large: var(--devsite-r=
+ef-measurement--px-104); --devsite-sys-measurement--tenant-home-small: var(=
+--devsite-ref-measurement--px-64); --devsite-sys-measurement--tenant-home-x=
+-large: var(--devsite-ref-measurement--px-172); --devsite-sys-typeface--ten=
+ant-accessibility-large: var(--devsite-ref-typeface--size-18); --devsite-sy=
+s-typeface--tenant-accessibility-medium: var(--devsite-ref-typeface--size-1=
+6); --devsite-sys-typeface--tenant-accessibility-small: var(--devsite-ref-t=
+ypeface--size-14); --devsite-sys-typeface--body-primary--font-names: var(--=
+devsite-ref-typeface--plain-regular); --devsite-sys-typeface--body-primary-=
+-font-size: var(--devsite-ref-typeface--size-16); --devsite-sys-typeface--b=
+ody-primary--line-height: var(--devsite-ref-typeface--line-height-24); --de=
+vsite-sys-typeface--body-secondary--font-names: var(--devsite-ref-typeface-=
+-plain-regular); --devsite-sys-typeface--body-secondary--font-size: var(--d=
+evsite-ref-typeface--size-12); --devsite-sys-typeface--body-secondary--line=
+-height: var(--devsite-ref-typeface--line-height-20); --devsite-sys-typefac=
+e--body-tertiary--font-names: var(--devsite-ref-typeface--plain-regular); -=
+-devsite-sys-typeface--body-tertiary--font-size: var(--devsite-ref-typeface=
+--size-13); --devsite-sys-typeface--body-tertiary--font-weight: var(--devsi=
+te-ref-typeface--regular); --devsite-sys-typeface--body-tertiary--line-heig=
+ht: var(--devsite-ref-typeface--line-height-20); --devsite-sys-typescale--b=
+ody-l--font-names: var(--devsite-sys-typeface--body-primary--font-names); -=
+-devsite-sys-typescale--body-l--font-size: var(--devsite-sys-typeface--body=
+-primary--font-size); --devsite-sys-typescale--body-l--line-height: var(--d=
+evsite-sys-typeface--body-primary--line-height); --devsite-sys-typescale--b=
+ody-m--font-names: var(--devsite-ref-typeface--plain-regular); --devsite-sy=
+s-typescale--body-m--font-size: var(--devsite-ref-typeface--size-14); --dev=
+site-sys-typescale--body-m--font-tracking: var(--devsite-ref-typeface--lett=
+er-spacing-0-2); --devsite-sys-typescale--body-m--line-height: var(--devsit=
+e-ref-typeface--line-height-20); --devsite-sys-typescale--body-m-brand--fon=
+t-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-typescal=
+e--body-m-brand--font-size: var(--devsite-ref-typeface--size-14); --devsite=
+-sys-typescale--body-m-brand--line-height: var(--devsite-ref-typeface--line=
+-height-20); --devsite-sys-typescale--body-s--font-names: var(--devsite-sys=
+-typeface--body-secondary--font-names); --devsite-sys-typescale--body-s--fo=
+nt-size: var(--devsite-sys-typeface--body-secondary--font-size); --devsite-=
+sys-typescale--body-s--line-height: var(--devsite-sys-typeface--body-second=
+ary--line-height); --devsite-sys-typescale--button-brand--font-names: var(-=
+-devsite-ref-typeface--brand-regular); --devsite-sys-typescale--button-bran=
+d--font-size: var(--devsite-ref-typeface--size-14); --devsite-sys-typescale=
+--button-brand--font-weight: var(--devsite-ref-typeface--medium); --devsite=
+-sys-typescale--button-brand--line-height: var(--devsite-ref-typeface--line=
+-height-36); --devsite-sys-typescale--button-plain--font-names: var(--devsi=
+te-ref-typeface--plain-regular); --devsite-sys-typescale--button-plain--fon=
+t-size: var(--devsite-ref-typeface--size-14); --devsite-sys-typescale--butt=
+on-plain--font-weight: var(--devsite-ref-typeface--medium); --devsite-sys-t=
+ypescale--button-plain--line-height: var(--devsite-ref-typeface--line-heigh=
+t-36); --devsite-sys-typescale--caption--font-names: var(--devsite-ref-type=
+face--plain-regular); --devsite-sys-typescale--caption--font-size: var(--de=
+vsite-ref-typeface--size-12); --devsite-sys-typescale--caption--font-tracki=
+ng: var(--devsite-ref-typeface--letter-spacing-0-3); --devsite-sys-typescal=
+e--caption--line-height: var(--devsite-ref-typeface--line-height-16); --dev=
+site-sys-typescale--display-heading--font-names: var(--devsite-ref-typeface=
+--plain-regular); --devsite-sys-typescale--display-heading--font-size: var(=
+--devsite-ref-typeface--size-48); --devsite-sys-typescale--display-heading-=
+-font-weight: var(--devsite-ref-typeface--light); --devsite-sys-typescale--=
+display-heading--line-height: var(--devsite-ref-typeface--line-height-56); =
+--devsite-sys-typescale--h1--font-names: var(--devsite-ref-typeface--plain-=
+regular); --devsite-sys-typescale--h1--font-size: var(--devsite-ref-typefac=
+e--size-34); --devsite-sys-typescale--h1--font-weight: var(--devsite-ref-ty=
+peface--light); --devsite-sys-typescale--h1--line-height: var(--devsite-ref=
+-typeface--line-height-40); --devsite-sys-typescale--h2--font-names: var(--=
+devsite-ref-typeface--plain-regular); --devsite-sys-typescale--h2--font-siz=
+e: var(--devsite-ref-typeface--size-24); --devsite-sys-typescale--h2--font-=
+weight: var(--devsite-ref-typeface--light); --devsite-sys-typescale--h2--li=
+ne-height: var(--devsite-ref-typeface--line-height-32); --devsite-sys-types=
+cale--h3--font-names: var(--devsite-ref-typeface--plain-regular); --devsite=
+-sys-typescale--h3--font-size: var(--devsite-ref-typeface--size-20); --devs=
+ite-sys-typescale--h3--font-weight: var(--devsite-ref-typeface--regular); -=
+-devsite-sys-typescale--h3--line-height: var(--devsite-ref-typeface--line-h=
+eight-32); --devsite-sys-typescale--h4--font-names: var(--devsite-ref-typef=
+ace--plain-regular); --devsite-sys-typescale--h4--font-size: var(--devsite-=
+ref-typeface--size-16); --devsite-sys-typescale--h4--font-weight: var(--dev=
+site-ref-typeface--medium); --devsite-sys-typescale--h4--line-height: var(-=
+-devsite-ref-typeface--line-height-24); --devsite-sys-typescale--h5--font-n=
+ames: var(--devsite-ref-typeface--plain-regular); --devsite-sys-typescale--=
+h5--font-size: var(--devsite-ref-typeface--size-14); --devsite-sys-typescal=
+e--h5--font-weight: var(--devsite-ref-typeface--bold); --devsite-sys-typesc=
+ale--h5--line-height: var(--devsite-ref-typeface--line-height-24); --devsit=
+e-sys-typescale--h6--font-names: var(--devsite-ref-typeface--plain-regular)=
+; --devsite-sys-typescale--h6--font-size: var(--devsite-ref-typeface--size-=
+14); --devsite-sys-typescale--h6--font-weight: var(--devsite-ref-typeface--=
+medium); --devsite-sys-typescale--h6--line-height: var(--devsite-ref-typefa=
+ce--line-height-24); --devsite-sys-typescale--headline-1--font-names: var(-=
+-devsite-ref-typeface--brand-regular); --devsite-sys-typescale--headline-1-=
+-font-size: var(--devsite-ref-typeface--size-56); --devsite-sys-typescale--=
+headline-1--font-tracking: var(--devsite-ref-typeface--letter-spacing-neg-0=
+-5); --devsite-sys-typescale--headline-1--line-height: var(--devsite-ref-ty=
+peface--line-height-64); --devsite-sys-typescale--headline-2--font-names: v=
+ar(--devsite-ref-typeface--brand-regular); --devsite-sys-typescale--headlin=
+e-2--font-size: var(--devsite-ref-typeface--size-44); --devsite-sys-typesca=
+le--headline-2--font-weight: var(--devsite-ref-typeface--regular); --devsit=
+e-sys-typescale--headline-2--line-height: var(--devsite-ref-typeface--line-=
+height-52); --devsite-sys-typescale--headline-3--font-names: var(--devsite-=
+ref-typeface--brand-regular); --devsite-sys-typescale--headline-3--font-siz=
+e: var(--devsite-ref-typeface--size-32); --devsite-sys-typescale--headline-=
+3--font-weight: var(--devsite-ref-typeface--regular); --devsite-sys-typesca=
+le--headline-3--line-height: var(--devsite-ref-typeface--line-height-40); -=
+-devsite-sys-typescale--headline-4--font-names: var(--devsite-ref-typeface-=
+-brand-regular); --devsite-sys-typescale--headline-4--font-size: var(--devs=
+ite-ref-typeface--size-24); --devsite-sys-typescale--headline-4--font-weigh=
+t: var(--devsite-ref-typeface--regular); --devsite-sys-typescale--headline-=
+4--line-height: var(--devsite-ref-typeface--line-height-32); --devsite-sys-=
+typescale--input--font-names: var(--devsite-ref-typeface--plain-regular); -=
+-devsite-sys-typescale--input--font-size: var(--devsite-ref-typeface--size-=
+16); --devsite-sys-typescale--input--line-height: var(--devsite-ref-typefac=
+e--line-height-20); --devsite-sys-typescale--label-l--font-names: var(--dev=
+site-ref-typeface--plain-regular); --devsite-sys-typescale--label-l--font-s=
+ize: var(--devsite-ref-typeface--size-14); --devsite-sys-typescale--label-l=
+--line-height: var(--devsite-ref-typeface--line-height-16); --devsite-sys-t=
+ypescale--label-l-500--font-names: var(--devsite-ref-typeface--plain-regula=
+r); --devsite-sys-typescale--label-l-500--font-size: var(--devsite-ref-type=
+face--size-14); --devsite-sys-typescale--label-l-500--font-weight: var(--de=
+vsite-ref-typeface--medium); --devsite-sys-typescale--label-l-500--line-hei=
+ght: var(--devsite-ref-typeface--line-height-16); --devsite-sys-typescale--=
+label-m-500--font-names: var(--devsite-ref-typeface--plain-regular); --devs=
+ite-sys-typescale--label-m-500--font-size: var(--devsite-ref-typeface--size=
+-12); --devsite-sys-typescale--label-m-500--font-weight: var(--devsite-ref-=
+typeface--medium); --devsite-sys-typescale--label-m-500--line-height: var(-=
+-devsite-ref-typeface--line-height-22); --devsite-sys-typescale--label-m-70=
+0--font-names: var(--devsite-ref-typeface--plain-regular); --devsite-sys-ty=
+pescale--label-m-700--font-size: var(--devsite-ref-typeface--size-12); --de=
+vsite-sys-typescale--label-m-700--font-weight: var(--devsite-ref-typeface--=
+bold); --devsite-sys-typescale--label-m-700--line-height: var(--devsite-ref=
+-typeface--line-height-22); --devsite-sys-typescale--overline-m--font-names=
+: var(--devsite-ref-typeface--brand-regular); --devsite-sys-typescale--over=
+line-m--font-size: var(--devsite-ref-typeface--size-14); --devsite-sys-type=
+scale--overline-m--font-tracking: var(--devsite-ref-typeface--letter-spacin=
+g-1-5); --devsite-sys-typescale--overline-m--font-weight: var(--devsite-ref=
+-typeface--medium); --devsite-sys-typescale--overline-m--line-height: var(-=
+-devsite-ref-typeface--line-height-20); --devsite-sys-typescale--overline-m=
+--text-transform: uppercase; --devsite-sys-typescale--overline-s--font-name=
+s: var(--devsite-ref-typeface--plain-regular); --devsite-sys-typescale--ove=
+rline-s--font-size: var(--devsite-ref-typeface--size-11); --devsite-sys-typ=
+escale--overline-s--font-tracking: 0.05rem; --devsite-sys-typescale--overli=
+ne-s--font-weight: var(--devsite-ref-typeface--medium); --devsite-sys-types=
+cale--overline-s--line-height: var(--devsite-ref-typeface--line-height-16);=
+ --devsite-sys-typescale--overline-s--text-transform: uppercase; --devsite-=
+sys-typescale--subhead-l--font-names: var(--devsite-ref-typeface--brand-reg=
+ular); --devsite-sys-typescale--subhead-l--font-size: var(--devsite-ref-typ=
+eface--size-20); --devsite-sys-typescale--subhead-l--font-tracking: var(--d=
+evsite-ref-typeface--letter-spacing-0-25); --devsite-sys-typescale--subhead=
+-l--font-weight: var(--devsite-ref-typeface--regular); --devsite-sys-typesc=
+ale--subhead-l--line-height: var(--devsite-ref-typeface--line-height-32); -=
+-devsite-sys-typescale--subhead-m--font-names: var(--devsite-ref-typeface--=
+brand-regular); --devsite-sys-typescale--subhead-m--font-size: var(--devsit=
+e-ref-typeface--size-18); --devsite-sys-typescale--subhead-m--font-weight: =
+var(--devsite-ref-typeface--regular); --devsite-sys-typescale--subhead-m--l=
+ine-height: var(--devsite-ref-typeface--line-height-30); --devsite-sys-type=
+scale--tag--font-names: var(--devsite-ref-typeface--brand-regular); --devsi=
+te-sys-typescale--tag--font-size: var(--devsite-ref-typeface--size-12); --d=
+evsite-sys-typescale--tag--font-weight: var(--devsite-ref-typeface--medium)=
+; --devsite-sys-typescale--tag--line-height: var(--devsite-ref-typeface--li=
+ne-height-20); --devsite-sys-typescale--title-l--font-names: var(--devsite-=
+ref-typeface--plain-regular); --devsite-sys-typescale--title-l--font-size: =
+var(--devsite-ref-typeface--size-18); --devsite-sys-typescale--title-l--fon=
+t-weight: var(--devsite-ref-typeface--medium); --devsite-sys-typescale--tit=
+le-l--line-height: var(--devsite-ref-typeface--line-height-24); --devsite-s=
+ys-typescale--title-s--font-names: var(--devsite-ref-typeface--plain-regula=
+r); --devsite-sys-typescale--title-s--font-size: var(--devsite-ref-typeface=
+--size-14); --devsite-sys-typescale--title-s--font-weight: var(--devsite-re=
+f-typeface--medium); --devsite-sys-typescale--title-s--line-height: var(--d=
+evsite-ref-typeface--line-height-20); --devsite-sys-typescale--title-s-bran=
+d--font-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-ty=
+pescale--title-s-brand--font-size: var(--devsite-ref-typeface--size-14); --=
+devsite-sys-typescale--title-s-brand--font-weight: var(--devsite-ref-typefa=
+ce--medium); --devsite-sys-typescale--title-s-brand--line-height: var(--dev=
+site-ref-typeface--line-height-20); --devsite-sys-typescale--title-s-brandt=
+ext--font-names: var(--devsite-ref-typeface--brand-text); --devsite-sys-typ=
+escale--title-s-brandtext--font-size: var(--devsite-ref-typeface--size-14);=
+ --devsite-sys-typescale--title-s-brandtext--font-weight: var(--devsite-ref=
+-typeface--medium); --devsite-sys-typescale--title-s-brandtext--line-height=
+: var(--devsite-ref-typeface--line-height-18); --devsite-sys-typescale--tit=
+le-s-brandtext-700--font-names: var(--devsite-ref-typeface--brand-text); --=
+devsite-sys-typescale--title-s-brandtext-700--font-size: var(--devsite-ref-=
+typeface--size-14); --devsite-sys-typescale--title-s-brandtext-700--font-we=
+ight: var(--devsite-ref-typeface--bold); --devsite-sys-typescale--title-s-b=
+randtext-700--line-height: var(--devsite-ref-typeface--line-height-20); --d=
+evsite-sys-typescale-tenant--accessibility-body-s--font-names: var(--devsit=
+e-ref-typeface--accessibility); --devsite-sys-typescale-tenant--accessibili=
+ty-body-s--font-size: var(--devsite-ref-typeface--size-14); --devsite-sys-t=
+ypescale-tenant--accessibility-body-s--font-weight: var(--devsite-ref-typef=
+ace--regular); --devsite-sys-typescale-tenant--accessibility-body-s--line-h=
+eight: var(--devsite-ref-typeface--line-height-20); --devsite-sys-typescale=
+-tenant--accessibility-display-heading--font-names: var(--devsite-ref-typef=
+ace--accessibility); --devsite-sys-typescale-tenant--accessibility-display-=
+heading--font-size: var(--devsite-ref-typeface--size-64); --devsite-sys-typ=
+escale-tenant--accessibility-display-heading--font-weight: var(--devsite-re=
+f-typeface--bold); --devsite-sys-typescale-tenant--accessibility-display-he=
+ading--line-height: var(--devsite-ref-typeface--line-height-84); --devsite-=
+sys-typescale-tenant--accessibility-docs-headline-1--font-names: var(--devs=
+ite-ref-typeface--accessibility); --devsite-sys-typescale-tenant--accessibi=
+lity-docs-headline-1--font-size: var(--devsite-ref-typeface--size-40); --de=
+vsite-sys-typescale-tenant--accessibility-docs-headline-1--font-weight: var=
+(--devsite-ref-typeface--semibold); --devsite-sys-typescale-tenant--accessi=
+bility-docs-headline-1--line-height: var(--devsite-ref-typeface--line-heigh=
+t-48); --devsite-sys-typescale-tenant--accessibility-h1--font-names: var(--=
+devsite-ref-typeface--brand-regular); --devsite-sys-typescale-tenant--acces=
+sibility-h1--font-size: var(--devsite-ref-typeface--size-48); --devsite-sys=
+-typescale-tenant--accessibility-h1--font-weight: var(--devsite-ref-typefac=
+e--bold); --devsite-sys-typescale-tenant--accessibility-h1--line-height: va=
+r(--devsite-ref-typeface--line-height-68); --devsite-sys-typescale-tenant--=
+accessibility-h2--font-names: var(--devsite-ref-typeface--brand-regular); -=
+-devsite-sys-typescale-tenant--accessibility-h2--font-size: var(--devsite-r=
+ef-typeface--size-38); --devsite-sys-typescale-tenant--accessibility-h2--fo=
+nt-weight: var(--devsite-ref-typeface--bold); --devsite-sys-typescale-tenan=
+t--accessibility-h2--line-height: var(--devsite-ref-typeface--line-height-5=
+6); --devsite-sys-typescale-tenant--accessibility-h3--font-names: var(--dev=
+site-ref-typeface--brand-regular); --devsite-sys-typescale-tenant--accessib=
+ility-h3--font-size: var(--devsite-ref-typeface--size-30); --devsite-sys-ty=
+pescale-tenant--accessibility-h3--font-weight: var(--devsite-ref-typeface--=
+bold); --devsite-sys-typescale-tenant--accessibility-h3--line-height: var(-=
+-devsite-ref-typeface--line-height-32); --devsite-sys-typescale-tenant--acc=
+essibility-h4--font-names: var(--devsite-ref-typeface--accessibility); --de=
+vsite-sys-typescale-tenant--accessibility-h4--font-size: var(--devsite-ref-=
+typeface--size-24); --devsite-sys-typescale-tenant--accessibility-h4--font-=
+weight: var(--devsite-ref-typeface--bold); --devsite-sys-typescale-tenant--=
+accessibility-h4--line-height: var(--devsite-ref-typeface--line-height-32);=
+ --devsite-sys-typescale-tenant--accessibility-h5--font-names: var(--devsit=
+e-ref-typeface--accessibility); --devsite-sys-typescale-tenant--accessibili=
+ty-h5--font-size: var(--devsite-ref-typeface--size-16); --devsite-sys-types=
+cale-tenant--accessibility-h5--font-weight: var(--devsite-ref-typeface--bol=
+d); --devsite-sys-typescale-tenant--accessibility-h5--line-height: var(--de=
+vsite-ref-typeface--line-height-22); --devsite-sys-typescale-tenant--access=
+ibility-headline-1--font-names: var(--devsite-ref-typeface--accessibility);=
+ --devsite-sys-typescale-tenant--accessibility-headline-1--font-size: var(-=
+-devsite-ref-typeface--size-32); --devsite-sys-typescale-tenant--accessibil=
+ity-headline-1--font-weight: var(--devsite-ref-typeface--bold); --devsite-s=
+ys-typescale-tenant--accessibility-headline-1--line-height: var(--devsite-r=
+ef-typeface--line-height-40); --devsite-sys-typescale-tenant--accessibility=
+-headline-3--font-names: var(--devsite-ref-typeface--accessibility); --devs=
+ite-sys-typescale-tenant--accessibility-headline-3--font-size: var(--devsit=
+e-ref-typeface--size-32); --devsite-sys-typescale-tenant--accessibility-hea=
+dline-3--font-weight: var(--devsite-ref-typeface--semibold); --devsite-sys-=
+typescale-tenant--accessibility-headline-3--line-height: var(--devsite-ref-=
+typeface--line-height-40); --devsite-sys-typescale-tenant--accessibility-ti=
+tle-s--font-names: var(--devsite-ref-typeface--accessibility); --devsite-sy=
+s-typescale-tenant--accessibility-title-s--font-size: var(--devsite-ref-typ=
+eface--size-14); --devsite-sys-typescale-tenant--accessibility-title-s--fon=
+t-weight: var(--devsite-ref-typeface--medium); --devsite-sys-typescale-tena=
+nt--accessibility-title-s--line-height: var(--devsite-ref-typeface--line-he=
+ight-20); --devsite-sys-typescale-tenant--android-body-m--font-names: var(-=
+-devsite-ref-typeface--brand-regular); --devsite-sys-typescale-tenant--andr=
+oid-body-m--font-size: var(--devsite-ref-typeface--size-16); --devsite-sys-=
+typescale-tenant--android-body-m--font-weight: var(--devsite-ref-typeface--=
+regular); --devsite-sys-typescale-tenant--android-body-m--line-height: var(=
+--devsite-ref-typeface--line-height-24); --devsite-sys-typescale-tenant--an=
+droid-body-s--font-names: var(--devsite-ref-typeface--brand-text); --devsit=
+e-sys-typescale-tenant--android-body-s--font-size: var(--devsite-ref-typefa=
+ce--size-14); --devsite-sys-typescale-tenant--android-body-s--font-weight: =
+var(--devsite-ref-typeface--regular); --devsite-sys-typescale-tenant--andro=
+id-body-s--line-height: var(--devsite-ref-typeface--line-height-20); --devs=
+ite-sys-typescale-tenant--android-button--font-names: var(--devsite-ref-typ=
+eface--brand-regular); --devsite-sys-typescale-tenant--android-button--font=
+-size: var(--devsite-ref-typeface--size-16); --devsite-sys-typescale-tenant=
+--android-button--font-weight: var(--devsite-ref-typeface--medium); --devsi=
+te-sys-typescale-tenant--android-button--line-height: var(--devsite-ref-typ=
+eface--line-height-48); --devsite-sys-typescale-tenant--android-detail--fon=
+t-names: var(--devsite-ref-typeface--brand-text); --devsite-sys-typescale-t=
+enant--android-detail--font-size: var(--devsite-ref-typeface--size-16); --d=
+evsite-sys-typescale-tenant--android-detail--font-weight: var(--devsite-ref=
+-typeface--medium); --devsite-sys-typescale-tenant--android-detail--line-he=
+ight: var(--devsite-ref-typeface--line-height-24); --devsite-sys-typescale-=
+tenant--android-docs-headline-1--font-names: var(--devsite-ref-typeface--br=
+and-regular); --devsite-sys-typescale-tenant--android-docs-headline-1--font=
+-size: var(--devsite-ref-typeface--size-40); --devsite-sys-typescale-tenant=
+--android-docs-headline-1--font-tracking: var(--devsite-ref-typeface--lette=
+r-spacing-neg-0-5); --devsite-sys-typescale-tenant--android-docs-headline-1=
+--font-weight: var(--devsite-ref-typeface--semibold); --devsite-sys-typesca=
+le-tenant--android-docs-headline-1--line-height: var(--devsite-ref-typeface=
+--line-height-48); --devsite-sys-typescale-tenant--android-docs-headline-2-=
+-font-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-type=
+scale-tenant--android-docs-headline-2--font-size: var(--devsite-ref-typefac=
+e--size-24); --devsite-sys-typescale-tenant--android-docs-headline-2--font-=
+tracking: var(--devsite-ref-typeface--letter-spacing-0); --devsite-sys-type=
+scale-tenant--android-docs-headline-2--font-weight: var(--devsite-ref-typef=
+ace--semibold); --devsite-sys-typescale-tenant--android-docs-headline-2--li=
+ne-height: var(--devsite-ref-typeface--line-height-32); --devsite-sys-types=
+cale-tenant--android-docs-headline-3--font-names: var(--devsite-ref-typefac=
+e--brand-regular); --devsite-sys-typescale-tenant--android-docs-headline-3-=
+-font-size: var(--devsite-ref-typeface--size-20); --devsite-sys-typescale-t=
+enant--android-docs-headline-3--font-tracking: var(--devsite-ref-typeface--=
+letter-spacing-0); --devsite-sys-typescale-tenant--android-docs-headline-3-=
+-font-weight: var(--devsite-ref-typeface--medium); --devsite-sys-typescale-=
+tenant--android-docs-headline-3--line-height: var(--devsite-ref-typeface--l=
+ine-height-28); --devsite-sys-typescale-tenant--android-docs-headline-4--fo=
+nt-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-typesca=
+le-tenant--android-docs-headline-4--font-size: var(--devsite-ref-typeface--=
+size-18); --devsite-sys-typescale-tenant--android-docs-headline-4--font-wei=
+ght: var(--devsite-ref-typeface--medium); --devsite-sys-typescale-tenant--a=
+ndroid-docs-headline-4--line-height: var(--devsite-ref-typeface--line-heigh=
+t-28); --devsite-sys-typescale-tenant--android-docs-headline-5--font-names:=
+ var(--devsite-ref-typeface--brand-text); --devsite-sys-typescale-tenant--a=
+ndroid-docs-headline-5--font-size: var(--devsite-ref-typeface--size-16); --=
+devsite-sys-typescale-tenant--android-docs-headline-5--font-weight: var(--d=
+evsite-ref-typeface--bold); --devsite-sys-typescale-tenant--android-docs-he=
+adline-5--line-height: var(--devsite-ref-typeface--line-height-24); --devsi=
+te-sys-typescale-tenant--android-docs-headline-6--font-names: var(--devsite=
+-ref-typeface--brand-text); --devsite-sys-typescale-tenant--android-docs-he=
+adline-6--font-size: var(--devsite-ref-typeface--size-22); --devsite-sys-ty=
+pescale-tenant--android-docs-headline-6--font-weight: var(--devsite-ref-typ=
+eface--regular); --devsite-sys-typescale-tenant--android-docs-headline-6--l=
+ine-height: var(--devsite-ref-typeface--line-height-28); --devsite-sys-type=
+scale-tenant--android-docs-headline-7--font-names: var(--devsite-ref-typefa=
+ce--brand-text); --devsite-sys-typescale-tenant--android-docs-headline-7--f=
+ont-size: var(--devsite-ref-typeface--size-16); --devsite-sys-typescale-ten=
+ant--android-docs-headline-7--font-weight: var(--devsite-ref-typeface--regu=
+lar); --devsite-sys-typescale-tenant--android-docs-headline-7--line-height:=
+ var(--devsite-ref-typeface--line-height-28); --devsite-sys-typescale-tenan=
+t--android-headline-1--font-names: var(--devsite-ref-typeface--brand-regula=
+r); --devsite-sys-typescale-tenant--android-headline-1--font-size: var(--de=
+vsite-ref-typeface--size-64); --devsite-sys-typescale-tenant--android-headl=
+ine-1--font-tracking: var(--devsite-ref-typeface--letter-spacing-neg-0-5); =
+--devsite-sys-typescale-tenant--android-headline-1--font-weight: var(--devs=
+ite-ref-typeface--bold); --devsite-sys-typescale-tenant--android-headline-1=
+--line-height: var(--devsite-ref-typeface--line-height-72); --devsite-sys-t=
+ypescale-tenant--android-headline-2--font-names: var(--devsite-ref-typeface=
+--brand-regular); --devsite-sys-typescale-tenant--android-headline-2--font-=
+size: var(--devsite-ref-typeface--size-48); --devsite-sys-typescale-tenant-=
+-android-headline-2--font-tracking: var(--devsite-ref-typeface--letter-spac=
+ing-neg-0-5); --devsite-sys-typescale-tenant--android-headline-2--font-weig=
+ht: var(--devsite-ref-typeface--semibold); --devsite-sys-typescale-tenant--=
+android-headline-2--line-height: var(--devsite-ref-typeface--line-height-56=
+); --devsite-sys-typescale-tenant--android-headline-4--font-names: var(--de=
+vsite-ref-typeface--brand-regular); --devsite-sys-typescale-tenant--android=
+-headline-4--font-size: var(--devsite-ref-typeface--size-32); --devsite-sys=
+-typescale-tenant--android-headline-4--font-tracking: var(--devsite-ref-typ=
+eface--letter-spacing-neg-0-25); --devsite-sys-typescale-tenant--android-he=
+adline-4--font-weight: var(--devsite-ref-typeface--semibold); --devsite-sys=
+-typescale-tenant--android-headline-4--line-height: var(--devsite-ref-typef=
+ace--line-height-40); --devsite-sys-typescale-tenant--android-headline-5--f=
+ont-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-typesc=
+ale-tenant--android-headline-5--font-size: var(--devsite-ref-typeface--size=
+-24); --devsite-sys-typescale-tenant--android-headline-5--font-weight: var(=
+--devsite-ref-typeface--medium); --devsite-sys-typescale-tenant--android-he=
+adline-5--line-height: var(--devsite-ref-typeface--line-height-32); --devsi=
+te-sys-typescale-tenant--android-headline-6--font-names: var(--devsite-ref-=
+typeface--brand-regular); --devsite-sys-typescale-tenant--android-headline-=
+6--font-size: var(--devsite-ref-typeface--size-22); --devsite-sys-typescale=
+-tenant--android-headline-6--font-weight: var(--devsite-ref-typeface--mediu=
+m); --devsite-sys-typescale-tenant--android-headline-6--line-height: var(--=
+devsite-ref-typeface--line-height-28); --devsite-sys-typescale-tenant--andr=
+oid-overline--font-names: var(--devsite-ref-typeface--brand-regular); --dev=
+site-sys-typescale-tenant--android-overline--font-size: var(--devsite-ref-t=
+ypeface--size-14); --devsite-sys-typescale-tenant--android-overline--font-t=
+racking: var(--devsite-ref-typeface--letter-spacing-1-5); --devsite-sys-typ=
+escale-tenant--android-overline--font-weight: var(--devsite-ref-typeface--m=
+edium); --devsite-sys-typescale-tenant--android-overline--line-height: var(=
+--devsite-ref-typeface--line-height-20); --devsite-sys-typescale-tenant--an=
+droid-overline-s--font-names: var(--devsite-ref-typeface--plain-regular); -=
+-devsite-sys-typescale-tenant--android-overline-s--font-size: var(--devsite=
+-ref-typeface--size-11); --devsite-sys-typescale-tenant--android-overline-s=
+--font-weight: var(--devsite-ref-typeface--bold); --devsite-sys-typescale-t=
+enant--android-overline-s--line-height: var(--devsite-ref-typeface--line-he=
+ight-20); --devsite-sys-typescale-tenant--android-title-l--font-names: var(=
+--devsite-ref-typeface--brand-regular); --devsite-sys-typescale-tenant--and=
+roid-title-l--font-size: var(--devsite-ref-typeface--size-22); --devsite-sy=
+s-typescale-tenant--android-title-l--font-weight: var(--devsite-ref-typefac=
+e--medium); --devsite-sys-typescale-tenant--android-title-l--line-height: v=
+ar(--devsite-ref-typeface--line-height-28); --devsite-sys-typescale-tenant-=
+-android-title-m--font-names: var(--devsite-ref-typeface--brand-regular); -=
+-devsite-sys-typescale-tenant--android-title-m--font-size: var(--devsite-re=
+f-typeface--size-16); --devsite-sys-typescale-tenant--android-title-m--font=
+-weight: var(--devsite-ref-typeface--medium); --devsite-sys-typescale-tenan=
+t--android-title-m--line-height: var(--devsite-ref-typeface--line-height-24=
+); --devsite-sys-typescale-tenant--android-title-s-400--font-names: var(--d=
+evsite-ref-typeface--brand-text); --devsite-sys-typescale-tenant--android-t=
+itle-s-400--font-size: var(--devsite-ref-typeface--size-20); --devsite-sys-=
+typescale-tenant--android-title-s-400--font-tracking: var(--devsite-ref-typ=
+eface--letter-spacing-0-25); --devsite-sys-typescale-tenant--android-title-=
+s-400--font-weight: var(--devsite-ref-typeface--regular); --devsite-sys-typ=
+escale-tenant--android-title-s-400--line-height: var(--devsite-ref-typeface=
+--line-height-32); --devsite-sys-typescale-tenant--android-title-s-500--fon=
+t-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-typescal=
+e-tenant--android-title-s-500--font-size: var(--devsite-ref-typeface--size-=
+16); --devsite-sys-typescale-tenant--android-title-s-500--font-weight: var(=
+--devsite-ref-typeface--medium); --devsite-sys-typescale-tenant--android-ti=
+tle-s-500--line-height: var(--devsite-ref-typeface--line-height-24); --devs=
+ite-sys-typescale-tenant--android-title-s-600--font-names: var(--devsite-re=
+f-typeface--brand-regular); --devsite-sys-typescale-tenant--android-title-s=
+-600--font-size: var(--devsite-ref-typeface--size-16); --devsite-sys-typesc=
+ale-tenant--android-title-s-600--font-weight: var(--devsite-ref-typeface--s=
+emibold); --devsite-sys-typescale-tenant--android-title-s-600--line-height:=
+ var(--devsite-ref-typeface--line-height-20); --devsite-sys-typescale-tenan=
+t--cloud-body-m--font-names: var(--devsite-ref-typeface--brand-regular); --=
+devsite-sys-typescale-tenant--cloud-body-m--font-size: var(--devsite-ref-ty=
+peface--size-14); --devsite-sys-typescale-tenant--cloud-body-m--font-weight=
+: var(--devsite-ref-typeface--regular); --devsite-sys-typescale-tenant--clo=
+ud-body-m--line-height: var(--devsite-ref-typeface--line-height-22); --devs=
+ite-sys-typescale-tenant--cloud-body-xs--font-names: var(--devsite-ref-type=
+face--brand-regular); --devsite-sys-typescale-tenant--cloud-body-xs--font-s=
+ize: var(--devsite-ref-typeface--size-11); --devsite-sys-typescale-tenant--=
+cloud-body-xs--font-weight: var(--devsite-ref-typeface--regular); --devsite=
+-sys-typescale-tenant--cloud-body-xs--line-height: var(--devsite-ref-typefa=
+ce--line-height-14); --devsite-sys-typescale-tenant--cloud-title-m--font-na=
+mes: var(--devsite-ref-typeface--brand-regular); --devsite-sys-typescale-te=
+nant--cloud-title-m--font-size: var(--devsite-ref-typeface--size-16); --dev=
+site-sys-typescale-tenant--cloud-title-m--font-weight: var(--devsite-ref-ty=
+peface--regular); --devsite-sys-typescale-tenant--cloud-title-m--line-heigh=
+t: var(--devsite-ref-typeface--line-height-30); --devsite-sys-typescale-ten=
+ant--code-s--font-names: var(--devsite-ref-typeface--code); --devsite-sys-t=
+ypescale-tenant--code-s--font-size: var(--devsite-ref-typeface--size-13); -=
+-devsite-sys-typescale-tenant--code-s--font-weight: var(--devsite-ref-typef=
+ace--regular); --devsite-sys-typescale-tenant--code-s--line-height: var(--d=
+evsite-ref-typeface--line-height-16); --devsite-sys-typescale-tenant--fuchs=
+ia-h1--font-names: var(--devsite-ref-typeface--plain-regular); --devsite-sy=
+s-typescale-tenant--fuchsia-h1--font-size: var(--devsite-ref-typeface--size=
+-34); --devsite-sys-typescale-tenant--fuchsia-h1--font-weight: var(--devsit=
+e-ref-typeface--regular); --devsite-sys-typescale-tenant--fuchsia-h1--line-=
+height: var(--devsite-ref-typeface--line-height-40); --devsite-sys-typescal=
+e-tenant--home-display-heading--font-names: var(--devsite-ref-typeface--bra=
+nd-regular); --devsite-sys-typescale-tenant--home-display-heading--font-siz=
+e: var(--devsite-ref-typeface--size-64); --devsite-sys-typescale-tenant--ho=
+me-display-heading--font-weight: var(--devsite-ref-typeface--regular); --de=
+vsite-sys-typescale-tenant--home-display-heading--line-height: var(--devsit=
+e-ref-typeface--line-height-76); --devsite-sys-typescale-tenant--home-headl=
+ine-2--font-names: var(--devsite-ref-typeface--brand-regular); --devsite-sy=
+s-typescale-tenant--home-headline-2--font-size: var(--devsite-ref-typeface-=
+-size-40); --devsite-sys-typescale-tenant--home-headline-2--font-weight: va=
+r(--devsite-ref-typeface--bold); --devsite-sys-typescale-tenant--home-headl=
+ine-2--line-height: var(--devsite-ref-typeface--line-height-48); --devsite-=
+sys-typescale-tenant--home-headline-3--font-names: var(--devsite-ref-typefa=
+ce--brand-regular); --devsite-sys-typescale-tenant--home-headline-3--font-s=
+ize: var(--devsite-ref-typeface--size-32); --devsite-sys-typescale-tenant--=
+home-headline-3--font-weight: var(--devsite-ref-typeface--medium); --devsit=
+e-sys-typescale-tenant--home-headline-3--line-height: var(--devsite-ref-typ=
+eface--line-height-40); --devsite-sys-typescale-tenant--home-headline-3-700=
+--font-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-typ=
+escale-tenant--home-headline-3-700--font-size: var(--devsite-ref-typeface--=
+size-32); --devsite-sys-typescale-tenant--home-headline-3-700--font-weight:=
+ var(--devsite-ref-typeface--bold); --devsite-sys-typescale-tenant--home-he=
+adline-3-700--line-height: var(--devsite-ref-typeface--line-height-40); --d=
+evsite-sys-typescale-tenant--home-headline-4--font-names: var(--devsite-ref=
+-typeface--brand-regular); --devsite-sys-typescale-tenant--home-headline-4-=
+-font-size: var(--devsite-ref-typeface--size-24); --devsite-sys-typescale-t=
+enant--home-headline-4--font-weight: var(--devsite-ref-typeface--bold); --d=
+evsite-sys-typescale-tenant--home-headline-4--line-height: var(--devsite-re=
+f-typeface--line-height-32); --devsite-sys-typescale-tenant--home-headline-=
+6--font-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-ty=
+pescale-tenant--home-headline-6--font-size: var(--devsite-ref-typeface--siz=
+e-18); --devsite-sys-typescale-tenant--home-headline-6--font-weight: var(--=
+devsite-ref-typeface--bold); --devsite-sys-typescale-tenant--home-headline-=
+6--line-height: var(--devsite-ref-typeface--line-height-24); --devsite-sys-=
+typescale-tenant--non-endorsed-body-m--font-names: var(--devsite-ref-typefa=
+ce--plain-regular); --devsite-sys-typescale-tenant--non-endorsed-body-m--fo=
+nt-size: var(--devsite-ref-typeface--size-14); --devsite-sys-typescale-tena=
+nt--non-endorsed-body-m--font-weight: var(--devsite-ref-typeface--regular);=
+ --devsite-sys-typescale-tenant--non-endorsed-body-m--line-height: var(--de=
+vsite-ref-typeface--line-height-24); --devsite-sys-typescale-tenant--non-en=
+dorsed-h2--font-names: var(--devsite-ref-typeface--plain-regular); --devsit=
+e-sys-typescale-tenant--non-endorsed-h2--font-size: var(--devsite-ref-typef=
+ace--size-24); --devsite-sys-typescale-tenant--non-endorsed-h2--font-weight=
+: var(--devsite-ref-typeface--regular); --devsite-sys-typescale-tenant--non=
+-endorsed-h2--line-height: var(--devsite-ref-typeface--line-height-32); --d=
+evsite-sys-typescale-tenant--non-endorsed-h3--font-names: var(--devsite-ref=
+-typeface--brand-regular); --devsite-sys-typescale-tenant--non-endorsed-h3-=
+-font-size: var(--devsite-ref-typeface--size-22); --devsite-sys-typescale-t=
+enant--non-endorsed-h3--line-height: var(--devsite-ref-typeface--line-heigh=
+t-32); --devsite-sys-typescale-tenant--non-endorsed-h4--font-names: var(--d=
+evsite-ref-typeface--plain-regular); --devsite-sys-typescale-tenant--non-en=
+dorsed-h4--font-size: var(--devsite-ref-typeface--size-16); --devsite-sys-t=
+ypescale-tenant--non-endorsed-h4--font-weight: var(--devsite-ref-typeface--=
+medium); --devsite-sys-typescale-tenant--non-endorsed-h4--line-height: var(=
+--devsite-ref-typeface--line-height-22); --devsite-sys-typescale-tenant--no=
+n-endorsed-h6--font-names: var(--devsite-ref-typeface--brand-regular); --de=
+vsite-sys-typescale-tenant--non-endorsed-h6--font-size: var(--devsite-ref-t=
+ypeface--size-14); --devsite-sys-typescale-tenant--non-endorsed-h6--line-he=
+ight: var(--devsite-ref-typeface--line-height-24); --devsite-sys-typescale-=
+tenant--non-endorsed-headline-5-5--font-names: var(--devsite-ref-typeface--=
+brand-regular); --devsite-sys-typescale-tenant--non-endorsed-headline-5-5--=
+font-size: var(--devsite-ref-typeface--size-20); --devsite-sys-typescale-te=
+nant--non-endorsed-headline-5-5--font-weight: var(--devsite-ref-typeface--r=
+egular); --devsite-sys-typescale-tenant--non-endorsed-headline-5-5--line-he=
+ight: var(--devsite-ref-typeface--line-height-28); }
+
+:root .color-scheme--dark { --devsite-sys-color--on-primary: var(--devsite-=
+ref-palette--grey900); --devsite-sys-color--primary: var(--devsite-ref-pale=
+tte--blue300); }
+
+:root .tenant--accessibility { --devsite-sys-color--primary: var(--devsite-=
+ref-palette--purple50); }
+
+:root .color-scheme--dark.tenant--accessibility { --devsite-sys-color--prim=
+ary: var(--devsite-ref-palette--grey900); }
+
+:root .viewport--mobile { --devsite-sys-typescale--h1--font-names: var(--de=
+vsite-ref-typeface--plain-regular); --devsite-sys-typescale--h1--font-size:=
+ var(--devsite-ref-typeface--size-24); --devsite-sys-typescale--h1--font-we=
+ight: var(--devsite-ref-typeface--light); --devsite-sys-typescale--h1--line=
+-height: var(--devsite-ref-typeface--line-height-32); --devsite-sys-typesca=
+le--headline-3--font-names: var(--devsite-ref-typeface--brand-regular); --d=
+evsite-sys-typescale--headline-3--font-size: var(--devsite-ref-typeface--si=
+ze-20); --devsite-sys-typescale--headline-3--font-weight: var(--devsite-ref=
+-typeface--regular); --devsite-sys-typescale--headline-3--line-height: var(=
+--devsite-ref-typeface--line-height-28); --devsite-sys-typescale--headline-=
+4--font-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-ty=
+pescale--headline-4--font-size: var(--devsite-ref-typeface--size-16); --dev=
+site-sys-typescale--headline-4--font-weight: var(--devsite-ref-typeface--re=
+gular); --devsite-sys-typescale--headline-4--line-height: var(--devsite-ref=
+-typeface--line-height-26); }
+
+:root .viewport--mobile { --devsite-sys-typescale-tenant--android-detail--f=
+ont-names: var(--devsite-ref-typeface--brand-text); --devsite-sys-typescale=
+-tenant--android-detail--font-size: var(--devsite-ref-typeface--size-14); -=
+-devsite-sys-typescale-tenant--android-detail--font-weight: var(--devsite-r=
+ef-typeface--medium); --devsite-sys-typescale-tenant--android-detail--line-=
+height: var(--devsite-ref-typeface--line-height-16); --devsite-sys-typescal=
+e-tenant--android-title-s-400--font-names: var(--devsite-ref-typeface--bran=
+d-text); --devsite-sys-typescale-tenant--android-title-s-400--font-size: va=
+r(--devsite-ref-typeface--size-16); --devsite-sys-typescale-tenant--android=
+-title-s-400--font-tracking: var(--devsite-ref-typeface--letter-spacing-0-2=
+5); --devsite-sys-typescale-tenant--android-title-s-400--font-weight: var(-=
+-devsite-ref-typeface--regular); --devsite-sys-typescale-tenant--android-ti=
+tle-s-400--line-height: var(--devsite-ref-typeface--line-height-24); }
+
+:root .viewport--tablet { --devsite-sys-typescale-tenant--android-headline-=
+1--font-names: var(--devsite-ref-typeface--brand-regular); --devsite-sys-ty=
+pescale-tenant--android-headline-1--font-size: var(--devsite-ref-typeface--=
+size-48); --devsite-sys-typescale-tenant--android-headline-1--font-tracking=
+: var(--devsite-ref-typeface--letter-spacing-neg-0-5); --devsite-sys-typesc=
+ale-tenant--android-headline-1--font-weight: var(--devsite-ref-typeface--bo=
+ld); --devsite-sys-typescale-tenant--android-headline-1--line-height: var(-=
+-devsite-ref-typeface--line-height-56); }
 
 [theme=3D"web-theme"] { --devsite-primary-color: #3740ff; --devsite-seconda=
 ry-color: #e51661; }
@@ -3145,39 +4058,26 @@ r-archived-color: #a50e0e; --devsite-banner-confidential-background: #feefe=
 d-background: #fef7e0; --devsite-banner-deprecated-color: #a50e0e; --devsit=
 e-button-primary-background: #1a73e8; --devsite-button-primary-background-h=
 over: #1765cc; --devsite-button-primary-background-active: #185abc; --devsi=
-te-button-primary-color: #fff; --devsite-caution-notice-background: #feefe3=
-; --devsite-caution-notice-border-color: transparent; --devsite-caution-not=
-ice-color: #b31412; --devsite-key-point-notice-background: #e8eaf6; --devsi=
-te-key-point-notice-border-color: transparent; --devsite-key-point-notice-c=
-olor: #3f51b5; --devsite-key-term-notice-background: #f3e8fd; --devsite-key=
--term-notice-border-color: transparent; --devsite-key-term-notice-color: #9=
-334e6; --devsite-note-notice-background: #e8f0fe; --devsite-note-notice-bor=
-der-color: transparent; --devsite-note-notice-color: #303f9f; --devsite-sta=
-tus-notice-background: #f1f3f4; --devsite-status-notice-border-color: trans=
-parent; --devsite-status-notice-color: #546e7a; --devsite-success-notice-ba=
-ckground: #e0f2f1; --devsite-success-notice-border-color: transparent; --de=
-vsite-success-notice-color: #00796b; --devsite-warning-notice-background: #=
-fce8e6; --devsite-warning-notice-border-color: transparent; --devsite-warni=
-ng-notice-color: #a50e0e; --devsite-notice-margin: 16px 0; --devsite-notice=
--padding-block: 15px; --devsite-notice-padding-inline: 60px 24px; --devsite=
--book-nav-background: var(--devsite-background-1); --devsite-concierge-top:=
- 48px; --devsite-concierge-width-closed: 54px; --devsite-concierge-width-op=
-en: 387px; --devsite-concierge-width: 0px; --devsite-card-background: var(-=
--devsite-background-1); --devsite-card-header-background: var(--devsite-bac=
-kground-3); --devsite-checkbox-border-radius: 2px; --devsite-checkbox-icon-=
-canvas-border-radius: 50%; --devsite-checkbox-icon-canvas-offset-x: -9px; -=
--devsite-checkbox-icon-canvas-offset-y: -9px; --devsite-checkbox-icon-canva=
-s-size: 36px; --devsite-checkbox-margin-block: -2px 2px; --devsite-checkbox=
--margin-inline: 0 8px; --devsite-checkbox-offset-x: 3px; --devsite-checkbox=
--offset-y: -3px; --devsite-checkbox-size: 18px; --devsite-feature-tooltip-b=
-ackground-color: #1a73e8; --devsite-feature-tooltip-offset-y: 3px; --devsit=
-e-input-background: var(--devsite-background-1); --devsite-input-border: va=
-r(--devsite-secondary-border); --devsite-landing-row-item-gap: 24px; --devs=
-ite-mdc-line-height: 56px; --devsite-scrollbar-thumb-background: hsla(207,5=
-%,52%,.26); --devsite-select-background-image: url('data:image/svg+xml;utf8=
-,<svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" height=3D"4" viewBo=
-x=3D"0 0 20 4"><path d=3D"M0,0l4,4l4-4H0z" fill=3D"%23202124"/></svg>'); --=
-devsite-select-border-radius: 2px; }
+te-button-primary-color: #fff; --devsite-notice-margin: 16px 0; --devsite-n=
+otice-padding-block: 15px; --devsite-notice-padding-inline: 60px 24px; --de=
+vsite-book-nav-background: var(--devsite-background-1); --devsite-concierge=
+-top: 48px; --devsite-concierge-width-closed: 54px; --devsite-concierge-wid=
+th-open: 387px; --devsite-concierge-width: 0px; --devsite-card-background: =
+var(--devsite-background-1); --devsite-card-header-background: var(--devsit=
+e-background-3); --devsite-checkbox-border-radius: 2px; --devsite-checkbox-=
+icon-canvas-border-radius: 50%; --devsite-checkbox-icon-canvas-offset-x: -9=
+px; --devsite-checkbox-icon-canvas-offset-y: -9px; --devsite-checkbox-icon-=
+canvas-size: 36px; --devsite-checkbox-margin-block: -2px 2px; --devsite-che=
+ckbox-margin-inline: 0 8px; --devsite-checkbox-offset-x: 3px; --devsite-che=
+ckbox-offset-y: -3px; --devsite-checkbox-size: 18px; --devsite-feature-tool=
+tip-background-color: #1a73e8; --devsite-feature-tooltip-offset-y: 3px; --d=
+evsite-input-background: var(--devsite-background-1); --devsite-input-borde=
+r: var(--devsite-secondary-border); --devsite-landing-row-item-gap: 24px; -=
+-devsite-mdc-line-height: 56px; --devsite-scrollbar-thumb-background: hsla(=
+207,5%,52%,.26); --devsite-select-background-image: url('data:image/svg+xml=
+;utf8,<svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" height=3D"4" v=
+iewBox=3D"0 0 20 4"><path d=3D"M0,0l4,4l4-4H0z" fill=3D"%23202124"/></svg>'=
+); --devsite-select-border-radius: 2px; }
 
 [lang=3D"ar"], [lang=3D"fa"] { --devsite-nav-item-line-height: 18px; }
 
@@ -3988,6 +4888,21 @@ ock: 0 32px; }
  }
 
 .devsite-landing-row-item-centered { --devsite-icon-margin-inline: auto; }
+
+body:not([codelabs-content-type=3D"paginated"]) { --devsite-caution-notice-=
+background: #feefe3; --devsite-caution-notice-border-color: transparent; --=
+devsite-caution-notice-color: #b31412; --devsite-key-point-notice-backgroun=
+d: #e8eaf6; --devsite-key-point-notice-border-color: transparent; --devsite=
+-key-point-notice-color: #3f51b5; --devsite-key-term-notice-background: #f3=
+e8fd; --devsite-key-term-notice-border-color: transparent; --devsite-key-te=
+rm-notice-color: #9334e6; --devsite-note-notice-background: #e8f0fe; --devs=
+ite-note-notice-border-color: transparent; --devsite-note-notice-color: #30=
+3f9f; --devsite-status-notice-background: #f1f3f4; --devsite-status-notice-=
+border-color: transparent; --devsite-status-notice-color: #546e7a; --devsit=
+e-success-notice-background: #e0f2f1; --devsite-success-notice-border-color=
+: transparent; --devsite-success-notice-color: #00796b; --devsite-warning-n=
+otice-background: #fce8e6; --devsite-warning-notice-border-color: transpare=
+nt; --devsite-warning-notice-color: #a50e0e; }
 
 @media screen and (max-width: 1253px) {
   [layout] devsite-catalog { --devsite-catalog-grid: "main"/1fr; --devsite-=
@@ -9417,6 +10332,12 @@ devsite-book-nav input[type=3D"text"] { background: var(--devsite-searchbox=
 -nav-font-size,13px); height: var(--devsite-book-nav-input-height); padding=
 -inline: var(--devsite-book-nav-input-height); width: 100%; }
 
+devsite-book-nav input[type=3D"text"]::-webkit-input-placeholder { color: v=
+ar(--devsite-searchbox-placeholder,var(--devsite-secondary-text-color)); }
+
+devsite-book-nav input[type=3D"text"]::placeholder { color: var(--devsite-s=
+earchbox-placeholder,var(--devsite-secondary-text-color)); }
+
 devsite-book-nav input[type=3D"text"]:hover { background: var(--devsite-sea=
 rchbox-hover); }
 
@@ -12070,6 +12991,14 @@ devsite-concierge-info-panel devsite-toc ul ul { --devsite-nav-list-padding=
 devsite-concierge-info-panel devsite-toc a.devsite-nav-title { color: var(-=
 -devsite-nav-title-color,var(--devsite-primary-text-color)); }
 
+devsite-concierge-info-panel devsite-related-entities { --devsite-button-co=
+lor: #5f6368; --devsite-button-background: #f1f3f4; --devsite-button-backgr=
+ound-active: #bdc1c6; --devsite-button-background-hover: #dadce0; --devsite=
+-button-border: 0; font-family: var(--devsite-sys-typeface--body-tertiary--=
+font-names); font-size: var(--devsite-sys-typeface--body-tertiary--font-siz=
+e); font-weight: var(--devsite-sys-typeface--body-tertiary--font-weight); l=
+ine-height: var(--devsite-sys-typeface--body-tertiary--line-height); }
+
 @media screen and (max-width: 1253px) {
   devsite-concierge-info-panel devsite-toc.devsite-toc, devsite-concierge-i=
 nfo-panel devsite-toc[visible].devsite-toc { display: block; }
@@ -12503,44 +13432,6 @@ gba); display: block; font: 13px/20px var(--devsite-primary-font-family); }
 devsite-content-footer :link, devsite-content-footer :visited { color: var(=
 --devsite-contrast-link-color); }
 
-devsite-cookie-consent { background: rgb(232, 240, 254); bottom: 0px; color=
-: rgb(60, 64, 67); display: flex; -webkit-box-orient: horizontal; -webkit-b=
-ox-direction: normal; flex-direction: row; font: 14px/20px var(--devsite-pr=
-imary-font-family); gap: 32px; left: 0px; position: fixed; right: 0px; z-in=
-dex: 1018; }
-
-devsite-cookie-consent .icon { color: rgb(25, 103, 210); cursor: default; p=
-adding-block-start: 14px; padding-inline: 16px; }
-
-devsite-cookie-consent .content { display: flex; margin: auto; max-width: 1=
-210px; }
-
-devsite-cookie-consent .disclosure { padding-block: 16px; }
-
-devsite-cookie-consent .controls { -webkit-box-align: end; align-items: end=
-; display: flex; -webkit-box-orient: horizontal; -webkit-box-direction: nor=
-mal; flex-direction: row; gap: 8px; -webkit-box-pack: end; justify-content:=
- end; margin-block-end: 8px; margin-inline-end: 8px; }
-
-devsite-cookie-consent .button + .button { margin: 0px; }
-
-.color-scheme--dark devsite-cookie-consent { background: rgb(57, 68, 87); c=
-olor: rgb(218, 220, 224); }
-
-.color-scheme--dark devsite-cookie-consent .icon, .color-scheme--dark devsi=
-te-cookie-consent :link, .color-scheme--dark devsite-cookie-consent :visite=
-d { color: rgb(138, 180, 248); }
-
-.color-scheme--dark devsite-cookie-consent .button { background: rgb(138, 1=
-80, 248); border: none; color: rgb(32, 33, 36); }
-
-@media screen and (max-width: 840px) {
-  devsite-cookie-consent { -webkit-box-orient: vertical; -webkit-box-direct=
-ion: normal; flex-direction: column; gap: 20px; }
-  devsite-cookie-consent .content { margin-inline-end: 16px; }
-  devsite-cookie-consent .disclosure { padding-block-end: 0px; }
-}
-
 .glue-cookie-notification-bar__accept, .glue-cookie-notification-bar__rejec=
 t { font-size: 1rem; line-height: 1.5; -webkit-font-smoothing: antialiased;=
  text-rendering: optimizelegibility; place-content: center space-around; -w=
@@ -12874,7 +13765,7 @@ h: 60px 12px; }
 devsite-dropdown-list:not([ready]) { background: 0px center; visibility: hi=
 dden; position: relative; z-index: 2; }
 
-devsite-dropdown-list[ready] { visibility: visible; }
+devsite-dropdown-list[ready] { visibility: visible; z-index: 1010; }
 
 devsite-dynamic-content { display: block; margin: var(--devsite-dynamic-con=
 tent-margin,20px 0); width: 100%; }
@@ -17038,8 +17929,8 @@ near-gradient(90deg, transparent 10%, rgb(138, 180, 248) 70%, transparent 9=
 
 .color-scheme--dark .devsite-search-summary-loading-text-inner { background=
 : -webkit-gradient(linear, 0% 0%, 100% 0%, color-stop(0.1, transparent), co=
-lor-stop(0.3, rgb(175, 202, 248)), color-stop(0.55, rgb(203, 236, 253)), co=
-lor-stop(0.7, rgb(175, 202, 248))); }
+lor-stop(0.3, rgb(168, 199, 250)), color-stop(0.55, rgb(194, 231, 255)), co=
+lor-stop(0.7, rgb(168, 199, 250))); }
 
 .devsite-search-summary-results-container:not([content-expanded]) { max-hei=
 ght: 240px; }
@@ -17104,9 +17995,10 @@ color: rgb(180, 207, 250); color: rgb(32, 33, 36); }
 ground-color: rgb(182, 208, 251); color: rgb(32, 33, 36); }
 
 .devsite-search-summary-follow-up-question, .devsite-search-summary-show-mo=
-re-button { border-radius: 40px; --devsite-button-box-shadow: none; --devsi=
-te-button-primary-box-shadow-hover: none; --devsite-button-primary-box-shad=
-ow-active: none; --devsite-button-primary-background: var(
+re-button { -webkit-box-align: center; align-items: center; border-radius: =
+40px; display: inline-flex; --devsite-button-box-shadow: none; --devsite-bu=
+tton-primary-box-shadow-hover: none; --devsite-button-primary-box-shadow-ac=
+tive: none; --devsite-button-primary-background: var(
     --devsite-search-summary-follow-up-button-background-color,#c2e7ff
   ); --devsite-button-primary-color: var(
     --devsite-search-summary-follow-up-button-color,#202124
@@ -17191,8 +18083,9 @@ ill: var(--devsite-search-summary-follow-up-button-svg-fill-dark--active,#2=
 02124); }
 
 .devsite-search-summary-follow-up-question .material-icons, .devsite-search=
--summary-show-more-button .material-icons { font-size: 24px; height: 24px; =
-vertical-align: middle; width: 24px; }
+-summary-show-more-button .material-icons { top: auto; font-size: 24px; hei=
+ght: 24px; vertical-align: middle; width: 24px; margin-inline: 0px !importa=
+nt; }
 
 .devsite-search-summary-follow-up-question-icon { height: 13px; margin-inli=
 ne-end: 10px; width: 16px; }
@@ -19901,25 +20794,28 @@ body[codelabs-content-type=3D"paginated"] .devsite-badger-award { left: 256=
 px; }
 
 body[codelabs-content-type=3D"paginated"] .devsite-back-to-top-link, body[c=
-odelabs-content-type=3D"paginated"] .devsite-banner, body[codelabs-content-=
-type=3D"paginated"] .devsite-book-nav-bg, body[codelabs-content-type=3D"pag=
-inated"] .devsite-book-nav-bg[fixed], body[codelabs-content-type=3D"paginat=
-ed"] .devsite-book-nav-blur, body[codelabs-content-type=3D"paginated"] .dev=
-site-book-nav-toggle, body[codelabs-content-type=3D"paginated"] .devsite-fo=
-oter, body[codelabs-content-type=3D"paginated"] .devsite-heading-link, body=
-[codelabs-content-type=3D"paginated"] .devsite-page-bookmark-tooltip, body[=
-codelabs-content-type=3D"paginated"] .devsite-page-title, body[codelabs-con=
-tent-type=3D"paginated"] .devsite-sidebar, body[codelabs-content-type=3D"pa=
-ginated"] devsite-book-nav, body[codelabs-content-type=3D"paginated"] devsi=
-te-bookmark, body[codelabs-content-type=3D"paginated"] devsite-content-foot=
-er, body[codelabs-content-type=3D"paginated"] devsite-header { display: non=
-e; }
+odelabs-content-type=3D"paginated"] .devsite-book-nav-bg, body[codelabs-con=
+tent-type=3D"paginated"] .devsite-book-nav-bg[fixed], body[codelabs-content=
+-type=3D"paginated"] .devsite-book-nav-blur, body[codelabs-content-type=3D"=
+paginated"] .devsite-book-nav-toggle, body[codelabs-content-type=3D"paginat=
+ed"] .devsite-footer, body[codelabs-content-type=3D"paginated"] .devsite-he=
+ading-link, body[codelabs-content-type=3D"paginated"] .devsite-page-bookmar=
+k-tooltip, body[codelabs-content-type=3D"paginated"] .devsite-page-title, b=
+ody[codelabs-content-type=3D"paginated"] .devsite-sidebar, body[codelabs-co=
+ntent-type=3D"paginated"] devsite-book-nav, body[codelabs-content-type=3D"p=
+aginated"] devsite-bookmark, body[codelabs-content-type=3D"paginated"] devs=
+ite-content-footer, body[codelabs-content-type=3D"paginated"] devsite-heade=
+r { display: none; }
 
 body[codelabs-content-type=3D"paginated"] devsite-code::after { display: no=
 ne; }
 
 body[codelabs-content-type=3D"paginated"] devsite-user[signed-in][enable-pr=
 ofiles] { min-width: 44px; }
+
+body[codelabs-content-type=3D"paginated"] google-codelab .devsite-banner { =
+--devsite-banner-margin: 30px 0 0; --devsite-banner-message-padding: 18px; =
+padding-top: 0px !important; }
 
 body[codelabs-content-type=3D"scrolling"][type=3D"codelab"] .devsite-sideba=
 r[fixed] .devsite-sidebar-content { padding-inline-start: 0px; }
@@ -20814,17 +21710,17 @@ y: block; }
 
 .survey-option-wrapper .custom-radio-button::after { top: 1px; left: 1px; w=
 idth: 7px; height: 7px; border-radius: 50%; background: rgb(63, 81, 181); }
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://web.dev/extras.css
 
 @charset "utf-8";
 =0A
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/svg+xml
 Content-Transfer-Encoding: quoted-printable
-Content-Location: https://www.gstatic.com/devrel-devsite/prod/ve5ef9ac7b497e19ece9427facc78d0c59aaab7a2bc6a0f75fdae93f4ee589f67/web/images/lockup.svg
+Content-Location: https://www.gstatic.com/devrel-devsite/prod/vd59826aff4c44c40ae6b66bb6749cdc41cdaad671ce8aa5208d5acf15cc7ec42/web/images/lockup.svg
 
 <svg fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" viewBox=3D"0 0 215 =
 64">
@@ -20870,7 +21766,7 @@ Content-Location: https://www.gstatic.com/devrel-devsite/prod/ve5ef9ac7b497e19ec
 .956l4.472 15.3749 4.988-15.3749h3.956L81.7 40.5542l4.472-15.3749h4.472Z" f=
 ill=3D"#5F6368"/>
 </svg>
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/images/learn-header_1440.png
@@ -21968,7 +22864,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAABAmPh/PjO5MmZ794kAAAAASUVORK5CYII=
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/html/card_960.png
@@ -22115,7 +23011,7 @@ cpGlZwCAjheGGz0QV/ZKTXFUITmpLPknsQgAsHEVkkkNyc+T/GxwdWH8Jrj9TWtaTXHY0mREeTKi
 kOzeFIyFQqoKwhEAYK2KyaRiMbXLgnByIZlQnozf0H0LW+v/BwAA//+yq5hVaOoRzgAAAABJRU5E
 rkJggg==
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/css/card_960.png
@@ -22351,7 +23247,7 @@ FrUHxZA01ZRu5NQzAABA7AXDTg+Ie9tebU81pBmmNIWwCAAA0LkMqTgkzZH0Ul6aMa8Lnr9r7aq2
 C9ukMS5pjG0rS1KqaSpeNqejAQAADpLUaixLrZJqTFPVlq31Lmnekc4tPFT/PwAA//8HB1FtUiwD
 1wAAAABJRU5ErkJggg==
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/javascript/card_960.png
@@ -22780,7 +23676,7 @@ QN8DpbmMbEuabkjFVAEAAECnYbcaprmMsScSDnWiLYitfVZlZbml603ZS+HEUicAAAAdEwy90gNu
 6TKWnITjn1yfVVlZLdIghzTIkAb6AqMhxRIcAQAAjh0ELal6fyDcZkhrHNKSEx1b2Fb/PwAA//8s
 zkZN7U2TBwAAAABJRU5ErkJggg==
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/performance/card_960.png
@@ -23263,7 +24159,7 @@ gHUOiBVEUDQDQ6Wg+BybnomIiIgaTb0Fwwr1FhCrSsixDpVOPFUKi0MYFomIiIjql+jiJxXmlkqb
 SyJ9FetRzxokIFYlKotGoIdKukhP1l0ERunah8GRiIiI6PxEEJQyU255IDwlXe+WMtX62vYttNf/
 ARXybgA3/2yhAAAAAElFTkSuQmCC
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/privacy/card_960.png
@@ -23585,7 +24481,7 @@ f5+cjdryvy4HLI/1Hw2h+CE5bpLvLT0DAKxfGD56IM76eVyPS3LSJN+IRQCAx1WS7kPyJsnrg7Zc
 foL9f1o343r4Z3K0kxyV5KshGEuyKxwBABaHYE0m0yC8LsnVTnK56rWFy/orAAD//2WkfGSreNKR
 AAAAAElFTkSuQmCC
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/accessibility/card_960.png
@@ -23855,7 +24751,7 @@ kin1MaRDHAIAAIB8w+o1LB1o3JGZcKjM9iBeKSLKrJgsPWeTNRVOAMcEAAAgb4KhUxqfLH1QKdDI
 7eesiCizYpJU1y7VNaQ6KYHRkAIIjgAAADcOgqYUfSkQHjak7XZpbWbvLUyv/w8AAP//zrBcPBCD
 rMIAAAAASUVORK5CYII=
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/images/card_960.png
@@ -24294,7 +25190,7 @@ KCgWSv1N0jwuPQMAAFS/YFjuAfH3zlkd/Q1psknqR1gEAAAoX4YUXShtlLShSaCx0wX7d604qyOs
 QOrsJnU2pE5FgdEwFGAQHAEAAErkkKIdDqX+FgjPGNIhN2nn1d5beKX+NwAA//9aei/bhMmN3QAA
 AABJRU5ErkJggg==
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/design/card_960.png
@@ -24499,7 +25395,7 @@ AAA4PsHQlR4rlSa1izdHNR3Q1FaPfEHRKw1ypHFcegYAAGh4wbDWA2J5G3PtICP92pHOICwCAADU
 LiNleqW3JM1oE28+rIPz162cXJu2R+rhkXoYqbsvMBqjOENwBAAAOCQrZVqrvLJAuN5IKzzSh0c6
 t7Cm/n8AAAD//2N2ewymmLT2AAAAAElFTkSuQmCC
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/forms/card_960.png
@@ -24869,7 +25765,7 @@ OnoEsbVj9VaOXyqyKXQrHCd/JwAAAJcnDE2pxC+tHeAyOvV0QKOr/kTBUAxI423SCk49AwAAhF8Y
 dnkgtna03hpvSHfZpHHEIgAAQNcypMqAtEXS5v4uo/wiPP7FdazeymmRrrRLV1qW0iU5bTbFyuJ0
 NAAAwAVKzWuaOi3Ja7Op3rR0wC6Vd/S5hW31PwEAAP//73VYNG1tjV0AAAAASUVORK5CYII=
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/pwa/card_960.png
@@ -25248,7 +26144,7 @@ H4s0iUPPAAAAkReGDR6IVe11mn0MaYhF+hWxCAAA0LAMKd8nrZa0KtNufBKE2w+ug06zvUfKskpZ
 htSjMhgNqRnhCAAAUHsImlLhiSDcbUg5VumT+p5beLr+NwAA//9youpGVnPU2gAAAABJRU5ErkJg
 gg==
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin----
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://web.dev/static/learn/testing/card_960.png
@@ -25719,4 +26615,4 @@ YzmtywEtlfURVQTFgNTLKo3j1DMAAEDNC4aVHhAPtz/f6GWRbrFKlxIWAQAAKpdF2huQXpe0rGGM
 ZVUVbL9qHcw3Gvukzjaps2EoWVK01SqnDE5HAwAA/EJSKwgGVS6pwGpVftDQtzZp1aleW3ii/i8A
 AP//x7bzZU7+vTYAAAAASUVORK5CYII=
 
-------MultipartBoundary--U3QDNJmBclc55tfdanC6Ku6UOROXoEvVajRmYDwAin------
+------MultipartBoundary--2uoXHBCxvS6iTIZdetVfheGgANnhBpGlhWaZ8FoKLk------
