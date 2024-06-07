@@ -1,0 +1,4077 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://blog.codingnow.com/
+Subject: =?utf-8?Q?=E4=BA=91=E9=A3=8E=E7=9A=84=20BLOG?=
+Date: Fri, 7 Jun 2024 14:55:39 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--Cm1Ou1VWwA6DIDTOiKSDE2fcU6brmB9Gia9YqgVONR----"
+
+
+------MultipartBoundary--Cm1Ou1VWwA6DIDTOiKSDE2fcU6brmB9Gia9YqgVONR----
+Content-Type: text/html
+Content-ID: <frame-D29375548B845799098AFD73FE367961@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://blog.codingnow.com/
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" id=3D"sixapart-standard"><head><meta http-equiv=3D"Content-=
+Type" content=3D"text/html; charset=3DGBK">
+<!-- Google tag (gtag.js) -->
+
+
+  =20
+   <meta name=3D"generator" content=3D"Movable Type 3.2b5">
+  =20
+   <link rel=3D"stylesheet" media=3D"screen and (min-device-width:641px)" h=
+ref=3D"https://blog.codingnow.com/styles-site.css" type=3D"text/css">
+   <link rel=3D"stylesheet" media=3D"screen and (max-device-width:640px)" h=
+ref=3D"https://blog.codingnow.com/mobile.css" type=3D"text/css">
+   <link rel=3D"stylesheet" type=3D"text/css" media=3D"all" href=3D"https:/=
+/blog.codingnow.com/mtcolorer.css">
+   <link rel=3D"alternate" type=3D"application/atom+xml" title=3D"Atom" hre=
+f=3D"https://blog.codingnow.com/atom.xml">
+   <link rel=3D"alternate" type=3D"application/rss+xml" title=3D"RSS 2.0" h=
+ref=3D"https://blog.codingnow.com/index.xml">
+  =20
+   <title>=D4=C6=B7=E7=B5=C4 BLOG</title>
+  =20
+   <link rel=3D"EditURI" type=3D"application/rsd+xml" title=3D"RSD" href=3D=
+"https://blog.codingnow.com/rsd.xml">
+  =20
+  =20
+</head>
+<body class=3D"layout-two-column-right">
+   <div id=3D"container">
+      <div id=3D"container-inner" class=3D"pkg">
+     =20
+         <div id=3D"banner">
+            <div id=3D"banner-inner" class=3D"pkg">
+               <h1 id=3D"banner-header"><a href=3D"https://blog.codingnow.c=
+om/" accesskey=3D"1">=D4=C6=B7=E7=B5=C4 BLOG</a></h1>
+               <h2 id=3D"banner-description">=CB=BC=D0=F7=C0=B4=B5=C3=BF=EC=
+=C8=A5=B5=C3=D2=B2=BF=EC=A3=AC=C5=BC=B6=FB=BB=E1=D4=DA=D5=E2=C0=EF=CD=A3=C1=
+=F4</h2>
+            </div>
+         </div>
+        =20
+         <div id=3D"pagebody">
+            <div id=3D"pagebody-inner" class=3D"pkg">
+               <div id=3D"alpha">
+                  <div id=3D"alpha-inner" class=3D"pkg">
+                 =20
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/06/game_idea.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1236"
+    dc:title=3D"=D2=BB=B8=F6=D3=CE=CF=B7=B5=C4=B5=E3=D7=D3"
+    dc:identifier=3D"https://blog.codingnow.com/2024/06/game_idea.html"
+    dc:subject=3D"=D3=CE=CF=B7=BF=AA=B7=A2"
+    dc:description=3D"=D5=AC=D4=DA=BC=D2=C0=EF=D2=BB=B8=F6=D4=C2=C1=CB=A1=
+=A3=D2=BB=D6=B1=D4=DA=CF=EB=A3=AC=C8=E7=B9=FB=B2=BB=BF=BC=C2=C7=D3=AD=BA=CF=
+=CA=D0=B3=A1=A3=AC=B2=BB=B9=CB=BC=B0=CF=FA=C1=BF=A3=AC=B5=BD=B5=D7=D3=A6=B8=
+=C3=D7=F6=D2=BB=B8=F6=D4=F5=D1=F9=B5=C4=D3=CE=CF=B7=B2=C5=C4=DC=C8=C3=D7=D4=
+=BC=BA=D4=DA=D6=C6=D7=F7=B9=FD=B3=CC=D6=D0=B5=C3=B5=BD=C2=FA=D7=E3=A1=A3 =
+=B9=FD=C4=EA=C7=B0=D4=F8=BE=AD=B2=CE=BC=D3=B9=FD=D2=BB=B4=CE=C0=CF=CD=AC=CA=
+=C2=BE=DB=B2=CD=A1=A3=D7=E9=D6=AF=D5=DF=CB=B5=A3=AC=D5=E2=CE=DD=D7=D3=D7=F8=
+=B5=C4=B6=BC=CA=C7=D7=F6=D3=CE=CF=B7=B5=C4=C0=CF=C8=CB=C1=CB=A3=AC=B3=CC=D0=
+=F2=A1=A2=B2=DF=BB=AE=A1=A2=C3=C0=CA=F5=C8=AB=C6=EB=C1=CB=A3=AC=BB=B9=B6=BC=
+=CA=C7=B2=BB=B2=EE=C7=AE=B5=C4=D6=F7=A1=A3=B4=F3=BC=D2=D2=AA=B2=BB=D2=AA=B4=
+=D5=B8=F6=BE=D6=A3=AC=CF=EB=CF=EB=D7=F6=B8=F6=C9=B6=D3=CE=CF=B7=B3=F6=C0=B4=
+=A3=BF=BD=D3=CF=C2=C0=B4=CA=C7=D2=BB=D5=F3=B3=C1=C4=AC=A3=AC=D6=B1=B5=BD=D3=
+=D0=C9=F9=D2=F4=CB=B5=A3=AC=A1=B0=CE=D2=C3=BB=CA=B2=C3=B4=CF=EB=B7=A8=A1=B1=
+=A3=AC=B7=B9=D7=C0=C9=CF=B5=C4=C8=CB=B7=D7=B7=D7=B5=E3=CD=B7=A3=AC=D7=AA=D2=
+=C6=C1=CB=BB=B0=CC=E2=A1=A3 =C7=B0=B6=CE=B2=CE=BC=D3=D2=BB=B8=F6=B6=C0=C1=
+=A2=D3=CE=CF=B7=BB=EE=B6=AF=A3=AC=BC=FB=C1=CB=D0=A9=C0=CF=C5=F3=D3=D1=A1=A3=
+=D3=D0=CE=BB=CD=AC=D1=A7=D7=F6=D3=CE=CF=B7=BA=DC=B6=E0=C4=EA=C1=CB=A3=AC=CB=
+=B5=C6=F0=D5=E2=D0=A9=C4=EA=B5=C4=BE=AD=C0=FA=A3=AC=C8=EB=D0=D0=CD=B7=BC=B8=
+=C4=EA=CA=C7=B8=F8=C0=CF=B0=E5=B4=F2=B9=A4=A3=AC=BD=D3=CF=C2=C0=B4=BF=AA=C1=
+=CB=BC=D2=D0=A1=B9=AB=CB=BE=D7=D4=BC=BA=D7=F6=A3=AC=C3=BB=C5=E2=C7=AE=D2=B2=
+=C3=BB=D7=AC=C7=AE=A1=A3=B5=AB=B8=C9=CF=C2=C0=B4=B8=D0=BE=F5=B1=E4=B3=C9=C1=
+=CB=B8=F8=D4=B1=B9=A4=B4=F2=B9=A4=A1=A3=CE=AA=C1=CB=BF=C9=D2=D4=B3=D6=D0=F8=
+=B7=A2=B3=F6=B9=A4=D7=CA=A3=AC=C3=BF=B4=CE=C1=A2=CF=EE=B6=BC=BA=DC=B4=D2=C3=
+=A6=A3=AC=BD=E1=B9=FB=BB=B9=CA=C7=D4=DA=B2=BB=CF=B2=BB=B6=B5=C4=D3=CE=CF=B7=
+=CF=EE=C4=BF=C9=CF=BA=C4=B5=F4=C1=CB=CC=AB=B6=E0=CA=B1=BC=E4=A1=A3=CF=D6=D4=
+=DA=B8=C9=B4=E0=B0=D1=CD=C5=B6=D3=B0=B2=B6=D9=BA=C3=A3=AC=D2=BB=B8=F6=C8=CB=
+=B3=F6=C0=B4=A3=AC=BA=C3=BA=C3=CF=EB=CF=EB=B5=BD=B5=D7=D2=AA=D7=F6=CA=B2=C3=
+=B4=A1=A3 =BF=C9=BC=FB=A3=AC=CF=EB=C7=E5=B3=FE=D7=F6=CA=B2=C3=B4=BA=DC=C4=
+=D1=A1=A3=B5=A5=B6=C0=D2=BB=C8=CB=B5=C4=D7=B4=CC=AC=D2=B2=BA=DC=C4=D1=B5=C3=
+=A3=AC=C3=BB=D3=D0=CC=AB=B6=E0=B5=C4=CD=E2=BD=E7=B8=C9=C8=C5=A3=AC=B2=BB=CE=
+=AA=C1=CB=D7=F6=CA=C2=B6=F8=D7=F6=A3=AC=BF=C9=D2=D4=C2=FD=C2=FD=C0=B4=A1=A3=
+ =CA=D7=CF=C8=A3=AC=CE=D2=CF=EB=D7=F6=D2=BB=BF=EE=D3=CE=CF=B7=A3=AC=D5=E2=
+=CE=E3=D3=B9=D6=C3=D2=C9=A1=A3=CD=E6=D3=CE=CF=B7=CA=C7=CE=D2=D5=E2=D0=A9=C4=
+=EA=D7=EE=B4=F3=B5=C4=B0=AE=BA=C3=A1=A3=B9=E2=D4=DA steam =C9=CF=D5=E2=D0=
+=A9=C4=EA=BE=CD=BB=A8=B5=F4=C1=CB=C9=CF=CD=F2=D0=A1=CA=B1=A3=ACswitch =C9=
+=CF=D2=B2=D3=D0=BC=B8=C7=A7=D0=A1=CA=B1=A1=A3=CE=D2=C4=DC=D4=DA=D6=C6=D7=F7=
+=D3=CE=CF=B7=B5=C4=B9=FD=B3=CC=D6=D0=BB=F1=B5=C3=CE=D2=D2=AA=B5=C4=B6=AB=CE=
+=F7=A1=A3 =C6=E4=B4=CE=A3=AC=D7=F6=D2=BB=BF=EE=D3=CE=CF=B7=B5=C4=C4=BF=B5=
+=C4=B2=BB=CA=C7=CE=AA=C1=CB=CA=D5=C8=EB=A1=A3=CE=D2=B6=D4=CE=EF=D6=CA=C9=FA=
+=BB=EE=D2=AA=C7=F3=BC=AB=B5=CD=A3=AC=B2=BB=D0=E8=D2=AA=BB=A8=C7=AE=C2=FA=D7=
+=E3=D3=FB=CD=FB=A1=A3=B3=FD=B7=C7=D0=E8=D2=AA=B9=CD=C8=CB=D2=BB=C6=F0=D7=F6=
+=D3=CE=CF=B7=A3=AC=B2=BB=C8=BB=D6=C6=D7=F7=D3=CE=CF=B7=B5=C4=BF=AA=CF=FA=D6=
+=BB=CA=C7=D7=D4=BC=BA=BC=D2=CD=A5=B5=C4=C8=D5=B3=A3=BF=AA=CF=FA=A3=AC=B6=F8=
+=CE=D2=D5=E2=D0=A9=C4=EA=B5=C4=BB=FD=D0=EE=D2=D1=B9=BB=B9=FD=CD=EA=D3=E0=C9=
+=FA=A1=A3=CE=D2=CF=B2=BB=B6=B5=C4=D3=CE=CF=B7=B6=BC=B2=BB=D0=E8=D2=AA=CC=AB=
+=B8=B4=D4=D3=B5=C4=C3=C0=CA=F5=D7=CA=B2=FA=A3=AC=D5=E2=B7=BD=C3=E6=B2=A2=B2=
+=BB=D0=E8=D2=AA=B6=EE=CD=E2=B5=C4=CD=B6=C8=EB=A1=A3 =C1=ED=D2=BB=B7=BD=C3=
+=E6=A3=AC=CE=D2=D2=B2=B2=BB=D0=E8=D2=AA=D3=C3=D3=CE=CF=B7=CC=D6=BA=C3=CD=E6=
+=BC=D2=C0=B4=BB=F1=B5=C3=B3=C9=BE=CD=B8=D0=A3=AC=B2=BB=D0=E8=D2=AA=D3=C3=D2=
+=BB=B8=F6=B2=FA=C6=B7=C0=B4=D6=A4=C3=F7=D7=D4=BC=BA=A3=AC=D5=E2=D0=A9=B3=C9=
+=BE=CD=B8=D0=B5=C4=CC=E5=D1=E9=B6=BC=D2=D1=D3=D0=B9=FD=A3=AC=B2=BB=CA=C7=CE=
+=D2=CF=EB=D7=B7=C7=F3=B5=C4=B6=AB=CE=F7=A1=A3 =CB=F9=D2=D4=A3=AC=CE=D2=CB=
+=F9=D0=E8=D2=AA=B5=C4=CA=C7=D6=C6=D7=F7=B9=FD=B3=CC=B4=F8=C0=B4=B5=C4=B3=D6=
+=D0=F8=CC=E5=D1=E9=A3=AC=C8=C3=D7=D4=BC=BA=BE=F5=B5=C3=D7=D4=BC=BA=D4=DA=D7=
+=F6=D2=BB=BC=FE=D3=D0=D2=E2=D2=E5=B5=C4=CA=C2=A1=A3=CE=D2=CB=F9=CF=B2=BB=B6=
+=BA=CD=C9=C3=B3=A4=B5=C4=C6=E4=CA=B5=CA=C7=A3=BA=C8=CF=C7=E5=CE=CA=CC=E2=A3=
+=AC=BD=E2=BE=F6=CB=FC=C3=C7=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-06-07T12:53:51+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">June 07, 2024</h2>
+                     <a id=3D"a001276"></a>
+                     <div class=3D"entry" id=3D"entry-1276">
+                        <h3 class=3D"entry-header">=D2=BB=B8=F6=D3=CE=CF=B7=
+=B5=C4=B5=E3=D7=D3</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=D5=AC=D4=DA=BC=D2=C0=EF=D2=BB=B8=F6=D4=C2=C1=
+=CB=A1=A3=D2=BB=D6=B1=D4=DA=CF=EB=A3=AC=C8=E7=B9=FB=B2=BB=BF=BC=C2=C7=D3=AD=
+=BA=CF=CA=D0=B3=A1=A3=AC=B2=BB=B9=CB=BC=B0=CF=FA=C1=BF=A3=AC=B5=BD=B5=D7=D3=
+=A6=B8=C3=D7=F6=D2=BB=B8=F6=D4=F5=D1=F9=B5=C4=D3=CE=CF=B7=B2=C5=C4=DC=C8=C3=
+=D7=D4=BC=BA=D4=DA=D6=C6=D7=F7=B9=FD=B3=CC=D6=D0=B5=C3=B5=BD=C2=FA=D7=E3=A1=
+=A3</p>
+
+<p>=B9=FD=C4=EA=C7=B0=D4=F8=BE=AD=B2=CE=BC=D3=B9=FD=D2=BB=B4=CE=C0=CF=CD=AC=
+=CA=C2=BE=DB=B2=CD=A1=A3=D7=E9=D6=AF=D5=DF=CB=B5=A3=AC=D5=E2=CE=DD=D7=D3=D7=
+=F8=B5=C4=B6=BC=CA=C7=D7=F6=D3=CE=CF=B7=B5=C4=C0=CF=C8=CB=C1=CB=A3=AC=B3=CC=
+=D0=F2=A1=A2=B2=DF=BB=AE=A1=A2=C3=C0=CA=F5=C8=AB=C6=EB=C1=CB=A3=AC=BB=B9=B6=
+=BC=CA=C7=B2=BB=B2=EE=C7=AE=B5=C4=D6=F7=A1=A3=B4=F3=BC=D2=D2=AA=B2=BB=D2=AA=
+=B4=D5=B8=F6=BE=D6=A3=AC=CF=EB=CF=EB=D7=F6=B8=F6=C9=B6=D3=CE=CF=B7=B3=F6=C0=
+=B4=A3=BF=BD=D3=CF=C2=C0=B4=CA=C7=D2=BB=D5=F3=B3=C1=C4=AC=A3=AC=D6=B1=B5=BD=
+=D3=D0=C9=F9=D2=F4=CB=B5=A3=AC=A1=B0=CE=D2=C3=BB=CA=B2=C3=B4=CF=EB=B7=A8=A1=
+=B1=A3=AC=B7=B9=D7=C0=C9=CF=B5=C4=C8=CB=B7=D7=B7=D7=B5=E3=CD=B7=A3=AC=D7=AA=
+=D2=C6=C1=CB=BB=B0=CC=E2=A1=A3</p>
+
+<p>=C7=B0=B6=CE=B2=CE=BC=D3=D2=BB=B8=F6=B6=C0=C1=A2=D3=CE=CF=B7=BB=EE=B6=AF=
+=A3=AC=BC=FB=C1=CB=D0=A9=C0=CF=C5=F3=D3=D1=A1=A3=D3=D0=CE=BB=CD=AC=D1=A7=D7=
+=F6=D3=CE=CF=B7=BA=DC=B6=E0=C4=EA=C1=CB=A3=AC=CB=B5=C6=F0=D5=E2=D0=A9=C4=EA=
+=B5=C4=BE=AD=C0=FA=A3=AC=C8=EB=D0=D0=CD=B7=BC=B8=C4=EA=CA=C7=B8=F8=C0=CF=B0=
+=E5=B4=F2=B9=A4=A3=AC=BD=D3=CF=C2=C0=B4=BF=AA=C1=CB=BC=D2=D0=A1=B9=AB=CB=BE=
+=D7=D4=BC=BA=D7=F6=A3=AC=C3=BB=C5=E2=C7=AE=D2=B2=C3=BB=D7=AC=C7=AE=A1=A3=B5=
+=AB=B8=C9=CF=C2=C0=B4=B8=D0=BE=F5=B1=E4=B3=C9=C1=CB=B8=F8=D4=B1=B9=A4=B4=F2=
+=B9=A4=A1=A3=CE=AA=C1=CB=BF=C9=D2=D4=B3=D6=D0=F8=B7=A2=B3=F6=B9=A4=D7=CA=A3=
+=AC=C3=BF=B4=CE=C1=A2=CF=EE=B6=BC=BA=DC=B4=D2=C3=A6=A3=AC=BD=E1=B9=FB=BB=B9=
+=CA=C7=D4=DA=B2=BB=CF=B2=BB=B6=B5=C4=D3=CE=CF=B7=CF=EE=C4=BF=C9=CF=BA=C4=B5=
+=F4=C1=CB=CC=AB=B6=E0=CA=B1=BC=E4=A1=A3=CF=D6=D4=DA=B8=C9=B4=E0=B0=D1=CD=C5=
+=B6=D3=B0=B2=B6=D9=BA=C3=A3=AC=D2=BB=B8=F6=C8=CB=B3=F6=C0=B4=A3=AC=BA=C3=BA=
+=C3=CF=EB=CF=EB=B5=BD=B5=D7=D2=AA=D7=F6=CA=B2=C3=B4=A1=A3</p>
+
+<p>=BF=C9=BC=FB=A3=AC=CF=EB=C7=E5=B3=FE=D7=F6=CA=B2=C3=B4=BA=DC=C4=D1=A1=A3=
+=B5=A5=B6=C0=D2=BB=C8=CB=B5=C4=D7=B4=CC=AC=D2=B2=BA=DC=C4=D1=B5=C3=A3=AC=C3=
+=BB=D3=D0=CC=AB=B6=E0=B5=C4=CD=E2=BD=E7=B8=C9=C8=C5=A3=AC=B2=BB=CE=AA=C1=CB=
+=D7=F6=CA=C2=B6=F8=D7=F6=A3=AC=BF=C9=D2=D4=C2=FD=C2=FD=C0=B4=A1=A3</p>
+
+<p>=CA=D7=CF=C8=A3=AC=CE=D2=CF=EB=D7=F6=D2=BB=BF=EE=D3=CE=CF=B7=A3=AC=D5=E2=
+=CE=E3=D3=B9=D6=C3=D2=C9=A1=A3=CD=E6=D3=CE=CF=B7=CA=C7=CE=D2=D5=E2=D0=A9=C4=
+=EA=D7=EE=B4=F3=B5=C4=B0=AE=BA=C3=A1=A3=B9=E2=D4=DA steam =C9=CF=D5=E2=D0=
+=A9=C4=EA=BE=CD=BB=A8=B5=F4=C1=CB=C9=CF=CD=F2=D0=A1=CA=B1=A3=ACswitch =C9=
+=CF=D2=B2=D3=D0=BC=B8=C7=A7=D0=A1=CA=B1=A1=A3=CE=D2=C4=DC=D4=DA=D6=C6=D7=F7=
+=D3=CE=CF=B7=B5=C4=B9=FD=B3=CC=D6=D0=BB=F1=B5=C3=CE=D2=D2=AA=B5=C4=B6=AB=CE=
+=F7=A1=A3</p>
+
+<p>=C6=E4=B4=CE=A3=AC=D7=F6=D2=BB=BF=EE=D3=CE=CF=B7=B5=C4=C4=BF=B5=C4=B2=BB=
+=CA=C7=CE=AA=C1=CB=CA=D5=C8=EB=A1=A3=CE=D2=B6=D4=CE=EF=D6=CA=C9=FA=BB=EE=D2=
+=AA=C7=F3=BC=AB=B5=CD=A3=AC=B2=BB=D0=E8=D2=AA=BB=A8=C7=AE=C2=FA=D7=E3=D3=FB=
+=CD=FB=A1=A3=B3=FD=B7=C7=D0=E8=D2=AA=B9=CD=C8=CB=D2=BB=C6=F0=D7=F6=D3=CE=CF=
+=B7=A3=AC=B2=BB=C8=BB=D6=C6=D7=F7=D3=CE=CF=B7=B5=C4=BF=AA=CF=FA=D6=BB=CA=C7=
+=D7=D4=BC=BA=BC=D2=CD=A5=B5=C4=C8=D5=B3=A3=BF=AA=CF=FA=A3=AC=B6=F8=CE=D2=D5=
+=E2=D0=A9=C4=EA=B5=C4=BB=FD=D0=EE=D2=D1=B9=BB=B9=FD=CD=EA=D3=E0=C9=FA=A1=A3=
+=CE=D2=CF=B2=BB=B6=B5=C4=D3=CE=CF=B7=B6=BC=B2=BB=D0=E8=D2=AA=CC=AB=B8=B4=D4=
+=D3=B5=C4=C3=C0=CA=F5=D7=CA=B2=FA=A3=AC=D5=E2=B7=BD=C3=E6=B2=A2=B2=BB=D0=E8=
+=D2=AA=B6=EE=CD=E2=B5=C4=CD=B6=C8=EB=A1=A3</p>
+
+<p>=C1=ED=D2=BB=B7=BD=C3=E6=A3=AC=CE=D2=D2=B2=B2=BB=D0=E8=D2=AA=D3=C3=D3=CE=
+=CF=B7=CC=D6=BA=C3=CD=E6=BC=D2=C0=B4=BB=F1=B5=C3=B3=C9=BE=CD=B8=D0=A3=AC=B2=
+=BB=D0=E8=D2=AA=D3=C3=D2=BB=B8=F6=B2=FA=C6=B7=C0=B4=D6=A4=C3=F7=D7=D4=BC=BA=
+=A3=AC=D5=E2=D0=A9=B3=C9=BE=CD=B8=D0=B5=C4=CC=E5=D1=E9=B6=BC=D2=D1=D3=D0=B9=
+=FD=A3=AC=B2=BB=CA=C7=CE=D2=CF=EB=D7=B7=C7=F3=B5=C4=B6=AB=CE=F7=A1=A3</p>
+
+<p>=CB=F9=D2=D4=A3=AC=CE=D2=CB=F9=D0=E8=D2=AA=B5=C4=CA=C7=D6=C6=D7=F7=B9=FD=
+=B3=CC=B4=F8=C0=B4=B5=C4=B3=D6=D0=F8=CC=E5=D1=E9=A3=AC=C8=C3=D7=D4=BC=BA=BE=
+=F5=B5=C3=D7=D4=BC=BA=D4=DA=D7=F6=D2=BB=BC=FE=D3=D0=D2=E2=D2=E5=B5=C4=CA=C2=
+=A1=A3=CE=D2=CB=F9=CF=B2=BB=B6=BA=CD=C9=C3=B3=A4=B5=C4=C6=E4=CA=B5=CA=C7=A3=
+=BA=C8=CF=C7=E5=CE=CA=CC=E2=A3=AC=BD=E2=BE=F6=CB=FC=C3=C7=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/06=
+/game_idea.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "=D2=BB=B8=F6=D3=CE=CF=B7=B5=
+=C4=B5=E3=D7=D3" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 12:53 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/06/game_idea.html">=
+=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+06/game_idea.html#comments">=C1=F4=D1=D4 (2)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/06/asset_mgr_rework.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1235"
+    dc:title=3D"Ant =B5=C4=D7=CA=D4=B4=C4=DA=B4=E6=B9=DC=C0=ED"
+    dc:identifier=3D"https://blog.codingnow.com/2024/06/asset_mgr_rework.ht=
+ml"
+    dc:subject=3D"Ant Engine"
+    dc:description=3D"=D5=E2=C1=BD=CC=EC=D7=C5=CA=D6=D7=F6=D3=CE=CF=B7 demo=
+ =CA=B1=B7=A2=CF=D6 Ant =B5=C4 Asset =B9=DC=C0=ED=C4=A3=BF=E9=D6=AE=C7=B0=
+=BB=B9=C1=F4=D3=D0=D2=BB=D0=A9=B9=A4=D7=F7=C3=BB=D3=D0=CD=EA=B3=C9=A1=A3 =
+=C4=C7=BE=CD=CA=C7=A3=AC=B5=B1=D3=CE=CF=B7=B3=CC=D0=F2=BC=D3=D4=D8 Asset =
+=BA=F3=A3=AC=D7=CA=D4=B4=B9=DC=C0=ED=C4=A3=BF=E9=BA=CE=CA=B1=CA=CD=B7=C5=CB=
+=FC=C3=C7=B5=C4=CE=CA=CC=E2=A1=A3=D4=DA ant.asset =C4=A3=BF=E9=D6=D0=A3=AC=
+=CE=D2=C3=C7=CE=AA=C3=BF=D6=D6 asset =A3=A8=D2=D4=CE=C4=BC=FE=BA=F3=D7=BA=
+=C3=FB=C7=F8=B7=D6=A3=A9=B6=A8=D2=E5=C1=CB loader unloader reloader =C8=FD=
+=B8=F6=BD=D3=BF=DA=A3=AC=B7=D6=B1=F0=B4=A6=C0=ED=BC=D3=D4=D8=A1=A2=D0=B6=D4=
+=D8=A1=A2=D6=D8=D4=D8=B5=C4=B9=A4=D7=F7=A1=A3 =B5=AB=D4=DA=CA=B5=BC=CA=CA=
+=B5=CF=D6=CA=B1=A3=AC=BC=B8=BA=F5=B6=BC=C3=BB=D3=D0=CA=B5=CF=D6 unloader =
+=A1=A3=B5=B1=CA=B1=CA=C7=CD=B5=C0=C1=A3=AC=D2=F2=CE=AA=CE=D2=C3=C7=D6=AE=C7=
+=B0=B5=C4=D3=CE=CF=B7=BC=B4=CA=B9=B0=D1=C8=AB=B2=BF=D7=CA=D4=B4=B6=BC=BC=D3=
+=D4=D8=B5=BD=C4=DA=B4=E6=A3=AC=D2=B2=C3=BB=B6=E0=C9=D9=CA=FD=BE=DD=A3=AC=B2=
+=A2=B2=BB=D0=E8=D2=AA=B6=AF=CC=AC=D0=B6=D4=D8=CA=CD=B7=C5=C4=DA=B4=E6=A1=A3=
+=B6=F8=BC=B4=CA=B9=CA=B5=CF=D6=C1=CB unloader =A3=AC=B9=DC=C0=ED=C6=F7=D2=
+=B2=C3=BB=D3=D0=CA=B5=CF=D6=BA=DC=BA=C3=B5=C4=B2=DF=C2=D4=C8=A5=B5=F7=D3=C3=
+=CB=FC=A1=A3=D6=BB=C4=DC=BF=BF=D3=C3=BB=A7=D6=F7=B6=AF=B5=F7=D3=C3=D0=B6=D4=
+=D8 api =A1=A3=CA=C2=CA=B5=C9=CF=A3=AC=D2=BB=B8=F6=B8=F6=D7=CA=D4=B4=CE=C4=
+=BC=FE=D6=F7=B6=AF=D0=B6=D4=D8=D2=B2=B2=BB=CA=B5=D3=C3=A1=A3 =BF=BC=C2=C7=
+=B5=BD=D5=BC=D3=C3=C4=DA=B4=E6=D7=EE=B4=F3=B5=C4 asset =CA=C7=CC=F9=CD=BC=
+=A3=AC=CE=D2=C3=C7=D3=D6=B6=D4=CC=F9=CD=BC=D7=F6=C1=CB=D2=BB=D0=A9=CC=D8=CA=
+=E2=B4=A6=C0=ED=A3=BA =CB=F9=D3=D0=B5=C4=CC=F9=CD=BC=B6=BC=BF=C9=D2=D4=D3=
+=C3=D2=BB=D5=C5=BF=D5=B0=D7=CC=F9=CD=BC=D7=F7=CE=AA=CC=E6=B4=FA=A1=A3=D2=FD=
+=C7=E6=D3=D0=C8=A8=D4=DA=C8=CE=BA=CE=CA=B1=BA=F2=A3=A8=CD=A8=B3=A3=CA=C7=C4=
+=DA=B4=E6=B2=BB=D7=E3=CA=B1=A3=A9=D6=F7=B6=AF=CA=CD=B7=C5=B3=A4=C6=DA=CE=B4=
+=CA=B9=D3=C3=B5=C4=CC=F9=CD=BC=A3=AC=B2=A2=BB=BB=D3=C3=CC=E6=B4=FA=A1=A3=D5=
+=E2=B8=F6=CC=D8=D0=D4=D2=B2=BF=C9=D2=D4=BA=DC=BA=C3=B5=C4=CA=CA=C5=E4=D2=EC=
+=B2=BD=BC=D3=D4=D8=B9=FD=B3=CC=A1=A3 =CB=F9=D2=D4=A3=AC=CE=B4=CA=CD=B7=C5=
+=B5=C4=CC=F9=CD=BC=B2=A2=B2=BB=BB=E1=B3=C5=C2=FA=C4=DA=B4=E6=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-06-04T15:53:11+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">June 04, 2024</h2>
+                     <a id=3D"a001275"></a>
+                     <div class=3D"entry" id=3D"entry-1275">
+                        <h3 class=3D"entry-header">Ant =B5=C4=D7=CA=D4=B4=
+=C4=DA=B4=E6=B9=DC=C0=ED</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=D5=E2=C1=BD=CC=EC=D7=C5=CA=D6=D7=F6=D3=CE=CF=
+=B7 demo =CA=B1=B7=A2=CF=D6 <a href=3D"https://github.com/ejoy/ant/wiki/Ass=
+et">Ant =B5=C4 Asset</a> =B9=DC=C0=ED=C4=A3=BF=E9=D6=AE=C7=B0=BB=B9=C1=F4=
+=D3=D0=D2=BB=D0=A9=B9=A4=D7=F7=C3=BB=D3=D0=CD=EA=B3=C9=A1=A3</p>
+
+<p>=C4=C7=BE=CD=CA=C7=A3=AC=B5=B1=D3=CE=CF=B7=B3=CC=D0=F2=BC=D3=D4=D8 Asset=
+ =BA=F3=A3=AC=D7=CA=D4=B4=B9=DC=C0=ED=C4=A3=BF=E9=BA=CE=CA=B1=CA=CD=B7=C5=
+=CB=FC=C3=C7=B5=C4=CE=CA=CC=E2=A1=A3=D4=DA ant.asset =C4=A3=BF=E9=D6=D0=A3=
+=AC=CE=D2=C3=C7=CE=AA=C3=BF=D6=D6 asset =A3=A8=D2=D4=CE=C4=BC=FE=BA=F3=D7=
+=BA=C3=FB=C7=F8=B7=D6=A3=A9=B6=A8=D2=E5=C1=CB loader unloader reloader =C8=
+=FD=B8=F6=BD=D3=BF=DA=A3=AC=B7=D6=B1=F0=B4=A6=C0=ED=BC=D3=D4=D8=A1=A2=D0=B6=
+=D4=D8=A1=A2=D6=D8=D4=D8=B5=C4=B9=A4=D7=F7=A1=A3</p>
+
+<p>=B5=AB=D4=DA=CA=B5=BC=CA=CA=B5=CF=D6=CA=B1=A3=AC=BC=B8=BA=F5=B6=BC=C3=BB=
+=D3=D0=CA=B5=CF=D6 unloader =A1=A3=B5=B1=CA=B1=CA=C7=CD=B5=C0=C1=A3=AC=D2=
+=F2=CE=AA=CE=D2=C3=C7=D6=AE=C7=B0=B5=C4=D3=CE=CF=B7=BC=B4=CA=B9=B0=D1=C8=AB=
+=B2=BF=D7=CA=D4=B4=B6=BC=BC=D3=D4=D8=B5=BD=C4=DA=B4=E6=A3=AC=D2=B2=C3=BB=B6=
+=E0=C9=D9=CA=FD=BE=DD=A3=AC=B2=A2=B2=BB=D0=E8=D2=AA=B6=AF=CC=AC=D0=B6=D4=D8=
+=CA=CD=B7=C5=C4=DA=B4=E6=A1=A3=B6=F8=BC=B4=CA=B9=CA=B5=CF=D6=C1=CB unloader=
+ =A3=AC=B9=DC=C0=ED=C6=F7=D2=B2=C3=BB=D3=D0=CA=B5=CF=D6=BA=DC=BA=C3=B5=C4=
+=B2=DF=C2=D4=C8=A5=B5=F7=D3=C3=CB=FC=A1=A3=D6=BB=C4=DC=BF=BF=D3=C3=BB=A7=D6=
+=F7=B6=AF=B5=F7=D3=C3=D0=B6=D4=D8 api =A1=A3=CA=C2=CA=B5=C9=CF=A3=AC=D2=BB=
+=B8=F6=B8=F6=D7=CA=D4=B4=CE=C4=BC=FE=D6=F7=B6=AF=D0=B6=D4=D8=D2=B2=B2=BB=CA=
+=B5=D3=C3=A1=A3</p>
+
+<p>=BF=BC=C2=C7=B5=BD=D5=BC=D3=C3=C4=DA=B4=E6=D7=EE=B4=F3=B5=C4 asset =CA=
+=C7=CC=F9=CD=BC=A3=AC=CE=D2=C3=C7=D3=D6=B6=D4=CC=F9=CD=BC=D7=F6=C1=CB=D2=BB=
+=D0=A9=CC=D8=CA=E2=B4=A6=C0=ED=A3=BA</p>
+
+<p>=CB=F9=D3=D0=B5=C4=CC=F9=CD=BC=B6=BC=BF=C9=D2=D4=D3=C3=D2=BB=D5=C5=BF=D5=
+=B0=D7=CC=F9=CD=BC=D7=F7=CE=AA=CC=E6=B4=FA=A1=A3=D2=FD=C7=E6=D3=D0=C8=A8=D4=
+=DA=C8=CE=BA=CE=CA=B1=BA=F2=A3=A8=CD=A8=B3=A3=CA=C7=C4=DA=B4=E6=B2=BB=D7=E3=
+=CA=B1=A3=A9=D6=F7=B6=AF=CA=CD=B7=C5=B3=A4=C6=DA=CE=B4=CA=B9=D3=C3=B5=C4=CC=
+=F9=CD=BC=A3=AC=B2=A2=BB=BB=D3=C3=CC=E6=B4=FA=A1=A3=D5=E2=B8=F6=CC=D8=D0=D4=
+=D2=B2=BF=C9=D2=D4=BA=DC=BA=C3=B5=C4=CA=CA=C5=E4=D2=EC=B2=BD=BC=D3=D4=D8=B9=
+=FD=B3=CC=A1=A3</p>
+
+<p>=CB=F9=D2=D4=A3=AC=CE=B4=CA=CD=B7=C5=B5=C4=CC=F9=CD=BC=B2=A2=B2=BB=BB=E1=
+=B3=C5=C2=FA=C4=DA=B4=E6=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/06=
+/asset_mgr_rework.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "Ant =B5=C4=D7=CA=D4=
+=B4=C4=DA=B4=E6=B9=DC=C0=ED" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 03:53 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/06/asset_mgr_rework.=
+html">=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+06/asset_mgr_rework.html#comments">=C1=F4=D1=D4 (0)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/05/farewell.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1234"
+    dc:title=3D"=D6=D8=D0=C2=C6=F4=B3=CC"
+    dc:identifier=3D"https://blog.codingnow.com/2024/05/farewell.html"
+    dc:subject=3D"=D4=D3=BC=C7"
+    dc:description=3D"=BD=F1=CC=EC=A3=AC=CA=C7=CE=D2=D4=DA=B9=E3=D6=DD=B0=
+=A2=C0=EF=D6=D0=D0=C4=B0=EC=B9=AB=B5=C4=D7=EE=BA=F3=D2=BB=CC=EC=A1=A3=CB=E4=
+=C8=BB Last day =C9=E8=B6=A8=D4=DA=C1=CB 5 =D4=C2 20 =C8=D5=A3=AC=B5=AB=BA=
+=F3=C3=E6=C8=AB=B2=BF=CA=C7=BC=D9=C6=DA=A3=AC=D3=A6=B8=C3=B2=BB=BB=E1=D4=D9=
+=BB=D8=C0=B4=D5=E2=C0=EF=A1=A3=D5=E2=D0=A9=C4=EA=B5=C4=C4=EA=BC=D9=CE=D2=B6=
+=BC=C3=BB=D3=D0=D3=C3=B9=FD=A3=AC=D7=DC=CA=C7=B5=BD=C4=EA=B5=D7=D7=D4=B6=AF=
+=D7=F7=B7=CF=A3=AC=BD=F1=C4=EA=CB=E3=CA=C7=D0=DD=C8=AB=A3=A8=D2=BB=D0=A1=B0=
+=EB=A3=A9=C1=CB=A1=A3 =BB=D8=B9=CB=CE=D2=B5=C4=D6=B0=D2=B5=C9=FA=D1=C4=A3=
+=AC2001 =C4=EA=D6=AE=C7=B0=D4=DA=B1=B1=BE=A9=BE=AD=C0=FA=C1=CB=B4=B4=D2=B5=
+=A3=AC=B6=F8=BA=F3=D3=D6=B6=CC=D4=DD=B5=C4=B9=A4=D7=F7=C1=CB=CA=FD=D4=C2=A1=
+=A3=D6=AE=BA=F3=B1=E3=D4=DA=CD=F8=D2=D7=B9=A4=D7=F7=C1=CB=CA=AE=C4=EA =A3=
+=AC=D6=B1=B5=BD 2011 =C4=EA=C0=EB=BF=AA =A1=A32011 =C4=EA=B5=D7=A3=AC=CE=D2=
+=C3=C7=B4=B4=B0=EC=C1=CB=BC=F2=D4=C3=A3=AC=D4=AD=B1=BE=D2=D4=CE=AA=BB=E1=B0=
+=D1=D5=E2=BC=D2=B9=AB=CB=BE=D2=BB=D6=B1=BF=AA=CF=C2=C8=A5=A3=AC=B5=AB=D4=DA=
+=B8=F7=D6=D6=BB=FA=D4=B5=CF=C2=A3=AC=D3=DA 2017 =C4=EA=B5=D7=B1=BB=B0=A2=C0=
+=EF=B0=CD=B0=CD=CA=D5=B9=BA=A1=A3=D6=AE=BA=F3=A3=AC=CE=D2=B1=E3=CD=CB=B3=F6=
+=B9=AB=CB=BE=B5=C4=B9=DC=C0=ED=A3=AC=D7=A8=D0=C4=BF=AA=B7=A2=D3=CE=CF=B7=D2=
+=FD=C7=E6=A1=A3 =C3=BF=B6=CE=BE=AD=C0=FA=A3=AC=D3=A1=D6=A4=D7=C5=B2=BB=CD=
+=AC=B5=C4=D0=C4=BE=B3=A1=A3=D0=D2=D4=CB=B5=C4=CA=C7=A3=AC=C3=BF=B4=CE=BF=AA=
+=CA=BC=BA=CD=BD=E1=CA=F8=A3=AC=B6=BC=CA=C7=CE=D2=B5=C4=D7=D4=D6=F7=D1=A1=D4=
+=F1=A1=A3=B8=D0=D0=BB=C4=C7=D0=A9=C8=DD=C8=CC=D7=C5=CE=D2=B5=C4=C8=CE=D0=D4=
+=B5=C4=BB=EF=B0=E9=A3=AC=B6=F8=CE=D2=D6=B4=D7=C5=D3=DA=D7=D4=BC=BA=CF=EB=B7=
+=A8=B5=C4=CD=AC=CA=B1=A3=AC=D2=B2=BB=D8=B1=A8=C1=CB=D6=DC=D4=E2=B5=C4=C8=CB=
+=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-05-06T09:51:56+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">May 06, 2024</h2>
+                     <a id=3D"a001274"></a>
+                     <div class=3D"entry" id=3D"entry-1274">
+                        <h3 class=3D"entry-header">=D6=D8=D0=C2=C6=F4=B3=CC=
+</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=BD=F1=CC=EC=A3=AC=CA=C7=CE=D2=D4=DA=B9=E3=D6=
+=DD=B0=A2=C0=EF=D6=D0=D0=C4=B0=EC=B9=AB=B5=C4=D7=EE=BA=F3=D2=BB=CC=EC=A1=A3=
+=CB=E4=C8=BB Last day =C9=E8=B6=A8=D4=DA=C1=CB 5 =D4=C2 20 =C8=D5=A3=AC=B5=
+=AB=BA=F3=C3=E6=C8=AB=B2=BF=CA=C7=BC=D9=C6=DA=A3=AC=D3=A6=B8=C3=B2=BB=BB=E1=
+=D4=D9=BB=D8=C0=B4=D5=E2=C0=EF=A1=A3=D5=E2=D0=A9=C4=EA=B5=C4=C4=EA=BC=D9=CE=
+=D2=B6=BC=C3=BB=D3=D0=D3=C3=B9=FD=A3=AC=D7=DC=CA=C7=B5=BD=C4=EA=B5=D7=D7=D4=
+=B6=AF=D7=F7=B7=CF=A3=AC=BD=F1=C4=EA=CB=E3=CA=C7=D0=DD=C8=AB=A3=A8=D2=BB=D0=
+=A1=B0=EB=A3=A9=C1=CB=A1=A3</p>
+
+<p>=BB=D8=B9=CB=CE=D2=B5=C4=D6=B0=D2=B5=C9=FA=D1=C4=A3=AC<a href=3D"https:/=
+/blog.codingnow.com/2008/04/passed_days_1.html">2001 =C4=EA=D6=AE=C7=B0=D4=
+=DA=B1=B1=BE=A9=BE=AD=C0=FA=C1=CB=B4=B4=D2=B5</a>=A3=AC=B6=F8=BA=F3=D3=D6<a=
+ href=3D"https://blog.codingnow.com/2008/05/passed_days_2.html">=B6=CC=D4=
+=DD=B5=C4=B9=A4=D7=F7=C1=CB=CA=FD=D4=C2</a>=A1=A3=D6=AE=BA=F3=B1=E3<a href=
+=3D"https://blog.codingnow.com/2011/04/ten_years_in_netease.html">=D4=DA=CD=
+=F8=D2=D7=B9=A4=D7=F7=C1=CB=CA=AE=C4=EA</a> =A3=AC<a href=3D"https://blog.c=
+odingnow.com/2011/09/new_beginning.html">=D6=B1=B5=BD 2011 =C4=EA=C0=EB=BF=
+=AA</a> =A1=A32011 =C4=EA=B5=D7=A3=AC<a href=3D"https://blog.codingnow.com/=
+2011/09/jianyue.html">=CE=D2=C3=C7=B4=B4=B0=EC=C1=CB=BC=F2=D4=C3</a>=A3=AC=
+=D4=AD=B1=BE=D2=D4=CE=AA=BB=E1=B0=D1=D5=E2=BC=D2=B9=AB=CB=BE=D2=BB=D6=B1=BF=
+=AA=CF=C2=C8=A5=A3=AC=B5=AB=D4=DA=B8=F7=D6=D6=BB=FA=D4=B5=CF=C2=A3=AC=D3=DA=
+ 2017 =C4=EA=B5=D7=B1=BB=B0=A2=C0=EF=B0=CD=B0=CD=CA=D5=B9=BA=A1=A3=D6=AE=BA=
+=F3=A3=AC=CE=D2=B1=E3=CD=CB=B3=F6=B9=AB=CB=BE=B5=C4=B9=DC=C0=ED=A3=AC<a hre=
+f=3D"https://blog.codingnow.com/2017/12/mobile_3d_engine.html">=D7=A8=D0=C4=
+=BF=AA=B7=A2=D3=CE=CF=B7=D2=FD=C7=E6</a>=A1=A3</p>
+
+<p>=C3=BF=B6=CE=BE=AD=C0=FA=A3=AC=D3=A1=D6=A4=D7=C5=B2=BB=CD=AC=B5=C4=D0=C4=
+=BE=B3=A1=A3=D0=D2=D4=CB=B5=C4=CA=C7=A3=AC=C3=BF=B4=CE=BF=AA=CA=BC=BA=CD=BD=
+=E1=CA=F8=A3=AC=B6=BC=CA=C7=CE=D2=B5=C4=D7=D4=D6=F7=D1=A1=D4=F1=A1=A3=B8=D0=
+=D0=BB=C4=C7=D0=A9=C8=DD=C8=CC=D7=C5=CE=D2=B5=C4=C8=CE=D0=D4=B5=C4=BB=EF=B0=
+=E9=A3=AC=B6=F8=CE=D2=D6=B4=D7=C5=D3=DA=D7=D4=BC=BA=CF=EB=B7=A8=B5=C4=CD=AC=
+=CA=B1=A3=AC=D2=B2=BB=D8=B1=A8=C1=CB=D6=DC=D4=E2=B5=C4=C8=CB=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/05=
+/farewell.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "=D6=D8=D0=C2=C6=F4=B3=CC" &#=
+187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 09:51 AM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/05/farewell.html">=
+=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+05/farewell.html#comments">=C1=F4=D1=D4 (136)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/05/skinmesh_instancing.htm=
+l"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1233"
+    dc:title=3D"=B4=F3=C5=FA=C1=BF=B6=AF=BB=AD=C4=A3=D0=CD=B5=C4=D3=C5=BB=
+=AF"
+    dc:identifier=3D"https://blog.codingnow.com/2024/05/skinmesh_instancing=
+.html"
+    dc:subject=3D"Ant Engine"
+    dc:description=3D"=D7=EE=BD=FC=BA=CD=B9=AB=CB=BE=D2=BB=B8=F6=BF=AA=B7=
+=A2=CD=C5=B6=D3=CC=BD=CC=D6=C1=CB=D2=BB=CF=C2=CB=FB=C3=C7=D5=FD=D4=DA=BF=AA=
+=B7=A2=B5=C4=D3=CE=CF=B7=D6=D0=D3=F6=B5=BD=B5=C4=D0=D4=C4=DC=CE=CA=CC=E2=A3=
+=AC=BF=B4=BF=B4=D3=A6=B8=C3=C8=E7=BA=CE=D3=C5=BB=AF=A1=A3=D5=E2=B8=F6=D3=CE=
+=CF=B7=B5=C4=D5=BD=B6=B7=B3=A1=BE=B0=CF=EB=C4=A3=B7=C2=D2=DA=CD=F2=BD=A9=CA=
+=AC(They are billions=A3=A9=B5=C4=B3=A1=BE=B0=A1=A3=D4=DA=D2=DA=CD=F2=BD=A9=
+=CA=AC=D6=D0=A3=AC=B3=A1=BE=B0=D6=D0=C3=E8=BB=E6=C1=CB=C9=CF=CD=F2=B5=C4=BD=
+=A9=CA=AC=B3=B1=A3=AC=B5=AB=CE=D2=C3=C7=D5=E2=B8=F6=D3=CE=CF=B7=A3=AC=B3=AC=
+=B9=FD 500 =B8=F6=BD=A9=CA=AC=BE=CD=D3=F6=B5=BD=C1=CB=D0=D4=C4=DC=CE=CA=CC=
+=E2=A1=A3=B9=CC=C8=BB=A3=AC=CA=D6=BB=FA=B5=C4=D3=B2=BC=FE=D0=D4=C4=DC=B1=C8=
+=B2=BB=C9=CF PC =A3=AC=B5=AB 500 =D5=E2=B8=F6=CA=FD=C1=BF=BC=B6=BB=B9=CA=C7=
+=C2=D4=B5=CD=D3=DA=D4=A4=C6=DA=A1=A3 =B6=D4=D3=DA=D3=CE=CF=B7=D6=D0=B4=F3=
+=C1=BF=C0=E0=CB=C6=B5=C4=B6=AF=BB=AD=CE=EF=CC=E5=A3=AC=BF=CF=B6=A8=D3=D0=B7=
+=BD=B7=A8=BF=C9=D2=D4=D3=C5=BB=AF=A1=A3=CE=D2=C3=C7=C0=B4=BF=B4=BF=B4=E4=D6=
+=C8=BE=D5=E2=D0=A9=B6=AF=BB=AD=BF=C9=D0=D0=B5=C4=D3=C5=BB=AF=B7=BD=CF=F2=A3=
+=BA =B3=A3=BC=FB=B5=C4=B7=BD=CA=BD=CA=C7=B0=D1=BD=A9=CA=AC=CF=C8=D4=A4=E4=
+=D6=C8=BE=B3=C9=CD=BC=C6=AC=A3=AC=B6=F8=B6=AF=BB=AD=D7=D4=C8=BB=BE=CD=CA=C7=
+=B6=E0=B8=F6=CD=BC=C6=AC=D6=A1=A1=A3=B6=D4=D3=DA=D2=DA=CD=F2=BD=A9=CA=AC=D5=
+=E2=B8=F6=D3=CE=CF=B7=C0=B4=CB=B5=A3=AC=CB=FC=B1=BE=C9=ED=BE=CD=CA=C7=BB=F9=
+=D3=DA 2D =E4=D6=C8=BE=D2=FD=C7=E6=B5=C4=A3=AC=D5=E2=C3=B4=D7=F6=CE=DE=BF=
+=C9=BA=F1=B7=C7=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-05-03T15:03:58+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">May 03, 2024</h2>
+                     <a id=3D"a001273"></a>
+                     <div class=3D"entry" id=3D"entry-1273">
+                        <h3 class=3D"entry-header">=B4=F3=C5=FA=C1=BF=B6=AF=
+=BB=AD=C4=A3=D0=CD=B5=C4=D3=C5=BB=AF</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=D7=EE=BD=FC=BA=CD=B9=AB=CB=BE=D2=BB=B8=F6=BF=
+=AA=B7=A2=CD=C5=B6=D3=CC=BD=CC=D6=C1=CB=D2=BB=CF=C2=CB=FB=C3=C7=D5=FD=D4=DA=
+=BF=AA=B7=A2=B5=C4=D3=CE=CF=B7=D6=D0=D3=F6=B5=BD=B5=C4=D0=D4=C4=DC=CE=CA=CC=
+=E2=A3=AC=BF=B4=BF=B4=D3=A6=B8=C3=C8=E7=BA=CE=D3=C5=BB=AF=A1=A3=D5=E2=B8=F6=
+=D3=CE=CF=B7=B5=C4=D5=BD=B6=B7=B3=A1=BE=B0=CF=EB=C4=A3=B7=C2=D2=DA=CD=F2=BD=
+=A9=CA=AC(They are billions=A3=A9=B5=C4=B3=A1=BE=B0=A1=A3=D4=DA=D2=DA=CD=F2=
+=BD=A9=CA=AC=D6=D0=A3=AC=B3=A1=BE=B0=D6=D0=C3=E8=BB=E6=C1=CB=C9=CF=CD=F2=B5=
+=C4=BD=A9=CA=AC=B3=B1=A3=AC=B5=AB=CE=D2=C3=C7=D5=E2=B8=F6=D3=CE=CF=B7=A3=AC=
+=B3=AC=B9=FD 500 =B8=F6=BD=A9=CA=AC=BE=CD=D3=F6=B5=BD=C1=CB=D0=D4=C4=DC=CE=
+=CA=CC=E2=A1=A3=B9=CC=C8=BB=A3=AC=CA=D6=BB=FA=B5=C4=D3=B2=BC=FE=D0=D4=C4=DC=
+=B1=C8=B2=BB=C9=CF PC =A3=AC=B5=AB 500 =D5=E2=B8=F6=CA=FD=C1=BF=BC=B6=BB=B9=
+=CA=C7=C2=D4=B5=CD=D3=DA=D4=A4=C6=DA=A1=A3</p>
+
+<p>=B6=D4=D3=DA=D3=CE=CF=B7=D6=D0=B4=F3=C1=BF=C0=E0=CB=C6=B5=C4=B6=AF=BB=AD=
+=CE=EF=CC=E5=A3=AC=BF=CF=B6=A8=D3=D0=B7=BD=B7=A8=BF=C9=D2=D4=D3=C5=BB=AF=A1=
+=A3=CE=D2=C3=C7=C0=B4=BF=B4=BF=B4=E4=D6=C8=BE=D5=E2=D0=A9=B6=AF=BB=AD=BF=C9=
+=D0=D0=B5=C4=D3=C5=BB=AF=B7=BD=CF=F2=A3=BA</p>
+
+<p>=B3=A3=BC=FB=B5=C4=B7=BD=CA=BD=CA=C7=B0=D1=BD=A9=CA=AC=CF=C8=D4=A4=E4=D6=
+=C8=BE=B3=C9=CD=BC=C6=AC=A3=AC=B6=F8=B6=AF=BB=AD=D7=D4=C8=BB=BE=CD=CA=C7=B6=
+=E0=B8=F6=CD=BC=C6=AC=D6=A1=A1=A3=B6=D4=D3=DA=D2=DA=CD=F2=BD=A9=CA=AC=D5=E2=
+=B8=F6=D3=CE=CF=B7=C0=B4=CB=B5=A3=AC=CB=FC=B1=BE=C9=ED=BE=CD=CA=C7=BB=F9=D3=
+=DA 2D =E4=D6=C8=BE=D2=FD=C7=E6=B5=C4=A3=AC=D5=E2=C3=B4=D7=F6=CE=DE=BF=C9=
+=BA=F1=B7=C7=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/05=
+/skinmesh_instancing.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "=B4=F3=C5=FA=C1=
+=BF=B6=AF=BB=AD=C4=A3=D0=CD=B5=C4=D3=C5=BB=AF" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 03:03 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/05/skinmesh_instanci=
+ng.html">=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+05/skinmesh_instancing.html#comments">=C1=F4=D1=D4 (2)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/04/death.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1232"
+    dc:title=3D"=CB=C0=CD=F6"
+    dc:identifier=3D"https://blog.codingnow.com/2024/04/death.html"
+    dc:subject=3D"=D4=D3=BC=C7"
+    dc:description=3D"=D4=E7=C9=CF=C9=CF=B0=E0=B5=C4=C2=B7=C9=CF=A3=AC=D4=
+=DA=B1=D8=BE=AD=B5=C4=D2=BB=CC=F5=C2=ED=C2=B7=A3=AC=BF=B4=B5=BD=D2=BB=B8=F6=
+=C0=B6=D2=C2=C8=CB=C5=BF=D4=DA=C2=B7=D6=D0=BC=E4=B8=F4=C0=EB=B4=F8=B5=C4=CB=
+=AE=C4=E0=D7=AE=C9=CF=A1=A3=B3=B5=C1=F7=B1=C8=BD=CF=B4=F3=A3=AC=D2=BB=BB=CE=
+=BE=CD=BF=AA=B9=FD=C8=A5=C1=CB=A1=A3=CE=D2=CE=CA=D7=F8=D4=DA=B8=B1=BC=DD=CA=
+=BB=B5=C4=C0=CF=C6=C5=A3=BA=B8=D5=B2=C5=C4=C7=B8=F6=C8=CB=BA=C3=C6=E6=B9=D6=
+=B0=A1=A1=A3=CB=FD=CB=B5=CA=C7=B0=A1=A3=AC=C4=C7=B8=F6=C8=CB=D4=F5=C3=B4=C1=
+=CB=A3=BF=CE=D2=CB=B5=A3=AC=D7=F2=CC=EC=C4=E3=C3=BB=BF=B4=B5=BD=C2=F0=A3=BF=
+=CB=FB=B1=A3=B3=D6=C4=C7=B8=F6=D7=CB=CA=C6=D2=D1=BE=AD=D2=BB=D5=FB=CC=EC=C1=
+=CB=A3=AC=B8=D0=BE=F5=C1=AC=CA=D6=D6=B8=CD=B7=B6=BC=C3=BB=B6=AF=B9=FD=A1=A3=
+ =CB=B5=B5=BD=D5=E2=C0=EF=A3=AC=CE=D2=B8=CF=BD=F4=B0=D1=B3=B5=BF=BF=B1=DF=
+=CD=A3=CF=C2=C0=B4=B4=F2=C1=CB 110 =A3=AC=B8=BD=BD=FC=B5=C4=C5=C9=B3=F6=CB=
+=F9=C1=AA=CF=B5=C1=CB=CE=D2=A3=AC=CB=B5=C2=ED=C9=CF=C5=C9=C8=CB=B9=FD=C8=A5=
+=BF=B4=BF=B4=A1=A3=CE=D2=B5=C4=D0=C4=C7=E9=BE=C3=BE=C3=B2=BB=C4=DC=C6=BD=BE=
+=B2=A1=A3=D7=DF=D4=DA=C2=B7=C9=CF=A3=AC=CE=D2=CF=B2=BB=B6=B9=DB=B2=EC=CB=C4=
+=D6=DC=B5=C4=CF=B8=BD=DA=A3=AC=C6=E4=CA=B5=D7=F2=CC=EC=BE=CD=B8=D0=BE=F5=B2=
+=BB=B6=D4=C1=CB=A1=A3=C2=B7=C9=CF=C3=BB=D3=D0=D1=AA=BC=A3=A3=AC=CE=D2=D2=D4=
+=CE=AA=CB=FB/=CB=FD=A3=A8=BF=B4=B2=BB=B5=BD=C1=B3=A3=A9=CA=C7=D4=DA=B7=AD=
+=D4=BD=B8=F4=C0=EB=B4=F8=CA=B1=C9=ED=CC=E5=B2=BB=CA=E6=B7=FE=CF=EB=D0=DD=CF=
+=A2=D2=BB=CF=C2=A1=A3=B5=AB=D2=BB=B8=F6=C8=CB=B1=A3=B3=D6=C4=C7=D6=D6=D7=CB=
+=CA=C6=BC=B8=B7=D6=D6=D3=B6=F8=B2=BB=B6=AF=BF=CF=B6=A8=B2=BB=D5=FD=B3=A3=A1=
+=A3=C8=E7=B9=FB=D7=F2=CC=EC=D5=E2=B8=F6=CA=B1=BA=F2=BE=CD=B1=A8=BE=AF=BB=F2=
+=D0=ED=B8=FC=BA=C3=C4=D8=A3=BF..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-04-17T10:17:02+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">April 17, 2024</h2>
+                     <a id=3D"a001272"></a>
+                     <div class=3D"entry" id=3D"entry-1272">
+                        <h3 class=3D"entry-header">=CB=C0=CD=F6</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=D4=E7=C9=CF=C9=CF=B0=E0=B5=C4=C2=B7=C9=CF=A3=
+=AC=D4=DA=B1=D8=BE=AD=B5=C4=D2=BB=CC=F5=C2=ED=C2=B7=A3=AC=BF=B4=B5=BD=D2=BB=
+=B8=F6=C0=B6=D2=C2=C8=CB=C5=BF=D4=DA=C2=B7=D6=D0=BC=E4=B8=F4=C0=EB=B4=F8=B5=
+=C4=CB=AE=C4=E0=D7=AE=C9=CF=A1=A3=B3=B5=C1=F7=B1=C8=BD=CF=B4=F3=A3=AC=D2=BB=
+=BB=CE=BE=CD=BF=AA=B9=FD=C8=A5=C1=CB=A1=A3=CE=D2=CE=CA=D7=F8=D4=DA=B8=B1=BC=
+=DD=CA=BB=B5=C4=C0=CF=C6=C5=A3=BA=B8=D5=B2=C5=C4=C7=B8=F6=C8=CB=BA=C3=C6=E6=
+=B9=D6=B0=A1=A1=A3=CB=FD=CB=B5=CA=C7=B0=A1=A3=AC=C4=C7=B8=F6=C8=CB=D4=F5=C3=
+=B4=C1=CB=A3=BF=CE=D2=CB=B5=A3=AC=D7=F2=CC=EC=C4=E3=C3=BB=BF=B4=B5=BD=C2=F0=
+=A3=BF=CB=FB=B1=A3=B3=D6=C4=C7=B8=F6=D7=CB=CA=C6=D2=D1=BE=AD=D2=BB=D5=FB=CC=
+=EC=C1=CB=A3=AC=B8=D0=BE=F5=C1=AC=CA=D6=D6=B8=CD=B7=B6=BC=C3=BB=B6=AF=B9=FD=
+=A1=A3</p>
+
+<p>=CB=B5=B5=BD=D5=E2=C0=EF=A3=AC=CE=D2=B8=CF=BD=F4=B0=D1=B3=B5=BF=BF=B1=DF=
+=CD=A3=CF=C2=C0=B4=B4=F2=C1=CB 110 =A3=AC=B8=BD=BD=FC=B5=C4=C5=C9=B3=F6=CB=
+=F9=C1=AA=CF=B5=C1=CB=CE=D2=A3=AC=CB=B5=C2=ED=C9=CF=C5=C9=C8=CB=B9=FD=C8=A5=
+=BF=B4=BF=B4=A1=A3=CE=D2=B5=C4=D0=C4=C7=E9=BE=C3=BE=C3=B2=BB=C4=DC=C6=BD=BE=
+=B2=A1=A3=D7=DF=D4=DA=C2=B7=C9=CF=A3=AC=CE=D2=CF=B2=BB=B6=B9=DB=B2=EC=CB=C4=
+=D6=DC=B5=C4=CF=B8=BD=DA=A3=AC=C6=E4=CA=B5=D7=F2=CC=EC=BE=CD=B8=D0=BE=F5=B2=
+=BB=B6=D4=C1=CB=A1=A3=C2=B7=C9=CF=C3=BB=D3=D0=D1=AA=BC=A3=A3=AC=CE=D2=D2=D4=
+=CE=AA=CB=FB/=CB=FD=A3=A8=BF=B4=B2=BB=B5=BD=C1=B3=A3=A9=CA=C7=D4=DA=B7=AD=
+=D4=BD=B8=F4=C0=EB=B4=F8=CA=B1=C9=ED=CC=E5=B2=BB=CA=E6=B7=FE=CF=EB=D0=DD=CF=
+=A2=D2=BB=CF=C2=A1=A3=B5=AB=D2=BB=B8=F6=C8=CB=B1=A3=B3=D6=C4=C7=D6=D6=D7=CB=
+=CA=C6=BC=B8=B7=D6=D6=D3=B6=F8=B2=BB=B6=AF=BF=CF=B6=A8=B2=BB=D5=FD=B3=A3=A1=
+=A3=C8=E7=B9=FB=D7=F2=CC=EC=D5=E2=B8=F6=CA=B1=BA=F2=BE=CD=B1=A8=BE=AF=BB=F2=
+=D0=ED=B8=FC=BA=C3=C4=D8=A3=BF</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/04=
+/death.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "=CB=C0=CD=F6" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 10:17 AM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/04/death.html">=B9=
+=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+04/death.html#comments">=C1=F4=D1=D4 (13)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/04/ant_engine_optimization=
+.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1231"
+    dc:title=3D"Ant Engine =B5=C4=D2=BB=D0=A9=D3=C5=BB=AF"
+    dc:identifier=3D"https://blog.codingnow.com/2024/04/ant_engine_optimiza=
+tion.html"
+    dc:subject=3D"=D3=C5=BB=AF=D3=EB=BC=BC=C7=C9"
+    dc:description=3D"=D7=EE=BD=FC=D2=BB=B6=CE=CA=B1=BC=E4=B6=BC=D4=DA=B9=
+=AB=CB=BE=C4=DA=D1=B0=D5=D2=CF=EE=C4=BF=BF=C9=D2=D4=BA=CF=D7=F7=CD=C6=BD=F8=
+ Ant Engine =B5=C4=CA=B9=D3=C3=A1=A3=CE=D2=BE=F5=B5=C3=D7=D4=D1=D0=D2=FD=C7=
+=E6=B5=C4=D2=BB=B8=F6=D6=D8=D2=AA=D3=C5=CA=C6=D4=DA=D3=DA=CE=D2=C3=C7=BF=C9=
+=D2=D4=D5=EB=B6=D4=BE=DF=CC=E5=D3=CE=CF=B7=B8=FC=BA=C3=B5=C4=D7=F6=D0=D4=C4=
+=DC=D3=C5=BB=AF=A1=A3=D4=DA=C4=BF=B1=EA=C9=E8=B1=B8=D3=B2=BC=FE=D0=D4=C4=DC=
+=D4=CA=D0=ED=B5=C4=B7=B6=B3=EB=C4=DA=A3=AC=B0=D1=BB=AD=C3=E6=D6=CA=C1=BF=BA=
+=CD=BD=BB=BB=A5=CC=E5=D1=E9=D7=F6=B5=BD=B8=FC=BA=C3=A1=A3=B6=F8=CD=AC=D1=F9=
+=B5=C4=D3=C5=BB=AF=CA=D6=B6=CE=A3=AC=D4=DA=CD=A8=D3=C3=C9=CC=D2=B5=D2=FD=C7=
+=E6=C9=CF=C3=E6=D7=F6=BB=E1=C0=A7=C4=D1=B5=C4=B6=E0=A3=AC=C9=F5=D6=C1=CE=DE=
+=B7=A8=CB=B3=C0=FB=CD=EA=B3=C9=A1=A3 =CE=D2=C3=C7=D3=C3 Ant Engine =D6=C6=
+=D7=F7=B5=C4=B5=DA=D2=BB=BF=EE=D3=CE=CF=B7 Red Frontier =D4=DA=D2=BB=C4=EA=
+=C7=B0=CA=C7=D0=D4=C4=DC=CD=EA=C8=AB=B2=BB=B4=EF=B1=EA=B5=C4=A1=A3=CB=FC=D4=
+=DA iPhone 8 =C9=CF=C9=F5=D6=C1=B6=BC=B4=EF=B2=BB=B5=BD 30fps =A3=AC=CE=DE=
+=B7=A8=C1=F7=B3=A9=D3=CE=CF=B7=A1=A3=BA=DC=B6=E0=D0=D4=C4=DC=CE=CA=CC=E2=CA=
+=C7=D2=D1=D6=AA=CE=CA=CC=E2=A3=AC=B1=C8=C8=E7=CE=D2=C3=C7=D3=C3 Lua =B4=EE=
+=BD=A8=C1=CB=D5=FB=B8=F6=D2=FD=C7=E6=A3=AC=D2=BB=BF=AA=CA=BC=D6=BB=BF=BC=C2=
+=C7=C1=CB=D2=FD=C7=E6=BD=E1=B9=B9=BA=CD=D5=FD=C8=B7=D0=D4=A3=AC=B0=D1=D0=D4=
+=C4=DC=B8=E9=D6=C3=D4=DA=D2=BB=B1=DF=B4=FD=BA=F3=C3=E6=D4=D9=B4=A6=C0=ED=A1=
+=A3 =D3=C5=BB=AF=B7=BD=B0=B8=CA=C7=D2=BB=BF=AA=CA=BC=BE=CD=CF=EB=BA=C3=B5=
+=C4=A3=BA=BD=E8=D6=FA lua ecs =BF=F2=BC=DC=A3=AC=B0=D1=CA=FD=BE=DD=BD=E1=B9=
+=B9=B7=C5=D4=DA C =C4=DA=B4=E6=D6=D0=A3=AC=B1=D8=D2=AA=CA=B1=BF=C9=D2=D4=C8=
+=C6=B9=FD Lua =B4=FA=C2=EB=A3=AC=D6=B1=BD=D3=D3=C3 C =B4=FA=C2=EB=BF=D8=D6=
+=C6=BA=CB=D0=C4=CA=FD=BE=DD=A1=A3=CE=D2=C3=C7=BB=A8=C1=CB=B4=F3=D4=BC 3 =B8=
+=F6=B6=E0=D4=C2=B5=C4=CA=B1=BC=E4=BD=AB=BA=CB=D0=C4=E4=D6=C8=BE=CF=B5=CD=B3=
+=D3=C3 C =D6=D8=D0=B4=BA=F3=A3=AC=BE=CD=B0=D1=D0=D4=C4=DC=CC=E1=B8=DF=C1=CB=
+ 1 =B8=F6=CA=FD=C1=BF=BC=B6=D2=D4=C9=CF=A1=A3=D5=E2=B8=F6=B9=FD=B3=CC=BF=C9=
+=D2=D4=CB=B5=CA=C7=D2=BB=D6=B1=D5=C6=CE=D5=D4=DA=CA=D6=D6=D0=A3=AC=B0=B4=BC=
+=C6=BB=AE=CD=C6=BD=F8=A1=A3 =B5=AB=BC=B4=CA=B9=BF=C9=D2=D4=C8=C3=D3=CE=CF=
+=B7=D4=CB=D0=D0=D4=DA 60fps =CF=C2=A3=AC=D3=C5=BB=AF=B5=C4=C4=BF=B1=EA=D2=
+=B2=D4=B6=D4=B6=C3=BB=D3=D0=B4=EF=B5=BD=A1=A3=D5=E2=CA=C7=D2=F2=CE=AA=B6=D4=
+=D3=DA=CA=D6=BB=FA=C9=E8=B1=B8=C0=B4=CB=B5=A3=AC=D3=C3=BB=A7=B8=FC=C8=DD=D2=
+=D7=B2=FA=C9=FA=B5=E7=C1=BF=BD=B9=C2=C7=A1=A3=D4=DA=B9=CC=B6=A8=D7=F9=CE=BB=
+=C9=CF=B2=E5=D7=C5=B5=E7=CD=E6=D6=F7=BB=FA=BB=F2 PC =D3=CE=CF=B7=A3=AC=CD=
+=E6=BC=D2=B2=BB=BB=E1=C8=A5=CF=EB=D3=CE=CF=B7=BB=FA=BA=C4=C1=CB=B6=E0=C9=D9=
+=B5=E7=A3=BB=BC=B4=CA=B9=B0=D1 switch..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-04-12T13:08:41+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">April 12, 2024</h2>
+                     <a id=3D"a001271"></a>
+                     <div class=3D"entry" id=3D"entry-1271">
+                        <h3 class=3D"entry-header">Ant Engine =B5=C4=D2=BB=
+=D0=A9=D3=C5=BB=AF</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=D7=EE=BD=FC=D2=BB=B6=CE=CA=B1=BC=E4=B6=BC=D4=
+=DA=B9=AB=CB=BE=C4=DA=D1=B0=D5=D2=CF=EE=C4=BF=BF=C9=D2=D4=BA=CF=D7=F7=CD=C6=
+=BD=F8 <a href=3D"https://github.com/ejoy/ant">Ant Engine</a> =B5=C4=CA=B9=
+=D3=C3=A1=A3=CE=D2=BE=F5=B5=C3=D7=D4=D1=D0=D2=FD=C7=E6=B5=C4=D2=BB=B8=F6=D6=
+=D8=D2=AA=D3=C5=CA=C6=D4=DA=D3=DA=CE=D2=C3=C7=BF=C9=D2=D4=D5=EB=B6=D4=BE=DF=
+=CC=E5=D3=CE=CF=B7=B8=FC=BA=C3=B5=C4=D7=F6=D0=D4=C4=DC=D3=C5=BB=AF=A1=A3=D4=
+=DA=C4=BF=B1=EA=C9=E8=B1=B8=D3=B2=BC=FE=D0=D4=C4=DC=D4=CA=D0=ED=B5=C4=B7=B6=
+=B3=EB=C4=DA=A3=AC=B0=D1=BB=AD=C3=E6=D6=CA=C1=BF=BA=CD=BD=BB=BB=A5=CC=E5=D1=
+=E9=D7=F6=B5=BD=B8=FC=BA=C3=A1=A3=B6=F8=CD=AC=D1=F9=B5=C4=D3=C5=BB=AF=CA=D6=
+=B6=CE=A3=AC=D4=DA=CD=A8=D3=C3=C9=CC=D2=B5=D2=FD=C7=E6=C9=CF=C3=E6=D7=F6=BB=
+=E1=C0=A7=C4=D1=B5=C4=B6=E0=A3=AC=C9=F5=D6=C1=CE=DE=B7=A8=CB=B3=C0=FB=CD=EA=
+=B3=C9=A1=A3</p>
+
+<p>=CE=D2=C3=C7=D3=C3 Ant Engine =D6=C6=D7=F7=B5=C4=B5=DA=D2=BB=BF=EE=D3=CE=
+=CF=B7 <a href=3D"https://github.com/ejoy/vaststars">Red Frontier</a> =D4=
+=DA=D2=BB=C4=EA=C7=B0=CA=C7=D0=D4=C4=DC=CD=EA=C8=AB=B2=BB=B4=EF=B1=EA=B5=C4=
+=A1=A3=CB=FC=D4=DA iPhone 8 =C9=CF=C9=F5=D6=C1=B6=BC=B4=EF=B2=BB=B5=BD 30fp=
+s =A3=AC=CE=DE=B7=A8=C1=F7=B3=A9=D3=CE=CF=B7=A1=A3=BA=DC=B6=E0=D0=D4=C4=DC=
+=CE=CA=CC=E2=CA=C7=D2=D1=D6=AA=CE=CA=CC=E2=A3=AC=B1=C8=C8=E7=CE=D2=C3=C7=D3=
+=C3 Lua =B4=EE=BD=A8=C1=CB=D5=FB=B8=F6=D2=FD=C7=E6=A3=AC=D2=BB=BF=AA=CA=BC=
+=D6=BB=BF=BC=C2=C7=C1=CB=D2=FD=C7=E6=BD=E1=B9=B9=BA=CD=D5=FD=C8=B7=D0=D4=A3=
+=AC=B0=D1=D0=D4=C4=DC=B8=E9=D6=C3=D4=DA=D2=BB=B1=DF=B4=FD=BA=F3=C3=E6=D4=D9=
+=B4=A6=C0=ED=A1=A3</p>
+
+<p>=D3=C5=BB=AF=B7=BD=B0=B8=CA=C7=D2=BB=BF=AA=CA=BC=BE=CD=CF=EB=BA=C3=B5=C4=
+=A3=BA=BD=E8=D6=FA lua ecs =BF=F2=BC=DC=A3=AC=B0=D1=CA=FD=BE=DD=BD=E1=B9=B9=
+=B7=C5=D4=DA C =C4=DA=B4=E6=D6=D0=A3=AC=B1=D8=D2=AA=CA=B1=BF=C9=D2=D4=C8=C6=
+=B9=FD Lua =B4=FA=C2=EB=A3=AC=D6=B1=BD=D3=D3=C3 C  =B4=FA=C2=EB=BF=D8=D6=C6=
+=BA=CB=D0=C4=CA=FD=BE=DD=A1=A3=CE=D2=C3=C7=BB=A8=C1=CB=B4=F3=D4=BC 3 =B8=F6=
+=B6=E0=D4=C2=B5=C4=CA=B1=BC=E4=BD=AB=BA=CB=D0=C4=E4=D6=C8=BE=CF=B5=CD=B3=D3=
+=C3 C =D6=D8=D0=B4=BA=F3=A3=AC=BE=CD=B0=D1=D0=D4=C4=DC=CC=E1=B8=DF=C1=CB 1 =
+=B8=F6=CA=FD=C1=BF=BC=B6=D2=D4=C9=CF=A1=A3=D5=E2=B8=F6=B9=FD=B3=CC=BF=C9=D2=
+=D4=CB=B5=CA=C7=D2=BB=D6=B1=D5=C6=CE=D5=D4=DA=CA=D6=D6=D0=A3=AC=B0=B4=BC=C6=
+=BB=AE=CD=C6=BD=F8=A1=A3</p>
+
+<p>=B5=AB=BC=B4=CA=B9=BF=C9=D2=D4=C8=C3=D3=CE=CF=B7=D4=CB=D0=D0=D4=DA 60fps=
+ =CF=C2=A3=AC=D3=C5=BB=AF=B5=C4=C4=BF=B1=EA=D2=B2=D4=B6=D4=B6=C3=BB=D3=D0=
+=B4=EF=B5=BD=A1=A3=D5=E2=CA=C7=D2=F2=CE=AA=B6=D4=D3=DA=CA=D6=BB=FA=C9=E8=B1=
+=B8=C0=B4=CB=B5=A3=AC=D3=C3=BB=A7=B8=FC=C8=DD=D2=D7=B2=FA=C9=FA=B5=E7=C1=BF=
+=BD=B9=C2=C7=A1=A3=D4=DA=B9=CC=B6=A8=D7=F9=CE=BB=C9=CF=B2=E5=D7=C5=B5=E7=CD=
+=E6=D6=F7=BB=FA=BB=F2 PC =D3=CE=CF=B7=A3=AC=CD=E6=BC=D2=B2=BB=BB=E1=C8=A5=
+=CF=EB=D3=CE=CF=B7=BB=FA=BA=C4=C1=CB=B6=E0=C9=D9=B5=E7=A3=BB=BC=B4=CA=B9=B0=
+=D1 switch =CD=E2=B4=F8=CD=E6=D3=CE=CF=B7=A3=AC=D2=B2=BF=C9=D2=D4=D2=BB=D6=
+=B1=CD=E6=B5=BD=C3=BB=B5=E7=A3=BB=B5=AB=D3=C3=CA=D6=BB=FA=B2=BB=B9=E2=CA=C7=
+=D3=C3=C0=B4=CD=E6=D3=CE=CF=B7=B5=C4=A3=AC=C8=E7=B9=FB=CF=FB=BA=C4=B5=E7=C1=
+=BF=CC=AB=BF=EC=A3=AC=CD=E6=BC=D2=BB=E1=B5=A3=D0=C4=CA=D6=BB=FA=B5=C8=D2=BB=
+=CF=C2=BB=E1=B2=BB=BB=E1=CE=DE=B7=A8=D6=A7=B8=B6=BD=BB=CD=A8=B7=D1=D3=C3=A3=
+=AC=B2=BB=C4=DC=C9=A8=C2=EB=B3=D4=B7=B9=A1=AD=A1=AD</p>
+
+<p>=CE=D2=C9=F5=D6=C1=D2=BB=B6=C8=BB=B3=D2=C9=A3=AC=CA=D6=BB=FA=B2=A2=B2=BB=
+=CA=CA=BA=CF=B3=A4=CA=B1=BC=E4=B3=C1=BD=FE=CA=BD=B5=C4=D3=CE=CF=B7=C0=E0=D0=
+=CD=A1=A3=BB=F2=D0=ED=B7=C5=D6=C3=D3=CE=CF=B7=D5=E2=C0=E0=CD=E6=D2=BB=CF=C2=
+=B7=C5=D2=BB=CF=C2=B5=C4=D3=CE=CF=B7=C0=E0=D0=CD=B8=FC=BA=CF=CA=CA=D2=BB=D0=
+=A9=A3=BF</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/04=
+/ant_engine_optimization.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "Ant Engine =
+=B5=C4=D2=BB=D0=A9=D3=C5=BB=AF" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 01:08 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/04/ant_engine_optimi=
+zation.html">=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+04/ant_engine_optimization.html#comments">=C1=F4=D1=D4 (5)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/03/ltask_schedule.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1230"
+    dc:title=3D"=D6=D8=B9=B9 ltask =B5=C4=C8=CE=CE=F1=B5=F7=B6=C8=C6=F7"
+    dc:identifier=3D"https://blog.codingnow.com/2024/03/ltask_schedule.html=
+"
+    dc:subject=3D"Ant Engine"
+    dc:description=3D"ltask =CA=C7 Ant engine =B5=C4=BB=F9=B4=A1=C9=E8=CA=
+=A9=D6=AE=D2=BB=A3=AC=D4=DA=B6=D4 Ant engine profile =B5=C4=B9=FD=B3=CC=D6=
+=D0=A3=AC=CE=D2=C3=C7=B7=A2=CF=D6=C1=CB ltask =B5=C4=D2=BB=D0=A9=D6=B5=B5=
+=C3=CC=E1=C9=FD=B5=C4=B5=D8=B7=BD=A1=A3 =CE=D2=C3=C7=CF=A3=CD=FB=BE=A1=BF=
+=C9=C4=DC=B5=C4=CC=E1=C9=FD=D3=CE=CF=B7=D6=A1=C2=CA=A3=AC=CB=F5=B6=CC=E4=D6=
+=C8=BE=C3=BF=D2=BB=D6=A1=B5=C4=B5=C4=CA=B1=BC=E4=A1=A3=D2=F2=CE=AA Ant engi=
+ne =CA=C7=D3=C9=BA=DC=B6=E0=B2=A2=D0=D0=C8=CE=CE=F1=B9=B9=B3=C9=B5=C4=A3=AC=
+=C8=CE=CE=F1=B5=F7=B6=C8=C6=F7=B5=C4=B2=DF=C2=D4=BB=E1=D6=B1=BD=D3=D3=B0=CF=
+=EC=B5=A5=D6=A1=D0=E8=D2=AA=B5=C4=CA=B1=BC=E4=A1=A3 ltask =CB=E4=C8=BB=BA=
+=CD skynet =CF=EB=BD=E2=BE=F6=B5=C4=CE=CA=CC=E2=CA=C7=D2=BB=D1=F9=B5=C4=A3=
+=BA=B9=DC=C0=ED m =B8=F6=CF=DF=B3=CC=A3=A8=C8=CE=CE=F1/=B7=FE=CE=F1=A3=A9=
+=A3=AC=C8=C3=CB=FC=C3=C7=D4=CB=D0=D0=D4=DA n =B8=F6 cpu =BA=CB=D0=C4=C9=CF=
+=A1=A3=B6=F8=CB=FC=C3=C7=B5=C4=D3=A6=D3=C3=B3=A1=BE=B0=B2=BB=CD=AC=A3=AClta=
+sk =C4=BF=C7=B0=D3=C3=D4=DA=D3=CE=CF=B7=BF=CD=BB=A7=B6=CB=A3=AC=CB=FC=D3=C9=
+=D2=BB=C1=BD=B8=F6=D6=D8=B8=BA=BA=C9=C8=CE=CE=F1=BA=CD=C8=F4=B8=C9=B5=CD=B8=
+=BA=BA=C9=C8=CE=CE=F1=B9=B9=B3=C9=A3=AC=D3=C5=BB=AF=C4=BF=B1=EA=CA=C7=B5=CD=
+=D1=D3=B3=D9=A3=BB=B6=F8 skynet =D6=F7=D2=AA=D3=C3=D4=DA=B7=FE=CE=F1=C6=F7=
+=C9=CF=A3=AC=D3=C9=CA=FD=D2=D4=C7=A7=BC=C6=B5=C4=C0=E0=CB=C6=B8=BA=BA=C9=B5=
+=C4=C8=CE=CE=F1=B9=B9=B3=C9=A3=AC=D3=C5=BB=AF=C4=BF=B1=EA=CA=C7=B8=DF=B8=BA=
+=D4=D8=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-03-22T10:30:37+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">March 22, 2024</h2>
+                     <a id=3D"a001270"></a>
+                     <div class=3D"entry" id=3D"entry-1270">
+                        <h3 class=3D"entry-header">=D6=D8=B9=B9 ltask =B5=
+=C4=C8=CE=CE=F1=B5=F7=B6=C8=C6=F7</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>ltask =CA=C7 Ant engine =B5=C4=BB=F9=B4=A1=C9=
+=E8=CA=A9=D6=AE=D2=BB=A3=AC=D4=DA=B6=D4 Ant engine profile =B5=C4=B9=FD=B3=
+=CC=D6=D0=A3=AC=CE=D2=C3=C7=B7=A2=CF=D6=C1=CB ltask =B5=C4=D2=BB=D0=A9=D6=
+=B5=B5=C3=CC=E1=C9=FD=B5=C4=B5=D8=B7=BD=A1=A3</p>
+
+<p>=CE=D2=C3=C7=CF=A3=CD=FB=BE=A1=BF=C9=C4=DC=B5=C4=CC=E1=C9=FD=D3=CE=CF=B7=
+=D6=A1=C2=CA=A3=AC=CB=F5=B6=CC=E4=D6=C8=BE=C3=BF=D2=BB=D6=A1=B5=C4=B5=C4=CA=
+=B1=BC=E4=A1=A3=D2=F2=CE=AA Ant engine =CA=C7=D3=C9=BA=DC=B6=E0=B2=A2=D0=D0=
+=C8=CE=CE=F1=B9=B9=B3=C9=B5=C4=A3=AC=C8=CE=CE=F1=B5=F7=B6=C8=C6=F7=B5=C4=B2=
+=DF=C2=D4=BB=E1=D6=B1=BD=D3=D3=B0=CF=EC=B5=A5=D6=A1=D0=E8=D2=AA=B5=C4=CA=B1=
+=BC=E4=A1=A3</p>
+
+<p>ltask =CB=E4=C8=BB=BA=CD skynet =CF=EB=BD=E2=BE=F6=B5=C4=CE=CA=CC=E2=CA=
+=C7=D2=BB=D1=F9=B5=C4=A3=BA=B9=DC=C0=ED m =B8=F6=CF=DF=B3=CC=A3=A8=C8=CE=CE=
+=F1/=B7=FE=CE=F1=A3=A9=A3=AC=C8=C3=CB=FC=C3=C7=D4=CB=D0=D0=D4=DA n =B8=F6 c=
+pu =BA=CB=D0=C4=C9=CF=A1=A3=B6=F8=CB=FC=C3=C7=B5=C4=D3=A6=D3=C3=B3=A1=BE=B0=
+=B2=BB=CD=AC=A3=ACltask =C4=BF=C7=B0=D3=C3=D4=DA=D3=CE=CF=B7=BF=CD=BB=A7=B6=
+=CB=A3=AC=CB=FC=D3=C9=D2=BB=C1=BD=B8=F6=D6=D8=B8=BA=BA=C9=C8=CE=CE=F1=BA=CD=
+=C8=F4=B8=C9=B5=CD=B8=BA=BA=C9=C8=CE=CE=F1=B9=B9=B3=C9=A3=AC=D3=C5=BB=AF=C4=
+=BF=B1=EA=CA=C7=B5=CD=D1=D3=B3=D9=A3=BB=B6=F8 skynet =D6=F7=D2=AA=D3=C3=D4=
+=DA=B7=FE=CE=F1=C6=F7=C9=CF=A3=AC=D3=C9=CA=FD=D2=D4=C7=A7=BC=C6=B5=C4=C0=E0=
+=CB=C6=B8=BA=BA=C9=B5=C4=C8=CE=CE=F1=B9=B9=B3=C9=A3=AC=D3=C5=BB=AF=C4=BF=B1=
+=EA=CA=C7=B8=DF=B8=BA=D4=D8=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/03=
+/ltask_schedule.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "=D6=D8=B9=B9 ltask =B5=
+=C4=C8=CE=CE=F1=B5=F7=B6=C8=C6=F7" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 10:30 AM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/03/ltask_schedule.ht=
+ml">=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+03/ltask_schedule.html#comments">=C1=F4=D1=D4 (2)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/03/skynet_none_blocking_fu=
+nction.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1229"
+    dc:title=3D"=D2=D4=B7=C7=D7=E8=C8=FB=B7=BD=CA=BD=D6=B4=D0=D0=D2=BB=B8=
+=F6=BA=AF=CA=FD"
+    dc:identifier=3D"https://blog.codingnow.com/2024/03/skynet_none_blockin=
+g_function.html"
+    dc:subject=3D"skynet"
+    dc:description=3D"=D4=DA skynet =D6=D0=A3=AC=B7=FE=CE=F1=D6=AE=BC=E4=B2=
+=A2=D0=D0=D4=CB=D0=D0=A3=AC=B6=F8=C3=BF=B8=F6=B7=FE=CE=F1=D7=D4=C9=ED=B5=C4=
+=D2=B5=CE=F1=B6=BC=CA=C7=B4=AE=D0=D0=B5=C4=A1=A3=D2=BB=B8=F6=B7=FE=CE=F1=D3=
+=C9=BF=AA=B7=A2=D5=DF=D7=D4=D0=D0=C7=D0=B7=D6=B3=C9=B6=E0=B8=F6=CA=B1=BC=E4=
+=C6=AC=A3=AC=C3=BF=B8=F6=CA=B1=BC=E4=C6=AC=B4=AE=D0=D0=D4=CB=D0=D0=D4=DA=B2=
+=BB=CD=AC=B5=C4=B9=A4=D7=F7=CF=DF=B3=CC=C9=CF=A1=A3=D7=EE=B3=A3=BC=FB=B5=C4=
+=D7=F6=B7=A8=CA=C7=D4=DA=C3=BF=B8=F6=B7=FE=CE=F1=D6=D0=D4=CB=D0=D0=D2=BB=B8=
+=F6 Lua =D0=E9=C4=E2=BB=FA=A3=AC=D3=C3 coroutine =C7=D0=B7=D6=CA=B1=BC=E4=
+=C6=AC=A3=AC=D5=E2=D1=F9=B4=D3=B1=E0=D0=B4=B4=FA=C2=EB=B5=C4=BD=C7=B6=C8=BF=
+=B4=A3=AC=C8=CE=CE=F1=CA=C7=C1=AC=D0=F8=B5=C4=A1=A3 =D5=E2=B8=F6=C9=E8=BC=
+=C6=B5=C4=C4=BF=B5=C4=CA=C7=A3=AC=C8=C3=BF=AA=B7=A2=D5=DF=C7=E1=CB=C9=CF=ED=
+=CA=DC=B5=BD=B6=E0=BA=CB=B4=F8=C0=B4=B5=C4=B2=A2=B7=A2=D0=D4=C4=DC=D3=C5=CA=
+=C6=A3=AC=CD=AC=CA=B1=BC=F5=C7=E1=B1=E0=D0=B4=B6=E0=CF=DF=B3=CC=B3=CC=D0=F2=
+=B4=F8=C0=B4=B5=C4=D0=C4=D6=C7=B8=BA=B5=A3=A1=A3 =D3=C3=B9=FD skynet =B5=C4=
+=D3=A6=B8=C3=B6=BC=C5=F6=B5=BD=B9=FD=A3=BA=B5=B1=CE=D2=C3=C7=D4=DA=B7=FE=CE=
+=F1=D6=D0=B2=BB=D0=A1=D0=C4=B5=F7=D3=C3=C1=CB=D2=BB=B8=F6=B3=A4=CA=B1=BC=E4=
+=D4=CB=D0=D0=B6=F8=B2=BB=B7=B5=BB=D8=B5=C4 C =BA=AF=CA=FD=A3=AC=BB=E1=B6=C0=
+=D5=BC=D2=BB=B8=F6=B9=A4=D7=F7=CF=DF=B3=CC=A1=A3=CD=AC=CA=B1=A3=AC=D5=E2=B8=
+=F6=B1=BB=D7=E8=C8=FB=B5=C4=B7=FE=CE=F1=D2=B2=CE=DE=B7=A8=B4=A6=C0=ED=D0=C2=
+=B5=C4=CF=FB=CF=A2=A1=A3=D2=BB=B5=A9=D5=E2=D6=D6=C7=E9=BF=F6=B7=A2=C9=FA=A3=
+=AC=BF=B4=CB=C6=CA=C7=CE=DE=BD=E2=B5=C4=A1=A3=CE=D2=C3=C7=CD=A8=B3=A3=C8=CF=
+=CE=AA=A3=AC=CA=C7=C9=E8=BC=C6=CE=CA=CC=E2=B5=BC=D6=C2=C1=CB=D5=E2=D6=D6=C7=
+=E9=BF=F6=B7=A2=C9=FA=A1=A3skynet =B5=C4=BF=F2=BC=DC=D4=DA=BC=E0=B2=E2=B5=
+=BD=D5=E2=D6=D6=C7=E9=BF=F6=B7=A2=C9=FA=CA=B1=A3=AC=BB=E1=CA=E4=B3=F6 maybe=
+ in an endless loop =A1=A3 =C8=E7=B9=FB=CA=C7 Lua =BA=AF=CA=FD=B2=FA=C9=FA=
+=B5=C4=CB=C0=D1=AD=BB=B7=A3=AC=BF=C9=D2=D4=CD=A8=B9=FD=B7=A2=CB=CD signal =
+=B4=F2=B6=CF=D5=FD=D4=DA=D4=CB=D0=D0=D4=CB=D0=D0=B5=C4 Lua =D0=E9=C4=E2=BB=
+=FA=A3=AC=B5=AB=C8=E7=B9=FB=CA=C7=CF=DD=C8=EB C =BA=AF=CA=FD=D6=D0=A3=AC=D6=
+=BB=C4=DC=CA=C2=BA=F3=D7=B7=B2=E9 bug =C1=CB=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-03-01T18:46:14+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">March 01, 2024</h2>
+                     <a id=3D"a001269"></a>
+                     <div class=3D"entry" id=3D"entry-1269">
+                        <h3 class=3D"entry-header">=D2=D4=B7=C7=D7=E8=C8=FB=
+=B7=BD=CA=BD=D6=B4=D0=D0=D2=BB=B8=F6=BA=AF=CA=FD</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=D4=DA skynet =D6=D0=A3=AC=B7=FE=CE=F1=D6=AE=
+=BC=E4=B2=A2=D0=D0=D4=CB=D0=D0=A3=AC=B6=F8=C3=BF=B8=F6=B7=FE=CE=F1=D7=D4=C9=
+=ED=B5=C4=D2=B5=CE=F1=B6=BC=CA=C7=B4=AE=D0=D0=B5=C4=A1=A3=D2=BB=B8=F6=B7=FE=
+=CE=F1=D3=C9=BF=AA=B7=A2=D5=DF=D7=D4=D0=D0=C7=D0=B7=D6=B3=C9=B6=E0=B8=F6=CA=
+=B1=BC=E4=C6=AC=A3=AC=C3=BF=B8=F6=CA=B1=BC=E4=C6=AC=B4=AE=D0=D0=D4=CB=D0=D0=
+=D4=DA=B2=BB=CD=AC=B5=C4=B9=A4=D7=F7=CF=DF=B3=CC=C9=CF=A1=A3=D7=EE=B3=A3=BC=
+=FB=B5=C4=D7=F6=B7=A8=CA=C7=D4=DA=C3=BF=B8=F6=B7=FE=CE=F1=D6=D0=D4=CB=D0=D0=
+=D2=BB=B8=F6 Lua =D0=E9=C4=E2=BB=FA=A3=AC=D3=C3 coroutine =C7=D0=B7=D6=CA=
+=B1=BC=E4=C6=AC=A3=AC=D5=E2=D1=F9=B4=D3=B1=E0=D0=B4=B4=FA=C2=EB=B5=C4=BD=C7=
+=B6=C8=BF=B4=A3=AC=C8=CE=CE=F1=CA=C7=C1=AC=D0=F8=B5=C4=A1=A3</p>
+
+<p>=D5=E2=B8=F6=C9=E8=BC=C6=B5=C4=C4=BF=B5=C4=CA=C7=A3=AC=C8=C3=BF=AA=B7=A2=
+=D5=DF=C7=E1=CB=C9=CF=ED=CA=DC=B5=BD=B6=E0=BA=CB=B4=F8=C0=B4=B5=C4=B2=A2=B7=
+=A2=D0=D4=C4=DC=D3=C5=CA=C6=A3=AC=CD=AC=CA=B1=BC=F5=C7=E1=B1=E0=D0=B4=B6=E0=
+=CF=DF=B3=CC=B3=CC=D0=F2=B4=F8=C0=B4=B5=C4=D0=C4=D6=C7=B8=BA=B5=A3=A1=A3</p=
+>
+
+<p>=D3=C3=B9=FD skynet =B5=C4=D3=A6=B8=C3=B6=BC=C5=F6=B5=BD=B9=FD=A3=BA=B5=
+=B1=CE=D2=C3=C7=D4=DA=B7=FE=CE=F1=D6=D0=B2=BB=D0=A1=D0=C4=B5=F7=D3=C3=C1=CB=
+=D2=BB=B8=F6=B3=A4=CA=B1=BC=E4=D4=CB=D0=D0=B6=F8=B2=BB=B7=B5=BB=D8=B5=C4 C =
+=BA=AF=CA=FD=A3=AC=BB=E1=B6=C0=D5=BC=D2=BB=B8=F6=B9=A4=D7=F7=CF=DF=B3=CC=A1=
+=A3=CD=AC=CA=B1=A3=AC=D5=E2=B8=F6=B1=BB=D7=E8=C8=FB=B5=C4=B7=FE=CE=F1=D2=B2=
+=CE=DE=B7=A8=B4=A6=C0=ED=D0=C2=B5=C4=CF=FB=CF=A2=A1=A3=D2=BB=B5=A9=D5=E2=D6=
+=D6=C7=E9=BF=F6=B7=A2=C9=FA=A3=AC=BF=B4=CB=C6=CA=C7=CE=DE=BD=E2=B5=C4=A1=A3=
+=CE=D2=C3=C7=CD=A8=B3=A3=C8=CF=CE=AA=A3=AC=CA=C7=C9=E8=BC=C6=CE=CA=CC=E2=B5=
+=BC=D6=C2=C1=CB=D5=E2=D6=D6=C7=E9=BF=F6=B7=A2=C9=FA=A1=A3skynet =B5=C4=BF=
+=F2=BC=DC=D4=DA=BC=E0=B2=E2=B5=BD=D5=E2=D6=D6=C7=E9=BF=F6=B7=A2=C9=FA=CA=B1=
+=A3=AC=BB=E1=CA=E4=B3=F6 <code>maybe in an endless loop</code> =A1=A3</p>
+
+<p>=C8=E7=B9=FB=CA=C7 Lua =BA=AF=CA=FD=B2=FA=C9=FA=B5=C4=CB=C0=D1=AD=BB=B7=
+=A3=AC=BF=C9=D2=D4=CD=A8=B9=FD=B7=A2=CB=CD signal =B4=F2=B6=CF=D5=FD=D4=DA=
+=D4=CB=D0=D0=D4=CB=D0=D0=B5=C4 Lua =D0=E9=C4=E2=BB=FA=A3=AC=B5=AB=C8=E7=B9=
+=FB=CA=C7=CF=DD=C8=EB C =BA=AF=CA=FD=D6=D0=A3=AC=D6=BB=C4=DC=CA=C2=BA=F3=D7=
+=B7=B2=E9 bug =C1=CB=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/03=
+/skynet_none_blocking_function.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "=D2=D4=
+=B7=C7=D7=E8=C8=FB=B7=BD=CA=BD=D6=B4=D0=D0=D2=BB=B8=F6=BA=AF=CA=FD" &#187;<=
+/a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 06:46 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/03/skynet_none_block=
+ing_function.html">=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+03/skynet_none_blocking_function.html#comments">=C1=F4=D1=D4 (5)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/02/vfs_plan.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1228"
+    dc:title=3D"=B9=D8=D3=DA=D0=E9=C4=E2=CE=C4=BC=FE=CF=B5=CD=B3=B5=C4=D2=
+=BB=D0=A9=D0=C2=CF=EB=B7=A8"
+    dc:identifier=3D"https://blog.codingnow.com/2024/02/vfs_plan.html"
+    dc:subject=3D"Ant Engine"
+    dc:description=3D"=D0=E9=C4=E2=CE=C4=BC=FE=CF=B5=CD=B3 (vfs) =CA=C7 Ant=
+ =D2=FD=C7=E6=B5=C4=BA=CB=D0=C4=C4=A3=BF=E9=A1=A3=D4=DA wiki =C9=CF=D3=D0=
+=BD=E9=C9=DC =A3=ACblog =C9=CF=D2=B2=D3=D0=D7=DC=BD=E1=A1=A3 =D7=EE=BD=FC=
+=D4=DA=B0=B4=C7=B0=B6=CE=CA=B1=BC=E4=C4=E2=B6=A8=B5=C4=CB=BC=C2=B7=D6=D8=B9=
+=B9=B1=E0=BC=AD=C6=F7=A1=A3=D4=DA=D5=E2=B8=F6=B9=FD=B3=CC=D6=D0=B6=D4 vfs =
+=D3=D0=C1=CB=D2=BB=D0=A9=D0=C2=CF=EB=B7=A8=A1=A3=B6=CC=C6=DA=C4=DA=B2=BB=B4=
+=F2=CB=E3=B0=D1=B9=A4=D7=F7=D6=D8=D0=C4=B7=C5=B5=BD=D6=D8=B9=B9 vfs =C9=CF=
+=C3=E6=A3=AC=CF=C8=BC=C7=C2=BC=D2=BB=CF=C2=A1=A3 =D7=EE=D4=E7=C9=E8=BC=C6 v=
+fs =B5=C4=CA=B1=BA=F2=A3=AC=CA=C7=B4=D3=CD=F8=C2=E7=CE=C4=BC=FE=CF=B5=CD=B3=
+=B5=C4=BD=C7=B6=C8=BF=B4=B4=FD=CB=FC=B5=C4=A1=A3=CE=D2=B0=D1=CB=FC=C9=E8=CF=
+=EB=CE=AA=D2=BB=B8=F6=C0=E0=CB=C6 git =B5=C4=D7=E9=D6=AF=B7=BD=CA=BD=A3=AC=
+=B4=F8=B0=E6=B1=BE=BF=D8=D6=C6=B5=C4=CD=F8=C2=E7=CE=C4=BC=FE=CF=B5=CD=B3=A1=
+=A3=CB=F9=D2=D4=A3=AC=BA=DC=B6=E0=C9=E8=BC=C6=CB=BC=C2=B7=B6=BC=CA=C7=D1=D3=
+=D0=F8=D5=E2=B8=F6=B6=F8=C0=B4=A1=A3=B5=AB=CA=C7=A3=AC=BE=AD=B9=FD=C1=CB=D5=
+=E2=D0=A9=C4=EA=B5=C4=CA=FD=B4=CE=D6=D8=B9=B9=A3=AC=CE=D2=B6=D4=D7=EE=B3=F5=
+=B5=C4=CB=BC=C2=B7=B2=FA=C9=FA=C1=CB=D2=BB=D0=A9=BB=B3=D2=C9=A1=A3 =C6=E4=
+=D6=D0=A3=AC=D7=EE=D6=D8=D2=AA=B5=C4=D2=BB=CC=F5=A3=BA=D4=DA=D3=CE=CF=B7=D4=
+=CB=D0=D0=CA=B1=A3=AC=D3=CE=CF=B7=B3=CC=D0=F2=BF=B4=B5=BD=B5=C4 vfs =CA=C7=
+=D2=BB=B8=F6=CA=F7=BD=E1=B9=B9=B5=C4=B2=BB=B1=E4=BF=EC=D5=D5=A1=A3=D5=E2=D1=
+=F9=A3=AC=CB=FC=CF=F1 git =D2=BB=D1=F9=A3=AC=BE=CD=BF=C9=D2=D4=D3=C3=D2=BB=
+=B8=F6 Merkle tree =B5=C4 hash =D6=B5=BE=CD=BF=C9=D2=D4=B4=FA=B1=ED=D5=E2=
+=B8=F6=BF=EC=D5=D5=A3=AC=D2=B2=BF=C9=D2=D4=B7=BD=B1=E3=B5=C4=CD=A8=B9=FD=CD=
+=F8=C2=E7=CD=AC=B2=BD=CB=FC=A1=A3 =CE=AA=C1=CB=CA=B5=CF=D6=B1=E0=BC=AD=C6=
+=F7=A3=AC=CE=D2=C3=C7=D4=DA=D5=E2=B8=F6=C9=E8=BC=C6=C9=CF=B4=F2=C1=CB=D2=BB=
+=D0=A9=B2=B9=B6=A1=A3=AC=C8=C3=B1=E0=BC=AD=C6=F7=BF=C9=D2=D4=D4=DA=D4=CB=D0=
+=D0=CA=B1=B6=AF=CC=AC=B5=C4=D0=DE=B8=C4=CB=FC=A1=A3=B6=F8=CE=D2=BD=F1=CC=EC=
+=B7=B4=CB=BC=A3=AC=A1=B0=B2=BB=B1=E4=BF=EC=D5=D5=A1=B1 =D5=E2=D2=BB=B5=E3=
+=CA=C7=B7=F1=CA=C7=B6=E0=D3=E0=B5=C4=A3=BF=BB=F2=D5=DF=B2=A2=B2=BB=D0=E8=D2=
+=AA=D5=E2=B8=F6=D4=BC=CA=F8=A3=AC=D2=B2=BF=C9=D2=D4=D3=C3=BC=F2=B5=A5=B5=C4=
+=B7=BD=B0=B8=CA=B5=CF=D6=CF=D6=D4=DA=CB=F9=D3=D0=B5=C4=B9=A6=C4=DC=A1=A3...=
+"
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-02-22T15:21:17+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">February 22, 2024</h2>
+                     <a id=3D"a001268"></a>
+                     <div class=3D"entry" id=3D"entry-1268">
+                        <h3 class=3D"entry-header">=B9=D8=D3=DA=D0=E9=C4=E2=
+=CE=C4=BC=FE=CF=B5=CD=B3=B5=C4=D2=BB=D0=A9=D0=C2=CF=EB=B7=A8</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=D0=E9=C4=E2=CE=C4=BC=FE=CF=B5=CD=B3 (vfs) =
+=CA=C7 Ant =D2=FD=C7=E6=B5=C4=BA=CB=D0=C4=C4=A3=BF=E9=A1=A3<a href=3D"https=
+://github.com/ejoy/ant/wiki/VFS">=D4=DA wiki =C9=CF=D3=D0=BD=E9=C9=DC</a> =
+=A3=AC<a href=3D"https://blog.codingnow.com/2023/10/vfs.html">blog =C9=CF=
+=D2=B2=D3=D0=D7=DC=BD=E1</a>=A1=A3</p>
+
+<p>=D7=EE=BD=FC=D4=DA=B0=B4=C7=B0=B6=CE=CA=B1=BC=E4=C4=E2=B6=A8=B5=C4=CB=BC=
+=C2=B7=D6=D8=B9=B9=B1=E0=BC=AD=C6=F7=A1=A3=D4=DA=D5=E2=B8=F6=B9=FD=B3=CC=D6=
+=D0=B6=D4 vfs =D3=D0=C1=CB=D2=BB=D0=A9=D0=C2=CF=EB=B7=A8=A1=A3=B6=CC=C6=DA=
+=C4=DA=B2=BB=B4=F2=CB=E3=B0=D1=B9=A4=D7=F7=D6=D8=D0=C4=B7=C5=B5=BD=D6=D8=B9=
+=B9 vfs =C9=CF=C3=E6=A3=AC=CF=C8=BC=C7=C2=BC=D2=BB=CF=C2=A1=A3</p>
+
+<p>=D7=EE=D4=E7=C9=E8=BC=C6 vfs =B5=C4=CA=B1=BA=F2=A3=AC=CA=C7=B4=D3=CD=F8=
+=C2=E7=CE=C4=BC=FE=CF=B5=CD=B3=B5=C4=BD=C7=B6=C8=BF=B4=B4=FD=CB=FC=B5=C4=A1=
+=A3=CE=D2=B0=D1=CB=FC=C9=E8=CF=EB=CE=AA=D2=BB=B8=F6=C0=E0=CB=C6 git =B5=C4=
+=D7=E9=D6=AF=B7=BD=CA=BD=A3=AC=B4=F8=B0=E6=B1=BE=BF=D8=D6=C6=B5=C4=CD=F8=C2=
+=E7=CE=C4=BC=FE=CF=B5=CD=B3=A1=A3=CB=F9=D2=D4=A3=AC=BA=DC=B6=E0=C9=E8=BC=C6=
+=CB=BC=C2=B7=B6=BC=CA=C7=D1=D3=D0=F8=D5=E2=B8=F6=B6=F8=C0=B4=A1=A3=B5=AB=CA=
+=C7=A3=AC=BE=AD=B9=FD=C1=CB=D5=E2=D0=A9=C4=EA=B5=C4=CA=FD=B4=CE=D6=D8=B9=B9=
+=A3=AC=CE=D2=B6=D4=D7=EE=B3=F5=B5=C4=CB=BC=C2=B7=B2=FA=C9=FA=C1=CB=D2=BB=D0=
+=A9=BB=B3=D2=C9=A1=A3</p>
+
+<p>=C6=E4=D6=D0=A3=AC=D7=EE=D6=D8=D2=AA=B5=C4=D2=BB=CC=F5=A3=BA=D4=DA=D3=CE=
+=CF=B7=D4=CB=D0=D0=CA=B1=A3=AC=D3=CE=CF=B7=B3=CC=D0=F2=BF=B4=B5=BD=B5=C4 vf=
+s =CA=C7=D2=BB=B8=F6=CA=F7=BD=E1=B9=B9=B5=C4=B2=BB=B1=E4=BF=EC=D5=D5=A1=A3=
+=D5=E2=D1=F9=A3=AC=CB=FC=CF=F1 git =D2=BB=D1=F9=A3=AC=BE=CD=BF=C9=D2=D4=D3=
+=C3=D2=BB=B8=F6 Merkle tree =B5=C4 hash =D6=B5=BE=CD=BF=C9=D2=D4=B4=FA=B1=
+=ED=D5=E2=B8=F6=BF=EC=D5=D5=A3=AC=D2=B2=BF=C9=D2=D4=B7=BD=B1=E3=B5=C4=CD=A8=
+=B9=FD=CD=F8=C2=E7=CD=AC=B2=BD=CB=FC=A1=A3</p>
+
+<p>=CE=AA=C1=CB=CA=B5=CF=D6=B1=E0=BC=AD=C6=F7=A3=AC=CE=D2=C3=C7=D4=DA=D5=E2=
+=B8=F6=C9=E8=BC=C6=C9=CF=B4=F2=C1=CB=D2=BB=D0=A9=B2=B9=B6=A1=A3=AC=C8=C3=B1=
+=E0=BC=AD=C6=F7=BF=C9=D2=D4=D4=DA=D4=CB=D0=D0=CA=B1=B6=AF=CC=AC=B5=C4=D0=DE=
+=B8=C4=CB=FC=A1=A3=B6=F8=CE=D2=BD=F1=CC=EC=B7=B4=CB=BC=A3=AC=A1=B0=B2=BB=B1=
+=E4=BF=EC=D5=D5=A1=B1 =D5=E2=D2=BB=B5=E3=CA=C7=B7=F1=CA=C7=B6=E0=D3=E0=B5=
+=C4=A3=BF=BB=F2=D5=DF=B2=A2=B2=BB=D0=E8=D2=AA=D5=E2=B8=F6=D4=BC=CA=F8=A3=AC=
+=D2=B2=BF=C9=D2=D4=D3=C3=BC=F2=B5=A5=B5=C4=B7=BD=B0=B8=CA=B5=CF=D6=CF=D6=D4=
+=DA=CB=F9=D3=D0=B5=C4=B9=A6=C4=DC=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/02=
+/vfs_plan.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "=B9=D8=D3=DA=D0=E9=C4=E2=CE=
+=C4=BC=FE=CF=B5=CD=B3=B5=C4=D2=BB=D0=A9=D0=C2=CF=EB=B7=A8" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 03:21 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/02/vfs_plan.html">=
+=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+02/vfs_plan.html#comments">=C1=F4=D1=D4 (3)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/02/log_ringbuffer.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1227"
+    dc:title=3D"=CE=AA log =CA=B5=CF=D6=B5=C4=CE=DE=CB=F8 Ringbuffer"
+    dc:identifier=3D"https://blog.codingnow.com/2024/02/log_ringbuffer.html=
+"
+    dc:subject=3D"=CB=E3=B7=A8=D3=EB=CA=FD=BE=DD=BD=E1=B9=B9"
+    dc:description=3D"=D5=E2=C1=BD=CC=EC=D4=DA=B8=C4 log =C4=A3=BF=E9=A1=A3=
+=CE=D2=C3=C7=D0=E8=D2=AA=D2=BB=B8=F6=B2=A2=B7=A2=D0=B4 log =B5=C4=C4=A3=BF=
+=E9=A3=AC=CB=FC=D3=D0=B6=E0=B8=F6 log =C9=FA=B2=FA=D5=DF=D2=BB=B8=F6=CF=FB=
+=B7=D1=D5=DF=A3=AC=D5=E2=B8=F6=CE=A8=D2=BB=B5=C4=CF=FB=B7=D1=D5=DF=D4=DA lo=
+g =CF=DF=B3=CC=D6=D0=B0=D1 log =CA=FD=BE=DD=B3=D6=BE=C3=BB=AF=A1=A3 =B4=F3=
+=B6=E0=CA=FD log =C9=FA=B2=FA=D5=DF=CA=C7=D4=DA=B5=DA=C8=FD=B7=BD=BF=E2=B5=
+=C4 callback =BA=AF=CA=FD=D6=D0=B5=F7=D3=C3=B5=C4=A3=AC=B1=C8=C8=E7 bgfx =
+=A3=AC=C8=E7=B9=FB=D0=B4 log =B2=BB=B9=BB=BF=EC=B5=C4=BB=B0=A3=AC=BE=CD=BB=
+=E1=D7=E8=C8=FB=E4=D6=C8=BE=A1=A3=D5=E2=B8=F6 callback =D0=E8=D2=AA=D7=D4=
+=BC=BA=B1=A3=D6=A4=CF=DF=B3=CC=B0=B2=C8=AB=A1=A3=D2=F2=CE=AA bgfx =D6=A7=B3=
+=D6=B6=E0=CF=DF=B3=CC=E4=D6=C8=BE=A3=AC=CB=F9=D2=D4=D0=B4 log =B5=C4 callba=
+ck =BF=C9=C4=DC=D4=DA=B2=BB=CD=AC=B5=C4=CF=DF=B3=CC=B4=A5=B7=A2=A1=A3 =B9=
+=FD=C8=A5=D4=DA=CA=B5=CF=D6 bgfx =B5=C4 luabinding =CA=B1=A3=AC=CE=D2=CA=B5=
+=CF=D6=C1=CB=D2=BB=B8=F6=BC=F2=B5=A5=B5=C4 mpsc =B6=D3=C1=D0=A3=ACget_log =
+=D5=E2=B8=F6=BA=AF=CA=FD=BE=CD=CA=C7=C4=C7=B8=F6=B5=A5=D2=BB=CF=FB=B7=D1=D5=
+=DF=A3=AC=CB=FC=C8=A1=B3=F6=B6=D3=C1=D0=D6=D0=CB=F9=D3=D0=B5=C4 log =D0=C5=
+=CF=A2=A3=AC=B7=B5=BB=D8=B5=BD lua =D0=E9=C4=E2=BB=FA=D6=D0=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-02-05T14:17:22+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">February 05, 2024</h2>
+                     <a id=3D"a001267"></a>
+                     <div class=3D"entry" id=3D"entry-1267">
+                        <h3 class=3D"entry-header">=CE=AA log =CA=B5=CF=D6=
+=B5=C4=CE=DE=CB=F8 Ringbuffer</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=D5=E2=C1=BD=CC=EC=D4=DA=B8=C4 log =C4=A3=BF=
+=E9=A1=A3=CE=D2=C3=C7=D0=E8=D2=AA=D2=BB=B8=F6=B2=A2=B7=A2=D0=B4 log =B5=C4=
+=C4=A3=BF=E9=A3=AC=CB=FC=D3=D0=B6=E0=B8=F6 log =C9=FA=B2=FA=D5=DF=D2=BB=B8=
+=F6=CF=FB=B7=D1=D5=DF=A3=AC=D5=E2=B8=F6=CE=A8=D2=BB=B5=C4=CF=FB=B7=D1=D5=DF=
+=D4=DA log =CF=DF=B3=CC=D6=D0=B0=D1 log =CA=FD=BE=DD=B3=D6=BE=C3=BB=AF=A1=
+=A3</p>
+
+<p>=B4=F3=B6=E0=CA=FD log =C9=FA=B2=FA=D5=DF=CA=C7=D4=DA=B5=DA=C8=FD=B7=BD=
+=BF=E2=B5=C4 callback =BA=AF=CA=FD=D6=D0=B5=F7=D3=C3=B5=C4=A3=AC=B1=C8=C8=
+=E7 bgfx =A3=AC=C8=E7=B9=FB=D0=B4 log =B2=BB=B9=BB=BF=EC=B5=C4=BB=B0=A3=AC=
+=BE=CD=BB=E1=D7=E8=C8=FB=E4=D6=C8=BE=A1=A3=D5=E2=B8=F6 callback =D0=E8=D2=
+=AA=D7=D4=BC=BA=B1=A3=D6=A4=CF=DF=B3=CC=B0=B2=C8=AB=A1=A3=D2=F2=CE=AA bgfx =
+=D6=A7=B3=D6=B6=E0=CF=DF=B3=CC=E4=D6=C8=BE=A3=AC=CB=F9=D2=D4=D0=B4 log =B5=
+=C4 callback =BF=C9=C4=DC=D4=DA=B2=BB=CD=AC=B5=C4=CF=DF=B3=CC=B4=A5=B7=A2=
+=A1=A3</p>
+
+<p>=B9=FD=C8=A5=D4=DA=CA=B5=CF=D6 <a href=3D"https://github.com/cloudwu/lua=
+-bgfx">bgfx =B5=C4 luabinding</a> =CA=B1=A3=AC=CE=D2=CA=B5=CF=D6=C1=CB=D2=
+=BB=B8=F6=BC=F2=B5=A5=B5=C4 mpsc =B6=D3=C1=D0=A3=AC<code>get_log</code> =D5=
+=E2=B8=F6=BA=AF=CA=FD=BE=CD=CA=C7=C4=C7=B8=F6=B5=A5=D2=BB=CF=FB=B7=D1=D5=DF=
+=A3=AC=CB=FC=C8=A1=B3=F6=B6=D3=C1=D0=D6=D0=CB=F9=D3=D0=B5=C4 log =D0=C5=CF=
+=A2=A3=AC=B7=B5=BB=D8=B5=BD lua =D0=E9=C4=E2=BB=FA=D6=D0=A1=A3</p>
+
+<p>=CB=FC=CA=C7=D3=C3 <code>spin_lock</code> =CA=B5=CF=D6=B5=C4=A1=A3=D5=E2=
+=C1=BD=CC=EC=A3=AC=CE=D2=CF=EB=D3=A6=B8=C3=BF=C9=D2=D4=CA=B5=CF=D6=D2=BB=B8=
+=F6=B8=FC=CD=A8=D3=C3=B5=C4=CE=DE=CB=F8=B0=E6=B1=BE=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/02=
+/log_ringbuffer.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "=CE=AA log =CA=B5=CF=
+=D6=B5=C4=CE=DE=CB=F8 Ringbuffer" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 02:17 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/02/log_ringbuffer.ht=
+ml">=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+02/log_ringbuffer.html#comments">=C1=F4=D1=D4 (7)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/02/textcell.html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1226"
+    dc:title=3D"=D2=BB=B8=F6=B8=F1=CA=BD=BB=AF=CE=C4=B1=BE=D0=C5=CF=A2=B0=
+=E6=C3=E6=B5=C4=D0=A1=CD=E6=D2=E2"
+    dc:identifier=3D"https://blog.codingnow.com/2024/02/textcell.html"
+    dc:subject=3D"=CE=D2=B0=AE=D5=DB=CC=DA"
+    dc:description=3D"bgfx =CC=E1=B9=A9=C1=CB=D2=BB=D7=E9=B5=F7=CA=D4=CE=C4=
+=B1=BE=CA=E4=B3=F6=B5=C4 api =A3=AC=BF=C9=D2=D4=B0=D1=D2=BB=D0=A9=CE=C4=B1=
+=BE=D0=C5=CF=A2=CF=D4=CA=BE=D4=DA=C6=C1=C4=BB=C9=CF=A1=A3=D5=E2=D0=A9 API =
+=B7=C7=B3=A3=BC=F2=C2=AA=A3=AC=D6=BB=CA=C7=CC=E1=B9=A9=C1=CB=D2=BB=B8=F6=CE=
+=C4=B1=BE=C4=A3=CA=BD=BB=BA=B3=E5=C7=F8=A1=A3=C0=EB=BF=D8=D6=C6=CC=A8=BB=B9=
+=BA=DC=D4=B6=A1=A3 =BE=DF=CC=E5=BC=FB =CE=C4=B5=B5=D6=D0 =B5=C4 dbgText* =
+=CF=B5=C1=D0=BA=AF=CA=FD=A1=A3 =CB=E6=D7=C5=CE=D2=C3=C7=B5=C4=D3=CE=CF=B7=
+=D2=FD=C7=E6=D6=D0=D4=BD=C0=B4=D4=BD=B6=E0=B5=C4=D0=C5=CF=A2=D0=E8=D2=AA=D5=
+=B9=CA=BE=A3=AC=D6=B1=BD=D3=CA=B9=D3=C3=D5=E2=D0=A9 api =BE=CD=D4=BD=B7=A2=
+=BC=F2=C2=AA=C1=CB=A1=A3=D7=EE=BD=FC=C3=C8=B7=A2=B5=C4=CF=EB=B7=A8=CA=C7=B8=
+=C9=B4=E0=CA=B9=D3=C3 imgui =C0=B4=BB=E6=D6=C6=B5=F7=CA=D4=D0=C5=CF=A2=BD=
+=E7=C3=E6=A1=A3=B5=AB=CE=D2=D3=D6=BE=F5=B5=C3=B1=A3=C1=F4 bgfx =D7=D4=B4=F8=
+=B5=C4=D5=E2=B8=F6=CE=C4=B1=BE=C4=A3=CA=BD=D2=B2=D3=D0=D2=BB=D0=A9=BA=C3=B4=
+=A6=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-02-04T14:41:03+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">February 04, 2024</h2>
+                     <a id=3D"a001266"></a>
+                     <div class=3D"entry" id=3D"entry-1266">
+                        <h3 class=3D"entry-header">=D2=BB=B8=F6=B8=F1=CA=BD=
+=BB=AF=CE=C4=B1=BE=D0=C5=CF=A2=B0=E6=C3=E6=B5=C4=D0=A1=CD=E6=D2=E2</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>bgfx =CC=E1=B9=A9=C1=CB=D2=BB=D7=E9=B5=F7=CA=
+=D4=CE=C4=B1=BE=CA=E4=B3=F6=B5=C4 api =A3=AC=BF=C9=D2=D4=B0=D1=D2=BB=D0=A9=
+=CE=C4=B1=BE=D0=C5=CF=A2=CF=D4=CA=BE=D4=DA=C6=C1=C4=BB=C9=CF=A1=A3=D5=E2=D0=
+=A9 API =B7=C7=B3=A3=BC=F2=C2=AA=A3=AC=D6=BB=CA=C7=CC=E1=B9=A9=C1=CB=D2=BB=
+=B8=F6=CE=C4=B1=BE=C4=A3=CA=BD=BB=BA=B3=E5=C7=F8=A1=A3=C0=EB=BF=D8=D6=C6=CC=
+=A8=BB=B9=BA=DC=D4=B6=A1=A3</p>
+
+<p>=BE=DF=CC=E5=BC=FB <a href=3D"https://bkaradzic.github.io/bgfx/bgfx.html=
+">=CE=C4=B5=B5=D6=D0</a> =B5=C4 dbgText* =CF=B5=C1=D0=BA=AF=CA=FD=A1=A3</p>
+
+<p>=CB=E6=D7=C5=CE=D2=C3=C7=B5=C4=D3=CE=CF=B7=D2=FD=C7=E6=D6=D0=D4=BD=C0=B4=
+=D4=BD=B6=E0=B5=C4=D0=C5=CF=A2=D0=E8=D2=AA=D5=B9=CA=BE=A3=AC=D6=B1=BD=D3=CA=
+=B9=D3=C3=D5=E2=D0=A9 api =BE=CD=D4=BD=B7=A2=BC=F2=C2=AA=C1=CB=A1=A3=D7=EE=
+=BD=FC=C3=C8=B7=A2=B5=C4=CF=EB=B7=A8=CA=C7=B8=C9=B4=E0=CA=B9=D3=C3 imgui =
+=C0=B4=BB=E6=D6=C6=B5=F7=CA=D4=D0=C5=CF=A2=BD=E7=C3=E6=A1=A3=B5=AB=CE=D2=D3=
+=D6=BE=F5=B5=C3=B1=A3=C1=F4 bgfx =D7=D4=B4=F8=B5=C4=D5=E2=B8=F6=CE=C4=B1=BE=
+=C4=A3=CA=BD=D2=B2=D3=D0=D2=BB=D0=A9=BA=C3=B4=A6=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/02=
+/textcell.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "=D2=BB=B8=F6=B8=F1=CA=BD=BB=
+=AF=CE=C4=B1=BE=D0=C5=CF=A2=B0=E6=C3=E6=B5=C4=D0=A1=CD=E6=D2=E2" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 02:41 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/02/textcell.html">=
+=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+02/textcell.html#comments">=C1=F4=D1=D4 (1)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/01/ant_engine_open_source.=
+html"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1224"
+    dc:title=3D"Ant Engine =BF=AA=D4=B4"
+    dc:identifier=3D"https://blog.codingnow.com/2024/01/ant_engine_open_sou=
+rce.html"
+    dc:subject=3D"Ant Engine"
+    dc:description=3D"=CE=D2=D4=DA=D7=D4=BC=BA=D1=D0=B7=A2=B5=C4=D3=CE=CF=
+=B7=D2=FD=C7=E6=C9=CF=D2=D1=BE=AD=B9=A4=D7=F7=C1=CB 6 =C4=EA=C1=CB=A1=A3=D4=
+=DA 2017 =C4=EA=B5=D7=A3=AC=CE=D2=D0=B4=CF=C2=C1=CB=B6=D4=D5=E2=B8=F6=D0=C2=
+=D2=FD=C7=E6=D7=EE=B3=F5=B5=C4=B9=B9=CF=EB =A1=A3=CF=D6=D4=DA=BB=D8=CD=B7=
+=C0=B4=BF=B4=A3=AC=B5=B1=B3=F5=B5=C4=CF=EB=B7=A8=BE=D3=C8=BB=B6=BC=C2=E4=CA=
+=B5=C1=CB=A3=AC=D6=BB=D3=D0=D2=BB=B5=E3=C0=FD=CD=E2=A3=BA=CE=D2=C3=C7=D6=D0=
+=CD=BE=B0=D1=B1=E0=BC=AD=C6=F7=B4=D3 IUP =D7=AA=D2=C6=B5=BD=C1=CB ImGUI =C9=
+=CF=A1=A3 2022 =C4=EA=A3=AC=CE=D2=C3=C7=C6=F4=B6=AF=C1=CB=B5=DA=D2=BB=B8=F6=
+=D3=C3=D5=E2=B8=F6=D2=FD=C7=E6=BF=AA=B7=A2=B5=C4=D3=CE=CF=B7=CF=EE=C4=BF=A3=
+=AC=CB=FC=CA=C7=D2=BB=B8=F6=BA=CD=C8=D5=B1=BE=B9=AB=CB=BE=BA=CF=D7=F7=B5=C4=
+=B6=AF=D7=F7=D3=CE=CF=B7=A1=A3=BA=F3=C0=B4=A3=AC=D5=E2=B8=F6=CF=EE=C4=BF=C3=
+=BB=D3=D0=D7=DF=CF=C2=C8=A5=BE=CD=C8=A1=CF=FB=C1=CB=A1=A3=D6=AE=BA=F3=A3=AC=
+=D2=F2=CE=AA=CE=D2=C3=C7=B5=C4=D2=FD=C7=E6=BF=AA=B7=A2=D7=E9=CF=B2=BB=B6 Fa=
+ctorio =A3=AC=B1=E3=CF=EB=D3=C3=D7=D4=BC=BA=B5=C4=D2=FD=C7=E6=D4=DA=CA=D6=
+=BB=FA=C9=CF=D6=D8=CF=D6=D2=BB=B8=F6 Factorio Like =B5=C4=D3=CE=CF=B7=A3=AC=
+=D5=E2=D2=BB=B8=C9=BE=CD=CA=C7=D2=BB=C4=EA=B6=E0=A1=A3 =CF=D6=D4=DA=A3=AC=
+=D3=CE=CF=B7=B5=C4=BC=BC=CA=F5=B2=BF=B7=D6=BB=F9=B1=BE=CD=EA=B3=C9=A3=AC=BF=
+=C9=D2=D4=D1=E9=D6=A4=D2=FD=C7=E6=B5=C4=BF=C9=D3=C3=D0=D4=A3=A8=B9=A6=C4=DC=
+=CD=EA=D5=FB=A1=A2=D0=D4=C4=DC=B4=EF=B1=EA=A3=A9=A3=AC=D6=BB=CA=C7=D3=CE=CF=
+=B7=D0=D4=B7=BD=C3=E6=BB=B9=D3=D0=B2=BB=C9=D9=C2=B7=D2=AA=D7=DF=A1=A3=BC=F2=
+=B5=A5=CB=B5=BE=CD=CA=C7=BB=B9=B2=BB=CC=AB=BA=C3=CD=E6=A1=A3 =B4=D3=D2=BB=
+=BF=AA=CA=BC=A3=AC=CE=D2=BE=CD=CF=A3=CD=FB=D2=D4=BF=AA=D4=B4=C4=A3=CA=BD=BE=
+=AD=D3=AA=D5=E2=B8=F6=D3=CE=CF=B7=D2=FD=C7=E6=A3=AC=B5=AB=CD=AC=CA=B1=D3=D6=
+=BE=F5=B5=C3=C3=BB=D3=D0=B5=C3=B5=BD=D1=E9=D6=A4=B5=C4=B6=AB=CE=F7=B2=BB=CA=
+=CA=BA=CF=C4=C3=B3=F6=C0=B4=A1=A3=BC=C8=C8=BB=D2=FD=C7=E6=D2=D1=BE=AD=B3=F5=
+=B2=BD=BF=C9=D3=C3=A3=AC=CF=D6=D4=DA=BE=CD=D3=A6=B8=C3=C2=F5=BF=AA=D5=E2=D2=
+=BB=B2=BD=C1=CB=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-01-17T15:24:02+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">January 17, 2024</h2>
+                     <a id=3D"a001264"></a>
+                     <div class=3D"entry" id=3D"entry-1264">
+                        <h3 class=3D"entry-header">Ant Engine =BF=AA=D4=B4<=
+/h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=CE=D2=D4=DA=D7=D4=BC=BA=D1=D0=B7=A2=B5=C4=D3=
+=CE=CF=B7=D2=FD=C7=E6=C9=CF=D2=D1=BE=AD=B9=A4=D7=F7=C1=CB 6 =C4=EA=C1=CB=A1=
+=A3<a href=3D"https://blog.codingnow.com/2017/12/mobile_3d_engine.html">=D4=
+=DA 2017 =C4=EA=B5=D7=A3=AC=CE=D2=D0=B4=CF=C2=C1=CB=B6=D4=D5=E2=B8=F6=D0=C2=
+=D2=FD=C7=E6=D7=EE=B3=F5=B5=C4=B9=B9=CF=EB</a> =A1=A3=CF=D6=D4=DA=BB=D8=CD=
+=B7=C0=B4=BF=B4=A3=AC=B5=B1=B3=F5=B5=C4=CF=EB=B7=A8=BE=D3=C8=BB=B6=BC=C2=E4=
+=CA=B5=C1=CB=A3=AC=D6=BB=D3=D0=D2=BB=B5=E3=C0=FD=CD=E2=A3=BA=CE=D2=C3=C7=D6=
+=D0=CD=BE=B0=D1=B1=E0=BC=AD=C6=F7=B4=D3 IUP =D7=AA=D2=C6=B5=BD=C1=CB ImGUI =
+=C9=CF=A1=A3</p>
+
+<p>2022 =C4=EA=A3=AC=CE=D2=C3=C7=C6=F4=B6=AF=C1=CB=B5=DA=D2=BB=B8=F6=D3=C3=
+=D5=E2=B8=F6=D2=FD=C7=E6=BF=AA=B7=A2=B5=C4=D3=CE=CF=B7=CF=EE=C4=BF=A3=AC=CB=
+=FC=CA=C7=D2=BB=B8=F6=BA=CD=C8=D5=B1=BE=B9=AB=CB=BE=BA=CF=D7=F7=B5=C4=B6=AF=
+=D7=F7=D3=CE=CF=B7=A1=A3=BA=F3=C0=B4=A3=AC=D5=E2=B8=F6=CF=EE=C4=BF=C3=BB=D3=
+=D0=D7=DF=CF=C2=C8=A5=BE=CD=C8=A1=CF=FB=C1=CB=A1=A3=D6=AE=BA=F3=A3=AC=D2=F2=
+=CE=AA=CE=D2=C3=C7=B5=C4=D2=FD=C7=E6=BF=AA=B7=A2=D7=E9=CF=B2=BB=B6 Factorio=
+ =A3=AC=B1=E3=CF=EB=D3=C3=D7=D4=BC=BA=B5=C4=D2=FD=C7=E6=D4=DA=CA=D6=BB=FA=
+=C9=CF=D6=D8=CF=D6=D2=BB=B8=F6 Factorio Like =B5=C4=D3=CE=CF=B7=A3=AC=D5=E2=
+=D2=BB=B8=C9=BE=CD=CA=C7=D2=BB=C4=EA=B6=E0=A1=A3</p>
+
+<p>=CF=D6=D4=DA=A3=AC=D3=CE=CF=B7=B5=C4=BC=BC=CA=F5=B2=BF=B7=D6=BB=F9=B1=BE=
+=CD=EA=B3=C9=A3=AC=BF=C9=D2=D4=D1=E9=D6=A4=D2=FD=C7=E6=B5=C4=BF=C9=D3=C3=D0=
+=D4=A3=A8=B9=A6=C4=DC=CD=EA=D5=FB=A1=A2=D0=D4=C4=DC=B4=EF=B1=EA=A3=A9=A3=AC=
+=D6=BB=CA=C7=D3=CE=CF=B7=D0=D4=B7=BD=C3=E6=BB=B9=D3=D0=B2=BB=C9=D9=C2=B7=D2=
+=AA=D7=DF=A1=A3=BC=F2=B5=A5=CB=B5=BE=CD=CA=C7=BB=B9=B2=BB=CC=AB=BA=C3=CD=E6=
+=A1=A3</p>
+
+<p>=B4=D3=D2=BB=BF=AA=CA=BC=A3=AC=CE=D2=BE=CD=CF=A3=CD=FB=D2=D4=BF=AA=D4=B4=
+=C4=A3=CA=BD=BE=AD=D3=AA=D5=E2=B8=F6=D3=CE=CF=B7=D2=FD=C7=E6=A3=AC=B5=AB=CD=
+=AC=CA=B1=D3=D6=BE=F5=B5=C3=C3=BB=D3=D0=B5=C3=B5=BD=D1=E9=D6=A4=B5=C4=B6=AB=
+=CE=F7=B2=BB=CA=CA=BA=CF=C4=C3=B3=F6=C0=B4=A1=A3=BC=C8=C8=BB=D2=FD=C7=E6=D2=
+=D1=BE=AD=B3=F5=B2=BD=BF=C9=D3=C3=A3=AC=CF=D6=D4=DA=BE=CD=D3=A6=B8=C3=C2=F5=
+=BF=AA=D5=E2=D2=BB=B2=BD=C1=CB=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/01=
+/ant_engine_open_source.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "Ant Engine =BF=
+=AA=D4=B4" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 03:24 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/01/ant_engine_open_s=
+ource.html">=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+01/ant_engine_open_source.html#comments">=C1=F4=D1=D4 (39)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                                          <!--
+<rdf:RDF xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:trackback=3D"http://madskills.com/public/xml/rss/module/trac=
+kback/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/">
+<rdf:Description
+    rdf:about=3D"https://blog.codingnow.com/2024/01/style_attrib_access.htm=
+l"
+    trackback:ping=3D"https://blog.codingnow.com/cgi-bin/mt/mt-tb.cgi/1223"
+    dc:title=3D"style =B1=ED=B5=C4=BD=E1=B9=B9=BB=AF=B7=C3=CE=CA"
+    dc:identifier=3D"https://blog.codingnow.com/2024/01/style_attrib_access=
+.html"
+    dc:subject=3D"=CB=E3=B7=A8=D3=EB=CA=FD=BE=DD=BD=E1=B9=B9"
+    dc:description=3D"=CE=D2=C3=C7=D3=CE=CF=B7 UI =BB=F9=D3=DA RmlUI =B5=C4=
+ fork=A3=AC=D7=F6=C1=CB=B4=F3=C1=BF=B5=C4=B8=C4=D4=EC=A1=A3=CB=FC=CA=B5=BC=
+=CA=C9=CF=C0=E0=CB=C6=C4=BF=C7=B0=B5=C4 web =C7=B0=B6=CB=BC=BC=CA=F5=A3=AC=
+=CA=B9=D3=C3 CSS =C0=B4=B1=ED=CA=BE UI =B5=C4=B2=BC=BE=D6=A1=A3=CB=F9=D2=D4=
+=A3=AC=CE=D2=C3=C7=D7=F6=B5=C4=B5=D7=B2=E3=B9=A4=D7=F7=D2=B2=B6=BC=CA=C7=CE=
+=A7=C8=C6=C8=E7=BA=CE=B8=DF=D0=A7=CA=B5=CF=D6=D2=BB=CC=D7=BB=F9=D3=DA CSS =
+=B5=C4 UI =D2=FD=C7=E6=C0=B4=D7=F6=B5=C4=A1=A3 =D2=BB=C4=EA=B6=E0=C7=B0=A3=
+=AC=CE=D2=D0=B4=B9=FD=D2=BB=C6=AA blog =BD=E9=C9=DC=C1=CB=D2=BB=D0=A9=D3=C5=
+=BB=AF=B5=C4=B9=A4=D7=F7=A1=A3 =D7=EE=BD=FC=A3=AC=D4=DA=D3=CE=CF=B7=BF=AA=
+=B7=A2=B5=C4=CA=B9=D3=C3=D6=D0=A3=AC=CE=D2=C3=C7=D3=D6=B7=A2=CF=D6=C1=CB=D2=
+=BB=D0=A9=D0=D4=C4=DC=C8=C8=B5=E3=A3=AC=D7=EE=BD=FC=D4=DA=D7=C5=CA=D6=D3=C5=
+=BB=AF=A1=A3=D5=E2=D2=BB=C6=AA blog =BC=C7=C2=BC=D2=BB=CF=C2=C6=E4=D6=D0=B5=
+=C4=D2=BB=B8=F6=D3=C5=BB=AF=B5=E3=A1=A3..."
+    dc:creator=3D"Cloud"
+    dc:date=3D"2024-01-10T16:03:20+08:00" />
+</rdf:RDF>
+-->
+
+                    =20
+                     <h2 class=3D"date-header">January 10, 2024</h2>
+                     <a id=3D"a001263"></a>
+                     <div class=3D"entry" id=3D"entry-1263">
+                        <h3 class=3D"entry-header">style =B1=ED=B5=C4=BD=E1=
+=B9=B9=BB=AF=B7=C3=CE=CA</h3>
+                        <div class=3D"entry-content">
+                           <div class=3D"entry-body">
+                           <p>=CE=D2=C3=C7=D3=CE=CF=B7 UI =BB=F9=D3=DA RmlU=
+I =B5=C4 fork=A3=AC=D7=F6=C1=CB=B4=F3=C1=BF=B5=C4=B8=C4=D4=EC=A1=A3=CB=FC=
+=CA=B5=BC=CA=C9=CF=C0=E0=CB=C6=C4=BF=C7=B0=B5=C4 web =C7=B0=B6=CB=BC=BC=CA=
+=F5=A3=AC=CA=B9=D3=C3 CSS =C0=B4=B1=ED=CA=BE UI =B5=C4=B2=BC=BE=D6=A1=A3=CB=
+=F9=D2=D4=A3=AC=CE=D2=C3=C7=D7=F6=B5=C4=B5=D7=B2=E3=B9=A4=D7=F7=D2=B2=B6=BC=
+=CA=C7=CE=A7=C8=C6=C8=E7=BA=CE=B8=DF=D0=A7=CA=B5=CF=D6=D2=BB=CC=D7=BB=F9=D3=
+=DA CSS =B5=C4 UI =D2=FD=C7=E6=C0=B4=D7=F6=B5=C4=A1=A3</p>
+
+<p>=D2=BB=C4=EA=B6=E0=C7=B0=A3=AC<a href=3D"https://blog.codingnow.com/2022=
+/07/rmlui_style_cache.html">=CE=D2=D0=B4=B9=FD=D2=BB=C6=AA blog =BD=E9=C9=
+=DC=C1=CB=D2=BB=D0=A9=D3=C5=BB=AF=B5=C4=B9=A4=D7=F7</a>=A1=A3</p>
+
+<p>=D7=EE=BD=FC=A3=AC=D4=DA=D3=CE=CF=B7=BF=AA=B7=A2=B5=C4=CA=B9=D3=C3=D6=D0=
+=A3=AC=CE=D2=C3=C7=D3=D6=B7=A2=CF=D6=C1=CB=D2=BB=D0=A9=D0=D4=C4=DC=C8=C8=B5=
+=E3=A3=AC=D7=EE=BD=FC=D4=DA=D7=C5=CA=D6=D3=C5=BB=AF=A1=A3=D5=E2=D2=BB=C6=AA=
+ blog =BC=C7=C2=BC=D2=BB=CF=C2=C6=E4=D6=D0=B5=C4=D2=BB=B8=F6=D3=C5=BB=AF=B5=
+=E3=A1=A3</p>
+
+                                                      <p class=3D"entry-mor=
+e-link">
+                              <a href=3D"https://blog.codingnow.com/2024/01=
+/style_attrib_access.html#more">=D4=C4=B6=C1=C8=AB=CE=C4 "style =B1=ED=B5=
+=C4=BD=E1=B9=B9=BB=AF=B7=C3=CE=CA" &#187;</a>
+                           </p>
+                          =20
+                           <p class=3D"entry-footer">
+                              <span class=3D"post-footers">=D4=C6=B7=E7 =CC=
+=E1=BD=BB=D3=DA 04:03 PM</span> <span class=3D"separator">|</span> <a class=
+=3D"permalink" href=3D"https://blog.codingnow.com/2024/01/style_attrib_acce=
+ss.html">=B9=CC=B6=A8=C1=B4=BD=D3</a>
+                              | <a href=3D"https://blog.codingnow.com/2024/=
+01/style_attrib_access.html#comments">=C1=F4=D1=D4 (5)</a>
+                             =20
+                           </p>
+                           </div>
+                        </div>
+                     </div>
+                    =20
+                  </div>
+               </div>
+              =20
+               <div id=3D"beta">
+                  <div id=3D"beta-inner" class=3D"pkg">
+
+
+                        <h2 class=3D"module-header">Misc</h2>
+                        <div class=3D"module-content"><ul class=3D"module-l=
+ist">
+                                <li class=3D"module-list-item"><a href=3D"h=
+ttps://www.codingnow.com/2004/board">=C1=F4=D1=D4=B1=BE</a></li>
+                                <li class=3D"module-list-item"><a href=3D"h=
+ttps://www.codingnow.com/2000/gmail.gif">=D3=C3 email =C1=AA=CF=B5=CE=D2</a=
+></li>
+                                <li class=3D"module-list-item"><a href=3D"h=
+ttps://github.com/cloudwu">Github</a></li>
+                                <li class=3D"module-list-item">=CE=D2=B2=BB=
+=D3=C3=CE=A2=D0=C5</li>
+                                <li class=3D"module-list-item">=CE=D2=B2=BB=
+=D3=C3 QQ</li>
+                                </ul>
+                        </div>
+                     <div class=3D"module-search module">
+                        <h2 class=3D"module-header">Search</h2>
+                        <div class=3D"module-content">
+                           <form method=3D"get" action=3D"https://blog.codi=
+ngnow.com/cgi-bin/mt/mt-search.cgi">
+                             =20
+                              <input id=3D"search" name=3D"search" size=3D"=
+20">
+                              <input type=3D"submit" value=3D"=D5=BE=C4=DA=
+=CB=D1=CB=F7">
+                           </form>
+                        </div>
+                     </div>
+                    =20
+                     <div class=3D"module-categories module">
+                        <h2 class=3D"module-header">Categories</h2>
+                        <div class=3D"module-content">
+                                                <ul class=3D"module-list">
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/aee/" title=3D"">=B6=C1=CA=
+=E9</a> (34)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/aeoeec/" title=3D"">=B8=C5=
+=C2=CA=D3=EB=C7=C5=C5=C6</a> (17)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/" title=3D"">=BC=BC=CA=
+=F5</a> (48)
+                          =20
+                          =20
+                                                      <ul class=3D"module-l=
+ist">
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/ant_engine/" title=3D"">=
+Ant Engine</a> (67)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/ecs/" title=3D"">ECS</a>=
+ (27)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/erlang/" title=3D"">Erla=
+ng</a> (1)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/go_oieno/" title=3D"">Go=
+ =D3=EF=D1=D4</a> (8)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/unix/" title=3D"">Unix</=
+a> (3)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/windows/" title=3D"">Win=
+dows</a> (21)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/x_window/" title=3D"">X =
+Window</a> (6)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/build_tool/" title=3D"">=
+build tool</a> (12)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/luaoeeeaeau/" title=3D""=
+>lua=D3=EB=D0=E9=C4=E2=BB=FA</a> (174)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/skynet/" title=3D"">skyn=
+et</a> (111)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/eo/" title=3D"">=B5=F7=
+=CA=D4</a> (31)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/eeaoeeea/" title=3D"">=
+=CB=E3=B7=A8=D3=EB=CA=FD=BE=DD=BD=E1=B9=B9</a> (39)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/ioeacoeee/" title=3D"">=
+=CD=F8=C2=E7=D3=EB=B0=B2=C8=AB</a> (48)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/ooeece/" title=3D"">=D3=
+=C5=BB=AF=D3=EB=BC=BC=C7=C9</a> (51)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eo/oienooeeee/" title=3D"">=
+=D3=EF=D1=D4=D3=EB=C9=E8=BC=C6</a> (120)
+                          =20
+                          =20
+                             =20
+                           </li>
+                        </ul>
+                       =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eee/" title=3D"">=CB=E6=B1=
+=CA</a> (71)
+                          =20
+                          =20
+                                                      <ul class=3D"module-l=
+ist">
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/eee/ioaeaiio/" title=3D"">=
+=A1=B6=CE=D2=B5=C4=B1=E0=B3=CC=B8=D0=CE=F2=A1=B7</a> (8)
+                          =20
+                          =20
+                             =20
+                           </li>
+                        </ul>
+                       =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/oiie/" title=3D"">=D3=CE=CF=
+=B7</a> (45)
+                          =20
+                          =20
+                                                      <ul class=3D"module-l=
+ist">
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/oiie/oiie/" title=3D"">=D3=
+=CE=CF=B7=BF=AA=B7=A2</a> (212)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/oiie/aaoiie/" title=3D"">=
+=D7=C0=C3=E6=D3=CE=CF=B7</a> (26)
+                          =20
+                          =20
+                             =20
+                           </li>
+                        </ul>
+                       =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/ooc/" title=3D"">=D4=D3=BC=
+=C7</a> (170)
+                          =20
+                          =20
+                                                      <ul class=3D"module-l=
+ist">
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/ooc/google/" title=3D"">Goo=
+gle</a> (17)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/ooc/ooa/" title=3D"">=BC=F2=
+=D4=C3</a> (25)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/ooc/eno/" title=3D"">=C5=CA=
+=D1=D2</a> (14)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/ooc/ioeo/" title=3D"">=CD=
+=F8=D2=D7</a> (13)
+                          =20
+                          =20
+                             =20
+                           </li>
+                       =20
+                                               =20
+                                                      <li class=3D"module-l=
+ist-item"><a href=3D"https://blog.codingnow.com/ooc/ioouiu/" title=3D"">=CE=
+=D2=B0=AE=D5=DB=CC=DA</a> (43)
+                          =20
+                          =20
+                             =20
+                           </li>
+                        </ul>
+                       =20
+                           </li>
+                        </ul>
+                       =20
+                        </div>
+                     </div>
+                    =20
+                    =20
+                                          <div class=3D"module-archives mod=
+ule">
+                        <h2 class=3D"module-header"><a href=3D"https://blog=
+.codingnow.com/archives.html">Archives</a></h2>
+                        <div class=3D"module-content">
+                                                   <ul class=3D"module-list=
+">
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2024/06/">June 2024</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2024/05/">May 2024</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2024/04/">April 2024</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2024/03/">March 2024</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2024/02/">February 2024</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2024/01/">January 2024</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/12/">December 2023</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/11/">November 2023</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/10/">October 2023</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/09/">September 2023</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/08/">August 2023</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/07/">July 2023</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/06/">June 2023</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/05/">May 2023</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/04/">April 2023</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/03/">March 2023</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/02/">February 2023</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2023/01/">January 2023</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/12/">December 2022</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/11/">November 2022</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/10/">October 2022</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/09/">September 2022</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/08/">August 2022</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/07/">July 2022</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/06/">June 2022</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/05/">May 2022</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/04/">April 2022</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/03/">March 2022</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/02/">February 2022</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2022/01/">January 2022</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/12/">December 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/11/">November 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/10/">October 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/09/">September 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/08/">August 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/07/">July 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/06/">June 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/05/">May 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/04/">April 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/03/">March 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/02/">February 2021</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2021/01/">January 2021</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/12/">December 2020</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/11/">November 2020</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/10/">October 2020</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/09/">September 2020</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/08/">August 2020</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/07/">July 2020</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/06/">June 2020</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/05/">May 2020</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/04/">April 2020</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/03/">March 2020</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/02/">February 2020</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2020/01/">January 2020</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/12/">December 2019</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/11/">November 2019</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/10/">October 2019</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/09/">September 2019</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/08/">August 2019</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/07/">July 2019</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/06/">June 2019</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/05/">May 2019</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/04/">April 2019</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/03/">March 2019</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/02/">February 2019</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2019/01/">January 2019</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/12/">December 2018</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/11/">November 2018</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/10/">October 2018</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/09/">September 2018</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/08/">August 2018</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/07/">July 2018</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/06/">June 2018</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/05/">May 2018</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/04/">April 2018</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/03/">March 2018</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/02/">February 2018</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2018/01/">January 2018</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/12/">December 2017</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/11/">November 2017</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/10/">October 2017</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/09/">September 2017</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/08/">August 2017</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/07/">July 2017</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/06/">June 2017</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/05/">May 2017</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/04/">April 2017</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/03/">March 2017</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/02/">February 2017</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2017/01/">January 2017</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/12/">December 2016</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/11/">November 2016</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/10/">October 2016</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/09/">September 2016</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/08/">August 2016</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/07/">July 2016</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/06/">June 2016</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/05/">May 2016</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/04/">April 2016</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/03/">March 2016</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/02/">February 2016</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2016/01/">January 2016</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/12/">December 2015</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/11/">November 2015</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/10/">October 2015</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/09/">September 2015</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/08/">August 2015</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/07/">July 2015</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/06/">June 2015</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/05/">May 2015</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/04/">April 2015</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/03/">March 2015</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/02/">February 2015</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2015/01/">January 2015</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/12/">December 2014</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/11/">November 2014</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/10/">October 2014</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/09/">September 2014</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/08/">August 2014</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/07/">July 2014</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/06/">June 2014</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/05/">May 2014</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/04/">April 2014</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/03/">March 2014</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/02/">February 2014</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2014/01/">January 2014</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/12/">December 2013</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/11/">November 2013</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/10/">October 2013</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/09/">September 2013</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/08/">August 2013</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/07/">July 2013</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/06/">June 2013</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/05/">May 2013</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/04/">April 2013</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/03/">March 2013</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/02/">February 2013</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2013/01/">January 2013</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/12/">December 2012</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/11/">November 2012</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/10/">October 2012</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/09/">September 2012</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/08/">August 2012</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/07/">July 2012</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/06/">June 2012</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/05/">May 2012</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/04/">April 2012</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/03/">March 2012</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/02/">February 2012</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2012/01/">January 2012</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/12/">December 2011</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/11/">November 2011</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/10/">October 2011</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/09/">September 2011</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/08/">August 2011</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/07/">July 2011</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/06/">June 2011</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/05/">May 2011</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/04/">April 2011</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/03/">March 2011</a> (13)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/02/">February 2011</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2011/01/">January 2011</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/12/">December 2010</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/11/">November 2010</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/10/">October 2010</a> (2)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/09/">September 2010</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/08/">August 2010</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/07/">July 2010</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/06/">June 2010</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/05/">May 2010</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/04/">April 2010</a> (3)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/03/">March 2010</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/02/">February 2010</a> (11)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2010/01/">January 2010</a> (10)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/12/">December 2009</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/11/">November 2009</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/10/">October 2009</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/09/">September 2009</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/08/">August 2009</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/07/">July 2009</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/06/">June 2009</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/05/">May 2009</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/04/">April 2009</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/03/">March 2009</a> (12)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/02/">February 2009</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2009/01/">January 2009</a> (4)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/12/">December 2008</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/11/">November 2008</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/10/">October 2008</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/09/">September 2008</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/08/">August 2008</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/07/">July 2008</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/06/">June 2008</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/05/">May 2008</a> (28)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/04/">April 2008</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/03/">March 2008</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/02/">February 2008</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2008/01/">January 2008</a> (12)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/12/">December 2007</a> (5)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/11/">November 2007</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/10/">October 2007</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/09/">September 2007</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/08/">August 2007</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/07/">July 2007</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/06/">June 2007</a> (10)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/05/">May 2007</a> (11)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/04/">April 2007</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/03/">March 2007</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/02/">February 2007</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2007/01/">January 2007</a> (13)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/12/">December 2006</a> (13)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/11/">November 2006</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/10/">October 2006</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/09/">September 2006</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/08/">August 2006</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/07/">July 2006</a> (7)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/06/">June 2006</a> (8)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/05/">May 2006</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/04/">April 2006</a> (13)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/03/">March 2006</a> (13)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/02/">February 2006</a> (10)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2006/01/">January 2006</a> (13)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2005/12/">December 2005</a> (23)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2005/11/">November 2005</a> (6)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2005/10/">October 2005</a> (9)</li>
+                          =20
+                                                  =20
+                              <li class=3D"module-list-item"><a href=3D"htt=
+ps://blog.codingnow.com/2005/09/">September 2005</a> (1)</li>
+                           </ul>
+                       =20
+                        </div>
+                     </div>
+                    =20
+                     <div class=3D"module-archives module">
+                        <h2 class=3D"module-header">Recent Posts</h2>
+                        <div class=3D"module-content">
+                           <ul class=3D"module-list">
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/06/game_idea.html">=
+=D2=BB=B8=F6=D3=CE=CF=B7=B5=C4=B5=E3=D7=D3</a></li>
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/06/asset_mgr_rework=
+.html">Ant =B5=C4=D7=CA=D4=B4=C4=DA=B4=E6=B9=DC=C0=ED</a></li>
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/05/farewell.html">=
+=D6=D8=D0=C2=C6=F4=B3=CC</a></li>
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/05/skinmesh_instanc=
+ing.html">=B4=F3=C5=FA=C1=BF=B6=AF=BB=AD=C4=A3=D0=CD=B5=C4=D3=C5=BB=AF</a><=
+/li>
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/04/death.html">=CB=
+=C0=CD=F6</a></li>
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/04/ant_engine_optim=
+ization.html">Ant Engine =B5=C4=D2=BB=D0=A9=D3=C5=BB=AF</a></li>
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/03/ltask_schedule.h=
+tml">=D6=D8=B9=B9 ltask =B5=C4=C8=CE=CE=F1=B5=F7=B6=C8=C6=F7</a></li>
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/03/skynet_none_bloc=
+king_function.html">=D2=D4=B7=C7=D7=E8=C8=FB=B7=BD=CA=BD=D6=B4=D0=D0=D2=BB=
+=B8=F6=BA=AF=CA=FD</a></li>
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/02/vfs_plan.html">=
+=B9=D8=D3=DA=D0=E9=C4=E2=CE=C4=BC=FE=CF=B5=CD=B3=B5=C4=D2=BB=D0=A9=D0=C2=CF=
+=EB=B7=A8</a></li>
+                                                         <li class=3D"modul=
+e-list-item"><a href=3D"https://blog.codingnow.com/2024/02/log_ringbuffer.h=
+tml">=CE=AA log =CA=B5=CF=D6=B5=C4=CE=DE=CB=F8 Ringbuffer</a></li>
+                          =20
+                           </ul>
+                        </div>
+                     </div>
+
+                     <div class=3D"module-archives module">
+                     <h2 class=3D"module-header">Recent Comments</h2>
+                     <div class=3D"module-content">
+<ul class=3D"module-list">
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2024/06/game_idea.html#c49927">=
+=D2=BB=B8=F6=D3=CE=CF=B7=B5=C4=B5=E3=D7=D3</a> (2)<br>
+		lemonkiller :
+		=D3=CE=CF=B7=CD=E6=B5=E3=D3=A6=B8=C3=D7=D4=C7=A2=A3=AC=D5=D2=B5=BD=D5=FB=
+=B8=F6=D3=CE=CF=B7=C3=BF=B8=F6=BB=B7=BD=DA=D3=A6=B8=C3=D3=D0=CA=B2=C3=B4=A1=
+=A3=B4=D3=C4=B3=B8=F6=CC=D8=B6=A8=B5=C4=C0=D6=C8=A4=B5=E3=B3=F6...
+=09
+	</p></li>
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2024/06/game_idea.html#c49926">=
+=D2=BB=B8=F6=D3=CE=CF=B7=B5=C4=B5=E3=D7=D3</a> (2)<br>
+		nk :
+		=B0=F4=B0=F4=B0=F4=A3=AC=CF=B2=BB=B6=B7=C9=B4=AC=BA=CD=CD=E2=D0=C7=C8=CB=
+=A1=A3...
+=09
+	</p></li>
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2024/05/farewell.html#c49925">=
+=D6=D8=D0=C2=C6=F4=B3=CC</a> (136)<br>
+		=BD=AA=D0=A1=B6=B9 :
+		=D7=A3=D4=C6=B4=F3=D2=BB=C2=B7=CB=B3=B7=E7=A3=AC=CC=A4=C9=CF=D0=C2=B5=C4=
+=C2=C3=B3=CC...
+=09
+	</p></li>
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2023/12/game_engine_editor.html=
+#c49924">=D3=CE=CF=B7=D2=FD=C7=E6=D6=D0=B5=C4=BF=C9=CA=D3=BB=AF=B1=E0=BC=AD=
+=C6=F7</a> (6)<br>
+		GuoYu :
+		=C8=B7=CA=B5=D4=DA=D3=C3ejoy2d=D7=F6=C8=FD=D5=BD=B5=C4=CA=B1=BA=F2=A3=AC=
+=CE=D2=B8=D0=BE=F5=C8=E7=B9=FB=C4=DC=D3=D0=D2=BB=B8=F6=C0=E0=CB=C6=D3=DAUe=
+=B5=C4=B1=E0=BC=AD=C6=F7...
+=09
+	</p></li>
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2024/05/farewell.html#c49923">=
+=D6=D8=D0=C2=C6=F4=B3=CC</a> (136)<br>
+		diego :
+		respect...
+=09
+	</p></li>
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2024/05/farewell.html#c49922">=
+=D6=D8=D0=C2=C6=F4=B3=CC</a> (136)<br>
+		<a href=3D"https://weekendproject.online/" rel=3D"nofollow">yangrd</a> :
+		=CB=E4=C7=A7=CD=F2=C8=CB...
+=09
+	</p></li>
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2021/07/lua_ecs.html#c49921">EC=
+S =C4=A3=D0=CD=CF=C2=B5=C4=B4=A6=C0=ED=C4=A3=CA=BD</a> (10)<br>
+		cub :
+		=B9=D8=D3=DAlua=B7=C3=CE=CAC Struct=D3=D0=B6=EE=CD=E2=BF=AA=CF=FA=B5=C4=
+=CE=CA=CC=E2=A3=AC=B7=E7=B8=E7=D3=D0=C3=BB=D3=D0=BF=BC=C2=C7=B9=FD=D3=C3ff.=
+..
+=09
+	</p></li>
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2011/09/new_beginning.html#c499=
+20">=C0=EB=BF=AA=A3=AC=CA=C7=CE=AA=C1=CB=D0=C2=B5=C4=BF=AA=CA=BC</a> (308)<=
+br>
+		Keroro :
+		=CF=D6=D4=DA=BF=B4=C0=B4=B8=FC=B8=D0=BF=AE=C1=CB...
+=09
+	</p></li>
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2007/12/history.html#c49919">=
+=D1=A7=CF=B0=B4=D3=C0=FA=CA=B7=BF=AA=CA=BC</a> (40)<br>
+		<a href=3D"http://space.bilibili.com/67766565" rel=3D"nofollow">=C9=F2=B2=
+=A9=BA=A3</a> :
+		=CE=D2=D2=B2=B3=A4=B4=F3=C1=CB=A1=A3=CE=D2=C8=CF=CE=AA=D5=E6=B5=C4=BA=DC=
+=B2=BB=B4=ED=A3=AC=B8=F8=D0=C2=CA=D6=B6=F8=D1=D4=CA=C7=BA=DC=BA=C3=B5=C4=CA=
+=B5=D3=C3=C7=D2=B9=E3=A1=A3=BE=CD=CF=F1=D4=C6=B4=F3=D7=D4=BC=BA...
+=09
+	</p></li>
+	<li class=3D"module-list-item">
+	<p>		<a href=3D"https://blog.codingnow.com/2024/05/farewell.html#c49918">=
+=D6=D8=D0=C2=C6=F4=B3=CC</a> (136)<br>
+		fly :
+		=D4=C6=B4=F3=B5=C4=BC=BC=CA=F5=CA=B5=C1=A6=CC=AB=C7=BF=C1=CB=A3=AC=D7=A3=
+=CB=B3=C0=FB=A3=A1...
+=09
+	</p></li>
+
+</ul>
+
+</div></div>
+                    =20
+                     <div class=3D"module-syndicate module">
+                        <div class=3D"module-content">
+                           <a href=3D"https://blog.codingnow.com/atom.xml">=
+=B6=A9=D4=C4 feed</a><br>
+                           <a href=3D"https://blog.codingnow.com/comments.x=
+ml">=B6=A9=D4=C4=C6=C0=C2=DB</a><br>
+                           <a href=3D"https://bg.codingnow.com/">=B6=AB=CE=
+=F7=D3=CE=D7=C0=C3=E6=D3=CE=CF=B7</a><br>
+                        </div>
+                     </div>
+                  </div>
+               </div>
+            </div>
+         </div>
+      </div>
+   </div>
+
+
+</body></html>
+------MultipartBoundary--Cm1Ou1VWwA6DIDTOiKSDE2fcU6brmB9Gia9YqgVONR----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://blog.codingnow.com/styles-site.css
+
+@charset "gbk";
+
+html { margin: 0px; padding: 0px; }
+
+body { margin: 0px; padding: 0px; font-family: Tahoma, =CB=CE=CC=E5; font-s=
+ize: 13px; }
+
+form, input { margin: 0px; padding: 0px; }
+
+a { text-decoration: underline; }
+
+a img { border: 0px; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: normal; }
+
+h1, h2, h3, h4, h5, h6, p, ol, ul, pre, blockquote { margin-top: 10px; marg=
+in-bottom: 10px; }
+
+.clr { clear: both; overflow: hidden; width: 1px; height: 1px; margin: 0px =
+-1px -1px 0px; border: 0px; padding: 0px; font-size: 0px; line-height: 0; }
+
+.pkg::after { content: " "; display: block; visibility: hidden; clear: both=
+; height: 0.1px; font-size: 0.1em; line-height: 0; }
+
+* html .pkg { display: inline-block; }
+
+* html .pkg { height: 1%; }
+
+.pkg { display: block; }
+
+body { text-align: center; }
+
+#container { position: relative; margin: 0px auto; width: 740px; text-align=
+: left; }
+
+#container-inner { position: static; width: auto; }
+
+#banner { position: relative; }
+
+#banner-inner { position: static; }
+
+#pagebody { position: relative; width: 100%; }
+
+#pagebody-inner { position: static; width: 100%; }
+
+#alpha, #beta, #gamma, #delta { display: inline; position: relative; float:=
+ left; min-height: 1px; }
+
+#delta { float: right; }
+
+#alpha-inner, #beta-inner, #gamma-inner, #delta-inner { position: static; }
+
+.banner-user { float: left; overflow: hidden; width: 64px; margin: 0px 15px=
+ 0px 0px; border: 0px; padding: 0px; text-align: center; }
+
+.banner-user-photo { display: block; margin: 0px 0px 2px; border: 0px; padd=
+ing: 0px; background-position: center center; background-repeat: no-repeat;=
+ text-decoration: none !important; }
+
+.banner-user-photo img { width: 64px; height: auto; margin: 0px; border: 0p=
+x; padding: 0px; }
+
+.content-nav { margin: 10px; text-align: center; }
+
+.date-header, .entry-content { position: static; clear: both; }
+
+.entry, .trackbacks, .comments, .archive { position: static; overflow: hidd=
+en; clear: both; width: 100%; margin-bottom: 20px; }
+
+.entry-content, .trackbacks-info, .trackback-content, .comment-content, .co=
+mments-open-content, .comments-closed { clear: both; margin: 5px 10px; }
+
+.entry-excerpt, .entry-body, .entry-more-link, .entry-more { clear: both; }
+
+.entry-footer, .trackback-footer, .comment-footer, .comments-open-footer, .=
+archive-content { clear: both; margin: 5px 10px 20px; }
+
+.comments-open label { display: block; }
+
+#comment-author, #comment-email, #comment-url, #comment-text { width: 630px=
+; }
+
+#comment-bake-cookie { margin-left: 0px; vertical-align: middle; }
+
+#comment-post { font-weight: bold; }
+
+img.image-full { width: 100%; }
+
+.image-thumbnail { float: left; width: 115px; margin: 0px 10px 10px 0px; }
+
+.image-thumbnail img { width: 115px; height: 115px; margin: 0px 0px 2px; }
+
+.module { position: relative; overflow: hidden; width: 100%; }
+
+.module-content { position: relative; margin: 5px 10px 20px; }
+
+.module-list, .archive-list { margin: 0px; padding: 0px; list-style: none; =
+}
+
+.module-list-item { margin-top: 5px; margin-bottom: 5px; }
+
+.module-presence img { vertical-align: middle; }
+
+.module-powered .module-content { margin-bottom: 10px; }
+
+.module-photo .module-content { text-align: center; }
+
+.module-wishlist .module-content { text-align: center; }
+
+.module-calendar .module-content table { border-collapse: collapse; }
+
+.module-calendar .module-content th, .module-calendar .module-content td { =
+width: 14%; text-align: center; }
+
+.typelist-thumbnailed { margin: 0px 0px 20px; }
+
+.typelist-thumbnailed .module-list-item { display: block; clear: both; marg=
+in: 0px; }
+
+.typelist-thumbnailed .module-list-item::after { content: " "; display: blo=
+ck; visibility: hidden; clear: both; height: 0.1px; font-size: 0.1em; line-=
+height: 0; }
+
+* html .typelist-thumbnailed .module-list-item { display: inline-block; }
+
+* html .typelist-thumbnailed .module-list-item { height: 1%; }
+
+.typelist-thumbnailed .module-list-item { display: block; }
+
+.typelist-thumbnail { float: left; min-width: 60px; width: auto; margin: 0p=
+x 5px 0px 0px; text-align: center; vertical-align: middle; }
+
+.typelist-thumbnail img { margin: 5px; }
+
+.module-galleries .typelist-thumbnail img { width: 50px; }
+
+.typelist-description { margin: 0px; padding: 5px; }
+
+.module-featured-photo .module-content, .module-photo .module-content { mar=
+gin: 0px; }
+
+.module-featured-photo img { width: 100%; }
+
+.module-recent-photos { margin: 0px 0px 15px; }
+
+.module-recent-photos .module-content { margin: 0px; }
+
+.module-recent-photos .module-list { display: block; height: 1%; margin: 0p=
+x; border: 0px; padding: 0px; list-style: none; }
+
+.module-recent-photos .module-list::after { content: " "; display: block; v=
+isibility: hidden; clear: both; height: 0.1px; font-size: 0.1em; line-heigh=
+t: 0; }
+
+* html .module-recent-photos .module-list { display: inline-block; }
+
+* html .module-recent-photos .module-list { height: 1%; }
+
+.module-recent-photos .module-list { display: block; }
+
+.module-recent-photos .module-list-item { display: block; float: left; heig=
+ht: 1%; margin: 0px; border: 0px; padding: 0px; }
+
+.module-recent-photos .module-list-item a { display: block; margin: 0px; bo=
+rder: 0px; padding: 0px; }
+
+.module-recent-photos .module-list-item img { width: 60px; height: 60px; ma=
+rgin: 0px; padding: 0px; }
+
+.module-mmt-calendar { margin-bottom: 15px; }
+
+.module-mmt-calendar .module-content { margin: 0px; }
+
+.module-mmt-calendar .module-header { margin: 0px; }
+
+.module-mmt-calendar .module-header a { text-decoration: none; }
+
+.module-mmt-calendar table { width: 100%; }
+
+.module-mmt-calendar th { text-align: left; }
+
+.module-mmt-calendar td { width: 14%; height: 75px; text-align: left; verti=
+cal-align: top; }
+
+.day-photo { width: 54px; height: 54px; }
+
+.day-photo a { display: block; }
+
+.day-photo a img { width: 50px; height: 50px; }
+
+body { font-family: "trebuchet ms", verdana, helvetica, arial, sans-serif; =
+font-size: 13px; }
+
+a { color: rgb(54, 65, 77); text-decoration: underline; }
+
+a:hover { color: rgb(163, 184, 204); }
+
+#banner a { color: rgb(255, 255, 255); text-decoration: none; }
+
+#banner a:hover { color: rgb(255, 255, 255); }
+
+.module-content a { color: rgb(54, 65, 77); }
+
+.module-content a:hover { color: rgb(163, 184, 204); }
+
+h1, h2, h3, h4, h5, h6 { font-family: "trebuchet ms", verdana, helvetica, a=
+rial, sans-serif; }
+
+.module-header, .trackbacks-header, .comments-header, .comments-open-header=
+, .archive-header { position: relative; width: auto; margin: 0px; border-le=
+ft: 5px solid rgb(54, 65, 77); padding: 5px; color: rgb(255, 255, 255); bac=
+kground: rgb(163, 184, 204); font-size: 13px; font-weight: bold; line-heigh=
+t: 1; text-transform: uppercase; }
+
+.module-header a, .module-header a:hover, .trackbacks-header a, .trackbacks=
+-header a:hover, .comments-header a, .comments-header a:hover, .comments-op=
+en-header a, .comments-open-header a:hover .archive-header a, .archive-head=
+er a:hover { color: rgb(255, 255, 255); }
+
+.entry-more-link, .entry-footer, .comment-footer, .trackback-footer, .typel=
+ist-thumbnailed { font-size: 13px; }
+
+.commenter-profile img { vertical-align: middle; }
+
+body { min-width: 740px; color: rgb(51, 51, 51); background: rgb(102, 116, =
+132); }
+
+#container { margin-bottom: 20px; background: rgb(255, 255, 255); }
+
+#container-inner { border-width: 0px 5px 5px; border-style: solid; border-c=
+olor: rgb(41, 46, 51); }
+
+#banner { width: 730px; background: rgb(163, 184, 204); }
+
+#banner-inner { padding: 15px 13px; border-width: 2px 2px 0px; border-style=
+: solid; border-color: rgb(255, 255, 255); }
+
+.banner-user { width: 70px; margin-top: 5px; font-size: 13px; }
+
+.banner-user-photo { border: 1px solid rgb(255, 255, 255); }
+
+#banner-header { margin: 0px; color: rgb(255, 255, 255); font-size: 30px; f=
+ont-weight: bold; line-height: 1; text-shadow: rgb(54, 65, 77) 0px 2px 3px;=
+ }
+
+#banner-description { margin-top: 5px; margin-bottom: 0px; color: rgb(255, =
+255, 255); background: none; font-size: 13px; font-weight: bold; line-heigh=
+t: 1.125; text-shadow: rgb(54, 65, 77) 0px 1px 2px; }
+
+#alpha { margin: 15px 15px 0px; width: 478px; }
+
+#beta { width: 215px; background: rgb(230, 236, 242); }
+
+#gamma, #delta { width: 180px; background: rgb(230, 236, 242); }
+
+#beta-inner, #gamma-inner, #delta-inner { padding: 10px 10px 0px; border-wi=
+dth: 2px 2px 2px 0px; border-style: solid; border-color: rgb(255, 255, 255)=
+; }
+
+.date-header { margin-top: 0px; font-size: 13px; font-weight: bold; text-tr=
+ansform: uppercase; }
+
+.entry-header { margin-top: 0px; border-left: 5px solid rgb(218, 224, 230);=
+ padding: 0px 0px 0px 10px; color: rgb(102, 102, 102); font-size: 18px; }
+
+.entry-content, .comment-content, .trackback-content { margin: 0px; line-he=
+ight: 1.5; }
+
+.entry-footer, .comment-footer, .trackback-footer { margin: 0px 0px 20px; b=
+order-top: 1px solid rgb(218, 224, 230); padding-top: 3px; color: rgb(102, =
+102, 102); font-size: 13px; text-align: right; }
+
+.comment-content, .trackback-content, .comment-footer, .trackback-footer { =
+margin-left: 10px; }
+
+.content-nav { margin-top: 0px; }
+
+#trackbacks-info { margin: 10px 0px; border: 1px dashed rgb(163, 184, 204);=
+ padding: 0px 10px; color: rgb(41, 46, 51); font-size: 13px; text-align: ce=
+nter; background: rgb(230, 236, 242); }
+
+.comments-open-footer { margin: 10px 0px; }
+
+.module { margin: 0px 0px 10px; border-bottom: 1px solid rgb(243, 246, 249)=
+; background: rgb(218, 224, 230); }
+
+.module-content { margin: 0px 0px 10px; border-top: 1px solid rgb(207, 212,=
+ 217); padding: 10px 10px 0px; font-size: 13px; line-height: 1.2; }
+
+.module-search input { font-size: 13px; }
+
+.module-search #search { width: 100px; }
+
+.module-mmt-calendar .module-content table, .module-calendar .module-conten=
+t table { font-size: 13px; }
+
+.module-powered { border-width: 0px; }
+
+.module-powered .module-content { margin-bottom: 0px; border: 1px dashed rg=
+b(163, 184, 204); padding-bottom: 10px; color: rgb(41, 46, 51); background:=
+ rgb(255, 255, 255); }
+
+.module-photo { background: none; }
+
+.module-photo img { border: 1px solid rgb(255, 255, 255); }
+
+.module-list { margin: 0px 15px 10px; list-style: disc; }
+
+.module-list .module-list { margin: 5px 0px 0px; padding-left: 15px; list-s=
+tyle: circle; }
+
+.module-list-item { margin-top: 0px; color: rgb(102, 102, 102); line-height=
+: 1.2; }
+
+.typelist-thumbnailed .module-list { margin: 0px 0px 10px; list-style: none=
+; }
+
+.typelist-thumbnailed .module-list-item { margin: 1px 0px; padding: 0px; ba=
+ckground: rgb(243, 246, 249); }
+
+.typelist-thumbnail { background: rgb(255, 255, 255); }
+
+.module-photo img { border: 1px solid rgb(255, 255, 255); }
+
+.module-featured-photo { width: 398px; }
+
+.module-featured-photo .module-content { margin: 0px; border-width: 0px; pa=
+dding: 0px; }
+
+.module-featured-photo img { width: 398px; }
+
+.module-recent-photos .module-content { padding: 10px 0px 0px 19px; }
+
+.module-recent-photos .module-list { margin: 0px; }
+
+.module-recent-photos .module-list-item { width: 64px; margin: 0px 10px 10p=
+x 0px; padding: 0px; background: none; }
+
+.module-recent-photos .module-list-item a { border: 1px solid rgb(207, 212,=
+ 217); padding: 1px; background: rgb(255, 255, 255); }
+
+.module-recent-photos .module-list-item a:hover { border-color: rgb(54, 65,=
+ 77); background: rgb(255, 255, 255); }
+
+.layout-calendar #alpha { width: 260px; }
+
+.layout-calendar #beta { width: 420px; }
+
+.layout-calendar #gamma, .layout-calendar #delta { width: 190px; }
+
+.layout-calendar #gamma-inner, .layout-calendar #delta-inner { border: 0px;=
+ padding: 0px; }
+
+.module-mmt-calendar { width: 398px; }
+
+.module-mmt-calendar .module-content { margin: 0px; border-width: 0px; padd=
+ing: 10px; }
+
+.module-mmt-calendar table { width: 378px; background: rgb(163, 184, 204); =
+}
+
+.module-mmt-calendar th { color: rgb(255, 255, 255); border-top: 1px solid =
+rgb(255, 255, 255); border-right: 1px solid rgb(243, 246, 249); border-bott=
+om: 1px solid rgb(207, 212, 217); padding: 2px; text-align: right; font-wei=
+ght: bold; }
+
+.module-mmt-calendar td { border-top: 1px solid rgb(255, 255, 255); border-=
+right: 1px solid rgb(243, 246, 249); border-bottom: 1px solid rgb(207, 212,=
+ 217); padding: 2px; text-align: right; font-weight: normal; background: rg=
+b(230, 236, 242); }
+
+th.weekday-7, td.day-7, td.day-14, td.day-21, td.day-28, td.day-35, td.day-=
+42 { border-right: none; }
+
+.module-mmt-calendar td { height: 70px; }
+
+.day-photo { width: 49px; height: 49px; }
+
+.day-photo a { border: 1px solid rgb(207, 212, 217); padding: 1px; backgrou=
+nd: rgb(255, 255, 255); }
+
+.day-photo a:hover { border-color: rgb(54, 65, 77); background: rgb(255, 25=
+5, 255); }
+
+.day-photo a img { width: 45px; height: 45px; }
+
+.layout-artistic #alpha { width: 260px; }
+
+.layout-artistic #beta { width: 420px; }
+
+.layout-artistic #gamma, .layout-artistic #delta { width: 190px; }
+
+.layout-artistic #gamma-inner, .layout-artistic #delta-inner { border: 0px;=
+ padding: 0px; }
+
+.layout-moblog1 #alpha { margin: 0px; width: 180px; background: rgb(230, 23=
+6, 242); }
+
+.layout-moblog1 #alpha-inner { padding: 10px 10px 0px; border-width: 2px 0p=
+x 2px 2px; border-style: solid; border-color: rgb(255, 255, 255); }
+
+.layout-moblog1 #beta { margin: 15px 15px 0px; width: 320px; background: no=
+ne; }
+
+.layout-moblog1 #beta-inner { padding: 0px; border-width: 0px; }
+
+.layout-moblog1 .module-recent-photos .module-content { padding: 10px 0px 0=
+px 10px; }
+
+.layout-moblog2 #alpha { margin: 0px; width: 86px; background: rgb(230, 236=
+, 242); }
+
+.layout-moblog2 #alpha-inner { padding: 10px 10px 0px; border-width: 2px 0p=
+x 2px 2px; border-style: solid; border-color: rgb(255, 255, 255); }
+
+.layout-moblog2 #beta { margin: 15px 15px 0px; width: 260px; background: no=
+ne; }
+
+.layout-moblog2 #beta-inner { padding: 0px; border-width: 0px; }
+
+.layout-moblog2 #delta { width: 154px; }
+
+.layout-moblog2 .module-recent-photos { border: 0px; background: none; }
+
+.layout-moblog2 .module-recent-photos .module-content { padding: 0px; borde=
+r: 0px; }
+
+.layout-moblog2 .module-recent-photos .module-list-item { margin: 0px 0px 1=
+0px; }
+
+.layout-timeline #alpha { width: 260px; }
+
+.layout-timeline #beta { width: 420px; }
+
+.layout-timeline #gamma, .layout-timeline #delta { width: 190px; }
+
+.layout-timeline #gamma-inner, .layout-timeline #delta-inner { border: 0px;=
+ padding: 0px; }
+
+.layout-one-column body { min-width: 720px; }
+
+.layout-one-column #container { width: 720px; }
+
+.layout-one-column #banner { width: 710px; }
+
+.layout-one-column #alpha { margin: 15px 15px 0px; width: 678px; }
+
+.layout-two-column-left #alpha { margin: 0px; width: 200px; background: rgb=
+(230, 236, 242); }
+
+.layout-two-column-left #alpha-inner { padding: 10px 10px 0px; border-width=
+: 2px 0px 2px 2px; border-style: solid; border-color: rgb(255, 255, 255); }
+
+.layout-two-column-left #beta { margin: 15px 15px 0px; width: 480px; backgr=
+ound: none; }
+
+.layout-two-column-left #beta-inner { padding: 0px; border-width: 0px; }
+
+.layout-three-column #alpha { margin: 0px; width: 180px; background: rgb(23=
+0, 236, 242); }
+
+.layout-three-column #alpha-inner { padding: 10px 10px 0px; border-width: 2=
+px 0px 2px 2px; border-style: solid; border-color: rgb(255, 255, 255); }
+
+.layout-three-column #beta { margin: 15px 15px 0px; width: 320px; backgroun=
+d: none; }
+
+.layout-three-column #beta-inner { padding: 0px; border-width: 0px; }
+
+pre.mtc_block { border: 1px solid rgb(153, 153, 153); background-color: rgb=
+(238, 238, 238); padding-left: 20px; padding-bottom: 20px; padding-top: 20p=
+x; }
+
+span.mtc_inline { font-family: monospace; }
+
+.def_HorzCross { color: rgb(0, 0, 0); background-color: rgb(49, 59, 48); }
+
+.def_VertCross { color: rgb(0, 0, 0); background-color: rgb(49, 59, 48); }
+
+.def_Number { color: rgb(0, 168, 0); }
+
+.def_NumberDec { color: rgb(0, 140, 0); }
+
+.def_NumHex { color: rgb(0, 128, 0); }
+
+.def_NumberBin { color: rgb(0, 125, 0); }
+
+.def_NumberOct { color: rgb(0, 140, 0); }
+
+.def_NumberFloat { color: rgb(0, 159, 0); }
+
+.def_NumberSuffix { color: rgb(0, 102, 0); }
+
+.def_String { color: rgb(0, 196, 196); }
+
+.def_StringContent { color: rgb(0, 128, 128); }
+
+.def_StringEdge { color: rgb(2, 208, 69); }
+
+.def_CharacterContent { color: rgb(0, 128, 128); }
+
+.def_Comment { color: rgb(153, 153, 169); }
+
+.def_CommentContent { color: rgb(134, 149, 184); font-weight: bold; }
+
+.def_CommentDoc { color: rgb(144, 176, 224); }
+
+.def_Symbol { color: rgb(128, 128, 128); }
+
+.def_SymbolStrong { color: rgb(176, 96, 176); }
+
+.def_Prefix { color: rgb(0, 221, 221); }
+
+.def_Operator { color: rgb(0, 221, 221); }
+
+.def_Keyword { color: rgb(0, 0, 128); font-weight: bold; }
+
+.def_KeywordStrong { color: rgb(144, 64, 80); }
+
+.def_ClassKeyword { color: rgb(187, 121, 119); font-weight: bold; }
+
+.def_TypeKeyword { color: rgb(187, 121, 119); }
+
+.def_Register { color: rgb(208, 208, 159); }
+
+.def_Constant { color: rgb(0, 125, 69); }
+
+.def_BooleanConstant { color: rgb(15, 77, 117); }
+
+.def_VarStrong { color: rgb(0, 121, 151); }
+
+.def_Identifier { color: rgb(0, 95, 210); }
+
+.def_Directive { color: rgb(0, 128, 115); }
+
+.def_Param { color: rgb(100, 129, 12); }
+
+.def_Tag { color: rgb(246, 193, 208); }
+
+.def_OpenTag { color: rgb(255, 137, 6); }
+
+.def_CloseTag { color: rgb(251, 132, 0); }
+
+.def_Label { color: rgb(227, 74, 220); }
+
+.def_LabelStrong { color: rgb(0, 0, 0); background-color: rgb(168, 168, 0);=
+ }
+
+.def_Insertion { color: rgb(255, 255, 255); background-color: rgb(40, 24, 0=
+); }
+
+.def_InsertionStart { color: rgb(128, 0, 0); background-color: rgb(255, 255=
+, 164); }
+
+.def_InsertionEnd { color: rgb(128, 0, 0); background-color: rgb(255, 255, =
+164); }
+
+.def_Error { color: rgb(255, 255, 255); background-color: rgb(221, 0, 0); }
+
+.def_ErrorText { color: rgb(238, 0, 238); }
+
+.def_TODO { color: rgb(255, 255, 255); background-color: rgb(60, 33, 95); }
+
+.def_Debug { color: rgb(1, 26, 71); background-color: rgb(0, 112, 132); }
+
+.def_Path { color: rgb(64, 1, 90); }
+
+.def_URL { color: rgb(96, 112, 236); }
+
+.def_EMail { color: rgb(161, 96, 244); }
+
+.def_Date { color: rgb(0, 151, 151); }
+
+.def_Time { color: rgb(135, 69, 160); }
+
+.def_PairStart { color: rgb(170, 68, 68); }
+
+.def_PairEnd { color: rgb(170, 68, 68); }
+------MultipartBoundary--Cm1Ou1VWwA6DIDTOiKSDE2fcU6brmB9Gia9YqgVONR----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://blog.codingnow.com/mobile.css
+
+@charset "gbk";
+
+html { margin: 0px; padding: 0px; }
+
+body { margin: 0px; padding: 0px; }
+
+form, input { margin: 0px; padding: 0px; }
+
+a { text-decoration: underline; }
+
+a img { border: 0px; }
+
+h1, h2, h3, h4, h5, h6 { font-weight: normal; }
+
+h1, h2, h3, h4, h5, h6, p, ol, ul, pre, blockquote { margin-top: 10px; marg=
+in-bottom: 10px; }
+
+.clr { clear: both; overflow: hidden; width: 1px; height: 1px; margin: 0px =
+-1px -1px 0px; border: 0px; padding: 0px; font-size: 0px; line-height: 0; }
+
+.pkg::after { content: " "; display: block; visibility: hidden; clear: both=
+; height: 0.1px; font-size: 0.1em; line-height: 0; }
+
+* html .pkg { display: inline-block; }
+
+* html .pkg { height: 1%; }
+
+.pkg { display: block; }
+
+body { text-align: center; }
+
+#container { position: relative; margin: 0px auto; text-align: left; }
+
+p { padding: 10px; }
+
+#container-inner { position: static; width: auto; }
+
+#banner { position: relative; }
+
+#banner-inner { position: static; }
+
+#pagebody { position: relative; width: 100%; }
+
+#pagebody-inner { position: static; width: 100%; }
+
+#alpha, #beta, #gamma, #delta { display: inline; position: relative; float:=
+ left; min-height: 1px; }
+
+#delta { float: right; }
+
+#alpha-inner, #beta-inner, #gamma-inner, #delta-inner { position: static; }
+
+.banner-user { float: left; overflow: hidden; width: 64px; margin: 0px 15px=
+ 0px 0px; border: 0px; padding: 0px; text-align: center; }
+
+.banner-user-photo { display: block; margin: 0px 0px 2px; border: 0px; padd=
+ing: 0px; background-position: center center; background-repeat: no-repeat;=
+ text-decoration: none !important; }
+
+.banner-user-photo img { width: 64px; height: auto; margin: 0px; border: 0p=
+x; padding: 0px; }
+
+.content-nav { margin: 10px; text-align: center; }
+
+.date-header, .entry-content { position: static; clear: both; }
+
+.entry, .trackbacks, .comments, .archive { position: static; overflow: hidd=
+en; clear: both; width: 100%; margin-bottom: 20px; }
+
+.comment { word-break: break-all; }
+
+.entry-content, .trackbacks-info, .trackback-content, .comment-content, .co=
+mments-open-content, .comments-closed { clear: both; margin: 5px 10px; }
+
+.entry-excerpt, .entry-body, .entry-more-link, .entry-more { clear: both; }
+
+.entry-footer, .trackback-footer, .comment-footer, .comments-open-footer, .=
+archive-content { clear: both; margin: 5px 10px 20px; }
+
+.comments-open label { display: block; }
+
+#comment-author, #comment-email, #comment-url, #comment-text { }
+
+#comment-bake-cookie { margin-left: 0px; vertical-align: middle; }
+
+#comment-post { font-weight: bold; }
+
+img.image-full { width: 100%; }
+
+.image-thumbnail { float: left; width: 115px; margin: 0px 10px 10px 0px; }
+
+.image-thumbnail img { width: 115px; height: 115px; margin: 0px 0px 2px; }
+
+.module { position: relative; overflow: hidden; width: 100%; }
+
+.module-content { position: relative; margin: 5px 10px 20px; }
+
+.module-list, .archive-list { margin: 0px; padding: 0px; list-style: none; =
+}
+
+.module-list-item { margin-top: 5px; margin-bottom: 5px; font-size: 40px; p=
+adding: 10px; }
+
+.module-presence img { vertical-align: middle; }
+
+.module-powered .module-content { margin-bottom: 10px; }
+
+.module-photo .module-content { text-align: center; }
+
+.module-wishlist .module-content { text-align: center; }
+
+.module-calendar .module-content table { border-collapse: collapse; }
+
+.module-calendar .module-content th, .module-calendar .module-content td { =
+width: 14%; text-align: center; }
+
+.typelist-thumbnailed { margin: 0px 0px 20px; }
+
+.typelist-thumbnailed .module-list-item { display: block; clear: both; marg=
+in: 0px; }
+
+.typelist-thumbnailed .module-list-item::after { content: " "; display: blo=
+ck; visibility: hidden; clear: both; height: 0.1px; font-size: 0.1em; line-=
+height: 0; }
+
+* html .typelist-thumbnailed .module-list-item { display: inline-block; }
+
+* html .typelist-thumbnailed .module-list-item { height: 1%; }
+
+.typelist-thumbnailed .module-list-item { display: block; }
+
+.typelist-thumbnail { float: left; min-width: 60px; width: auto; margin: 0p=
+x 5px 0px 0px; text-align: center; vertical-align: middle; }
+
+.typelist-thumbnail img { margin: 5px; }
+
+.module-galleries .typelist-thumbnail img { width: 50px; }
+
+.typelist-description { margin: 0px; padding: 5px; }
+
+.module-featured-photo .module-content, .module-photo .module-content { mar=
+gin: 0px; }
+
+.module-featured-photo img { width: 100%; }
+
+.module-recent-photos { margin: 0px 0px 15px; }
+
+.module-recent-photos .module-content { margin: 0px; }
+
+.module-recent-photos .module-list { display: block; height: 1%; margin: 0p=
+x; border: 0px; padding: 0px; list-style: none; }
+
+.module-recent-photos .module-list::after { content: " "; display: block; v=
+isibility: hidden; clear: both; height: 0.1px; font-size: 0.1em; line-heigh=
+t: 0; }
+
+* html .module-recent-photos .module-list { display: inline-block; }
+
+* html .module-recent-photos .module-list { height: 1%; }
+
+.module-recent-photos .module-list { display: block; }
+
+.module-recent-photos .module-list-item { display: block; float: left; heig=
+ht: 1%; margin: 0px; border: 0px; padding: 0px; }
+
+.module-recent-photos .module-list-item a { display: block; margin: 0px; bo=
+rder: 0px; padding: 0px; }
+
+.module-recent-photos .module-list-item img { width: 60px; height: 60px; ma=
+rgin: 0px; padding: 0px; }
+
+.module-mmt-calendar { margin-bottom: 15px; }
+
+.module-mmt-calendar .module-content { margin: 0px; }
+
+.module-mmt-calendar .module-header { margin: 0px; }
+
+.module-mmt-calendar .module-header a { text-decoration: none; }
+
+.module-mmt-calendar table { width: 100%; }
+
+.module-mmt-calendar th { text-align: left; }
+
+.module-mmt-calendar td { width: 14%; height: 75px; text-align: left; verti=
+cal-align: top; }
+
+.day-photo { width: 54px; height: 54px; }
+
+.day-photo a { display: block; }
+
+.day-photo a img { width: 50px; height: 50px; }
+
+body { font-family: "trebuchet ms", verdana, helvetica, arial, sans-serif; =
+font-size: 20px; }
+
+a { color: rgb(54, 65, 77); text-decoration: underline; }
+
+a:hover { color: rgb(163, 184, 204); }
+
+#banner a { color: rgb(255, 255, 255); text-decoration: none; }
+
+#banner a:hover { color: rgb(255, 255, 255); }
+
+.module-content a { color: rgb(54, 65, 77); }
+
+.module-content a:hover { color: rgb(163, 184, 204); }
+
+h1, h2, h3, h4, h5, h6 { font-family: "trebuchet ms", verdana, helvetica, a=
+rial, sans-serif; }
+
+.module-header, .trackbacks-header, .comments-header, .comments-open-header=
+, .archive-header { position: relative; width: auto; margin: 0px; border-le=
+ft: 5px solid rgb(54, 65, 77); padding: 5px; color: rgb(255, 255, 255); bac=
+kground: rgb(163, 184, 204); font-size: 20px; font-weight: bold; line-heigh=
+t: 1; text-transform: uppercase; }
+
+.module-header a, .module-header a:hover, .trackbacks-header a, .trackbacks=
+-header a:hover, .comments-header a, .comments-header a:hover, .comments-op=
+en-header a, .comments-open-header a:hover .archive-header a, .archive-head=
+er a:hover { color: rgb(255, 255, 255); }
+
+.entry-more-link, .entry-footer, .comment-footer, .trackback-footer, .typel=
+ist-thumbnailed { font-size: 20px; }
+
+.commenter-profile img { vertical-align: middle; }
+
+body { color: rgb(51, 51, 51); background: rgb(102, 116, 132); }
+
+#container { margin-bottom: 20px; background: rgb(255, 255, 255); }
+
+#container-inner { border-width: 0px 5px 5px; border-style: solid; border-c=
+olor: rgb(41, 46, 51); }
+
+#banner { background: rgb(163, 184, 204); }
+
+#banner-inner { padding: 15px 13px; border-width: 2px 2px 0px; border-style=
+: solid; border-color: rgb(255, 255, 255); }
+
+.banner-user { width: 70px; margin-top: 5px; font-size: 20px; }
+
+.banner-user-photo { border: 1px solid rgb(255, 255, 255); }
+
+#banner-header { margin: 0px; color: rgb(255, 255, 255); font-size: 30px; f=
+ont-weight: bold; line-height: 1; text-shadow: rgb(54, 65, 77) 0px 2px 3px;=
+ }
+
+#banner-description { margin-top: 5px; margin-bottom: 0px; color: rgb(255, =
+255, 255); background: none; font-size: 20px; font-weight: bold; line-heigh=
+t: 1.125; text-shadow: rgb(54, 65, 77) 0px 1px 2px; }
+
+#alpha { margin: 15px 15px 0px; }
+
+#beta { background: rgb(230, 236, 242); }
+
+#gamma, #delta { background: rgb(230, 236, 242); }
+
+#beta-inner, #gamma-inner, #delta-inner { padding: 10px 10px 0px; border-wi=
+dth: 2px 2px 2px 0px; border-style: solid; border-color: rgb(255, 255, 255)=
+; }
+
+.date-header { margin-top: 0px; font-size: 20px; font-weight: bold; text-tr=
+ansform: uppercase; }
+
+.entry-header { margin-top: 0px; border-left: 5px solid rgb(218, 224, 230);=
+ padding: 0px 0px 0px 10px; color: rgb(102, 102, 102); font-size: 28px; }
+
+.entry-content, .comment-content, .trackback-content { line-height: 1.8; }
+
+.entry-footer, .comment-footer, .trackback-footer { margin: 0px 0px 20px; b=
+order-top: 1px solid rgb(218, 224, 230); padding-top: 3px; color: rgb(102, =
+102, 102); font-size: 20px; text-align: right; }
+
+.comment-content, .trackback-content, .comment-footer, .trackback-footer { =
+margin-left: 10px; }
+
+.content-nav { margin-top: 0px; }
+
+#trackbacks-info { margin: 10px 0px; border: 1px dashed rgb(163, 184, 204);=
+ padding: 0px 10px; color: rgb(41, 46, 51); font-size: 20px; text-align: ce=
+nter; background: rgb(230, 236, 242); }
+
+.comments-open-footer { margin: 10px 0px; }
+
+.module { margin: 0px 0px 10px; border-bottom: 1px solid rgb(243, 246, 249)=
+; background: rgb(218, 224, 230); }
+
+.module-content { margin: 0px 0px 10px; border-top: 1px solid rgb(207, 212,=
+ 217); padding: 10px 10px 0px; font-size: 20px; line-height: 1.2; }
+
+.module-search input { font-size: 20px; }
+
+.module-search #search { width: 100px; }
+
+.module-mmt-calendar .module-content table, .module-calendar .module-conten=
+t table { font-size: 20px; }
+
+.module-powered { border-width: 0px; }
+
+.module-powered .module-content { margin-bottom: 0px; border: 1px dashed rg=
+b(163, 184, 204); padding-bottom: 10px; color: rgb(41, 46, 51); background:=
+ rgb(255, 255, 255); }
+
+.module-photo { background: none; }
+
+.module-photo img { border: 1px solid rgb(255, 255, 255); }
+
+.module-list { margin: 0px 15px 10px; list-style: disc; }
+
+.module-list .module-list { margin: 5px 0px 0px; padding-left: 15px; list-s=
+tyle: circle; }
+
+.module-list-item { margin-top: 0px; color: rgb(102, 102, 102); line-height=
+: 1.2; }
+
+.typelist-thumbnailed .module-list { margin: 0px 0px 10px; list-style: none=
+; }
+
+.typelist-thumbnailed .module-list-item { margin: 1px 0px; padding: 0px; ba=
+ckground: rgb(243, 246, 249); }
+
+.typelist-thumbnail { background: rgb(255, 255, 255); }
+
+.module-photo img { border: 1px solid rgb(255, 255, 255); }
+
+.module-featured-photo { width: 398px; }
+
+.module-featured-photo .module-content { margin: 0px; border-width: 0px; pa=
+dding: 0px; }
+
+.module-featured-photo img { width: 398px; }
+
+.module-recent-photos .module-content { padding: 10px 0px 0px 19px; }
+
+.module-recent-photos .module-list { margin: 0px; }
+
+.module-recent-photos .module-list-item { width: 64px; margin: 0px 10px 10p=
+x 0px; padding: 0px; background: none; }
+
+.module-recent-photos .module-list-item a { border: 1px solid rgb(207, 212,=
+ 217); padding: 1px; background: rgb(255, 255, 255); }
+
+.module-recent-photos .module-list-item a:hover { border-color: rgb(54, 65,=
+ 77); background: rgb(255, 255, 255); }
+
+.layout-calendar #alpha { width: 260px; }
+
+.layout-calendar #beta { width: 420px; }
+
+.layout-calendar #gamma, .layout-calendar #delta { width: 190px; }
+
+.layout-calendar #gamma-inner, .layout-calendar #delta-inner { border: 0px;=
+ padding: 0px; }
+
+.module-mmt-calendar { width: 398px; }
+
+.module-mmt-calendar .module-content { margin: 0px; border-width: 0px; padd=
+ing: 10px; }
+
+.module-mmt-calendar table { width: 378px; background: rgb(163, 184, 204); =
+}
+
+.module-mmt-calendar th { color: rgb(255, 255, 255); border-top: 1px solid =
+rgb(255, 255, 255); border-right: 1px solid rgb(243, 246, 249); border-bott=
+om: 1px solid rgb(207, 212, 217); padding: 2px; text-align: right; font-wei=
+ght: bold; }
+
+.module-mmt-calendar td { border-top: 1px solid rgb(255, 255, 255); border-=
+right: 1px solid rgb(243, 246, 249); border-bottom: 1px solid rgb(207, 212,=
+ 217); padding: 2px; text-align: right; font-weight: normal; background: rg=
+b(230, 236, 242); }
+
+th.weekday-7, td.day-7, td.day-14, td.day-21, td.day-28, td.day-35, td.day-=
+42 { border-right: none; }
+
+.module-mmt-calendar td { height: 70px; }
+
+.day-photo { width: 49px; height: 49px; }
+
+.day-photo a { border: 1px solid rgb(207, 212, 217); padding: 1px; backgrou=
+nd: rgb(255, 255, 255); }
+
+.day-photo a:hover { border-color: rgb(54, 65, 77); background: rgb(255, 25=
+5, 255); }
+
+.day-photo a img { width: 45px; height: 45px; }
+
+.layout-artistic #alpha { width: 260px; }
+
+.layout-artistic #beta { width: 420px; }
+
+.layout-artistic #gamma, .layout-artistic #delta { width: 190px; }
+
+.layout-artistic #gamma-inner, .layout-artistic #delta-inner { border: 0px;=
+ padding: 0px; }
+
+.layout-moblog1 #alpha { margin: 0px; width: 180px; background: rgb(230, 23=
+6, 242); }
+
+.layout-moblog1 #alpha-inner { padding: 10px 10px 0px; border-width: 2px 0p=
+x 2px 2px; border-style: solid; border-color: rgb(255, 255, 255); }
+
+.layout-moblog1 #beta { margin: 15px 15px 0px; width: 320px; background: no=
+ne; }
+
+.layout-moblog1 #beta-inner { padding: 0px; border-width: 0px; }
+
+.layout-moblog1 .module-recent-photos .module-content { padding: 10px 0px 0=
+px 10px; }
+
+.layout-moblog2 #alpha { margin: 0px; width: 86px; background: rgb(230, 236=
+, 242); }
+
+.layout-moblog2 #alpha-inner { padding: 10px 10px 0px; border-width: 2px 0p=
+x 2px 2px; border-style: solid; border-color: rgb(255, 255, 255); }
+
+.layout-moblog2 #beta { margin: 15px 15px 0px; width: 260px; background: no=
+ne; }
+
+.layout-moblog2 #beta-inner { padding: 0px; border-width: 0px; }
+
+.layout-moblog2 #delta { width: 154px; }
+
+.layout-moblog2 .module-recent-photos { border: 0px; background: none; }
+
+.layout-moblog2 .module-recent-photos .module-content { padding: 0px; borde=
+r: 0px; }
+
+.layout-moblog2 .module-recent-photos .module-list-item { margin: 0px 0px 1=
+0px; }
+
+.layout-timeline #alpha { width: 260px; }
+
+.layout-timeline #beta { width: 420px; }
+
+.layout-timeline #gamma, .layout-timeline #delta { width: 190px; }
+
+.layout-timeline #gamma-inner, .layout-timeline #delta-inner { border: 0px;=
+ padding: 0px; }
+
+.layout-one-column #alpha { margin: 15px 45px 0px; }
+
+.layout-two-column-left #alpha { margin: 0px; width: 200px; background: rgb=
+(230, 236, 242); }
+
+.layout-two-column-left #alpha-inner { padding: 10px 10px 0px; border-width=
+: 2px 0px 2px 2px; border-style: solid; border-color: rgb(255, 255, 255); }
+
+.layout-two-column-left #beta { margin: 15px 15px 0px; background: none; }
+
+.layout-two-column-left #beta-inner { padding: 0px; border-width: 0px; }
+
+.layout-three-column #alpha { margin: 0px; width: 180px; background: rgb(23=
+0, 236, 242); }
+
+.layout-three-column #alpha-inner { padding: 10px 10px 0px; border-width: 2=
+px 0px 2px 2px; border-style: solid; border-color: rgb(255, 255, 255); }
+
+.layout-three-column #beta { margin: 15px 15px 0px; width: 320px; backgroun=
+d: none; }
+
+.layout-three-column #beta-inner { padding: 0px; border-width: 0px; }
+
+pre.mtc_block { border: 1px solid rgb(153, 153, 153); background-color: rgb=
+(238, 238, 238); padding-left: 20px; padding-bottom: 20px; padding-top: 20p=
+x; }
+
+span.mtc_inline { font-family: monospace; }
+
+.def_HorzCross { color: rgb(0, 0, 0); background-color: rgb(49, 59, 48); }
+
+.def_VertCross { color: rgb(0, 0, 0); background-color: rgb(49, 59, 48); }
+
+.def_Number { color: rgb(0, 168, 0); }
+
+.def_NumberDec { color: rgb(0, 140, 0); }
+
+.def_NumHex { color: rgb(0, 128, 0); }
+
+.def_NumberBin { color: rgb(0, 125, 0); }
+
+.def_NumberOct { color: rgb(0, 140, 0); }
+
+.def_NumberFloat { color: rgb(0, 159, 0); }
+
+.def_NumberSuffix { color: rgb(0, 102, 0); }
+
+.def_String { color: rgb(0, 196, 196); }
+
+.def_StringContent { color: rgb(0, 128, 128); }
+
+.def_StringEdge { color: rgb(2, 208, 69); }
+
+.def_CharacterContent { color: rgb(0, 128, 128); }
+
+.def_Comment { color: rgb(153, 153, 169); }
+
+.def_CommentContent { color: rgb(134, 149, 184); font-weight: bold; }
+
+.def_CommentDoc { color: rgb(144, 176, 224); }
+
+.def_Symbol { color: rgb(128, 128, 128); }
+
+.def_SymbolStrong { color: rgb(176, 96, 176); }
+
+.def_Prefix { color: rgb(0, 221, 221); }
+
+.def_Operator { color: rgb(0, 221, 221); }
+
+.def_Keyword { color: rgb(0, 0, 128); font-weight: bold; }
+
+.def_KeywordStrong { color: rgb(144, 64, 80); }
+
+.def_ClassKeyword { color: rgb(187, 121, 119); font-weight: bold; }
+
+.def_TypeKeyword { color: rgb(187, 121, 119); }
+
+.def_Register { color: rgb(208, 208, 159); }
+
+.def_Constant { color: rgb(0, 125, 69); }
+
+.def_BooleanConstant { color: rgb(15, 77, 117); }
+
+.def_VarStrong { color: rgb(0, 121, 151); }
+
+.def_Identifier { color: rgb(0, 95, 210); }
+
+.def_Directive { color: rgb(0, 128, 115); }
+
+.def_Param { color: rgb(100, 129, 12); }
+
+.def_Tag { color: rgb(246, 193, 208); }
+
+.def_OpenTag { color: rgb(255, 137, 6); }
+
+.def_CloseTag { color: rgb(251, 132, 0); }
+
+.def_Label { color: rgb(227, 74, 220); }
+
+.def_LabelStrong { color: rgb(0, 0, 0); background-color: rgb(168, 168, 0);=
+ }
+
+.def_Insertion { color: rgb(255, 255, 255); background-color: rgb(40, 24, 0=
+); }
+
+.def_InsertionStart { color: rgb(128, 0, 0); background-color: rgb(255, 255=
+, 164); }
+
+.def_InsertionEnd { color: rgb(128, 0, 0); background-color: rgb(255, 255, =
+164); }
+
+.def_Error { color: rgb(255, 255, 255); background-color: rgb(221, 0, 0); }
+
+.def_ErrorText { color: rgb(238, 0, 238); }
+
+.def_TODO { color: rgb(255, 255, 255); background-color: rgb(60, 33, 95); }
+
+.def_Debug { color: rgb(1, 26, 71); background-color: rgb(0, 112, 132); }
+
+.def_Path { color: rgb(64, 1, 90); }
+
+.def_URL { color: rgb(96, 112, 236); }
+
+.def_EMail { color: rgb(161, 96, 244); }
+
+.def_Date { color: rgb(0, 151, 151); }
+
+.def_Time { color: rgb(135, 69, 160); }
+
+.def_PairStart { color: rgb(170, 68, 68); }
+
+.def_PairEnd { color: rgb(170, 68, 68); }
+------MultipartBoundary--Cm1Ou1VWwA6DIDTOiKSDE2fcU6brmB9Gia9YqgVONR----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://blog.codingnow.com/mtcolorer.css
+
+@charset "gbk";
+
+pre.mtc_block { border: 1px solid rgb(153, 153, 153); background-color: rgb=
+(238, 238, 238); padding-left: 20px; padding-bottom: 20px; padding-top: 20p=
+x; }
+
+span.mtc_inline { font-family: monospace; }
+
+.def_HorzCross { color: rgb(0, 0, 0); background-color: rgb(49, 59, 48); }
+
+.def_VertCross { color: rgb(0, 0, 0); background-color: rgb(49, 59, 48); }
+
+.def_Number { color: rgb(0, 168, 0); }
+
+.def_NumberDec { color: rgb(0, 140, 0); }
+
+.def_NumHex { color: rgb(0, 128, 0); }
+
+.def_NumberBin { color: rgb(0, 125, 0); }
+
+.def_NumberOct { color: rgb(0, 140, 0); }
+
+.def_NumberFloat { color: rgb(0, 159, 0); }
+
+.def_NumberSuffix { color: rgb(0, 102, 0); }
+
+.def_String { color: rgb(0, 196, 196); }
+
+.def_StringContent { color: rgb(0, 128, 128); }
+
+.def_StringEdge { color: rgb(2, 208, 69); }
+
+.def_CharacterContent { color: rgb(0, 128, 128); }
+
+.def_Comment { color: rgb(153, 153, 169); }
+
+.def_CommentContent { color: rgb(134, 149, 184); font-weight: bold; }
+
+.def_CommentDoc { color: rgb(144, 176, 224); }
+
+.def_Symbol { color: rgb(107, 102, 39); }
+
+.def_SymbolStrong { color: rgb(176, 96, 176); }
+
+.def_Prefix { color: rgb(0, 221, 221); }
+
+.def_Operator { color: rgb(0, 221, 221); }
+
+.def_Keyword { color: rgb(230, 97, 112); font-weight: bold; }
+
+.def_KeywordStrong { color: rgb(144, 64, 80); }
+
+.def_ClassKeyword { color: rgb(187, 121, 119); font-weight: bold; }
+
+.def_TypeKeyword { color: rgb(187, 121, 119); }
+
+.def_Register { color: rgb(208, 208, 159); }
+
+.def_Constant { color: rgb(0, 125, 69); }
+
+.def_BooleanConstant { color: rgb(15, 77, 117); }
+
+.def_VarStrong { color: rgb(0, 121, 151); }
+
+.def_Identifier { color: rgb(0, 95, 210); }
+
+.def_Directive { color: rgb(0, 128, 115); }
+
+.def_Param { color: rgb(100, 129, 12); }
+
+.def_Tag { color: rgb(246, 193, 208); }
+
+.def_OpenTag { color: rgb(255, 137, 6); }
+
+.def_CloseTag { color: rgb(251, 132, 0); }
+
+.def_Label { color: rgb(227, 74, 220); }
+
+.def_LabelStrong { color: rgb(0, 0, 0); background-color: rgb(168, 168, 0);=
+ }
+
+.def_Insertion { color: rgb(255, 255, 255); background-color: rgb(40, 24, 0=
+); }
+
+.def_InsertionStart { color: rgb(128, 0, 0); background-color: rgb(255, 255=
+, 164); }
+
+.def_InsertionEnd { color: rgb(128, 0, 0); background-color: rgb(255, 255, =
+164); }
+
+.def_Error { color: rgb(255, 255, 255); background-color: rgb(221, 0, 0); }
+
+.def_ErrorText { color: rgb(238, 0, 238); }
+
+.def_TODO { color: rgb(255, 255, 255); background-color: rgb(60, 33, 95); }
+
+.def_Debug { color: rgb(1, 26, 71); background-color: rgb(0, 112, 132); }
+
+.def_Path { color: rgb(64, 1, 90); }
+
+.def_URL { color: rgb(96, 112, 236); }
+
+.def_EMail { color: rgb(161, 96, 244); }
+
+.def_Date { color: rgb(0, 151, 151); }
+
+.def_Time { color: rgb(135, 69, 160); }
+
+.def_PairStart { color: rgb(170, 68, 68); }
+
+.def_PairEnd { color: rgb(170, 68, 68); }
+------MultipartBoundary--Cm1Ou1VWwA6DIDTOiKSDE2fcU6brmB9Gia9YqgVONR------
