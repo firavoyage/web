@@ -1,0 +1,2431 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://annas-archive.org/datasets
+Subject: =?utf-8?Q?Datasets=20-=20Anna=E2=80=99s=20Archive?=
+Date: Sun, 23 Jun 2024 12:52:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--2PRPhHIktYGG6T5G3LMJQLgGZ1pnOHX2Qn2oUraiew----"
+
+
+------MultipartBoundary--2PRPhHIktYGG6T5G3LMJQLgGZ1pnOHX2Qn2oUraiew----
+Content-Type: text/html
+Content-ID: <frame-76F42093476580F051FCD7E52D91D07D@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://annas-archive.org/datasets
+
+<html lang=3D"en"><head><meta http-equiv=3D"Content-Type" content=3D"text/h=
+tml; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"ci=
+d:css-654afafc-13fb-4dce-8340-87178d4fd59c@mhtml.blink" />
+   =20
+    <title>Datasets - Anna=E2=80=99s Archive</title>
+    <link rel=3D"stylesheet" href=3D"https://annas-archive.org/css/app.css?=
+hash=3D388628e8baddc6037032">
+   =20
+      <meta name=3D"description" content=3D"The world=E2=80=99s largest ope=
+n-source open-data library. Mirrors Sci-Hub, Library Genesis, Z-Library, an=
+d more.">
+    <meta name=3D"twitter:card" value=3D"summary">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <link rel=3D"apple-touch-icon" sizes=3D"180x180" href=3D"https://annas-=
+archive.org/apple-touch-icon.png?hash=3Dd2fa3410fb1ae23ef0ab">
+    <link rel=3D"icon" type=3D"image/png" sizes=3D"32x32" href=3D"https://a=
+nnas-archive.org/favicon-32x32.png?hash=3D989ac03e6b8daade6d2d">
+    <link rel=3D"icon" type=3D"image/png" sizes=3D"16x16" href=3D"https://a=
+nnas-archive.org/favicon-16x16.png?hash=3D33f085d3acf9176b18df">
+    <link rel=3D"manifest" href=3D"https://annas-archive.org/site.webmanife=
+st?hash=3D076af9a96b0bfbd668cd">
+    <link rel=3D"search" href=3D"https://annas-archive.org/content-search.x=
+ml" type=3D"application/opensearchdescription+xml" title=3D"Search Anna=E2=
+=80=99s Archive">
+    <meta name=3D"apple-mobile-web-app-capable" content=3D"yes">
+   =20
+  </head>
+  <body>
+   =20
+   =20
+      <div class=3D"header" role=3D"navigation">
+        <div>
+        <!-- <div class=3D"[html:not(.aa-logged-in)_&]:hidden"> -->
+            <!-- blue -->
+            <div class=3D"bg-[#0195ff] hidden js-top-banner" style=3D"displ=
+ay: block;">
+              <div class=3D"max-w-[1050px] mx-auto px-4 py-2 text-[#fff] fl=
+ex justify-between">
+                <!-- <div>
+                  =F0=9F=8E=84 <strong>Saving human knowledge: a great holi=
+day gift!</strong> =E2=9D=84=EF=B8=8F Surprise a loved one, give them an ac=
+count with membership. <a class=3D"custom-a text-[#fff] hover:text-[#ddd] u=
+nderline" href=3D"/donate">Donate</a>
+                </div> -->
+                <div>
+                  To increase the resiliency of Anna=E2=80=99s Archive, we=
+=E2=80=99re looking for volunteers to run mirrors. <a class=3D"custom-a tex=
+t-[#fff] hover:text-[#ddd] underline text-xs" href=3D"https://annas-archive=
+.org/mirrors">Learn more=E2=80=A6</a>
+                </div>
+                <!-- <div>
+                  The perfect Valentine=E2=80=99s gift! Refer a friend, and=
+ both you and your friend get 50% bonus fast downloads! <a class=3D"custom-=
+a text-[#fff] hover:text-[#ddd] underline text-xs" href=3D"/refer">Learn mo=
+re=E2=80=A6</a>
+                </div> -->
+                <div>
+                  <a href=3D"https://annas-archive.org/datasets#" class=3D"=
+custom-a ml-2 text-[#fff] hover:text-[#ddd] js-top-banner-close">=E2=9C=95<=
+/a>
+                </div>
+              </div>
+            </div>
+
+
+          <!-- blue -->
+          <!-- <div class=3D"bg-[#0195ff] hidden js-top-banner">  -->
+          <!-- purple -->
+          <!-- <div class=3D"bg-[#7f01ff] hidden js-top-banner">  -->
+          <!-- <div class=3D"hidden js-top-banner text-xs sm:text-base [htm=
+l:not(.aa-logged-in)_&]:hidden"> -->
+            <!-- <div>
+              We have a new donation method available: <strong>Paypal</stro=
+ng>. Please consider <a href=3D"/donate" class=3D"custom-a text-[#fff] hove=
+r:text-[#ddd] underline">donating</a> =E2=80=94 it=E2=80=99s not cheap runn=
+ing this website, and your donation truly makes a difference. Thank you so =
+much.
+            </div> -->
+            <!-- <div>
+              We now have a <a class=3D"custom-a text-[#fff] hover:text-[#d=
+dd] underline" href=3D"https://t.me/annasarchiveorg">Telegram</a> channel. =
+Join us and discuss the future of Anna=E2=80=99s Archive.<br/>You can still=
+ also follow us on <a class=3D"custom-a text-[#fff] hover:text-[#ddd] under=
+line" href=3D"https://www.reddit.com/r/Annas_Archive">Reddit</a>.
+            </div> -->
+            <!-- <div class=3D"max-w-[1050px] mx-auto px-4 py-2">
+              <div class=3D"flex justify-between mb-2">
+                <div>We=E2=80=99re running a fundraiser for <a href=3D"http=
+s://annas-blog.org/backed-up-the-worlds-largest-comics-shadow-lib.html">bac=
+king up</a> the largest comics shadow library in the world. Thanks for your=
+ support! <a href=3D"/donate">Donate.</a> If you can=E2=80=99t donate, cons=
+ider supporting us by telling your friends, and following us on <a href=3D"=
+https://www.reddit.com/r/Annas_Archive">Reddit</a>, or <a href=3D"https://t=
+.me/annasarchiveorg">Telegram</a>.</div>
+                <div><a href=3D"#" class=3D"custom-a text-[#777] hover:text=
+-black js-top-banner-close">=E2=9C=95</a></div>
+              </div>
+              <div style=3D"background: #fff; padding: 8px; border-radius: =
+8px; box-shadow: 0px 2px 4px 0px #00000020">
+<div style=3D"position: relative; height: 16px; margin-top: 8px;">
+  <div style=3D"position: absolute; left: 0; right: 0; top: 0; bottom: 0; b=
+ackground: white; overflow: hidden; border-radius: 16px; box-shadow: 0px 2p=
+x 4px 0px #00000038">
+    <div style=3D"position: absolute; left: 0; top: 0; bottom: 0; width: 34=
+%; background: #2cde1c"></div>
+  </div>
+  <div style=3D"position: absolute; left: 34%; top: 50%; width: 16px; heigh=
+t: 16px; transform: translate(-50%, -50%)">
+    <div style=3D"position: absolute; left: 0; top: 0; width: 16px; height:=
+ 16px; background: #2cde1c66; border-radius: 100%; animation: header-ping 1=
+.5s cubic-bezier(0,0,.2,1) infinite"></div>
+    <div style=3D"position: absolute; left: 0; top: 0; width: 16px; height:=
+ 16px; background: white; border-radius: 100%; box-shadow: 0 0 3px #0000006=
+9;"></div>
+  </div>
+</div>
+<div style=3D"position: relative; padding-bottom: 8px">
+  <div style=3D"width: 14px; height: 14px; border-left: 1px solid gray; bor=
+der-bottom: 1px solid gray; position: absolute; top: 5px; left: calc(34% - =
+1px)"></div>
+  <div style=3D"position: relative; left: calc(34% + 20px); width: calc(90%=
+ - 20px); top: 8px; font-size: 90%; color: #555">$6,840 / $20,000</div>
+</div>              </div>
+            </div> -->
+            <!-- <div class=3D"max-w-[1050px] mx-auto px-4 py-2 text-[#fff]=
+ flex justify-between bg-[#0160a7]">
+              <div>
+                Do you know experts in <strong>anonymous merchant payments<=
+/strong>? Can you help us add more convenient ways to donate? PayPal, Alipa=
+y, credit cards, gift cards. Please <a class=3D"custom-a text-[#fff] hover:=
+text-[#ddd] underline break-all" href=3D"/contact">contact us</a>.
+              </div>
+              <div>
+                <a href=3D"#" class=3D"custom-a text-[#fff] hover:text-[#dd=
+d] js-top-banner-close">=E2=9C=95</a>
+              </div>
+            </div> -->
+            <!-- <div class=3D"max-w-[1050px] mx-auto text-[#fff] bg-[#0160=
+a7]">
+              <div class=3D"flex justify-between">
+                <div class=3D"px-4 py-2">
+                  New technical blog post: <a class=3D"custom-a text-[#fff]=
+ hover:text-[#ddd] underline" href=3D"https://annas-blog.org/annas-archive-=
+containers.html">Anna=E2=80=99s Archive Containers (AAC): standardizing rel=
+eases from the world=E2=80=99s largest shadow library</a>
+                </div>
+                <div class=3D"px-4 py-2">
+                  <a href=3D"#" class=3D"custom-a text-[#fff] hover:text-[#=
+ddd] js-top-banner-close">=E2=9C=95</a>
+                </div>
+              </div>
+              <div class=3D"px-4 py-2 bg-green-500">
+                Do you know experts in <strong>anonymous merchant payments<=
+/strong>? Can you help us add more convenient ways to donate? PayPal, Alipa=
+y, credit cards, gift cards. Please <a class=3D"custom-a text-[#fff] hover:=
+text-[#ddd] underline break-all" href=3D"/contact">contact us</a>.
+              </div>
+            </div> -->
+          <!-- </div> -->
+         =20
+        </div>
+        <div class=3D"header-inner">
+          <div class=3D"header-inner-top">
+            <a href=3D"https://annas-archive.org/" class=3D"custom-a text-b=
+lack hover:text-[#444]"><h1 class=3D"text-2xl sm:text-4xl">Anna=E2=80=99s A=
+rchive</h1></a>
+            <select class=3D"text-lg bg-center icon-[twemoji--globe-with-me=
+ridians] py-1 rounded text-gray-500 max-w-[50px] mt-1 ml-2 appearance-none"=
+ style=3D"width: 1.8em; height: 1.6em; background-color: white; background-=
+size: 1em;">
+              <option></option>
+                <option value=3D"ar">=D8=A7=D9=84=D8=B9=D8=B1=D8=A8=D9=8A=
+=D8=A9 [ar]</option>
+                <option value=3D"be">=D0=B1=D0=B5=D0=BB=D0=B0=D1=80=D1=83=
+=D1=81=D0=BA=D0=B0=D1=8F [be]</option>
+                <option value=3D"bg">=D0=B1=D1=8A=D0=BB=D0=B3=D0=B0=D1=80=
+=D1=81=D0=BA=D0=B8 [bg]</option>
+                <option value=3D"bn">=E0=A6=AC=E0=A6=BE=E0=A6=82=E0=A6=B2=
+=E0=A6=BE [bn]</option>
+                <option value=3D"br">Brasil: portugu=C3=AAs [br]</option>
+                <option value=3D"ca">catal=C3=A0 [ca]</option>
+                <option value=3D"cs">=C4=8De=C5=A1tina [cs]</option>
+                <option value=3D"de">Deutsch [de]</option>
+                <option value=3D"el">=CE=95=CE=BB=CE=BB=CE=B7=CE=BD=CE=B9=
+=CE=BA=CE=AC [el]</option>
+                <option value=3D"en">English [en] =E2=98=91=EF=B8=8F</optio=
+n>
+                <option value=3D"eo">esperanto [eo]</option>
+                <option value=3D"es">espa=C3=B1ol [es]</option>
+                <option value=3D"fa">=D9=81=D8=A7=D8=B1=D8=B3=DB=8C [fa]</o=
+ption>
+                <option value=3D"fr">fran=C3=A7ais [fr]</option>
+                <option value=3D"gl">galego [gl]</option>
+                <option value=3D"he">=D7=A2=D7=91=D7=A8=D7=99=D7=AA [he]</o=
+ption>
+                <option value=3D"hi">=E0=A4=B9=E0=A4=BF=E0=A4=A8=E0=A5=8D=
+=E0=A4=A6=E0=A5=80 [hi]</option>
+                <option value=3D"hu">magyar [hu]</option>
+                <option value=3D"id">Indonesia [id]</option>
+                <option value=3D"it">italiano [it]</option>
+                <option value=3D"ja">=E6=97=A5=E6=9C=AC=E8=AA=9E [ja]</opti=
+on>
+                <option value=3D"ko">=ED=95=9C=EA=B5=AD=EC=96=B4 [ko]</opti=
+on>
+                <option value=3D"lt">lietuvi=C5=B3 [lt]</option>
+                <option value=3D"ml">=E0=B4=AE=E0=B4=B2=E0=B4=AF=E0=B4=BE=
+=E0=B4=B3=E0=B4=82 [ml]</option>
+                <option value=3D"ms">Melayu [ms]</option>
+                <option value=3D"ne">=E0=A4=A8=E0=A5=87=E0=A4=AA=E0=A4=BE=
+=E0=A4=B2=E0=A5=80 [ne]</option>
+                <option value=3D"nl">Nederlands [nl]</option>
+                <option value=3D"no">norsk bokm=C3=A5l [no]</option>
+                <option value=3D"or">=E0=AC=93=E0=AC=A1=E0=AC=BC=E0=AC=BF=
+=E0=AC=86 [or]</option>
+                <option value=3D"pl">polski [pl]</option>
+                <option value=3D"pt">Portugal: portugu=C3=AAs [pt]</option>
+                <option value=3D"ro">rom=C3=A2n=C4=83 [ro]</option>
+                <option value=3D"ru">=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8=
+=D0=B9 [ru]</option>
+                <option value=3D"sk">sloven=C4=8Dina [sk]</option>
+                <option value=3D"sl">sloven=C5=A1=C4=8Dina [sl]</option>
+                <option value=3D"sq">shqip [sq]</option>
+                <option value=3D"sr">=D1=81=D1=80=D0=BF=D1=81=D0=BA=D0=B8 [=
+sr]</option>
+                <option value=3D"sv">svenska [sv]</option>
+                <option value=3D"tr">T=C3=BCrk=C3=A7e [tr]</option>
+                <option value=3D"tw">=E4=B8=AD=E6=96=87 (=E7=B9=81=E9=AB=94=
+) [tw]</option>
+                <option value=3D"uk">=D1=83=D0=BA=D1=80=D0=B0=D1=97=D0=BD=
+=D1=81=D1=8C=D0=BA=D0=B0 [uk]</option>
+                <option value=3D"ur">=D8=A7=D8=B1=D8=AF=D9=88 [ur]</option>
+                <option value=3D"vec">Veneto [vec]</option>
+                <option value=3D"vi">Ti=E1=BA=BFng Vi=E1=BB=87t [vi]</optio=
+n>
+                <option value=3D"zh">=E4=B8=AD=E6=96=87 [zh]</option>
+            </select>
+          </div>
+
+          <div class=3D"mb-1.5">
+            <div class=3D"max-md:hidden">=F0=9F=93=9A&nbsp;The largest trul=
+y open library in human history. =E2=AD=90=EF=B8=8F&nbsp;We mirror Sci-Hub =
+and LibGen. We scrape and open-source Z-Lib, DuXiu, and more. =F0=9F=93=88&=
+nbsp;30,445,640&nbsp;books, 100,357,126&nbsp;papers =E2=80=94 preserved for=
+ever. All our code and data are completely open source. <a class=3D"text-xs=
+" href=3D"https://annas-archive.org/faq">Learn more=E2=80=A6</a></div>
+            <div class=3D"max-sm:hidden md:hidden">=F0=9F=93=9A&nbsp;The la=
+rgest truly open library in human history. =E2=AD=90=EF=B8=8F&nbsp;We mirro=
+r Sci-Hub and LibGen. We scrape and open-source Z-Lib, DuXiu, and more. =F0=
+=9F=93=88&nbsp;30,445,640&nbsp;books, 100,357,126&nbsp;papers =E2=80=94 pre=
+served forever. <a class=3D"text-xs" href=3D"https://annas-archive.org/faq"=
+>Learn more=E2=80=A6</a></div>
+            <div class=3D"sm:hidden text-sm">=F0=9F=93=9A&nbsp;The largest =
+truly open library in human history. =E2=AD=90=EF=B8=8F&nbsp;We mirror Sci-=
+Hub and LibGen. We scrape and open-source Z-Lib, DuXiu, and more. <a class=
+=3D"text-xs" href=3D"https://annas-archive.org/faq">Learn more=E2=80=A6</a>=
+</div>
+          </div>
+
+          <div class=3D"hidden sm:flex text-xs mb-1" aria-hidden=3D"true">
+            <div class=3D"font-bold shrink-0">Recent downloads:&nbsp;&nbsp;=
+</div>
+            <div class=3D"w-full overflow-hidden flex js-recent-downloads-s=
+croll"><div class=3D"shrink-0 min-w-full" style=3D"animation: scroll 97s li=
+near infinite"><span class=3D"inline-block truncate">&nbsp;=E2=80=A2&nbsp;<=
+/span><a tabindex=3D"-1" href=3D"https://annas-archive.org/md5/f6dd4facebbb=
+4b52523a3bb52aadd33e" class=3D"inline-block max-w-[50%] truncate">Mesmerize=
+d: Thrall to the Vampire Queen</a><span class=3D"inline-block truncate">&nb=
+sp;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.o=
+rg/md5/cb4ed70a1e0021392fcc7608e36e25ab" class=3D"inline-block max-w-[50%] =
+truncate">Living in Arcadia: Homosexuality, Politics, and Morality in Franc=
+e from the Liberation to AIDS</a><span class=3D"inline-block truncate">&nbs=
+p;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.or=
+g/md5/2bb192567921f365066a8e4630d83f85" class=3D"inline-block max-w-[50%] t=
+runcate">Critical thinking, clinical reasoning, and clinical judgment: a pr=
+actical approach</a><span class=3D"inline-block truncate">&nbsp;=E2=80=A2&n=
+bsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.org/md5/aba00cc=
+e9e2abb74903f20b8ee20844b" class=3D"inline-block max-w-[50%] truncate">Inst=
+aLove (The One Series Duet)</a><span class=3D"inline-block truncate">&nbsp;=
+=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.org/=
+md5/8a29282f6850eac24fa2f5a76738acab" class=3D"inline-block max-w-[50%] tru=
+ncate">Rebeli=C3=B3n en la granja</a><span class=3D"inline-block truncate">=
+&nbsp;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archiv=
+e.org/md5/c4ec3d894711c82dfde7a2c2bd296baa" class=3D"inline-block max-w-[50=
+%] truncate">Java: The Legend</a><span class=3D"inline-block truncate">&nbs=
+p;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.or=
+g/md5/554c7507595ab9db51115b6aaaa58adb" class=3D"inline-block max-w-[50%] t=
+runcate">Policy and Marketing Strategies for Digital Media</a><span class=
+=3D"inline-block truncate">&nbsp;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" h=
+ref=3D"https://annas-archive.org/md5/ed734fecece36ec6dce13085ed7e8b92" clas=
+s=3D"inline-block max-w-[50%] truncate">Josie Quinn 06 - Haar stille hoop</=
+a></div><div class=3D"shrink-0 min-w-full" style=3D"animation: scroll 97s l=
+inear infinite"><span class=3D"inline-block truncate">&nbsp;=E2=80=A2&nbsp;=
+</span><a tabindex=3D"-1" href=3D"https://annas-archive.org/md5/f6dd4facebb=
+b4b52523a3bb52aadd33e" class=3D"inline-block max-w-[50%] truncate">Mesmeriz=
+ed: Thrall to the Vampire Queen</a><span class=3D"inline-block truncate">&n=
+bsp;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.=
+org/md5/cb4ed70a1e0021392fcc7608e36e25ab" class=3D"inline-block max-w-[50%]=
+ truncate">Living in Arcadia: Homosexuality, Politics, and Morality in Fran=
+ce from the Liberation to AIDS</a><span class=3D"inline-block truncate">&nb=
+sp;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.o=
+rg/md5/2bb192567921f365066a8e4630d83f85" class=3D"inline-block max-w-[50%] =
+truncate">Critical thinking, clinical reasoning, and clinical judgment: a p=
+ractical approach</a><span class=3D"inline-block truncate">&nbsp;=E2=80=A2&=
+nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.org/md5/aba00c=
+ce9e2abb74903f20b8ee20844b" class=3D"inline-block max-w-[50%] truncate">Ins=
+taLove (The One Series Duet)</a><span class=3D"inline-block truncate">&nbsp=
+;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.org=
+/md5/8a29282f6850eac24fa2f5a76738acab" class=3D"inline-block max-w-[50%] tr=
+uncate">Rebeli=C3=B3n en la granja</a><span class=3D"inline-block truncate"=
+>&nbsp;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archi=
+ve.org/md5/c4ec3d894711c82dfde7a2c2bd296baa" class=3D"inline-block max-w-[5=
+0%] truncate">Java: The Legend</a><span class=3D"inline-block truncate">&nb=
+sp;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" href=3D"https://annas-archive.o=
+rg/md5/554c7507595ab9db51115b6aaaa58adb" class=3D"inline-block max-w-[50%] =
+truncate">Policy and Marketing Strategies for Digital Media</a><span class=
+=3D"inline-block truncate">&nbsp;=E2=80=A2&nbsp;</span><a tabindex=3D"-1" h=
+ref=3D"https://annas-archive.org/md5/ed734fecece36ec6dce13085ed7e8b92" clas=
+s=3D"inline-block max-w-[50%] truncate">Josie Quinn 06 - Haar stille hoop</=
+a></div></div>
+           =20
+          </div>
+
+         =20
+          <div class=3D"header-bar">
+            <div class=3D"header-links relative z-20">
+              <a href=3D"https://annas-archive.org/datasets#" aria-expanded=
+=3D"false" class=3D"header-link-first header-link-active" style=3D"margin-r=
+ight: 24px;">
+                <span class=3D"header-link-normal">
+Datasets
+                  <span class=3D"icon-[material-symbols--arrow-drop-down] a=
+bsolute text-lg mt-[3px] -ml-px"></span>
+                </span>
+                <span class=3D"header-link-bold">
+Datasets
+                  <span class=3D"icon-[material-symbols--arrow-drop-down] a=
+bsolute text-lg mt-[3px] -ml-px"></span>
+                </span>
+              </a>
+              <div class=3D"absolute left-0 top-full bg-[#f2f2f2] px-4 shad=
+ow js-top-menu-home hidden">
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/">Home</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/search">Search</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/scidb">=F0=9F=A7=AC&nbsp;SciDB</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/faq">FAQ</a>
+                <a class=3D"custom-a block py-1 font-bold text-black hover:=
+text-black" href=3D"https://annas-archive.org/datasets">Datasets</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/torrents">Torrents</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/mirrors">Mirrors: call for volunteer=
+s</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/llm">LLM data</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-blog.org/" target=3D"_blank">Anna=E2=80=99s Blog=
+ =E2=86=97</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-software.org/" target=3D"_blank">Anna=E2=80=99s =
+Software =E2=86=97</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://translate.annas-software.org/" target=3D"_blank">Trans=
+late =E2=86=97</a>
+              </div>
+              <a href=3D"https://annas-archive.org/donate" class=3D""><span=
+ class=3D"header-link-normal">Donate</span><span class=3D"header-link-bold"=
+>Donate</span></a>
+            </div>
+              <form class=3D"header-search hidden sm:flex" action=3D"https:=
+//annas-archive.org/search" method=3D"get" role=3D"search">
+                <input class=3D"js-slash-focus rounded" name=3D"q" type=3D"=
+search" placeholder=3D"Title, author, DOI, ISBN, MD5, =E2=80=A6" value=3D""=
+ title=3D"Focus: '/' Scroll search results: 'j', 'k'">
+              </form>
+            <div class=3D"header-links header-links-right relative z-10 ml-=
+auto items-center">
+              <!-- <div class=3D"mr-1 bg-[#0195ff] text-white text-xs font-=
+medium px-1 py-0.5 rounded">beta</div> -->
+              <a href=3D"https://annas-archive.org/datasets#" aria-expanded=
+=3D"false" class=3D"header-link-first  [html.aa-logged-in_&amp;]:hidden">
+                <span class=3D"header-link-normal">
+                  Log in / Register
+                  <span class=3D"icon-[material-symbols--arrow-drop-down] a=
+bsolute text-lg mt-[3px] -ml-px"></span>
+                </span>
+                <span class=3D"header-link-bold">
+                  Log in / Register
+                  <span class=3D"icon-[material-symbols--arrow-drop-down] a=
+bsolute text-lg mt-[3px] -ml-px"></span>
+                </span>
+              </a>
+              <div class=3D"absolute right-0 top-full bg-[#f2f2f2] px-4 sha=
+dow js-top-menu-login hidden">
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/login">Log in / Register</a>
+              </div>
+              <a href=3D"https://annas-archive.org/datasets#" aria-expanded=
+=3D"false" class=3D"header-link-first  [html:not(.aa-logged-in)_&amp;]:hidd=
+en" style=3D"margin-right: 8px;">
+                <span class=3D"header-link-normal">
+Account                  <span class=3D"icon-[material-symbols--arrow-drop-=
+down] absolute text-lg mt-[3px] -ml-px"></span>
+                </span>
+                <span class=3D"header-link-bold">
+Account                  <span class=3D"icon-[material-symbols--arrow-drop-=
+down] absolute text-lg mt-[3px] -ml-px"></span>
+                </span>
+              </a>
+              <div class=3D"absolute right-0 top-full bg-[#f2f2f2] px-4 sha=
+dow js-top-menu-account hidden">
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/account">Account</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/account/profile">Public profile</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/account/downloaded">Downloaded files=
+</a>
+                <a class=3D"custom-a block py-1 text-black/64 hover:text-bl=
+ack" href=3D"https://annas-archive.org/account/donations">My donations</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <main class=3D"main">
+  <div lang=3D"en">
+    <h2 class=3D"mt-4 mb-1 text-3xl font-bold">Datasets</h2>
+
+    <div class=3D"mb-4 p-2 overflow-hidden bg-black/5 break-words">
+      If you are interested in mirroring these datasets for <a href=3D"http=
+s://annas-archive.org/faq#what">archival</a> or <a href=3D"https://annas-ar=
+chive.org/llm">LLM training</a> purposes, please contact us.
+    </div>
+
+    <p class=3D"mb-4">
+      Our mission is to archive all the books in the world (as well as pape=
+rs, magazines, etc), and make them widely accessible. We believe that all b=
+ooks should be mirrored far and wide, to ensure redundancy and resiliency. =
+This is why we=E2=80=99re pooling together files from a variety of sources.=
+ Some sources are completely open and can be mirrored in bulk (such as Sci-=
+Hub). Others are closed and protective, so we try to scrape them in order t=
+o =E2=80=9Cliberate=E2=80=9D their books. Yet others fall somewhere in betw=
+een.
+    </p>
+
+    <p class=3D"mb-4">
+      All our data can be <a href=3D"https://annas-archive.org/torrents">to=
+rrented</a>, and all our metadata can be <a href=3D"https://annas-software.=
+org/AnnaArchivist/annas-archive/-/blob/main/data-imports/README.md">generat=
+ed</a> or <a href=3D"https://annas-archive.org/torrents#aa_derived_mirror_m=
+etadata">downloaded</a> as ElasticSearch and MariaDB databases. The raw dat=
+a can be manually explored through JSON files such as <a href=3D"https://an=
+nas-archive.org/db/aarecord/md5:8336332bf5877e3adbfb60ac70720cd5.json">this=
+</a>.
+    </p>
+
+    <h3 class=3D"mt-4 mb-1 text-xl font-bold">Overview</h3>
+
+    <p class=3D"mb-4">
+      Below is a quick overview of the sources of the files on Anna=E2=80=
+=99s Archive.
+    </p>
+
+    <table class=3D"mb-4 w-full">
+      <tbody><tr class=3D"even:bg-[#f2f2f2]">
+        <th class=3D"p-2 align-bottom text-left" width=3D"28%">Source</th>
+        <th class=3D"p-2 align-bottom text-left" width=3D"20%">Size</th>
+        <th class=3D"p-2 align-bottom text-left" width=3D"20%">Mirrored by =
+AA / torrents available<div class=3D"font-normal text-sm text-gray-500">Per=
+centages of number of files</div></th>
+        <th class=3D"p-2 align-bottom text-left" width=3D"22%">Last updated=
+</th>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]"><td class=3D"p-2 align-top"><a class=
+=3D"custom-a underline hover:opacity-60" href=3D"https://annas-archive.org/=
+datasets/libgen_rs">Libgen.rs</a><div class=3D"text-sm text-gray-500">Non-F=
+iction and Fiction</div></td>
+  <td class=3D"p-2 align-top">7,285,125 files<br>81.1 TB</td>
+  <td class=3D"p-2 align-top whitespace-nowrap">99.841% / 99.841%</td>
+  <td class=3D"p-2 align-top whitespace-nowrap">2024-06-18</td></tr>
+      <tr class=3D"even:bg-[#f2f2f2]"><td class=3D"p-2 align-top"><a class=
+=3D"custom-a underline hover:opacity-60" href=3D"https://annas-archive.org/=
+datasets/scihub">Sci-Hub</a><div class=3D"text-sm text-gray-500">Via Libgen=
+.li =E2=80=9Cscimag=E2=80=9D</div></td>
+  <td class=3D"p-2 align-top">97,846,607 files<br>87.1 TB</td>
+  <td class=3D"p-2 align-top whitespace-nowrap">88.48% / 88.48%</td>
+  <td class=3D"p-2 align-top whitespace-nowrap"><div class=3D"text-sm text-=
+gray-500 whitespace-normal">Sci-Hub: frozen since 2021; most available thro=
+ugh torrents<div>Libgen.li: minor additions since then</div></div></td></tr=
+>
+      <tr class=3D"even:bg-[#f2f2f2]"><td class=3D"p-2 align-top"><a class=
+=3D"custom-a underline hover:opacity-60" href=3D"https://annas-archive.org/=
+datasets/libgen_li">Libgen.li</a><div class=3D"text-sm text-gray-500">Exclu=
+ding =E2=80=9Cscimag=E2=80=9D</div></td>
+  <td class=3D"p-2 align-top">18,234,153 files<br>272.2 TB</td>
+  <td class=3D"p-2 align-top whitespace-nowrap">91.154% / 89.154%<div class=
+=3D"text-sm text-gray-500 whitespace-normal font-normal">Fiction torrents a=
+re behind (though IDs ~4-6M not torrented since they overlap with our Zlib =
+torrents).</div></td>
+  <td class=3D"p-2 align-top whitespace-nowrap">2024-05-08</td></tr>
+      <tr class=3D"even:bg-[#f2f2f2]"><td class=3D"p-2 align-top"><a class=
+=3D"custom-a underline hover:opacity-60" href=3D"https://annas-archive.org/=
+datasets/zlib">Z-Library</a></td>
+  <td class=3D"p-2 align-top">16,668,538 files<br>125.2 TB</td>
+  <td class=3D"p-2 align-top whitespace-nowrap">99.843% / 99.841%</td>
+  <td class=3D"p-2 align-top whitespace-nowrap">2024-03-22</td></tr>
+      <tr class=3D"even:bg-[#f2f2f2]"><td class=3D"p-2 align-top"><a class=
+=3D"custom-a underline hover:opacity-60" href=3D"https://annas-archive.org/=
+datasets/ia">Internet Archive Controlled Digital Lending</a></td>
+  <td class=3D"p-2 align-top">8,987,414 files<br>273.9 TB</td>
+  <td class=3D"p-2 align-top whitespace-nowrap">65.463% / 65.463%<div class=
+=3D"text-sm text-gray-500 whitespace-normal font-normal">98%+ of files are =
+searchable.</div></td>
+  <td class=3D"p-2 align-top whitespace-nowrap">2024-01-26</td></tr>
+      <tr class=3D"even:bg-[#f2f2f2]"><td class=3D"p-2 align-top"><a class=
+=3D"custom-a underline hover:opacity-60" href=3D"https://annas-archive.org/=
+datasets/duxiu">DuXiu =E8=AF=BB=E7=A7=80</a></td>
+  <td class=3D"p-2 align-top">3,721,900 files<br>193.7 TB</td>
+  <td class=3D"p-2 align-top whitespace-nowrap">100% / 0.001%<div class=3D"=
+text-sm text-gray-500 whitespace-normal font-normal">No torrents released y=
+et.</div></td>
+  <td class=3D"p-2 align-top whitespace-nowrap">~2023</td></tr>
+      <tr class=3D"even:bg-[#f2f2f2] font-bold"><td class=3D"p-2 align-top"=
+>Total<div class=3D"text-sm font-normal text-gray-500">Excluding duplicates=
+</div></td>
+  <td class=3D"p-2 align-top">133,906,756 files<br>862.2 TB</td>
+  <td class=3D"p-2 align-top whitespace-nowrap">88.04% / 84.989%</td>
+  <td class=3D"p-2 align-top whitespace-nowrap"></td></tr>
+    </tbody></table>
+
+    <p class=3D"mb-4">
+      Since the shadow libraries often sync data from each other, there is =
+considerable overlap between the libraries. That=E2=80=99s why the numbers =
+don=E2=80=99t add up to the total.
+    </p>
+
+    <p class=3D"mb-4">
+      The =E2=80=9Cmirrored and seeded by Anna=E2=80=99s Archive=E2=80=9D p=
+ercentage shows how many files we mirror ourselves. We seed those files in =
+bulk through torrents, and make them available for direct download through =
+partner websites.
+    </p>
+
+    <h3 class=3D"mt-4 mb-1 text-xl font-bold">Source libraries</h3>
+
+    <p class=3D"mb-4">
+      Some source libraries promote the bulk sharing of their data through =
+torrents, while others do not readily share their collection. In the latter=
+ case, Anna=E2=80=99s Archive tries to scrape their collections, and make t=
+hem available (see our <a href=3D"https://annas-archive.org/torrents">Torre=
+nts</a> page). There are also in-between situations, for example, where sou=
+rce libraries are willing to share, but don=E2=80=99t have the resources to=
+ do so. In those cases, we also try to help out.
+    </p>
+
+    <p class=3D"mb-4">
+      Below is an overview of how we interface with the different source li=
+braries.
+    </p>
+
+    <table class=3D"mb-4 w-full">
+      <tbody><tr class=3D"even:bg-[#f2f2f2]">
+        <th class=3D"p-2 align-bottom text-left" width=3D"20%">Source</th>
+        <th class=3D"p-2 align-bottom text-left" width=3D"40%">Metadata</th=
+>
+        <th class=3D"p-2 align-bottom text-left" width=3D"40%">Files</th>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-top"><a class=3D"custom-a underline hover:op=
+acity-60" href=3D"https://annas-archive.org/datasets/libgen_rs">Libgen.rs</=
+a></td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Daily <a href=
+=3D"https://data.library.bz/dbdumps/">HTTP database dumps</a>.</div>
+        </td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Automated torr=
+ents for <a href=3D"https://libgen.rs/repository_torrent/">Non-Fiction</a> =
+and <a href=3D"https://libgen.rs/fiction/repository_torrent/">Fiction</a></=
+div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive manages a collection of <a href=3D"https:/=
+/annas-archive.org/torrents#libgenrs_covers">book cover torrents</a>.
+        </div></td>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-top"><a class=3D"custom-a underline hover:op=
+acity-60" href=3D"https://annas-archive.org/datasets/scihub">Sci-Hub / Libg=
+en =E2=80=9Cscimag=E2=80=9D</a></td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9D=8C Sci-Hub has fr=
+ozen new files since 2021.</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Metadata dumps=
+ available <a href=3D"https://sci-hub.ru/database">here</a> and <a href=3D"=
+https://data.library.bz/dbdumps/">here</a>, as well as as part of the <a hr=
+ef=3D"https://libgen.li/dirlist.php?dir=3Ddbdumps">Libgen.li database</a> (=
+which we use).</div>
+        </td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Data torrents =
+available <a href=3D"https://sci-hub.ru/database">here</a>, <a href=3D"http=
+s://libgen.rs/scimag/repository_torrent/">here</a>, and <a href=3D"https://=
+libgen.li/torrents/scimag/">here</a>.</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9D=8C Some new files=
+ are <a href=3D"https://libgen.rs/scimag/recent">being</a> <a href=3D"https=
+://libgen.li/index.php?req=3Dfmode:last&amp;topics%5B%5D=3Da">added</a> to =
+Libgen=E2=80=99s =E2=80=9Cscimag=E2=80=9D, but not enough to warrant new to=
+rrents.</div>
+        </td>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-top"><a class=3D"custom-a underline hover:op=
+acity-60" href=3D"https://annas-archive.org/datasets/libgen_li">Libgen.li</=
+a></td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Quarterly <a h=
+ref=3D"https://libgen.li/dirlist.php?dir=3Ddbdumps">HTTP database dumps</a>=
+.</div>
+        </td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Non-Fiction to=
+rrents are shared with Libgen.rs (and mirrored <a href=3D"https://libgen.li=
+/torrents/libgen/">here</a>).</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=99=83 Fiction col=
+lection has diverged but still has <a href=3D"https://libgen.li/torrents/fi=
+ction/">torrents</a>, though not updated since 2022 (we do have direct down=
+loads).</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive and Libgen.li collaboratively manage colle=
+ctions of <a href=3D"https://annas-archive.org/torrents#libgen_li_comics">c=
+omic books</a> and <a href=3D"https://annas-archive.org/torrents#libgen_li_=
+magazines">magazines</a>.
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9D=8C No torrents fo=
+r Russian fiction and standard documents collections.</div>
+        </div></td>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-top"><a class=3D"custom-a underline hover:op=
+acity-60" href=3D"https://annas-archive.org/datasets/zlib">Z-Library</a></t=
+d>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive and Z-Library collaboratively manage a col=
+lection of <a href=3D"https://annas-archive.org/torrents#zlib">Z-Library me=
+tadata</a>.
+        </div></td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive and Z-Library collaboratively manage a col=
+lection of <a href=3D"https://annas-archive.org/torrents#zlib">Z-Library fi=
+les</a>.
+        </div></td>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-top"><a class=3D"custom-a underline hover:op=
+acity-60" href=3D"https://annas-archive.org/datasets/ia">Internet Archive C=
+ontrolled Digital Lending</a></td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Some metadata =
+available through <a href=3D"https://openlibrary.org/developers/dumps">Open=
+ Library database dumps</a>, but those don=E2=80=99t cover the entire Inter=
+net Archive collection.</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9D=8C No easily acce=
+ssible metadata dumps available for their entire collection.</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive manages a collection of <a href=3D"https:/=
+/annas-archive.org/torrents#ia">Internet Archive metadata</a>.
+        </div></td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9D=8C Files only ava=
+ilable for borrowing on a limited basis, with various access restrictions.<=
+/div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive manages a collection of <a href=3D"https:/=
+/annas-archive.org/torrents#ia">Internet Archive files</a>.
+        </div></td>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-top"><a class=3D"custom-a underline hover:op=
+acity-60" href=3D"https://annas-archive.org/datasets/duxiu">DuXiu =E8=AF=BB=
+=E7=A7=80</a></td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Various metada=
+ta databases scattered around the Chinese internet; though often paid datab=
+ases.</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9D=8C No easily acce=
+ssible metadata dumps available for their entire collection.</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive manages a collection of <a href=3D"https:/=
+/annas-archive.org/torrents#duxiu">DuXiu metadata</a>.
+        </div></td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Various file d=
+atabases scattered around the Chinese internet; though often paid databases=
+.</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9D=8C Most files onl=
+y accessible using premium BaiduYun accounts; slow downloading speeds.</div=
+>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive manages a collection of <a href=3D"https:/=
+/annas-archive.org/torrents#duxiu">DuXiu files</a>.
+        </div></td>
+      </tr>
+    </tbody></table>
+
+    <h3 class=3D"mt-4 mb-1 text-xl font-bold">Metadata-only sources</h3>
+
+    <p class=3D"mb-4">
+      We also enrich our collection with metadata-only sources, which we ca=
+n match to files, e.g. using ISBN numbers or other fields. Below is an over=
+view of those. Again, some of these sources are completely open, while for =
+others we have to scrape them.
+    </p>
+
+    <p class=3D"mb-4">
+      Our inspiration for collecting metadata is Aaron Swartz=E2=80=99 goal=
+ of =E2=80=9Cone web page for every book ever published=E2=80=9D, for which=
+ he created <a href=3D"https://en.wikipedia.org/wiki/Open_Library">Open Lib=
+rary</a>.
+      That project has done well, but our unique position allows us to get =
+metadata that they can=E2=80=99t.
+      Another inspiration was our desire to know <a href=3D"https://annas-b=
+log.org/blog-isbndb-dump-how-many-books-are-preserved-forever.html">how man=
+y books there are in the world</a>, so we can calculate how many books we s=
+till have left to save.
+    </p>
+
+    <p class=3D"mb-4">
+      Note that in metadata search, we show the original records. We don=E2=
+=80=99t do any merging of records.
+    </p>
+
+    <table class=3D"mb-4 w-full">
+      <tbody><tr class=3D"even:bg-[#f2f2f2]">
+        <th class=3D"p-2 align-bottom text-left">Source</th>
+        <th class=3D"p-2 align-bottom text-left">Metadata</th>
+        <th class=3D"p-2 align-bottom text-left">Last updated</th>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-middle"><a class=3D"custom-a underline hover=
+:opacity-60" href=3D"https://annas-archive.org/datasets/openlib">Open Libra=
+ry</a></td>
+        <td class=3D"p-2 align-middle">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Monthly <a hre=
+f=3D"https://openlibrary.org/developers/dumps">database dumps</a>.</div>
+        </td>
+        <td class=3D"p-2 align-middle">2024-03-26</td>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-top"><a class=3D"custom-a underline hover:op=
+acity-60" href=3D"https://annas-archive.org/datasets/isbndb">ISBNdb</a></td=
+>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9D=8C Not available =
+directly in bulk, only in semi-bulk behind a paywall.</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive manages a collection of <a href=3D"https:/=
+/annas-archive.org/torrents#isbndb">ISBNdb metadata</a>.
+        </div></td>
+        <td class=3D"p-2 align-top">2022-09-01</td>
+      </tr>
+      <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-top"><a class=3D"custom-a underline hover:op=
+acity-60" href=3D"https://annas-archive.org/datasets/worldcat">OCLC (WorldC=
+at)</a></td>
+        <td class=3D"p-2 align-top">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9D=8C Not available =
+directly in bulk, protected against scraping.</div>
+          <div class=3D"my-2 first:mt-0 last:mb-0">=F0=9F=91=A9=E2=80=8D=F0=
+=9F=92=BB Anna=E2=80=99s Archive manages a collection of <a href=3D"https:/=
+/annas-archive.org/torrents#worldcat">OCLC (WorldCat) metadata</a>.
+        </div></td>
+        <td class=3D"p-2 align-top">2023-10-01</td>
+      </tr>
+      <!-- <tr class=3D"even:bg-[#f2f2f2]">
+        <td class=3D"p-2 align-middle"><a class=3D"custom-a underline hover=
+:opacity-60" href=3D"/datasets/isbn_ranges">ISBN country information</a></t=
+d>
+        <td class=3D"p-2 align-middle">
+          <div class=3D"my-2 first:mt-0 last:mb-0">=E2=9C=85 Available for =
+<a href=3D"https://www.isbn-international.org/range_file_generation">automa=
+tic generation</a>.</div>
+        </td>
+        <td class=3D"p-2 align-middle">2022-02-11</td>
+      </tr> -->
+    </tbody></table>
+
+    <h3 class=3D"mt-4 mb-1 text-xl font-bold">Unified database</h3>
+
+    <p class=3D"mb-4">
+      We combine all the above sources into one unified database that we us=
+e to serve this website. This unified database is not available directly, b=
+ut since Anna=E2=80=99s Archive is fully open source, it can be fairly easi=
+ly <a href=3D"https://annas-software.org/AnnaArchivist/annas-archive/-/blob=
+/main/data-imports/README.md">generated</a> or <a href=3D"https://annas-arc=
+hive.org/torrents#aa_derived_mirror_metadata">downloaded</a> as ElasticSear=
+ch and MariaDB databases. The scripts on that page will automatically downl=
+oad all the requisite metadata from the sources mentioned above.
+    </p>
+
+    <p class=3D"mb-4">
+      If you=E2=80=99d like to explore our data before running those script=
+s locally, you can look at our JSON files, which link further to other JSON=
+ files. <a href=3D"https://annas-archive.org/db/aarecord/md5:8336332bf5877e=
+3adbfb60ac70720cd5.json">This file</a> is a good starting point.
+    </p>
+  </div>
+</main>
+      <footer class=3D"bg-black/5 text-[#777]" style=3D"box-shadow: 0px 0px=
+ 7px rgb(0 0 0 / 30%)">
+        <div class=3D"max-w-[1050px] mx-auto p-[12px] leading-relaxed flex =
+flex-wrap">
+          <div class=3D"mr-4 mb-4 grow">
+            <strong class=3D"font-bold text-black">Anna=E2=80=99s Archive</=
+strong><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/">Home</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/search">Search</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/scidb">=F0=9F=A7=AC&nbsp;SciDB</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/faq">FAQ</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/donate">Donate</a><br>
+            <select class=3D"p-1 rounded text-gray-500 mt-1 max-w-[110px]">
+                  <option value=3D"en">=F0=9F=8C=90 English [en]</option>
+                <option value=3D"ar">=D8=A7=D9=84=D8=B9=D8=B1=D8=A8=D9=8A=
+=D8=A9 [ar]</option>
+                <option value=3D"be">=D0=B1=D0=B5=D0=BB=D0=B0=D1=80=D1=83=
+=D1=81=D0=BA=D0=B0=D1=8F [be]</option>
+                <option value=3D"bg">=D0=B1=D1=8A=D0=BB=D0=B3=D0=B0=D1=80=
+=D1=81=D0=BA=D0=B8 [bg]</option>
+                <option value=3D"bn">=E0=A6=AC=E0=A6=BE=E0=A6=82=E0=A6=B2=
+=E0=A6=BE [bn]</option>
+                <option value=3D"br">Brasil: portugu=C3=AAs [br]</option>
+                <option value=3D"ca">catal=C3=A0 [ca]</option>
+                <option value=3D"cs">=C4=8De=C5=A1tina [cs]</option>
+                <option value=3D"de">Deutsch [de]</option>
+                <option value=3D"el">=CE=95=CE=BB=CE=BB=CE=B7=CE=BD=CE=B9=
+=CE=BA=CE=AC [el]</option>
+                <option value=3D"en">English [en] =E2=98=91=EF=B8=8F</optio=
+n>
+                <option value=3D"eo">esperanto [eo]</option>
+                <option value=3D"es">espa=C3=B1ol [es]</option>
+                <option value=3D"fa">=D9=81=D8=A7=D8=B1=D8=B3=DB=8C [fa]</o=
+ption>
+                <option value=3D"fr">fran=C3=A7ais [fr]</option>
+                <option value=3D"gl">galego [gl]</option>
+                <option value=3D"he">=D7=A2=D7=91=D7=A8=D7=99=D7=AA [he]</o=
+ption>
+                <option value=3D"hi">=E0=A4=B9=E0=A4=BF=E0=A4=A8=E0=A5=8D=
+=E0=A4=A6=E0=A5=80 [hi]</option>
+                <option value=3D"hu">magyar [hu]</option>
+                <option value=3D"id">Indonesia [id]</option>
+                <option value=3D"it">italiano [it]</option>
+                <option value=3D"ja">=E6=97=A5=E6=9C=AC=E8=AA=9E [ja]</opti=
+on>
+                <option value=3D"ko">=ED=95=9C=EA=B5=AD=EC=96=B4 [ko]</opti=
+on>
+                <option value=3D"lt">lietuvi=C5=B3 [lt]</option>
+                <option value=3D"ml">=E0=B4=AE=E0=B4=B2=E0=B4=AF=E0=B4=BE=
+=E0=B4=B3=E0=B4=82 [ml]</option>
+                <option value=3D"ms">Melayu [ms]</option>
+                <option value=3D"ne">=E0=A4=A8=E0=A5=87=E0=A4=AA=E0=A4=BE=
+=E0=A4=B2=E0=A5=80 [ne]</option>
+                <option value=3D"nl">Nederlands [nl]</option>
+                <option value=3D"no">norsk bokm=C3=A5l [no]</option>
+                <option value=3D"or">=E0=AC=93=E0=AC=A1=E0=AC=BC=E0=AC=BF=
+=E0=AC=86 [or]</option>
+                <option value=3D"pl">polski [pl]</option>
+                <option value=3D"pt">Portugal: portugu=C3=AAs [pt]</option>
+                <option value=3D"ro">rom=C3=A2n=C4=83 [ro]</option>
+                <option value=3D"ru">=D1=80=D1=83=D1=81=D1=81=D0=BA=D0=B8=
+=D0=B9 [ru]</option>
+                <option value=3D"sk">sloven=C4=8Dina [sk]</option>
+                <option value=3D"sl">sloven=C5=A1=C4=8Dina [sl]</option>
+                <option value=3D"sq">shqip [sq]</option>
+                <option value=3D"sr">=D1=81=D1=80=D0=BF=D1=81=D0=BA=D0=B8 [=
+sr]</option>
+                <option value=3D"sv">svenska [sv]</option>
+                <option value=3D"tr">T=C3=BCrk=C3=A7e [tr]</option>
+                <option value=3D"tw">=E4=B8=AD=E6=96=87 (=E7=B9=81=E9=AB=94=
+) [tw]</option>
+                <option value=3D"uk">=D1=83=D0=BA=D1=80=D0=B0=D1=97=D0=BD=
+=D1=81=D1=8C=D0=BA=D0=B0 [uk]</option>
+                <option value=3D"ur">=D8=A7=D8=B1=D8=AF=D9=88 [ur]</option>
+                <option value=3D"vec">Veneto [vec]</option>
+                <option value=3D"vi">Ti=E1=BA=BFng Vi=E1=BB=87t [vi]</optio=
+n>
+                <option value=3D"zh">=E4=B8=AD=E6=96=87 [zh]</option>
+            </select>
+          </div>
+
+          <div class=3D"mr-4 mb-4 grow grow">
+            <strong class=3D"font-bold text-black">Stay in touch</strong><b=
+r>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/contact">Contact email</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/copyright">DMCA / copyright claims</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://www.red=
+dit.com/r/Annas_Archive">Reddit</a> / <a class=3D"custom-a hover:text-[#333=
+]" href=3D"https://t.me/annasarchiveorg">Telegram</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-b=
+log.org/">Anna=E2=80=99s Blog =E2=86=97</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-s=
+oftware.org/">Anna=E2=80=99s Software =E2=86=97</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://transla=
+te.annas-software.org/">Translate =E2=86=97</a><br>
+          </div>
+
+          <div class=3D"mr-4 mb-4 grow">
+            <strong class=3D"font-bold text-black">Advanced</strong><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/faq">FAQ</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/datasets">Datasets</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/torrents">Torrents</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/mirrors">Mirrors: call for volunteers</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/llm">LLM data</a><br>
+            <a class=3D"custom-a hover:text-[#333]" href=3D"https://annas-a=
+rchive.org/faq#security">Security</a><br>
+          </div>
+
+          <div class=3D"grow">
+            <strong class=3D"font-bold text-black">Alternatives</strong><br=
+>
+            <a class=3D"custom-a hover:text-[#333] js-annas-archive-org" hr=
+ef=3D"https://annas-archive.org/datasets">annas-archive.org</a><br>
+            <a class=3D"custom-a hover:text-[#333] js-annas-archive-gs" hre=
+f=3D"https://annas-archive.gs/datasets">annas-archive.gs</a><br>
+            <a class=3D"custom-a hover:text-[#333] js-annas-archive-se" hre=
+f=3D"https://annas-archive.se/datasets">annas-archive.se</a><br>
+          </div>
+        </div>
+      </footer>
+   =20
+    <!-- Cloudflare Web Analytics --><!-- End Cloudflare Web Analytics -->
+ =20
+</body></html>
+------MultipartBoundary--2PRPhHIktYGG6T5G3LMJQLgGZ1pnOHX2Qn2oUraiew----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-654afafc-13fb-4dce-8340-87178d4fd59c@mhtml.blink
+
+@charset "utf-8";
+
+.plotly-notifier .notifier-close:hover { color: rgb(68, 68, 68); text-decor=
+ation: none; cursor: pointer; }
+
+.plotly-notifier .notifier-close { color: rgb(255, 255, 255); opacity: 0.8;=
+ float: right; padding: 0px 5px; background: none; border: none; font-size:=
+ 20px; font-weight: bold; line-height: 20px; }
+
+.plotly-notifier .notifier-note { min-width: 180px; max-width: 250px; borde=
+r: 1px solid rgb(255, 255, 255); z-index: 3000; margin: 0px; background-col=
+or: rgba(140, 151, 175, 0.9); color: rgb(255, 255, 255); padding: 10px; ove=
+rflow-wrap: break-word; hyphens: auto; }
+
+.plotly-notifier p { margin: 0px; }
+
+.plotly-notifier { font-family: "Open Sans", verdana, arial, sans-serif; po=
+sition: fixed; top: 50px; right: 20px; z-index: 10000; font-size: 10pt; max=
+-width: 180px; }
+
+.js-plotly-plot .plotly .vertical [data-title]::before { border-width: 6px;=
+ border-style: solid; border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgba(=
+0, 0, 0, 0) rgb(105, 115, 138); border-image: initial; margin-top: 8px; mar=
+gin-right: -30px; }
+
+.js-plotly-plot .plotly .vertical [data-title]::before, .js-plotly-plot .pl=
+otly .vertical [data-title]::after { top: 0%; right: 200%; }
+
+.js-plotly-plot .plotly [data-title]::after { content: attr(data-title); ba=
+ckground: rgb(105, 115, 138); color: rgb(255, 255, 255); padding: 8px 10px;=
+ font-size: 12px; line-height: 12px; white-space: nowrap; margin-right: -18=
+px; border-radius: 2px; }
+
+.js-plotly-plot .plotly [data-title]::before { content: ""; position: absol=
+ute; background: rgba(0, 0, 0, 0); border-width: 6px; border-style: solid; =
+border-color: rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) rgb(105, 115, 138); border-=
+image: initial; z-index: 1002; margin-top: -12px; margin-right: -6px; }
+
+.js-plotly-plot .plotly [data-title]:hover::before, .js-plotly-plot .plotly=
+ [data-title]:hover::after { display: block; opacity: 1; }
+
+.js-plotly-plot .plotly [data-title]::before, .js-plotly-plot .plotly [data=
+-title]::after { position: absolute; transform: translate3d(0px, 0px, 0px);=
+ display: none; opacity: 0; z-index: 1001; pointer-events: none; top: 110%;=
+ right: 50%; }
+
+.js-plotly-plot .plotly .modebar.vertical .modebar-group .modebar-btn { dis=
+play: block; text-align: center; }
+
+.js-plotly-plot .plotly .modebar.vertical .modebar-group { display: block; =
+float: none; padding-left: 0px; padding-bottom: 8px; }
+
+.js-plotly-plot .plotly .modebar.vertical svg { top: -1px; }
+
+.js-plotly-plot .plotly .modebar.vertical { display: flex; flex-flow: colum=
+n wrap; align-content: flex-end; max-height: 100%; }
+
+.js-plotly-plot .plotly .modebar-btn svg { position: relative; top: 2px; }
+
+.js-plotly-plot .plotly .modebar-btn { position: relative; font-size: 16px;=
+ padding: 3px 4px; height: 22px; cursor: pointer; line-height: normal; box-=
+sizing: border-box; }
+
+.js-plotly-plot .plotly .modebar-group { float: left; display: inline-block=
+; box-sizing: border-box; padding-left: 8px; position: relative; vertical-a=
+lign: middle; white-space: nowrap; }
+
+.js-plotly-plot .plotly:hover .modebar--hover .modebar-group { opacity: 1; =
+}
+
+.js-plotly-plot .plotly .modebar--hover > :not(.watermark) { opacity: 0; tr=
+ansition: opacity 0.3s ease 0s; }
+
+.js-plotly-plot .plotly .ease-bg { transition: background-color 0.3s ease 0=
+s; }
+
+.js-plotly-plot .plotly .modebar { position: absolute; top: 2px; right: 2px=
+; }
+
+.js-plotly-plot .plotly .cursor-grab { cursor: grab; }
+
+.js-plotly-plot .plotly .cursor-ne-resize { cursor: ne-resize; }
+
+.js-plotly-plot .plotly .cursor-n-resize { cursor: n-resize; }
+
+.js-plotly-plot .plotly .cursor-nw-resize { cursor: nw-resize; }
+
+.js-plotly-plot .plotly .cursor-e-resize { cursor: e-resize; }
+
+.js-plotly-plot .plotly .cursor-w-resize { cursor: w-resize; }
+
+.js-plotly-plot .plotly .cursor-se-resize { cursor: se-resize; }
+
+.js-plotly-plot .plotly .cursor-s-resize { cursor: s-resize; }
+
+.js-plotly-plot .plotly .cursor-sw-resize { cursor: sw-resize; }
+
+.js-plotly-plot .plotly .cursor-ew-resize { cursor: ew-resize; }
+
+.js-plotly-plot .plotly .cursor-ns-resize { cursor: ns-resize; }
+
+.js-plotly-plot .plotly .cursor-row-resize { cursor: row-resize; }
+
+.js-plotly-plot .plotly .cursor-col-resize { cursor: col-resize; }
+
+.js-plotly-plot .plotly .cursor-move { cursor: move; }
+
+.js-plotly-plot .plotly .cursor-crosshair { cursor: crosshair; }
+
+.js-plotly-plot .plotly .cursor-pointer { cursor: pointer; }
+
+.js-plotly-plot .plotly .cursor-default { cursor: default; }
+
+.js-plotly-plot .plotly .main-svg .draglayer { pointer-events: all; }
+
+.js-plotly-plot .plotly .main-svg { position: absolute; top: 0px; left: 0px=
+; pointer-events: none; }
+
+.js-plotly-plot .plotly svg a:hover { fill: rgb(60, 109, 197); }
+
+.js-plotly-plot .plotly svg a { fill: rgb(68, 122, 219); }
+
+.js-plotly-plot .plotly svg { overflow: hidden; }
+
+.js-plotly-plot .plotly .user-select-none { user-select: none; }
+
+.js-plotly-plot .plotly .crisp { shape-rendering: crispedges; }
+
+.js-plotly-plot .plotly a:hover { text-decoration: none; }
+
+.js-plotly-plot .plotly a { text-decoration: none; }
+
+.js-plotly-plot .plotly input:focus, .js-plotly-plot .plotly button:focus {=
+ outline: none; }
+
+.js-plotly-plot .plotly input, .js-plotly-plot .plotly button { font-family=
+: "Open Sans", verdana, arial, sans-serif; }
+
+.js-plotly-plot .plotly, .js-plotly-plot .plotly div { direction: ltr; font=
+-family: "Open Sans", verdana, arial, sans-serif; margin: 0px; padding: 0px=
+; }
+------MultipartBoundary--2PRPhHIktYGG6T5G3LMJQLgGZ1pnOHX2Qn2oUraiew----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://annas-archive.org/css/app.css?hash=388628e8baddc6037032
+
+@charset "utf-8";
+
+*, ::after, ::before { box-sizing: border-box; border: 0px solid rgb(229, 2=
+31, 235); }
+
+::after, ::before { --tw-content: ""; }
+
+html { line-height: 1.5; text-size-adjust: 100%; tab-size: 4; font-family: =
+ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Ro=
+boto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji"=
+, "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; font-feature-set=
+tings: normal; font-variation-settings: normal; }
+
+body { margin: 0px; line-height: inherit; }
+
+hr { height: 0px; color: inherit; border-top-width: 1px; }
+
+abbr:where([title]) { text-decoration: underline dotted; }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+
+a { color: inherit; text-decoration: inherit; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, pre, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Mo=
+naco, Consolas, "Liberation Mono", "Courier New", monospace; font-size: 1em=
+; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: initial; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+table { text-indent: 0px; border-color: inherit; border-collapse: collapse;=
+ }
+
+button, input, optgroup, select, textarea { font-family: inherit; font-size=
+: 100%; font-weight: inherit; line-height: inherit; color: inherit; margin:=
+ 0px; padding: 0px; }
+
+button, select { text-transform: none; }
+
+[type=3D"button"], [type=3D"reset"], [type=3D"submit"], button { appearance=
+: button; background-color: initial; background-image: none; }
+
+progress { vertical-align: initial; }
+
+::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height: auto; }
+
+[type=3D"search"] { appearance: textfield; outline-offset: -2px; }
+
+::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+summary { display: list-item; }
+
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre { margin: 0p=
+x; }
+
+fieldset { margin: 0px; }
+
+fieldset, legend { padding: 0px; }
+
+menu, ol, ul { list-style: none; margin: 0px; padding: 0px; }
+
+textarea { resize: vertical; }
+
+input::placeholder, textarea::placeholder { opacity: 1; color: rgb(156, 163=
+, 175); }
+
+[role=3D"button"], button { cursor: pointer; }
+
+:disabled { cursor: default; }
+
+audio, canvas, embed, iframe, img, object, svg, video { display: block; ver=
+tical-align: middle; }
+
+img, video { max-width: 100%; height: auto; }
+
+[hidden] { display: none; }
+
+*, ::backdrop, ::after, ::before { --tw-border-spacing-x: 0; --tw-border-sp=
+acing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-=
+skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; =
+--tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --=
+tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spac=
+ing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: =
+0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f680; --tw-ring-of=
+fset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000=
+; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-cont=
+rast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: =
+; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-bri=
+ghtness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdr=
+op-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-back=
+drop-saturate: ; --tw-backdrop-sepia: ; }
+
+.container { width: 100%; }
+
+@media (min-width: 640px) {
+  .container { max-width: 640px; }
+}
+
+@media (min-width: 768px) {
+  .container { max-width: 768px; }
+}
+
+@media (min-width: 1024px) {
+  .container { max-width: 1024px; }
+}
+
+@media (min-width: 1280px) {
+  .container { max-width: 1280px; }
+}
+
+@media (min-width: 1536px) {
+  .container { max-width: 1536px; }
+}
+
+.icon-\[cil--transfer\] { --svg: url("data:image/svg+xml;charset=3Dutf-8,%3=
+Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'512' height=3D'512'%3E%3=
+Cpath d=3D'm356.687 228.687 22.626 22.626L494.627 136 379.313 20.687l-22.62=
+6 22.626L433.372 120H16v32h417.372l-76.685 76.687zM496 360H78.628l76.685-76=
+.687-22.626-22.626L17.373 376l115.314 115.313 22.626-22.626L78.628 392H496v=
+-32z'/%3E%3C/svg%3E"); }
+
+.icon-\[cil--transfer\], .icon-\[ion--checkmark-circle-sharp\] { display: i=
+nline-block; width: 1em; height: 1em; background-color: currentcolor; mask-=
+image: var(--svg); mask-repeat: initial; mask-size: 100% 100%; }
+
+.icon-\[ion--checkmark-circle-sharp\] { --svg: url("data:image/svg+xml;char=
+set=3Dutf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'512' heigh=
+t=3D'512'%3E%3Cpath d=3D'M256 48C141.31 48 48 141.31 48 256s93.31 208 208 2=
+08 208-93.31 208-208S370.69 48 256 48Zm-38 312.38-80.6-89.57 23.79-21.41 56=
+ 62.22L350 153.46 374.54 174Z'/%3E%3C/svg%3E"); }
+
+.icon-\[ion--checkmark-outline\] { --svg: url("data:image/svg+xml;charset=
+=3Dutf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'512' height=
+=3D'512'%3E%3Cpath fill=3D'none' stroke=3D'%23000' stroke-linecap=3D'round'=
+ stroke-linejoin=3D'round' stroke-width=3D'32' d=3D'M416 128 192 384l-96-96=
+'/%3E%3C/svg%3E"); }
+
+.icon-\[ion--checkmark-outline\], .icon-\[material-symbols--arrow-drop-down=
+\] { display: inline-block; width: 1em; height: 1em; background-color: curr=
+entcolor; mask-image: var(--svg); mask-repeat: initial; mask-size: 100% 100=
+%; }
+
+.icon-\[material-symbols--arrow-drop-down\] { --svg: url("data:image/svg+xm=
+l;charset=3Dutf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' =
+height=3D'24'%3E%3Cpath d=3D'm12 15-5-5h10l-5 5Z'/%3E%3C/svg%3E"); }
+
+.icon-\[material-symbols--star-outline\] { --svg: url("data:image/svg+xml;c=
+harset=3Dutf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' hei=
+ght=3D'24'%3E%3Cpath d=3D'm8.85 17.825 3.15-1.9 3.15 1.925-.825-3.6 2.775-2=
+.4-3.65-.325-1.45-3.4-1.45 3.375-3.65.325 2.775 2.425-.825 3.575ZM5.825 22l=
+1.625-7.025L2 10.25l7.2-.625L12 3l2.8 6.625 7.2.625-5.45 4.725L18.175 22 12=
+ 18.275 5.825 22ZM12 13.25Z'/%3E%3C/svg%3E"); }
+
+.icon-\[material-symbols--star-outline\], .icon-\[mdi--bitcoin\] { display:=
+ inline-block; width: 1em; height: 1em; background-color: currentcolor; mas=
+k-image: var(--svg); mask-repeat: initial; mask-size: 100% 100%; }
+
+.icon-\[mdi--bitcoin\] { --svg: url("data:image/svg+xml;charset=3Dutf-8,%3C=
+svg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D'24'%3E%3Cpa=
+th d=3D'M14.24 10.56c-.31 1.24-2.24.61-2.84.44l.55-2.18c.62.18 2.61.44 2.29=
+ 1.74m-3.11 1.56-.6 2.41c.74.19 3.03.92 3.37-.44.36-1.42-2.03-1.79-2.77-1.9=
+7m10.57 2.3c-1.34 5.36-6.76 8.62-12.12 7.28C4.22 20.36.963 14.94 2.3 9.58A9=
+.996 9.996 0 0 1 14.42 2.3c5.35 1.34 8.61 6.76 7.28 12.12m-7.49-6.37.45-1.8=
+-1.1-.25-.44 1.73c-.29-.07-.58-.14-.88-.2l.44-1.77-1.09-.26-.45 1.79c-.24-.=
+06-.48-.11-.7-.17l-1.51-.38-.3 1.17s.82.19.8.2c.45.11.53.39.51.64l-1.23 4.9=
+3c-.05.14-.21.32-.5.27.01.01-.8-.2-.8-.2L6.87 15l1.42.36c.27.07.53.14.79.2l=
+-.46 1.82 1.1.28.45-1.81c.3.08.59.15.87.23l-.45 1.79 1.1.28.46-1.82c1.85.35=
+ 3.27.21 3.85-1.48.5-1.35 0-2.15-1-2.66.72-.19 1.26-.64 1.41-1.62.2-1.33-.8=
+2-2.04-2.2-2.52Z'/%3E%3C/svg%3E"); }
+
+.icon-\[mdi--dots-vertical\] { --svg: url("data:image/svg+xml;charset=3Dutf=
+-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D'24'%3=
+E%3Cpath d=3D'M12 16a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-=
+2m0-6a2 2 0 0 1 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2m0-6a2 2 0 0 1=
+ 2 2 2 2 0 0 1-2 2 2 2 0 0 1-2-2 2 2 0 0 1 2-2Z'/%3E%3C/svg%3E"); }
+
+.icon-\[mdi--dots-vertical\], .icon-\[mingcute--left-line\] { display: inli=
+ne-block; width: 1em; height: 1em; background-color: currentcolor; mask-ima=
+ge: var(--svg); mask-repeat: initial; mask-size: 100% 100%; }
+
+.icon-\[mingcute--left-line\] { --svg: url("data:image/svg+xml;charset=3Dut=
+f-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D'24'%=
+3E%3Cg fill=3D'none' fill-rule=3D'evenodd'%3E%3Cpath d=3D'M24 0v24H0V0h24ZM=
+12.593 23.258l-.011.002-.071.035-.02.004-.014-.004-.071-.035c-.01-.004-.019=
+-.001-.024.005l-.004.01-.017.428.005.02.01.013.104.074.015.004.012-.004.104=
+-.074.012-.016.004-.017-.017-.427c-.002-.01-.009-.017-.017-.018Zm.265-.113-=
+.013.002-.185.093-.01.01-.003.011.018.43.005.012.008.007.201.093c.012.004.0=
+23 0 .029-.008l.004-.014-.034-.614c-.003-.012-.01-.02-.02-.022Zm-.715.002a.=
+023.023 0 0 0-.027.006l-.006.014-.034.614c0 .012.007.02.017.024l.015-.002.2=
+01-.093.01-.008.004-.011.017-.43-.003-.012-.01-.01-.184-.092Z'/%3E%3Cpath f=
+ill=3D'%23000' d=3D'M8.293 12.707a1 1 0 0 1 0-1.414l5.657-5.657a1 1 0 1 1 1=
+.414 1.414L10.414 12l4.95 4.95a1 1 0 0 1-1.414 1.414l-5.657-5.657Z'/%3E%3C/=
+g%3E%3C/svg%3E"); }
+
+.icon-\[mingcute--right-line\] { --svg: url("data:image/svg+xml;charset=3Du=
+tf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D'24'=
+%3E%3Cg fill=3D'none' fill-rule=3D'evenodd'%3E%3Cpath d=3D'M24 0v24H0V0h24Z=
+M12.593 23.258l-.011.002-.071.035-.02.004-.014-.004-.071-.035c-.01-.004-.01=
+9-.001-.024.005l-.004.01-.017.428.005.02.01.013.104.074.015.004.012-.004.10=
+4-.074.012-.016.004-.017-.017-.427c-.002-.01-.009-.017-.017-.018Zm.265-.113=
+-.013.002-.185.093-.01.01-.003.011.018.43.005.012.008.007.201.093c.012.004.=
+023 0 .029-.008l.004-.014-.034-.614c-.003-.012-.01-.02-.02-.022Zm-.715.002a=
+.023.023 0 0 0-.027.006l-.006.014-.034.614c0 .012.007.02.017.024l.015-.002.=
+201-.093.01-.008.004-.011.017-.43-.003-.012-.01-.01-.184-.092Z'/%3E%3Cpath =
+fill=3D'%23000' d=3D'M15.707 11.293a1 1 0 0 1 0 1.414l-5.657 5.657a1 1 0 1 =
+1-1.414-1.414l4.95-4.95-4.95-4.95a1 1 0 0 1 1.414-1.414l5.657 5.657Z'/%3E%3=
+C/g%3E%3C/svg%3E"); }
+
+.icon-\[mingcute--right-line\], .icon-\[mingcute--settings-6-line\] { displ=
+ay: inline-block; width: 1em; height: 1em; background-color: currentcolor; =
+mask-image: var(--svg); mask-repeat: initial; mask-size: 100% 100%; }
+
+.icon-\[mingcute--settings-6-line\] { --svg: url("data:image/svg+xml;charse=
+t=3Dutf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=
+=3D'24'%3E%3Cg fill=3D'none' fill-rule=3D'evenodd'%3E%3Cpath d=3D'M24 0v24H=
+0V0h24ZM12.594 23.258l-.012.002-.071.035-.02.004-.014-.004-.071-.036c-.01-.=
+003-.019 0-.024.006l-.004.01-.017.428.005.02.01.013.104.074.015.004.012-.00=
+4.104-.074.012-.016.004-.017-.017-.427c-.002-.01-.009-.017-.016-.018Zm.264-=
+.113-.014.002-.184.093-.01.01-.003.011.018.43.005.012.008.008.201.092c.012.=
+004.023 0 .029-.008l.004-.014-.034-.614c-.003-.012-.01-.02-.02-.022Zm-.715.=
+002a.023.023 0 0 0-.027.006l-.006.014-.034.614c0 .012.007.02.017.024l.015-.=
+002.201-.093.01-.008.003-.011.018-.43-.003-.012-.01-.01-.184-.092Z'/%3E%3Cp=
+ath fill=3D'%23000' d=3D'M16 15c1.306 0 2.418.835 2.83 2H20a1 1 0 1 1 0 2h-=
+1.17a3.001 3.001 0 0 1-5.66 0H4a1 1 0 1 1 0-2h9.17A3.001 3.001 0 0 1 16 15Z=
+m0 2a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM8 9a3 3 0 0 1 2.762 1.828l.067.172H20a1 1=
+ 0 0 1 .117 1.993L20 13h-9.17a3.001 3.001 0 0 1-5.592.172L5.17 13H4a1 1 0 0=
+ 1-.117-1.993L4 11h1.17A3.001 3.001 0 0 1 8 9Zm0 2a1 1 0 1 0 0 2 1 1 0 0 0 =
+0-2Zm8-8c1.306 0 2.418.835 2.83 2H20a1 1 0 1 1 0 2h-1.17a3.001 3.001 0 0 1-=
+5.66 0H4a1 1 0 0 1 0-2h9.17A3.001 3.001 0 0 1 16 3Zm0 2a1 1 0 1 0 0 2 1 1 0=
+ 0 0 0-2Z'/%3E%3C/g%3E%3C/svg%3E"); }
+
+.icon-\[ph--coffee-fill\] { --svg: url("data:image/svg+xml;charset=3Dutf-8,=
+%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'256' height=3D'256'%3E=
+%3Cpath d=3D'M208 80H32a8 8 0 0 0-8 8v48a96.3 96.3 0 0 0 32.54 72H32a8 8 0 =
+0 0 0 16h176a8 8 0 0 0 0-16h-24.54a96.59 96.59 0 0 0 27-40.09A40 40 0 0 0 2=
+48 128v-8a40 40 0 0 0-40-40Zm24 48a24 24 0 0 1-17.2 23 95.78 95.78 0 0 0 1.=
+2-15V97.38A24 24 0 0 1 232 120ZM112 56V24a8 8 0 0 1 16 0v32a8 8 0 0 1-16 0Z=
+m32 0V24a8 8 0 0 1 16 0v32a8 8 0 0 1-16 0Zm-64 0V24a8 8 0 0 1 16 0v32a8 8 0=
+ 0 1-16 0Z'/%3E%3C/svg%3E"); }
+
+.icon-\[ph--coffee-fill\], .icon-\[solar--clipboard-bold\] { display: inlin=
+e-block; width: 1em; height: 1em; background-color: currentcolor; mask-imag=
+e: var(--svg); mask-repeat: initial; mask-size: 100% 100%; }
+
+.icon-\[solar--clipboard-bold\] { --svg: url("data:image/svg+xml;charset=3D=
+utf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D'24=
+'%3E%3Cpath d=3D'M8 3.5A1.5 1.5 0 0 1 9.5 2h5A1.5 1.5 0 0 1 16 3.5v1A1.5 1.=
+5 0 0 1 14.5 6h-5A1.5 1.5 0 0 1 8 4.5v-1Z'/%3E%3Cpath fill-rule=3D'evenodd'=
+ d=3D'M6.5 4.037c-1.258.07-2.052.27-2.621.84C3 5.756 3 7.17 3 9.998v6c0 2.8=
+29 0 4.243.879 5.122.878.878 2.293.878 5.121.878h6c2.828 0 4.243 0 5.121-.8=
+78.879-.88.879-2.293.879-5.122v-6c0-2.828 0-4.242-.879-5.121-.569-.57-1.363=
+-.77-2.621-.84V4.5a3 3 0 0 1-3 3h-5a3 3 0 0 1-3-3v-.463ZM6.25 10.5A.75.75 0=
+ 0 1 7 9.75h10a.75.75 0 0 1 0 1.5H7a.75.75 0 0 1-.75-.75Zm1 3.5a.75.75 0 0 =
+1 .75-.75h8a.75.75 0 0 1 0 1.5H8a.75.75 0 0 1-.75-.75Zm1 3.5a.75.75 0 0 1 .=
+75-.75h6a.75.75 0 0 1 0 1.5H9a.75.75 0 0 1-.75-.75Z' clip-rule=3D'evenodd'/=
+%3E%3C/svg%3E"); }
+
+.icon-\[svg-spinners--ring-resize\] { --svg: url("data:image/svg+xml;charse=
+t=3Dutf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=
+=3D'24'%3E%3Cg stroke=3D'%23000'%3E%3Ccircle cx=3D'12' cy=3D'12' r=3D'9.5' =
+fill=3D'none' stroke-linecap=3D'round' stroke-width=3D'3'%3E%3Canimate attr=
+ibuteName=3D'stroke-dasharray' calcMode=3D'spline' dur=3D'1.5s' keySplines=
+=3D'0.42,0,0.58,1;0.42,0,0.58,1;0.42,0,0.58,1' keyTimes=3D'0;0.475;0.95;1' =
+repeatCount=3D'indefinite' values=3D'0 150;42 150;42 150;42 150'/%3E%3Canim=
+ate attributeName=3D'stroke-dashoffset' calcMode=3D'spline' dur=3D'1.5s' ke=
+ySplines=3D'0.42,0,0.58,1;0.42,0,0.58,1;0.42,0,0.58,1' keyTimes=3D'0;0.475;=
+0.95;1' repeatCount=3D'indefinite' values=3D'0;-16;-59;-59'/%3E%3C/circle%3=
+E%3CanimateTransform attributeName=3D'transform' dur=3D'2s' repeatCount=3D'=
+indefinite' type=3D'rotate' values=3D'0 12 12;360 12 12'/%3E%3C/g%3E%3C/svg=
+%3E"); }
+
+.icon-\[svg-spinners--ring-resize\], .icon-\[tabler--thumb-down-filled\] { =
+display: inline-block; width: 1em; height: 1em; background-color: currentco=
+lor; mask-image: var(--svg); mask-repeat: initial; mask-size: 100% 100%; }
+
+.icon-\[tabler--thumb-down-filled\] { --svg: url("data:image/svg+xml;charse=
+t=3Dutf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=
+=3D'24'%3E%3Cg fill=3D'none' stroke-linecap=3D'round' stroke-linejoin=3D'ro=
+und' stroke-width=3D'2'%3E%3Cpath d=3D'M0 0h24v24H0z'/%3E%3Cpath fill=3D'%2=
+3000' d=3D'M13 21.008a3 3 0 0 0 2.995-2.823l.005-.177v-4h2a3 3 0 0 0 2.98-2=
+.65l.015-.173.005-.177-.02-.196-1.006-5.032c-.381-1.625-1.502-2.796-2.81-2.=
+78L17 3.008H9a1 1 0 0 0-.993.884L8 4.008l.001 9.536a1 1 0 0 0 .5.866 2.998 =
+2.998 0 0 1 1.492 2.396l.007.202v1a3 3 0 0 0 3 3zm-8-7a1 1 0 0 0 .993-.883L=
+6 13.008v-9a1 1 0 0 0-.883-.993L5 3.008H4A2 2 0 0 0 2.005 4.86L2 5.01v7a2 2=
+ 0 0 0 1.85 1.994l.15.005h1z'/%3E%3C/g%3E%3C/svg%3E"); }
+
+.icon-\[tabler--thumb-down\] { --svg: url("data:image/svg+xml;charset=3Dutf=
+-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D'24'%3=
+E%3Cpath fill=3D'none' stroke=3D'%23000' stroke-linecap=3D'round' stroke-li=
+nejoin=3D'round' stroke-width=3D'2' d=3D'M7 13V5a1 1 0 0 0-1-1H4a1 1 0 0 0-=
+1 1v7a1 1 0 0 0 1 1h3a4 4 0 0 1 4 4v1a2 2 0 0 0 4 0v-5h3a2 2 0 0 0 2-2l-1-5=
+a2 3 0 0 0-2-2h-7a3 3 0 0 0-3 3'/%3E%3C/svg%3E"); }
+
+.icon-\[tabler--thumb-down\], .icon-\[tabler--thumb-up-filled\] { display: =
+inline-block; width: 1em; height: 1em; background-color: currentcolor; mask=
+-image: var(--svg); mask-repeat: initial; mask-size: 100% 100%; }
+
+.icon-\[tabler--thumb-up-filled\] { --svg: url("data:image/svg+xml;charset=
+=3Dutf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D=
+'24'%3E%3Cg fill=3D'none' stroke-linecap=3D'round' stroke-linejoin=3D'round=
+' stroke-width=3D'2'%3E%3Cpath d=3D'M0 0h24v24H0z'/%3E%3Cpath fill=3D'%2300=
+0' d=3D'M13 3a3 3 0 0 1 2.995 2.824L16 6v4h2a3 3 0 0 1 2.98 2.65l.015.174L2=
+1 13l-.02.196-1.006 5.032c-.381 1.626-1.502 2.796-2.81 2.78L17 21H9a1 1 0 0=
+ 1-.993-.883L8 20l.001-9.536a1 1 0 0 1 .5-.865 2.998 2.998 0 0 0 1.492-2.39=
+7L10 7V6a3 3 0 0 1 3-3zm-8 7a1 1 0 0 1 .993.883L6 11v9a1 1 0 0 1-.883.993L5=
+ 21H4a2 2 0 0 1-1.995-1.85L2 19v-7a2 2 0 0 1 1.85-1.995L4 10h1z'/%3E%3C/g%3=
+E%3C/svg%3E"); }
+
+.icon-\[tabler--thumb-up\] { display: inline-block; width: 1em; height: 1em=
+; background-color: currentcolor; mask-image: var(--svg); mask-repeat: init=
+ial; mask-size: 100% 100%; --svg: url("data:image/svg+xml;charset=3Dutf-8,%=
+3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D'24'%3E%3C=
+path fill=3D'none' stroke=3D'%23000' stroke-linecap=3D'round' stroke-linejo=
+in=3D'round' stroke-width=3D'2' d=3D'M7 11v8a1 1 0 0 1-1 1H4a1 1 0 0 1-1-1v=
+-7a1 1 0 0 1 1-1h3a4 4 0 0 0 4-4V6a2 2 0 0 1 4 0v5h3a2 2 0 0 1 2 2l-1 5a2 3=
+ 0 0 1-2 2h-7a3 3 0 0 1-3-3'/%3E%3C/svg%3E"); }
+
+.icon-\[twemoji--globe-with-meridians\] { display: inline-block; width: 1em=
+; height: 1em; background-repeat: no-repeat; background-size: 100% 100%; ba=
+ckground-image: url("data:image/svg+xml;charset=3Dutf-8;base64,PHN2ZyB4bWxu=
+cz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSczNicgaGVpZ2h0PSczNic+PHB=
+hdGggZmlsbD0nIzNCODhDMycgZD0nTTE4IDBDOC4wNTkgMCAwIDguMDU5IDAgMThzOC4wNTkgMT=
+ggMTggMTggMTgtOC4wNTkgMTgtMThTMjcuOTQxIDAgMTggMHpNMi4wNSAxOWgzLjk4M2MuMDkyI=
+DIuNTA2LjUyMiA0Ljg3MSAxLjIyOSA3SDQuMTU4YTE1Ljg4NSAxNS44ODUgMCAwIDEtMi4xMDgt=
+N3pNMTkgOFYyLjA4MWMyLjc0Ny40MzYgNS4xNjIgMi42NTUgNi43OTkgNS45MTlIMTl6bTcuNjU=
+xIDJjLjc1NCAyLjA4MyAxLjIxOSA0LjQ2IDEuMzE3IDdIMTl2LTdoNy42NTF6TTE3IDIuMDgxVj=
+hoLTYuNzk5QzExLjgzNyA0LjczNiAxNC4yNTMgMi41MTcgMTcgMi4wODF6TTE3IDEwdjdIOC4wM=
+zJjLjA5OC0yLjU0LjU2My00LjkxNyAxLjMxNy03SDE3ek02LjAzNCAxN0gyLjA1YTE1LjkgMTUu=
+OSAwIDAgMSAyLjEwNy03aDMuMTA0Yy0uNzA1IDIuMTI5LTEuMTM1IDQuNDk1LTEuMjI3IDd6bTE=
+uOTk4IDJIMTd2N0g5LjM0OWMtLjc1NC0yLjA4My0xLjIxOS00LjQ1OS0xLjMxNy03ek0xNyAyOH=
+Y1LjkxOWMtMi43NDctLjQzNy01LjE2My0yLjY1NS02Ljc5OS01LjkxOUgxN3ptMiA1LjkxOVYyO=
+Gg2LjhjLTEuNjM3IDMuMjY0LTQuMDUzIDUuNDgyLTYuOCA1LjkxOXpNMTkgMjZ2LTdoOC45Njlj=
+LS4wOTkgMi41NDEtLjU2MyA0LjkxNy0xLjMxNyA3SDE5em0xMC45NjctN2gzLjk4MmExNS44NyA=
+xNS44NyAwIDAgMS0yLjEwNyA3aC0zLjEwNGMuNzA2LTIuMTI5IDEuMTM2LTQuNDk0IDEuMjI5LT=
+d6bTAtMmMtLjA5My0yLjUwNS0uNTIzLTQuODcxLTEuMjI5LTdoMy4xMDRhMTUuODc1IDE1Ljg3N=
+SAwIDAgMSAyLjEwNyA3aC0zLjk4MnptLjUxMi05aC0yLjUwM2MtLjcxNy0xLjYwNC0xLjYwNi0z=
+LjAxNS0yLjYxOS00LjE5OUExNi4wMzQgMTYuMDM0IDAgMCAxIDMwLjQ3OSA4ek0xMC42NDMgMy4=
+4MDFDOS42MjkgNC45ODUgOC43NCA2LjM5NiA4LjAyMyA4SDUuNTIxYTE2LjA0NyAxNi4wNDcgMC=
+AwIDEgNS4xMjItNC4xOTl6TTUuNTIxIDI4aDIuNTAzYy43MTYgMS42MDQgMS42MDUgMy4wMTUgM=
+i42MTkgNC4xOThBMTYuMDMxIDE2LjAzMSAwIDAgMSA1LjUyMSAyOHptMTkuODM2IDQuMTk4YzEu=
+MDE0LTEuMTg0IDEuOTAyLTIuNTk0IDIuNjE5LTQuMTk4aDIuNTAzYTE2LjAzMSAxNi4wMzEgMCA=
+wIDEtNS4xMjIgNC4xOTh6Jy8+PC9zdmc+"); }
+
+.icon-\[uil--exclamation-triangle\] { display: inline-block; width: 1em; he=
+ight: 1em; background-color: currentcolor; mask-image: var(--svg); mask-rep=
+eat: initial; mask-size: 100% 100%; --svg: url("data:image/svg+xml;charset=
+=3Dutf-8,%3Csvg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D=
+'24'%3E%3Cpath d=3D'M12 16a1 1 0 1 0 1 1 1 1 0 0 0-1-1Zm10.67 1.47-8.05-14a=
+3 3 0 0 0-5.24 0l-8 14A3 3 0 0 0 3.94 22h16.12a3 3 0 0 0 2.61-4.53Zm-1.73 2=
+a1 1 0 0 1-.88.51H3.94a1 1 0 0 1-.88-.51 1 1 0 0 1 0-1l8-14a1 1 0 0 1 1.78 =
+0l8.05 14a1 1 0 0 1 .05 1.02ZM12 8a1 1 0 0 0-1 1v4a1 1 0 0 0 2 0V9a1 1 0 0 =
+0-1-1Z'/%3E%3C/svg%3E"); }
+
+.sr-only { position: absolute; width: 1px; height: 1px; padding: 0px; margi=
+n: -1px; overflow: hidden; clip: rect(0px, 0px, 0px, 0px); white-space: now=
+rap; border-width: 0px; }
+
+.visible { visibility: visible; }
+
+.invisible { visibility: hidden; }
+
+.collapse { visibility: collapse; }
+
+.static { position: static; }
+
+.fixed { position: fixed; }
+
+.absolute { position: absolute; }
+
+.relative { position: relative; }
+
+.-left-5 { left: -1.25rem; }
+
+.-top-3 { top: -0.75rem; }
+
+.-top-3\.5 { top: -0.875rem; }
+
+.bottom-0 { bottom: 0px; }
+
+.left-0 { left: 0px; }
+
+.left-1\/2 { left: 50%; }
+
+.left-\[-10\] { left: -10px; }
+
+.left-\[-10px\] { left: -10px; }
+
+.right-0 { right: 0px; }
+
+.right-4 { right: 1rem; }
+
+.top-1 { top: 0.25rem; }
+
+.top-1\/2 { top: 50%; }
+
+.top-\[-1\] { top: -1px; }
+
+.top-full { top: 100%; }
+
+.isolate { isolation: isolate; }
+
+.z-10 { z-index: 10; }
+
+.z-20 { z-index: 20; }
+
+.order-\[-1\] { order: -1; }
+
+.float-right { float: right; }
+
+.-mx-2 { margin-left: -0.5rem; margin-right: -0.5rem; }
+
+.mx-6 { margin-left: 1.5rem; margin-right: 1.5rem; }
+
+.mx-\[-10px\] { margin-left: -10px; margin-right: -10px; }
+
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+.my-2 { margin-top: 0.5rem; margin-bottom: 0.5rem; }
+
+.my-4 { margin-top: 1rem; margin-bottom: 1rem; }
+
+.-ml-px { margin-left: -1px; }
+
+.mb-0 { margin-bottom: 0px; }
+
+.mb-1 { margin-bottom: 0.25rem; }
+
+.mb-1\.5 { margin-bottom: 0.375rem; }
+
+.mb-2 { margin-bottom: 0.5rem; }
+
+.mb-3 { margin-bottom: 0.75rem; }
+
+.mb-4 { margin-bottom: 1rem; }
+
+.mb-6 { margin-bottom: 1.5rem; }
+
+.mb-8 { margin-bottom: 2rem; }
+
+.mb-\[-3px\] { margin-bottom: -3px; }
+
+.mb-\[-5px\] { margin-bottom: -5px; }
+
+.ml-1 { margin-left: 0.25rem; }
+
+.ml-2 { margin-left: 0.5rem; }
+
+.ml-4 { margin-left: 1rem; }
+
+.ml-auto { margin-left: auto; }
+
+.mr-1 { margin-right: 0.25rem; }
+
+.mr-1\.5 { margin-right: 0.375rem; }
+
+.mr-2 { margin-right: 0.5rem; }
+
+.mr-4 { margin-right: 1rem; }
+
+.mr-8 { margin-right: 2rem; }
+
+.mt-0 { margin-top: 0px; }
+
+.mt-0\.5 { margin-top: 0.125rem; }
+
+.mt-1 { margin-top: 0.25rem; }
+
+.mt-1\.5 { margin-top: 0.375rem; }
+
+.mt-12 { margin-top: 3rem; }
+
+.mt-2 { margin-top: 0.5rem; }
+
+.mt-4 { margin-top: 1rem; }
+
+.mt-6 { margin-top: 1.5rem; }
+
+.mt-8 { margin-top: 2rem; }
+
+.mt-\[3px\] { margin-top: 3px; }
+
+.mt-\[7\%\] { margin-top: 7%; }
+
+.line-clamp-\[2\] { -webkit-line-clamp: 2; }
+
+.line-clamp-\[2\], .line-clamp-\[6\] { overflow: hidden; display: -webkit-b=
+ox; -webkit-box-orient: vertical; }
+
+.line-clamp-\[6\] { -webkit-line-clamp: 6; }
+
+.block { display: block; }
+
+.inline-block { display: inline-block; }
+
+.inline { display: inline; }
+
+.flex { display: flex; }
+
+.inline-flex { display: inline-flex; }
+
+.table { display: table; }
+
+.contents { display: contents; }
+
+.hidden { display: none; }
+
+.aspect-\[0\.64\] { aspect-ratio: 0.64 / 1; }
+
+.aspect-\[0\.85\] { aspect-ratio: 0.85 / 1; }
+
+.h-20 { height: 5rem; }
+
+.h-\[1\.5em\] { height: 1.5em; }
+
+.h-\[100px\] { height: 100px; }
+
+.h-\[108\] { height: 108px; }
+
+.h-\[120px\] { height: 120px; }
+
+.h-\[125\] { height: 125px; }
+
+.h-\[150px\] { height: 150px; }
+
+.h-\[200px\] { height: 200px; }
+
+.h-\[300px\] { height: 300px; }
+
+.h-\[50px\] { height: 50px; }
+
+.h-\[70px\] { height: 70px; }
+
+.h-\[90\] { height: 90px; }
+
+.h-full { height: 100%; }
+
+.max-h-full { max-height: 100%; }
+
+.w-1\/4 { width: 25%; }
+
+.w-\[1\.5em\] { width: 1.5em; }
+
+.w-\[10\%\] { width: 10%; }
+
+.w-\[72\] { width: 72px; }
+
+.w-\[calc\(100\%\+20px\)\] { width: calc(100% + 20px); }
+
+.w-\[calc\(50\%-6px\)\] { width: calc(50% - 6px); }
+
+.w-full { width: 100%; }
+
+.min-w-\[0\] { min-width: 0px; }
+
+.min-w-\[120px\] { min-width: 120px; }
+
+.min-w-full { min-width: 100%; }
+
+.max-w-\[1050px\] { max-width: 1050px; }
+
+.max-w-\[110px\] { max-width: 110px; }
+
+.max-w-\[300px\] { max-width: 300px; }
+
+.max-w-\[350px\] { max-width: 350px; }
+
+.max-w-\[400px\] { max-width: 400px; }
+
+.max-w-\[50\%\] { max-width: 50%; }
+
+.max-w-\[500px\] { max-width: 500px; }
+
+.max-w-\[50px\] { max-width: 50px; }
+
+.max-w-\[600px\] { max-width: 600px; }
+
+.max-w-\[650px\] { max-width: 650px; }
+
+.max-w-\[700px\] { max-width: 700px; }
+
+.max-w-full { max-width: 100%; }
+
+.flex-none { flex: 0 0 auto; }
+
+.flex-shrink { flex-shrink: 1; }
+
+.shrink-0 { flex-shrink: 0; }
+
+.flex-grow, .grow { flex-grow: 1; }
+
+.border-collapse { border-collapse: collapse; }
+
+.-translate-x-1\/2 { --tw-translate-x: -50%; }
+
+.-translate-x-1\/2, .-translate-y-1\/2 { transform: translate(var(--tw-tran=
+slate-x),var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-ske=
+w-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-sca=
+le-y)); }
+
+.-translate-y-1\/2 { --tw-translate-y: -50%; }
+
+.translate-x-full { --tw-translate-x: 100%; }
+
+.transform, .translate-x-full { transform: translate(var(--tw-translate-x),=
+var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) ske=
+wY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); }
+
+.cursor-pointer { cursor: pointer; }
+
+.list-inside { list-style-position: inside; }
+
+.list-decimal { list-style-type: decimal; }
+
+.list-disc { list-style-type: disc; }
+
+.appearance-none { appearance: none; }
+
+.flex-row { flex-direction: row; }
+
+.flex-col { flex-direction: column; }
+
+.flex-wrap { flex-wrap: wrap; }
+
+.items-start { align-items: flex-start; }
+
+.items-end { align-items: flex-end; }
+
+.items-center { align-items: center; }
+
+.justify-center { justify-content: center; }
+
+.justify-between { justify-content: space-between; }
+
+.-space-x-px > :not([hidden]) ~ :not([hidden]) { --tw-space-x-reverse: 0; m=
+argin-right: calc(-1px*var(--tw-space-x-reverse)); margin-left: calc(-1px*(=
+1 - var(--tw-space-x-reverse))); }
+
+.space-y-4 > :not([hidden]) ~ :not([hidden]) { --tw-space-y-reverse: 0; mar=
+gin-top: calc(1rem*(1 - var(--tw-space-y-reverse))); margin-bottom: calc(1r=
+em*var(--tw-space-y-reverse)); }
+
+.self-center { align-self: center; }
+
+.overflow-hidden { overflow: hidden; }
+
+.overflow-y-auto { overflow-y: auto; }
+
+.truncate { overflow: hidden; text-overflow: ellipsis; white-space: nowrap;=
+ }
+
+.whitespace-normal { white-space: normal; }
+
+.whitespace-nowrap { white-space: nowrap; }
+
+.whitespace-pre-line { white-space: pre-line; }
+
+.whitespace-pre-wrap { white-space: pre-wrap; }
+
+.break-words { overflow-wrap: break-word; }
+
+.break-all { word-break: break-all; }
+
+.rounded { border-radius: 0.25rem; }
+
+.rounded-\[3px\] { border-radius: 3px; }
+
+.rounded-full { border-radius: 9999px; }
+
+.rounded-lg { border-radius: 0.5rem; }
+
+.rounded-md { border-radius: 0.375rem; }
+
+.rounded-sm { border-radius: 0.125rem; }
+
+.rounded-l { border-top-left-radius: 0.25rem; border-bottom-left-radius: 0.=
+25rem; }
+
+.rounded-l-md { border-top-left-radius: 0.375rem; border-bottom-left-radius=
+: 0.375rem; }
+
+.rounded-r { border-top-right-radius: 0.25rem; border-bottom-right-radius: =
+0.25rem; }
+
+.rounded-r-md { border-top-right-radius: 0.375rem; border-bottom-right-radi=
+us: 0.375rem; }
+
+.border { border-width: 1px; }
+
+.border-b-\[3px\] { border-bottom-width: 3px; }
+
+.border-r { border-right-width: 1px; }
+
+.border-\[\#999\] { --tw-border-opacity: 1; border-color: rgb(153 153 153/v=
+ar(--tw-border-opacity)); }
+
+.border-\[\#aaa\] { --tw-border-opacity: 1; border-color: rgb(170 170 170/v=
+ar(--tw-border-opacity)); }
+
+.border-\[\#ccc\] { --tw-border-opacity: 1; border-color: rgb(204 204 204/v=
+ar(--tw-border-opacity)); }
+
+.border-gray-200 { --tw-border-opacity: 1; border-color: rgb(229 231 235/va=
+r(--tw-border-opacity)); }
+
+.border-transparent { border-color: rgba(0, 0, 0, 0); }
+
+.bg-\[\#0160a7\] { --tw-bg-opacity: 1; background-color: rgb(1 96 167/var(-=
+-tw-bg-opacity)); }
+
+.bg-\[\#0195ff\] { --tw-bg-opacity: 1; background-color: rgb(1 149 255/var(=
+--tw-bg-opacity)); }
+
+.bg-\[\#777\] { --tw-bg-opacity: 1; background-color: rgb(119 119 119/var(-=
+-tw-bg-opacity)); }
+
+.bg-\[\#7f01ff\] { --tw-bg-opacity: 1; background-color: rgb(127 1 255/var(=
+--tw-bg-opacity)); }
+
+.bg-\[\#aaa\] { --tw-bg-opacity: 1; background-color: rgb(170 170 170/var(-=
+-tw-bg-opacity)); }
+
+.bg-\[\#ccc\] { --tw-bg-opacity: 1; background-color: rgb(204 204 204/var(-=
+-tw-bg-opacity)); }
+
+.bg-\[\#ddd\] { --tw-bg-opacity: 1; background-color: rgb(221 221 221/var(-=
+-tw-bg-opacity)); }
+
+.bg-\[\#f2f2f2\] { --tw-bg-opacity: 1; background-color: rgb(242 242 242/va=
+r(--tw-bg-opacity)); }
+
+.bg-\[\#ffd\] { --tw-bg-opacity: 1; background-color: rgb(255 255 221/var(-=
+-tw-bg-opacity)); }
+
+.bg-\[rgba\(200\,200\,200\,0\.9\)\] { background-color: rgba(200, 200, 200,=
+ 0.9); }
+
+.bg-black\/5 { background-color: rgba(0, 0, 0, 0.05); }
+
+.bg-black\/6\.7 { background-color: rgba(0, 0, 0, 0.067); }
+
+.bg-gray-100 { --tw-bg-opacity: 1; background-color: rgb(243 244 246/var(--=
+tw-bg-opacity)); }
+
+.bg-gray-300 { --tw-bg-opacity: 1; background-color: rgb(209 213 219/var(--=
+tw-bg-opacity)); }
+
+.bg-gray-500 { --tw-bg-opacity: 1; background-color: rgb(107 114 128/var(--=
+tw-bg-opacity)); }
+
+.bg-green-500 { --tw-bg-opacity: 1; background-color: rgb(34 197 94/var(--t=
+w-bg-opacity)); }
+
+.bg-white { --tw-bg-opacity: 1; background-color: rgb(255 255 255/var(--tw-=
+bg-opacity)); }
+
+.bg-yellow-100 { --tw-bg-opacity: 1; background-color: rgb(254 249 195/var(=
+--tw-bg-opacity)); }
+
+.bg-yellow-200 { --tw-bg-opacity: 1; background-color: rgb(254 240 138/var(=
+--tw-bg-opacity)); }
+
+.bg-center { background-position: 50% center; }
+
+.p-0 { padding: 0px; }
+
+.p-1 { padding: 0.25rem; }
+
+.p-2 { padding: 0.5rem; }
+
+.p-4 { padding: 1rem; }
+
+.p-6 { padding: 1.5rem; }
+
+.p-8 { padding: 2rem; }
+
+.p-\[12px\] { padding: 12px; }
+
+.px-1 { padding-left: 0.25rem; padding-right: 0.25rem; }
+
+.px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+
+.px-2\.5 { padding-left: 0.625rem; padding-right: 0.625rem; }
+
+.px-3 { padding-left: 0.75rem; padding-right: 0.75rem; }
+
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+
+.px-\[10\] { padding-left: 10px; padding-right: 10px; }
+
+.px-\[10px\] { padding-left: 10px; padding-right: 10px; }
+
+.py-0 { padding-top: 0px; padding-bottom: 0px; }
+
+.py-0\.5 { padding-top: 0.125rem; padding-bottom: 0.125rem; }
+
+.py-1 { padding-top: 0.25rem; padding-bottom: 0.25rem; }
+
+.py-2 { padding-top: 0.5rem; padding-bottom: 0.5rem; }
+
+.py-3 { padding-top: 0.75rem; padding-bottom: 0.75rem; }
+
+.py-4 { padding-top: 1rem; padding-bottom: 1rem; }
+
+.pb-3 { padding-bottom: 0.75rem; }
+
+.pl-2 { padding-left: 0.5rem; }
+
+.pl-3 { padding-left: 0.75rem; }
+
+.pl-4 { padding-left: 1rem; }
+
+.pl-5 { padding-left: 1.25rem; }
+
+.pr-1 { padding-right: 0.25rem; }
+
+.pr-2 { padding-right: 0.5rem; }
+
+.pr-4 { padding-right: 1rem; }
+
+.pr-8 { padding-right: 2rem; }
+
+.pt-4 { padding-top: 1rem; }
+
+.text-left { text-align: left; }
+
+.text-center { text-align: center; }
+
+.align-top { vertical-align: top; }
+
+.align-middle { vertical-align: middle; }
+
+.align-bottom { vertical-align: bottom; }
+
+.align-text-bottom { vertical-align: text-bottom; }
+
+.align-\[-1px\] { vertical-align: -1px; }
+
+.align-\[-4px\] { vertical-align: -4px; }
+
+.align-\[-5px\] { vertical-align: -5px; }
+
+.align-\[1px\] { vertical-align: 1px; }
+
+.align-\[2px\] { vertical-align: 2px; }
+
+.font-mono { font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Cons=
+olas, "Liberation Mono", "Courier New", monospace; }
+
+.font-sans { font-family: ui-sans-serif, system-ui, -apple-system, BlinkMac=
+SystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-=
+serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Colo=
+r Emoji"; }
+
+.text-2xl { font-size: 1.5rem; line-height: 2rem; }
+
+.text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+
+.text-\[10px\] { font-size: 10px; }
+
+.text-\[18px\] { font-size: 18px; }
+
+.text-\[21px\] { font-size: 21px; }
+
+.text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+
+.text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+
+.text-xs { font-size: 0.75rem; line-height: 1rem; }
+
+.font-black { font-weight: 900; }
+
+.font-bold { font-weight: 700; }
+
+.font-extrabold { font-weight: 800; }
+
+.font-light { font-weight: 300; }
+
+.font-medium { font-weight: 500; }
+
+.font-normal { font-weight: 400; }
+
+.font-semibold { font-weight: 600; }
+
+.uppercase { text-transform: uppercase; }
+
+.italic { font-style: italic; }
+
+.leading-\[1\.2\] { line-height: 1.2; }
+
+.leading-none { line-height: 1; }
+
+.leading-relaxed { line-height: 1.625; }
+
+.tracking-tighter { letter-spacing: -0.05em; }
+
+.text-\[\#555\] { --tw-text-opacity: 1; color: rgb(85 85 85/var(--tw-text-o=
+pacity)); }
+
+.text-\[\#777\] { --tw-text-opacity: 1; color: rgb(119 119 119/var(--tw-tex=
+t-opacity)); }
+
+.text-\[\#aaa\] { --tw-text-opacity: 1; color: rgb(170 170 170/var(--tw-tex=
+t-opacity)); }
+
+.text-\[\#fff\] { --tw-text-opacity: 1; color: rgb(255 255 255/var(--tw-tex=
+t-opacity)); }
+
+.text-black { --tw-text-opacity: 1; color: rgb(0 0 0/var(--tw-text-opacity)=
+); }
+
+.text-black\/64 { color: rgba(0, 0, 0, 0.64); }
+
+.text-gray-400 { --tw-text-opacity: 1; color: rgb(156 163 175/var(--tw-text=
+-opacity)); }
+
+.text-gray-500 { --tw-text-opacity: 1; color: rgb(107 114 128/var(--tw-text=
+-opacity)); }
+
+.text-gray-900 { --tw-text-opacity: 1; color: rgb(17 24 39/var(--tw-text-op=
+acity)); }
+
+.text-red-500 { --tw-text-opacity: 1; color: rgb(239 68 68/var(--tw-text-op=
+acity)); }
+
+.text-white { --tw-text-opacity: 1; color: rgb(255 255 255/var(--tw-text-op=
+acity)); }
+
+.underline { text-decoration-line: underline; }
+
+.line-through { text-decoration-line: line-through; }
+
+.opacity-40 { opacity: 0.4; }
+
+.opacity-50 { opacity: 0.5; }
+
+.opacity-60 { opacity: 0.6; }
+
+.opacity-80 { opacity: 0.8; }
+
+.shadow { --tw-shadow: 0 1px 3px 0 #0000001a,0 1px 2px -1px #0000001a; --tw=
+-shadow-colored: 0 1px 3px 0 var(--tw-shadow-color),0 1px 2px -1px var(--tw=
+-shadow-color); }
+
+.shadow, .shadow-sm { box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),va=
+r(--tw-ring-shadow,0 0 #0000),var(--tw-shadow); }
+
+.shadow-sm { --tw-shadow: 0 1px 2px 0 #0000000d; --tw-shadow-colored: 0 1px=
+ 2px 0 var(--tw-shadow-color); }
+
+.outline-2 { outline-width: 2px; }
+
+.outline-offset-\[-2px\] { outline-offset: -2px; }
+
+.ring-1 { --tw-ring-offset-shadow: var(--tw-ring-inset) 0 0 0 var(--tw-ring=
+-offset-width) var(--tw-ring-offset-color); --tw-ring-shadow: var(--tw-ring=
+-inset) 0 0 0 calc(1px + var(--tw-ring-offset-width)) var(--tw-ring-color);=
+ box-shadow: var(--tw-ring-offset-shadow),var(--tw-ring-shadow),var(--tw-sh=
+adow,0 0 #0000); }
+
+.ring-inset { --tw-ring-inset: inset; }
+
+.ring-gray-300 { --tw-ring-opacity: 1; --tw-ring-color: rgb(209 213 219/var=
+(--tw-ring-opacity)); }
+
+.grayscale { --tw-grayscale: grayscale(100%); }
+
+.filter, .grayscale { filter: var(--tw-blur) var(--tw-brightness) var(--tw-=
+contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--t=
+w-saturate) var(--tw-sepia) var(--tw-drop-shadow); }
+
+:root { --header-link-spacing: 12px; }
+
+a, button, input, select, textarea { outline-color: rgba(0, 0, 0, 0.333); }
+
+body, html { height: 100%; display: flex; flex-direction: column; }
+
+.main { max-width: 1050px; margin: 0px auto; padding: 20px 10px; width: 100=
+%; flex-grow: 1; }
+
+.header { background: rgb(242, 242, 242); box-shadow: rgba(0, 0, 0, 0.3) 0p=
+x 0px 7px; }
+
+.header-inner { max-width: 1050px; margin: 0px auto; padding: 12px; }
+
+.header-inner-top { display: flex; align-items: center; justify-content: sp=
+ace-between; }
+
+.header-inner a:not(.custom-a), .header-inner a:not(.custom-a):visited { te=
+xt-decoration: none; color: rgba(0, 0, 0, 0.64); }
+
+.header-inner a:not(.custom-a):focus, .header-inner a:not(.custom-a):hover =
+{ color: rgb(0, 0, 0); }
+
+.header-inner h1 { line-height: 1; margin: 10px 0px; font-weight: 900; }
+
+.header-bar { align-items: center; justify-content: space-between; margin-b=
+ottom: -4px; }
+
+.header-bar, .header-links { display: flex; flex-wrap: wrap; }
+
+.header-links { flex-shrink: 0; white-space: nowrap; max-width: 100%; }
+
+.header-links > a { margin-right: var(--header-link-spacing); padding-botto=
+m: 0px; margin-top: 6px; margin-bottom: 2px; position: relative; border-bot=
+tom: 3px solid rgba(0, 0, 0, 0); }
+
+.header-links-right > a { margin-left: var(--header-link-spacing); margin-r=
+ight: 0px; }
+
+.header-links-right > a.header-link-first { margin-left: 0px; }
+
+.header-links > a.header-link-first .header-link-normal { left: 0px; transf=
+orm: none; }
+
+.header-link-normal { position: absolute; left: 50%; transform: translateX(=
+-50%); }
+
+.header-link-bold { font-weight: 700; visibility: hidden; }
+
+.header-links > a.header-link-active { color: rgb(0, 0, 0); border-bottom-c=
+olor: rgb(0, 149, 255); }
+
+.header-links > a.header-link-active > .header-link-normal { visibility: hi=
+dden; }
+
+.header-links > a.header-link-active > .header-link-bold { visibility: visi=
+ble; }
+
+.header-search { flex-grow: 1; margin-left: auto; max-width: 400px; margin-=
+right: var(--header-link-spacing); }
+
+.header-search > input { flex-grow: 1; border: none; outline-offset: -1px; =
+padding: 0px 0.5em 1px; font-size: 0.9em; height: 2em; background: rgb(255,=
+ 255, 255); outline-style: none; outline-width: 2px; position: relative; to=
+p: 1px; }
+
+.header-search > input:focus { outline-style: solid; }
+
+a:not(.custom-a), a:not(.custom-a):visited { color: rgb(119, 119, 119); tex=
+t-decoration: underline; }
+
+a:not(.custom-a):focus, a:not(.custom-a):hover { color: rgb(51, 51, 51); }
+
+a.anna, a.anna:visited { color: rgb(0, 141, 240); text-decoration: underlin=
+e; }
+
+a.anna:focus, a.anna:hover { color: rgb(0, 112, 192); }
+
+form { margin-block-end: 0px; }
+
+@keyframes header-ping {=20
+  75%, 100% { transform: scale(2); opacity: 0; }
+}
+
+@keyframes scroll {=20
+  0% { transform: translateX(0px); }
+  100% { transform: translateX(-100%); }
+}
+
+[aria-selected=3D"true"] .\[\[aria-selected\=3Dtrue\]_\&\]\:icon-\[solar--c=
+lipboard-check-bold\] { --svg: url("data:image/svg+xml;charset=3Dutf-8,%3Cs=
+vg xmlns=3D'http://www.w3.org/2000/svg' width=3D'24' height=3D'24'%3E%3Cpat=
+h d=3D'M9.5 2A1.5 1.5 0 0 0 8 3.5v1A1.5 1.5 0 0 0 9.5 6h5A1.5 1.5 0 0 0 16 =
+4.5v-1A1.5 1.5 0 0 0 14.5 2h-5Z'/%3E%3Cpath fill-rule=3D'evenodd' d=3D'M6.5=
+ 4.037c-1.258.07-2.052.27-2.621.84C3 5.756 3 7.17 3 9.998v6c0 2.829 0 4.243=
+.879 5.122.878.878 2.293.878 5.121.878h6c2.828 0 4.243 0 5.121-.878.879-.88=
+.879-2.293.879-5.122v-6c0-2.828 0-4.242-.879-5.121-.569-.57-1.363-.77-2.621=
+-.84V4.5a3 3 0 0 1-3 3h-5a3 3 0 0 1-3-3v-.463Zm9.012 8.511a.75.75 0 1 0-1.0=
+24-1.096l-3.774 3.522-1.202-1.122a.75.75 0 0 0-1.024 1.096l1.715 1.6a.75.75=
+ 0 0 0 1.023 0l4.286-4Z' clip-rule=3D'evenodd'/%3E%3C/svg%3E"); }
+
+[aria-selected=3D"true"] .\[\[aria-selected\=3Dtrue\]_\&\]\:icon-\[solar--c=
+lipboard-check-bold\], button.selected > .\[button\.selected\>\&\]\:icon-\[=
+material-symbols--star\] { display: inline-block; width: 1em; height: 1em; =
+background-color: currentcolor; mask-image: var(--svg); mask-repeat: initia=
+l; mask-size: 100% 100%; }
+
+button.selected > .\[button\.selected\>\&\]\:icon-\[material-symbols--star\=
+] { --svg: url("data:image/svg+xml;charset=3Dutf-8,%3Csvg xmlns=3D'http://w=
+ww.w3.org/2000/svg' width=3D'24' height=3D'24'%3E%3Cpath d=3D'm5.825 22 1.6=
+25-7.025L2 10.25l7.2-.625L12 3l2.8 6.625 7.2.625-5.45 4.725L18.175 22 12 18=
+.275 5.825 22Z'/%3E%3C/svg%3E"); }
+
+.first\:mt-0:first-child { margin-top: 0px; }
+
+.last\:mb-0:last-child { margin-bottom: 0px; }
+
+.even\:bg-\[\#f2f2f2\]:nth-child(2n) { --tw-bg-opacity: 1; background-color=
+: rgb(242 242 242/var(--tw-bg-opacity)); }
+
+.hover\:bg-\[\#999\]:hover { --tw-bg-opacity: 1; background-color: rgb(153 =
+153 153/var(--tw-bg-opacity)); }
+
+.hover\:bg-\[\#ccc\]:hover { --tw-bg-opacity: 1; background-color: rgb(204 =
+204 204/var(--tw-bg-opacity)); }
+
+.hover\:bg-\[\#ffa\]:hover { --tw-bg-opacity: 1; background-color: rgb(255 =
+255 170/var(--tw-bg-opacity)); }
+
+.hover\:bg-black\/6\.7:hover { background-color: rgba(0, 0, 0, 0.067); }
+
+.hover\:bg-blue-600:hover { --tw-bg-opacity: 1; background-color: rgb(37 99=
+ 235/var(--tw-bg-opacity)); }
+
+.hover\:bg-gray-50:hover { --tw-bg-opacity: 1; background-color: rgb(249 25=
+0 251/var(--tw-bg-opacity)); }
+
+.hover\:bg-gray-600:hover { --tw-bg-opacity: 1; background-color: rgb(75 85=
+ 99/var(--tw-bg-opacity)); }
+
+.hover\:text-\[\#333\]:hover { --tw-text-opacity: 1; color: rgb(51 51 51/va=
+r(--tw-text-opacity)); }
+
+.hover\:text-\[\#444\]:hover { --tw-text-opacity: 1; color: rgb(68 68 68/va=
+r(--tw-text-opacity)); }
+
+.hover\:text-\[\#ddd\]:hover { --tw-text-opacity: 1; color: rgb(221 221 221=
+/var(--tw-text-opacity)); }
+
+.hover\:text-black:hover { --tw-text-opacity: 1; color: rgb(0 0 0/var(--tw-=
+text-opacity)); }
+
+.hover\:text-gray-500:hover { --tw-text-opacity: 1; color: rgb(107 114 128/=
+var(--tw-text-opacity)); }
+
+.hover\:opacity-100:hover { opacity: 1; }
+
+.hover\:opacity-60:hover { opacity: 0.6; }
+
+.hover\:opacity-80:hover { opacity: 0.8; }
+
+.focus\:z-20:focus { z-index: 20; }
+
+.focus\:opacity-80:focus { opacity: 0.8; }
+
+.focus\:outline:focus { outline-style: solid; }
+
+.focus\:outline-offset-0:focus { outline-offset: 0px; }
+
+.focus-visible\:outline:focus-visible { outline-style: solid; }
+
+.focus-visible\:outline-2:focus-visible { outline-width: 2px; }
+
+.focus-visible\:outline-offset-2:focus-visible { outline-offset: 2px; }
+
+.focus-visible\:outline-\[\#0195ff\]:focus-visible { outline-color: rgb(1, =
+149, 255); }
+
+.group:hover .group-hover\:visible { visibility: visible; }
+
+.aria-selected\:border-\[\#0095ff\][aria-selected=3D"true"] { --tw-border-o=
+pacity: 1; border-color: rgb(0 149 255/var(--tw-border-opacity)); }
+
+.aria-selected\:border-\[\#09008e\][aria-selected=3D"true"] { --tw-border-o=
+pacity: 1; border-color: rgb(9 0 142/var(--tw-border-opacity)); }
+
+.aria-selected\:bg-\[\#09008e\][aria-selected=3D"true"] { --tw-bg-opacity: =
+1; background-color: rgb(9 0 142/var(--tw-bg-opacity)); }
+
+.aria-selected\:font-bold[aria-selected=3D"true"] { font-weight: 700; }
+
+.aria-selected\:text-black[aria-selected=3D"true"] { --tw-text-opacity: 1; =
+color: rgb(0 0 0/var(--tw-text-opacity)); }
+
+.aria-selected\:opacity-100[aria-selected=3D"true"] { opacity: 1; }
+
+@media not all and (min-width: 1024px) {
+  .max-lg\:mx-auto { margin-left: auto; margin-right: auto; }
+  .max-lg\:line-clamp-\[2\] { overflow: hidden; display: -webkit-box; -webk=
+it-box-orient: vertical; -webkit-line-clamp: 2; }
+  .max-lg\:max-w-\[450px\] { max-width: 450px; }
+  .max-lg\:text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+  .max-lg\:text-xs { font-size: 0.75rem; line-height: 1rem; }
+}
+
+@media not all and (min-width: 768px) {
+  .max-md\:mb-1 { margin-bottom: 0.25rem; }
+  .max-md\:hidden { display: none; }
+  .max-md\:break-all { word-break: break-all; }
+}
+
+@media not all and (min-width: 640px) {
+  .max-sm\:fixed { position: fixed; }
+  .max-sm\:absolute { position: absolute; }
+  .max-sm\:bottom-0 { bottom: 0px; }
+  .max-sm\:bottom-4 { bottom: 1rem; }
+  .max-sm\:left-0 { left: 0px; }
+  .max-sm\:left-4 { left: 1rem; }
+  .max-sm\:right-0 { right: 0px; }
+  .max-sm\:right-4 { right: 1rem; }
+  .max-sm\:top-0 { top: 0px; }
+  .max-sm\:top-4 { top: 1rem; }
+  .max-sm\:z-\[999999999\] { z-index: 999999999; }
+  .max-sm\:mx-auto { margin-left: auto; margin-right: auto; }
+  .max-sm\:hidden { display: none; }
+  .max-sm\:max-w-\[700px\] { max-width: 700px; }
+  .max-sm\:cursor-auto { cursor: auto; }
+  .max-sm\:cursor-pointer { cursor: pointer; }
+  .max-sm\:overflow-y-auto { overflow-y: auto; }
+  .max-sm\:rounded-xl { border-radius: 0.75rem; }
+  .max-sm\:bg-\[rgba\(230\,230\,230\,0\.7\)\] { background-color: rgba(230,=
+ 230, 230, 0.7); }
+  .max-sm\:bg-white { --tw-bg-opacity: 1; background-color: rgb(255 255 255=
+/var(--tw-bg-opacity)); }
+  .max-sm\:p-4 { padding: 1rem; }
+  .max-sm\:shadow-2xl { --tw-shadow: 0 25px 50px -12px #00000040; --tw-shad=
+ow-colored: 0 25px 50px -12px var(--tw-shadow-color); box-shadow: var(--tw-=
+ring-offset-shadow,0 0 #0000),var(--tw-ring-shadow,0 0 #0000),var(--tw-shad=
+ow); }
+}
+
+@media (min-width: 640px) {
+  .sm\:mx-12 { margin-left: 3rem; margin-right: 3rem; }
+  .sm\:mt-1 { margin-top: 0.25rem; }
+  .sm\:block { display: block; }
+  .sm\:flex { display: flex; }
+  .sm\:hidden { display: none; }
+  .sm\:w-1\/4 { width: 25%; }
+  .sm\:max-w-\[240px\] { max-width: 240px; }
+  .sm\:shrink-0 { flex-shrink: 0; }
+  .sm\:pr-3 { padding-right: 0.75rem; }
+  .sm\:text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+  .sm\:text-base { font-size: 1rem; line-height: 1.5rem; }
+  .sm\:text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+  .sm\:text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+  .sm\:text-xs { font-size: 0.75rem; line-height: 1rem; }
+}
+
+@media (min-width: 768px) {
+  .md\:mb-0 { margin-bottom: 0px; }
+  .md\:ml-2 { margin-left: 0.5rem; }
+  .md\:block { display: block; }
+  .md\:hidden { display: none; }
+  .md\:w-\[21\%\] { width: 21%; }
+  .md\:w-\[23\%\] { width: 23%; }
+  .md\:w-\[29\%\] { width: 29%; }
+  .md\:w-\[40\%\] { width: 40%; }
+  .md\:w-auto { width: auto; }
+  .md\:min-w-\[170px\] { min-width: 170px; }
+  .md\:min-w-\[180px\] { min-width: 180px; }
+  .md\:min-w-\[240px\] { min-width: 240px; }
+  .md\:max-w-\[45\%\] { max-width: 45%; }
+  .md\:flex-row { flex-direction: row; }
+  .md\:items-center { align-items: center; }
+  .md\:overflow-hidden { overflow: hidden; }
+  .md\:whitespace-nowrap { white-space: nowrap; }
+  .md\:p-4 { padding: 1rem; }
+  .md\:pl-9 { padding-left: 2.25rem; }
+  .md\:pr-3 { padding-right: 0.75rem; }
+  .md\:pr-6 { padding-right: 1.5rem; }
+  .md\:text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+}
+
+@media (min-width: 1024px) {
+  .lg\:flex { display: flex; }
+  .lg\:w-\[485px\] { width: 485px; }
+  .lg\:flex-wrap { flex-wrap: wrap; }
+  .lg\:justify-between { justify-content: space-between; }
+  .lg\:truncate { overflow: hidden; text-overflow: ellipsis; }
+  .lg\:truncate, .lg\:whitespace-nowrap { white-space: nowrap; }
+  .lg\:text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+  .lg\:text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+  .lg\:text-xs { font-size: 0.75rem; line-height: 1rem; }
+  .lg\:leading-\[1\.35\] { line-height: 1.35; }
+}
+
+.\[\&\.disabled\]\:cursor-auto.disabled { cursor: auto; }
+
+.\[\&\.disabled\]\:opacity-40.disabled { opacity: 0.4; }
+
+.\[\&\.disabled\]\:hover\:bg-\[\#777\]:hover.disabled { --tw-bg-opacity: 1;=
+ background-color: rgb(119 119 119/var(--tw-bg-opacity)); }
+
+.\[\&\.selected\]\:bg-\[\#555\].selected { --tw-bg-opacity: 1; background-c=
+olor: rgb(85 85 85/var(--tw-bg-opacity)); }
+
+.\[\&\.selected\]\:pb-\[3px\].selected { padding-bottom: 3px; }
+
+.\[\&\.selected\]\:pt-\[5px\].selected { padding-top: 5px; }
+
+.\[\&\.selected\]\:shadow-\[inset_0px_-1px_0px_0px_rgba\(255\,255\,255\,0\.=
+2\)\,_inset_0px_1px_5px_0px_rgba\(0\,0\,0\,0\.6\)\].selected { --tw-shadow:=
+ inset 0px -1px 0px 0px #fff3,inset 0px 1px 5px 0px #0009; --tw-shadow-colo=
+red: inset 0px -1px 0px 0px var(--tw-shadow-color),inset 0px 1px 5px 0px va=
+r(--tw-shadow-color); box-shadow: var(--tw-ring-offset-shadow,0 0 #0000),va=
+r(--tw-ring-shadow,0 0 #0000),var(--tw-shadow); }
+
+[aria-selected=3D"false"] .\[\[aria-selected\=3Dfalse\]_\&\]\:invisible { v=
+isibility: hidden; }
+
+[aria-selected=3D"false"] .\[\[aria-selected\=3Dfalse\]_\&\]\:hidden, [aria=
+-selected=3D"true"] .\[\[aria-selected\=3Dtrue\]_\&\]\:hidden { display: no=
+ne; }
+
+[aria-selected=3D"true"] .\[\[aria-selected\=3Dtrue\]_\&\]\:bg-\[\#09008e\]=
+ { --tw-bg-opacity: 1; background-color: rgb(9 0 142/var(--tw-bg-opacity));=
+ }
+
+html.aa-logged-in .\[html\.aa-logged-in_\&\]\:hidden, html:not(.aa-logged-i=
+n) .\[html\:not\(\.aa-logged-in\)_\&\]\:hidden { display: none; }
+
+td:hover > .\[td\:hover\>\&\]\:visible { visibility: visible; }
+------MultipartBoundary--2PRPhHIktYGG6T5G3LMJQLgGZ1pnOHX2Qn2oUraiew------

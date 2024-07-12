@@ -1,0 +1,4283 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.ruanyifeng.com/blog/2017/08/normal-distribution.html
+Subject: =?utf-8?Q?=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E4=B8=BA=E4=BB=80=E4=B9=88?=
+ =?utf-8?Q?=E5=B8=B8=E8=A7=81=EF=BC=9F=20-=20=E9=98=AE=E4=B8=80=E5=B3=B0?=
+ =?utf-8?Q?=E7=9A=84=E7=BD=91=E7=BB=9C=E6=97=A5=E5=BF=97?=
+Date: Wed, 10 Jul 2024 13:11:48 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----"
+
+
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: text/html
+Content-ID: <frame-8408BF16C295AF654DE3795FB25B6F9E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.ruanyifeng.com/blog/2017/08/normal-distribution.html
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml" id=3D"sixapart-standard" lang=3D"zh-CN"><head><meta http-eq=
+uiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"st=
+ylesheet" type=3D"text/css" href=3D"cid:css-d8a322de-5b75-46e8-8ecc-cf83411=
+fe064@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid=
+:css-5252bef0-b546-4e40-961c-e33c4d96b2ab@mhtml.blink" />
+   =20
+<meta name=3D"generator" content=3D"Movable Type  5.2.2">
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<!--link rel=3D"stylesheet" href=3D"http://www.ruanyifeng.com/blog/styles.c=
+ss" type=3D"text/css" /-->
+<link rel=3D"start" href=3D"https://www.ruanyifeng.com/blog/" title=3D"Home=
+">
+<link rel=3D"alternate" type=3D"application/atom+xml" title=3D"Recent Entri=
+es" href=3D"https://feeds.feedburner.com/ruanyifeng">
+
+
+<!--
+<rdf:RDF xmlns=3D"http://web.resource.org/cc/"
+         xmlns:dc=3D"http://purl.org/dc/elements/1.1/"
+         xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+<Work rdf:about=3D"http://www.ruanyifeng.com/blog/">
+<dc:title>=E9=98=AE=E4=B8=80=E5=B3=B0=E7=9A=84=E7=BD=91=E7=BB=9C=E6=97=A5=
+=E5=BF=97</dc:title>
+<dc:description>Ruan YiFeng&apos;s Blog</dc:description>
+<license rdf:resource=3D"http://creativecommons.org/licenses/by-nc-nd/3.0/"=
+ />
+</Work>
+<License rdf:about=3D"http://creativecommons.org/licenses/by-nc-nd/3.0/">
+</License>
+</rdf:RDF>
+-->
+
+
+<link rel=3D"stylesheet" type=3D"text/css" href=3D"https://www.ruanyifeng.c=
+om/static/themes/theme_scrapbook/theme_scrapbook.min.css">
+
+
+
+
+   =20
+    <link rel=3D"prev" href=3D"https://www.ruanyifeng.com/blog/2017/07/xmon=
+ad.html" title=3D"=E7=AA=97=E5=8F=A3=E7=AE=A1=E7=90=86=E5=99=A8 xmonad =E6=
+=95=99=E7=A8=8B">
+    <link rel=3D"next" href=3D"https://www.ruanyifeng.com/blog/2017/08/koa.=
+html" title=3D"Koa =E6=A1=86=E6=9E=B6=E6=95=99=E7=A8=8B">
+   =20
+    <title>=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E4=B8=BA=E4=BB=80=E4=B9=88=
+=E5=B8=B8=E8=A7=81=EF=BC=9F - =E9=98=AE=E4=B8=80=E5=B3=B0=E7=9A=84=E7=BD=91=
+=E7=BB=9C=E6=97=A5=E5=BF=97</title>
+</head>
+<body id=3D"scrapbook" class=3D"mt-entry-archive one-column">
+
+    <div id=3D"container">
+        <div id=3D"container-inner">
+
+            <div id=3D"header">
+    <div id=3D"header-inner">
+        <div id=3D"header-content">
+
+
+            <div id=3D"header-name">=E9=98=AE=E4=B8=80=E5=B3=B0=E7=9A=84=E7=
+=BD=91=E7=BB=9C=E6=97=A5=E5=BF=97 <span id=3D"site_location"> =C2=BB <a hre=
+f=3D"https://www.ruanyifeng.com/blog/" accesskey=3D"1">=E9=A6=96=E9=A1=B5</=
+a></span><span id=3D"site_archive"> =C2=BB <a href=3D"https://www.ruanyifen=
+g.com/blog/archives.html">=E6=A1=A3=E6=A1=88</a></span>
+</div>
+
+<div id=3D"google_search">
+<!-- SiteSearch Google -->
+<form action=3D"https://www.baidu.com/s" target=3D"_blank" method=3D"get" i=
+d=3D"cse-search-box">
+  <div>
+  <input type=3D"text" size=3D"20" name=3D"origin" class=3D"searchbox" id=
+=3D"sbi" value=3D"">
+ =20
+  <!--input type=3D"image" src=3D"/static/themes/theme_scrapbook/images/top=
+_search_submit.gif" class=3D"searchbox_submit" value=3D"" alt=3D"=E6=90=9C=
+=E7=B4=A2" name=3D"sa" onclick=3D"this.form.wd.value =3D this.form.origin.v=
+alue + ' inurl:www.ruanyifeng.com/blog'" /-->
+  <input type=3D"image" src=3D"https://www.ruanyifeng.com/static/themes/the=
+me_scrapbook/images/top_search_submit.gif" class=3D"searchbox_submit" value=
+=3D"" alt=3D"=E6=90=9C=E7=B4=A2" name=3D"sa">
+</div>
+</form>
+
+<!-- SiteSearch Google -->
+</div>
+<div id=3D"feed_icon">
+<a href=3D"https://www.ruanyifeng.com/feed.html?utm_source=3D" title=3D"=E8=
+=AE=A2=E9=98=85Feed">
+<!--img src=3D"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAA=
+Bzenr0AAAABGdBTUEAAK/INwWK6QAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZ=
+TwAAAUzSURBVHjavFdbbFRVFF3nPjoz7dTWTittaW0jUDRAUqaNojyqREnEQKgfUj9MqqAmhqRt=
+/OCD4CuY+Kckoh+aiGKC+gMJbdHoRysJ8dkhhmJLNdDKtJU+6GMK87j3Hs85d2Z6HzNtMYWb3Dn=
+3NWftvfba+5xNYDl+e6Fkj6yqb/oDRbWq14vlPBLRKCITkxf0ROLt+hNjp1PPSRK4kA3vF1dXNR=
+cWlyA2OQU9eos9opAkAiKxD+XkKO6t15aRWO7J/MgmAZU8MEgexgZHMX518Dh72sYMmVKShnxWu=
+WHdHtxKIDIYTgMuDzgfmSOIQkYMpdUF8OY92Hytt4/jvkg47czzU16iQovM3QFwmNck+Yyduu7D=
+6NA0Z6JR4THntFs9V4tWQg6Ui3s6MwKDncsFTnXKLJhDSeUK3AgPtyhccDzmVs999buRt/1Vm4i=
+0od+hX7+MRG87jPGB/w1u8FPj9xEw7McVrnYuOCvtpjTth3J/nTg99c8LRhKhr6D3dTB5R24bXF=
+wbMXBsyZzeoXaycEpJ95TB09AGX/NpqLVNtw8urnVzLvHjFNxiFqRy2OOHuqUVnue+ACkoWzo4O=
+6lGzTmuHq6nPvY2m9rVqjrIK2rMEKxqyG5NPAKt+wjo0LklgfNxJkZMA3KJvqRUk3z5UFY3QH14=
+P0h+WUY79HPvgv7VuSg4ZRGY1YgZgqXmORccF17sy2ehnf9AeO085K2HQFbtXBScj0LcpgF2cN+=
+WV+DZ/LJQu6gD4R7oV7pBJwbSgtMvfiPoVp56DySwxm7EtkMs1WdAB7qzggsDJKQYsHucSkOudr=
+kiCPWR/fA2nYCn8SNIK4NptSMyAu3sAdDRkIsJdfth0LzSrODUoPNZ4KI9SxJI5UHk7D4GdQfz2=
+us31c7CoHMjRkKuDPHseCMrONVhNcDJwMJpKFVvg9L4OaTiNWm1x789KCqkrXhVBiEz0WYCT2nA=
+zQAD1/vaETv1GrRfP4Vx5cfMNcDPwvP0h0DhanPym7OIf/+O67vcJ1/PCJ4KgdzaUP6Wz+dU+5y=
+IL6fV+PsHGAOdwlPpvvUOyeeAVGyCdqkDNB6DPjsBSrnndfOGevOh3RhGItxvA+fX1CtbGFhgYU=
+FkFMZPR6F1HnClHq8HyubWtJexX06CRmdt33hrd7nA7SFY4qoGpnYuOKcRykPPgDCBcsHx9Iv+f=
+NL2PueBehCWUfYQIIMGLOCcOmXDXsh1+yCt35tUPfvzGFuSvzvoinXOxqa02qOhM6733nVP2MAd=
+aej2XN11DPKjLZCD+yBvahGCo7JfTKAN9UD7s8Oe9zUNIhz8fWI8DG2k38WCFdxugANcXrvTVd1=
+IEbuv3Jour7Hzn7jLMBNfKs7R3i67gRVrbeCOEDhinmWhAatsqdquM2XzHZINhK2cqTjHr/XZdV=
+JUbgN3MWAVXKbSyg9jesRW2xP9di+lwrL5ojM3m2H/kG9hwcIA37c71W6wJdW2J2S5nrjYbq/t1=
+AHAhJsKQeyfPvf6IMJgghPJhFZ4x0KlfLFvt22du45Au/A1SOlGc0P672XXwhLtOcM0kTTEMMd0=
+qkVmMNXxMd/tsedUjInr4SQDgOfeXMSiN0FCL5WHah4L1qqYXPJOJlttd+a5M+YpcG5poLYKQ5f=
++6JJ4r8bbJYP47hq4r7QAs9PjYNhHJd4o8l5taiwuOpa7AS4XKqI/5NjJbTnaWK92nLdLuhQAJa=
+yRNMiygXPBeQN+Qbvu0zDc3y+aUzhbkGR73sI7ljvUnndx2q3t+X8CDAD66FtrIL864AAAAABJR=
+U5ErkJggg=3D=3D" alt=3D"" style=3D"border: 0pt none;" /-->
+<img src=3D"https://wangbase.com/blogimg/asset/202107/bg2021072117.png" alt=
+=3D"" style=3D"border: 0pt none;">
+</a></div>
+
+        </div>
+    </div>
+</div>
+
+
+
+            <div id=3D"content">
+                <div id=3D"content-inner">
+
+
+                    <div id=3D"alpha">
+                        <div id=3D"alpha-inner">
+
+
+                            <div id=3D"entry-1948" class=3D"entry-asset ass=
+et hentry">
+                                <div class=3D"asset-header">
+<div class=3D"asset-nav entry-nav">
+
+<div class=3D"entry-location">
+<ul>
+<li>=E4=B8=8A=E4=B8=80=E7=AF=87=EF=BC=9A<a href=3D"https://www.ruanyifeng.c=
+om/blog/2017/07/xmonad.html" title=3D"=E7=AA=97=E5=8F=A3=E7=AE=A1=E7=90=86=
+=E5=99=A8 xmonad =E6=95=99=E7=A8=8B">=E7=AA=97=E5=8F=A3=E7=AE=A1=E7=90=86=
+=E5=99=A8&nbsp;xmona</a></li>
+<li>=E4=B8=8B=E4=B8=80=E7=AF=87=EF=BC=9A<a href=3D"https://www.ruanyifeng.c=
+om/blog/2017/08/koa.html" title=3D"Koa =E6=A1=86=E6=9E=B6=E6=95=99=E7=A8=8B=
+">Koa&nbsp;=E6=A1=86=E6=9E=B6=E6=95=99=E7=A8=8B&nbsp;&nbsp;&nbsp;</a></li>
+</ul>
+</div>
+
+
+   =20
+                                    <div class=3D"entry-categories">
+                                        <p>=E5=88=86=E7=B1=BB<span class=3D=
+"delimiter">=EF=BC=9A</span></p>
+                                        <ul>
+                                            <li><a href=3D"https://www.ruan=
+yifeng.com/blog/algorithm/" rel=3D"tag">=E7=AE=97=E6=B3=95=E4=B8=8E=E6=95=
+=B0=E5=AD=A6</a></li>
+                                        </ul>
+                                    </div>
+   =20
+
+
+                                           =20
+<div class=3D"entry-location-mobile" style=3D"float: right;">
+<ul>
+<li><a href=3D"https://www.ruanyifeng.com/blog/2017/07/xmonad.html" title=
+=3D"=E7=AA=97=E5=8F=A3=E7=AE=A1=E7=90=86=E5=99=A8 xmonad =E6=95=99=E7=A8=8B=
+">=E2=87=90&nbsp;</a></li>
+<li><a href=3D"https://www.ruanyifeng.com/blog/2017/08/koa.html" title=3D"K=
+oa =E6=A1=86=E6=9E=B6=E6=95=99=E7=A8=8B">&nbsp;=E2=87=92</a></li>
+</ul>
+</div>
+
+</div>
+</div>
+
+                         =20
+<article class=3D"hentry">
+                                    <h1 id=3D"page-title" class=3D"asset-na=
+me entry-title">=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E4=B8=BA=E4=BB=80=E4=
+=B9=88=E5=B8=B8=E8=A7=81=EF=BC=9F</h1>
+
+
+
+<div class=3D"asset-meta">
+                                       =20
+
+                                            <p class=3D"vcard author">=E4=
+=BD=9C=E8=80=85=EF=BC=9A <a class=3D"fn url" href=3D"https://www.ruanyifeng=
+.com/">=E9=98=AE=E4=B8=80=E5=B3=B0</a></p>
+                                    <p>=E6=97=A5=E6=9C=9F=EF=BC=9A <a href=
+=3D"https://www.ruanyifeng.com/blog/2017/08/"><abbr class=3D"published" tit=
+le=3D"2017-08-02T07:33:58+08:00">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5</abbr><=
+/a></p>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+                               =20
+                                <div class=3D"asset-content entry-content" =
+id=3D"main-content">
+
+                                    <!-- div class=3D"asset-body" -->
+                                        <p>=E7=BB=9F=E8=AE=A1=E5=AD=A6=E9=
+=87=8C=E9=9D=A2=EF=BC=8C=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=EF=BC=88normal=
+ distribution=EF=BC=89=E6=9C=80=E5=B8=B8=E8=A7=81=E3=80=82=E7=94=B7=E5=A5=
+=B3=E8=BA=AB=E9=AB=98=E3=80=81=E5=AF=BF=E5=91=BD=E3=80=81=E8=A1=80=E5=8E=8B=
+=E3=80=81=E8=80=83=E8=AF=95=E6=88=90=E7=BB=A9=E3=80=81=E6=B5=8B=E9=87=8F=E8=
+=AF=AF=E5=B7=AE=E7=AD=89=E7=AD=89=EF=BC=8C=E9=83=BD=E5=B1=9E=E4=BA=8E=E6=AD=
+=A3=E6=80=81=E5=88=86=E5=B8=83=E3=80=82</p>
+
+                                    <!-- /div -->
+
+
+                                    <!-- div id=3D"more" class=3D"asset-mor=
+e" -->
+                                        <p><img src=3D"https://www.ruanyife=
+ng.com/blogimg/asset/2017/bg2017073006.jpg" alt=3D"" title=3D""></p>
+
+<p>=E4=BB=A5=E5=89=8D=EF=BC=8C=E6=88=91=E8=AE=A4=E4=B8=BA=E4=B8=AD=E9=97=B4=
+=E7=8A=B6=E6=80=81=E6=98=AF=E4=BA=8B=E7=89=A9=E7=9A=84=E5=B8=B8=E6=80=81=EF=
+=BC=8C=E8=BF=87=E9=AB=98=E5=92=8C=E8=BF=87=E4=BD=8E=E9=83=BD=E5=B1=9E=E4=BA=
+=8E=E5=B0=91=E6=95=B0=EF=BC=8C=E8=BF=99=E5=AF=BC=E8=87=B4=E4=BA=86=E6=AD=A3=
+=E6=80=81=E5=88=86=E5=B8=83=E7=9A=84=E6=99=AE=E9=81=8D=E6=80=A7=E3=80=82=E6=
+=9C=80=E8=BF=91=EF=BC=8C=E8=AF=BB=E5=88=B0=E4=BA=86 <a href=3D"https://www.=
+johndcook.com/blog/2015/03/09/why-isnt-everything-normally-distributed/" ta=
+rget=3D"_blank">John D. Cook</a> =E7=9A=84=E6=96=87=E7=AB=A0=EF=BC=8C=E6=89=
+=8D=E7=9F=A5=E9=81=93=E6=88=91=E7=9A=84=E8=BF=99=E7=A7=8D=E6=83=B3=E6=B3=95=
+=E6=98=AF=E9=94=99=E7=9A=84=E3=80=82</p>
+
+<p>=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E4=B8=BA=E4=BB=80=E4=B9=88=E5=B8=B8=
+=E8=A7=81=EF=BC=9F=E7=9C=9F=E6=AD=A3=E5=8E=9F=E5=9B=A0=E6=98=AF<a href=3D"h=
+ttps://baike.baidu.com/item/%E4%B8%AD%E5%BF%83%E6%9E%81%E9%99%90%E5%AE%9A%E=
+7%90%86" target=3D"_blank">=E4=B8=AD=E5=BF=83=E6=9E=81=E9=99=90=E5=AE=9A=E7=
+=90=86</a>=EF=BC=88central limit theorem=EF=BC=89=E3=80=82</p>
+
+<blockquote>
+  <p>"=E5=A4=9A=E4=B8=AA=E7=8B=AC=E7=AB=8B=E7=BB=9F=E8=AE=A1=E9=87=8F=E7=9A=
+=84=E5=92=8C=E7=9A=84=E5=B9=B3=E5=9D=87=E5=80=BC=EF=BC=8C=E7=AC=A6=E5=90=88=
+=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E3=80=82"</p>
+</blockquote>
+
+<p><img src=3D"https://www.ruanyifeng.com/blogimg/asset/2017/bg2017073002.g=
+if" alt=3D"" title=3D""></p>
+
+<p>=E4=B8=8A=E5=9B=BE=E4=B8=AD=EF=BC=8C=E9=9A=8F=E7=9D=80=E7=BB=9F=E8=AE=A1=
+=E9=87=8F=E4=B8=AA=E6=95=B0=E7=9A=84=E5=A2=9E=E5=8A=A0=EF=BC=8C=E5=AE=83=E4=
+=BB=AC=E5=92=8C=E7=9A=84=E5=B9=B3=E5=9D=87=E5=80=BC=E8=B6=8A=E6=9D=A5=E8=B6=
+=8A=E7=AC=A6=E5=90=88=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E3=80=82</p>
+
+<p><strong>=E6=A0=B9=E6=8D=AE=E4=B8=AD=E5=BF=83=E6=9E=81=E9=99=90=E5=AE=9A=
+=E7=90=86=EF=BC=8C=E5=A6=82=E6=9E=9C=E4=B8=80=E4=B8=AA=E4=BA=8B=E7=89=A9=E5=
+=8F=97=E5=88=B0=E5=A4=9A=E7=A7=8D=E5=9B=A0=E7=B4=A0=E7=9A=84=E5=BD=B1=E5=93=
+=8D=EF=BC=8C=E4=B8=8D=E7=AE=A1=E6=AF=8F=E4=B8=AA=E5=9B=A0=E7=B4=A0=E6=9C=AC=
+=E8=BA=AB=E6=98=AF=E4=BB=80=E4=B9=88=E5=88=86=E5=B8=83=EF=BC=8C=E5=AE=83=E4=
+=BB=AC=E5=8A=A0=E6=80=BB=E5=90=8E=EF=BC=8C=E7=BB=93=E6=9E=9C=E7=9A=84=E5=B9=
+=B3=E5=9D=87=E5=80=BC=E5=B0=B1=E6=98=AF=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=
+=E3=80=82</strong></p>
+
+<p>=E4=B8=BE=E4=BE=8B=E6=9D=A5=E8=AF=B4=EF=BC=8C=E4=BA=BA=E7=9A=84=E8=BA=AB=
+=E9=AB=98=E6=97=A2=E6=9C=89=E5=85=88=E5=A4=A9=E5=9B=A0=E7=B4=A0=EF=BC=88=E5=
+=9F=BA=E5=9B=A0=EF=BC=89=EF=BC=8C=E4=B9=9F=E6=9C=89=E5=90=8E=E5=A4=A9=E5=9B=
+=A0=E7=B4=A0=EF=BC=88=E8=90=A5=E5=85=BB=EF=BC=89=E3=80=82=E6=AF=8F=E4=B8=80=
+=E7=A7=8D=E5=9B=A0=E7=B4=A0=E5=AF=B9=E8=BA=AB=E9=AB=98=E7=9A=84=E5=BD=B1=E5=
+=93=8D=E9=83=BD=E6=98=AF=E4=B8=80=E4=B8=AA=E7=BB=9F=E8=AE=A1=E9=87=8F=EF=BC=
+=8C=E4=B8=8D=E7=AE=A1=E8=BF=99=E4=BA=9B=E7=BB=9F=E8=AE=A1=E9=87=8F=E6=9C=AC=
+=E8=BA=AB=E6=98=AF=E4=BB=80=E4=B9=88=E5=88=86=E5=B8=83=EF=BC=8C=E5=AE=83=E4=
+=BB=AC=E5=92=8C=E7=9A=84=E5=B9=B3=E5=9D=87=E5=80=BC=E7=AC=A6=E5=90=88=E6=AD=
+=A3=E6=80=81=E5=88=86=E5=B8=83=E3=80=82=EF=BC=88=E6=B3=A8=E6=84=8F=EF=BC=9A=
+=E7=94=B7=E6=80=A7=E8=BA=AB=E9=AB=98=E5=92=8C=E5=A5=B3=E6=80=A7=E8=BA=AB=E9=
+=AB=98=E9=83=BD=E6=98=AF=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=EF=BC=8C=E4=BD=
+=86=E7=94=B7=E5=A5=B3=E6=B7=B7=E5=90=88=E4=BA=BA=E7=BE=A4=E7=9A=84=E8=BA=AB=
+=E9=AB=98<a href=3D"https://www.johndcook.com/blog/2008/11/25/distribution-=
+of-adult-heights/" target=3D"_blank">=E4=B8=8D=E6=98=AF</a>=E6=AD=A3=E6=80=
+=81=E5=88=86=E5=B8=83=E3=80=82=EF=BC=89</p>
+
+<p>=E8=AE=B8=E5=A4=9A=E4=BA=8B=E7=89=A9=E9=83=BD=E5=8F=97=E5=88=B0=E5=A4=9A=
+=E7=A7=8D=E5=9B=A0=E7=B4=A0=E7=9A=84=E5=BD=B1=E5=93=8D=EF=BC=8C=E8=BF=99=E5=
+=AF=BC=E8=87=B4=E4=BA=86=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E7=9A=84=E5=B8=
+=B8=E8=A7=81=E3=80=82</p>
+
+<p>=E8=AF=BB=E5=88=B0=E8=BF=99=E9=87=8C=EF=BC=8C=E8=AF=BB=E8=80=85=E5=8F=AF=
+=E8=83=BD=E9=A9=AC=E4=B8=8A=E5=B0=B1=E4=BC=9A=E6=8F=90=E5=87=BA=E4=B8=80=E4=
+=B8=AA=E9=97=AE=E9=A2=98=EF=BC=9A<strong>=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=
+=83=E6=98=AF=E5=AF=B9=E7=A7=B0=E7=9A=84=EF=BC=88=E9=AB=98=E4=B8=AA=E5=AD=90=
+=E4=B8=8E=E7=9F=AE=E4=B8=AA=E5=AD=90=E7=9A=84=E6=AF=94=E4=BE=8B=E7=9B=B8=E5=
+=90=8C=EF=BC=89=EF=BC=8C=E4=BD=86=E6=98=AF=E5=BE=88=E5=A4=9A=E7=9C=9F=E5=AE=
+=9E=E4=B8=96=E7=95=8C=E7=9A=84=E5=88=86=E5=B8=83=E6=98=AF=E4=B8=8D=E5=AF=B9=
+=E7=A7=B0=E7=9A=84=E3=80=82</strong></p>
+
+<p><img src=3D"https://www.ruanyifeng.com/blogimg/asset/2017/bg2017073003.p=
+ng" alt=3D"" title=3D""></p>
+
+<p>=E6=AF=94=E5=A6=82=EF=BC=8C=E8=B4=A2=E5=AF=8C=E7=9A=84=E5=88=86=E5=B8=83=
+=E5=B0=B1=E6=98=AF=E4=B8=8D=E5=AF=B9=E7=A7=B0=E7=9A=84=EF=BC=8C=E5=AF=8C=E4=
+=BA=BA=E7=9A=84=E6=9C=89=E9=92=B1=E7=A8=8B=E5=BA=A6=EF=BC=88=E5=8F=AF=E8=83=
+=BD=E6=AF=94=E5=B9=B3=E5=9D=87=E5=80=BC=E9=AB=98=E5=87=BA=E4=B8=8A=E4=B8=87=
+=E5=80=8D=EF=BC=89=EF=BC=8C=E8=BF=9C=E8=BF=9C=E8=B6=85=E5=87=BA=E7=A9=B7=E4=
+=BA=BA=E7=9A=84=E8=B4=AB=E7=A9=B7=E7=A8=8B=E5=BA=A6=EF=BC=88=E5=B9=B3=E5=9D=
+=87=E5=80=BC=E7=9A=84=E5=8D=81=E5=88=86=E4=B9=8B=E4=B8=80=E5=B0=B1=E6=98=AF=
+=E8=B5=A4=E8=B4=AB=E4=BA=86=EF=BC=89=EF=BC=8C=E5=8D=B3=E8=B4=A2=E5=AF=8C=E5=
+=88=86=E5=B8=83=E6=9B=B2=E7=BA=BF=E6=9C=89=E5=8F=B3=E4=BE=A7=E7=9A=84=E9=95=
+=BF=E5=B0=BE=E3=80=82=E7=9B=B8=E6=AF=94=E6=9D=A5=E8=AF=B4=EF=BC=8C=E8=BA=AB=
+=E9=AB=98=E7=9A=84=E5=B7=AE=E5=BC=82=E5=B0=B1=E5=B0=8F=E5=BE=97=E5=A4=9A=EF=
+=BC=8C=E6=9C=80=E9=AB=98=E5=92=8C=E6=9C=80=E7=9F=AE=E7=9A=84=E4=BA=BA=E4=B8=
+=8E=E5=B9=B3=E5=9D=87=E8=BA=AB=E9=AB=98=E7=9A=84=E5=B7=AE=E8=B7=9D=EF=BC=8C=
+=E9=83=BD=E5=9C=A830%=E5=A4=9A=E3=80=82</p>
+
+<p>=E8=BF=99=E6=98=AF=E4=B8=BA=E4=BB=80=E4=B9=88=E5=91=A2=EF=BC=8C=E8=B4=A2=
+=E5=AF=8C=E6=98=8E=E6=98=8E=E4=B9=9F=E5=8F=97=E5=88=B0=E5=A4=9A=E7=A7=8D=E5=
+=9B=A0=E7=B4=A0=E7=9A=84=E5=BD=B1=E5=93=8D=EF=BC=8C=E6=80=8E=E4=B9=88=E5=B0=
+=B1=E4=B8=8D=E6=98=AF=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=91=A2=EF=BC=9F=
+</p>
+
+<p>=E5=8E=9F=E6=9D=A5=EF=BC=8C=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=8F=AA=
+=E9=80=82=E5=90=88=E5=90=84=E7=A7=8D=E5=9B=A0=E7=B4=A0=E7=B4=AF=E5=8A=A0=E7=
+=9A=84=E6=83=85=E5=86=B5=EF=BC=8C=E5=A6=82=E6=9E=9C=E8=BF=99=E4=BA=9B=E5=9B=
+=A0=E7=B4=A0=E4=B8=8D=E6=98=AF=E5=BD=BC=E6=AD=A4=E7=8B=AC=E7=AB=8B=E7=9A=84=
+=EF=BC=8C=E4=BC=9A=E4=BA=92=E7=9B=B8=E5=8A=A0=E5=BC=BA=E5=BD=B1=E5=93=8D=EF=
+=BC=8C=E9=82=A3=E4=B9=88=E5=B0=B1=E4=B8=8D=E6=98=AF=E6=AD=A3=E6=80=81=E5=88=
+=86=E5=B8=83=E4=BA=86=E3=80=82=E4=B8=80=E4=B8=AA=E4=BA=BA=E6=98=AF=E5=90=A6=
+=E8=83=BD=E5=A4=9F=E6=8C=A3=E5=A4=A7=E9=92=B1=EF=BC=8C=E7=94=B1=E5=A4=9A=E7=
+=A7=8D=E5=9B=A0=E7=B4=A0=E5=86=B3=E5=AE=9A=EF=BC=9A</p>
+
+<blockquote>
+  <ul>
+<li>=E5=AE=B6=E5=BA=AD</li>
+<li>=E6=95=99=E8=82=B2</li>
+<li>=E8=BF=90=E6=B0=94</li>
+<li>=E5=B7=A5=E4=BD=9C</li>
+<li>...</li>
+</ul>
+</blockquote>
+
+<p>=E8=BF=99=E4=BA=9B=E5=9B=A0=E7=B4=A0=E9=83=BD=E4=B8=8D=E6=98=AF=E7=8B=AC=
+=E7=AB=8B=E7=9A=84=EF=BC=8C=E4=BC=9A=E5=BD=BC=E6=AD=A4=E5=8A=A0=E5=BC=BA=E3=
+=80=82=E5=A6=82=E6=9E=9C=E5=87=BA=E7=94=9F=E5=9C=A8=E4=B8=8A=E5=B1=82=E5=AE=
+=B6=E5=BA=AD=EF=BC=8C=E9=82=A3=E4=B9=88=E4=BD=A0=E5=B0=B1=E6=9C=89=E6=9B=B4=
+=E5=A4=A7=E7=9A=84=E6=9C=BA=E4=BC=9A=E6=8E=A5=E5=8F=97=E8=89=AF=E5=A5=BD=E7=
+=9A=84=E6=95=99=E8=82=B2=E3=80=81=E6=89=BE=E5=88=B0=E9=AB=98=E8=96=AA=E7=9A=
+=84=E5=B7=A5=E4=BD=9C=E3=80=81=E9=81=87=E8=A7=81=E5=A5=BD=E6=9C=BA=E4=BC=9A=
+=EF=BC=8C=E5=8F=8D=E4=B9=8B=E4=BA=A6=E7=84=B6=E3=80=82=E4=B9=9F=E5=B0=B1=E6=
+=98=AF=E8=AF=B4=EF=BC=8C=E8=BF=99=E4=B8=8D=E6=98=AF 1 + 1 =3D 2 =E7=9A=84=
+=E6=95=88=E6=9E=9C=EF=BC=8C=E8=80=8C=E6=98=AF 1 + 1 &gt; 2=E3=80=82</p>
+
+<p>=E7=BB=9F=E8=AE=A1=E5=AD=A6=E5=AE=B6=E5=8F=91=E7=8E=B0=EF=BC=8C=E5=A6=82=
+=E6=9E=9C=E5=90=84=E7=A7=8D=E5=9B=A0=E7=B4=A0=E5=AF=B9=E7=BB=93=E6=9E=9C=E7=
+=9A=84=E5=BD=B1=E5=93=8D=E4=B8=8D=E6=98=AF=E7=9B=B8=E5=8A=A0=EF=BC=8C=E8=80=
+=8C=E6=98=AF=E7=9B=B8=E4=B9=98=EF=BC=8C=E9=82=A3=E4=B9=88=E6=9C=80=E7=BB=88=
+=E7=BB=93=E6=9E=9C=E4=B8=8D=E6=98=AF=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=EF=
+=BC=8C=E8=80=8C=E6=98=AF<a href=3D"https://baike.baidu.com/item/%E5%AF%B9%E=
+6%95%B0%E6%AD%A3%E6%80%81%E5%88%86%E5%B8%83" target=3D"_blank">=E5=AF=B9=E6=
+=95=B0=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83</a>=EF=BC=88log normal distribut=
+ion=EF=BC=89=EF=BC=8C=E5=8D=B3<code>x</code>=E7=9A=84=E5=AF=B9=E6=95=B0=E5=
+=80=BC<code>log(x)</code>=E6=BB=A1=E8=B6=B3=E6=AD=A3=E6=80=81=E5=88=86=E5=
+=B8=83=E3=80=82</p>
+
+<p><img src=3D"https://www.ruanyifeng.com/blogimg/asset/2017/bg2017073004.g=
+if" alt=3D"" title=3D""></p>
+
+<p>=E8=BF=99=E5=B0=B1=E6=98=AF=E8=AF=B4=EF=BC=8C=E8=B4=A2=E5=AF=8C=E7=9A=84=
+=E5=AF=B9=E6=95=B0=E5=80=BC=E6=BB=A1=E8=B6=B3=E6=AD=A3=E6=80=81=E5=88=86=E5=
+=B8=83=E3=80=82=E5=A6=82=E6=9E=9C=E5=B9=B3=E5=9D=87=E8=B4=A2=E5=AF=8C=E6=98=
+=AF10,000=E5=85=83=EF=BC=8C=E9=82=A3=E4=B9=881000=E5=85=83=EF=BD=9E10,000=
+=E5=85=83=E4=B9=8B=E9=97=B4=E7=9A=84=E7=A9=B7=E4=BA=BA=EF=BC=88=E6=AF=94=E5=
+=B9=B3=E5=9D=87=E5=80=BC=E4=BD=8E=E4=B8=80=E4=B8=AA=E6=95=B0=E9=87=8F=E7=BA=
+=A7=EF=BC=8C=E5=AE=BD=E5=BA=A6=E4=B8=BA9000=EF=BC=89=E4=B8=8E10,000=E5=85=
+=83~100,000=E5=85=83=E4=B9=8B=E9=97=B4=E7=9A=84=E5=AF=8C=E4=BA=BA=EF=BC=88=
+=E6=AF=94=E5=B9=B3=E5=9D=87=E5=80=BC=E9=AB=98=E4=B8=80=E4=B8=AA=E6=95=B0=E9=
+=87=8F=E7=BA=A7=EF=BC=8C=E5=AE=BD=E5=BA=A6=E4=B8=BA90,000=EF=BC=89=E4=BA=BA=
+=E6=95=B0=E4=B8=80=E6=A0=B7=E5=A4=9A=E3=80=82=E5=9B=A0=E6=AD=A4=EF=BC=8C=E8=
+=B4=A2=E5=AF=8C=E6=9B=B2=E7=BA=BF=E5=B7=A6=E4=BE=A7=E7=9A=84=E8=8C=83=E5=9B=
+=B4=E6=AF=94=E8=BE=83=E7=AA=84=EF=BC=8C=E5=8F=B3=E4=BE=A7=E5=87=BA=E7=8E=B0=
+=E9=95=BF=E5=B0=BE=E3=80=82</p>
+
+<p><strong>=E5=8F=82=E8=80=83=E9=93=BE=E6=8E=A5</strong></p>
+
+<ul>
+<li><a href=3D"https://www.johndcook.com/blog/2015/03/09/why-isnt-everythin=
+g-normally-distributed/" target=3D"_blank">Why isn't everything normally di=
+stributed?</a>, by John D. Cook</li>
+<li><a href=3D"https://www.johndcook.com/blog/2015/03/09/why-isnt-everythin=
+g-normally-distributed/" target=3D"_blank">Achievement is not normal</a>, b=
+y John D. Cook</li>
+</ul>
+
+<p>=EF=BC=88=E5=AE=8C=EF=BC=89</p>
+
+                                    <!-- /div -->
+
+                                </div>
+   =20
+                                <div class=3D"asset-footer">
+
+<h3>=E6=96=87=E6=A1=A3=E4=BF=A1=E6=81=AF</h3>
+<ul>
+<li>=E7=89=88=E6=9D=83=E5=A3=B0=E6=98=8E=EF=BC=9A=E8=87=AA=E7=94=B1=E8=BD=
+=AC=E8=BD=BD-=E9=9D=9E=E5=95=86=E7=94=A8-=E9=9D=9E=E8=A1=8D=E7=94=9F-=E4=BF=
+=9D=E6=8C=81=E7=BD=B2=E5=90=8D=EF=BC=88<a href=3D"http://creativecommons.or=
+g/licenses/by-nc-nd/3.0/deed.zh">=E5=88=9B=E6=84=8F=E5=85=B1=E4=BA=AB3.0=E8=
+=AE=B8=E5=8F=AF=E8=AF=81</a>=EF=BC=89</li>
+<li>=E5=8F=91=E8=A1=A8=E6=97=A5=E6=9C=9F=EF=BC=9A <abbr class=3D"published"=
+ title=3D"2017-08-02T07:33:58+08:00">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5</ab=
+br></li>
+
+</ul>
+                                </div>
+</article>
+                            </div>
+
+  <div style=3D"display: inline-block ! important;width: 100%;">
+   =20
+  <div class=3D"wwads-cn wwads-horizontal" data-id=3D"197" style=3D"max-wid=
+th:100%"></div>
+  </div>
+
+
+<div id=3D"related_entries">
+<h2>=E7=9B=B8=E5=85=B3=E6=96=87=E7=AB=A0</h2>
+<ul>
+
+<li><strong>2021.09.22: <a href=3D"https://www.ruanyifeng.com/blog/2021/09/=
+geometry-puzzle.html">=E4=BF=84=E7=BD=97=E6=96=AF=E6=80=BB=E7=90=86=E7=9A=
+=84=E5=87=A0=E4=BD=95=E9=A2=98</a></strong>
+
+                           <div class=3D"entry-body">
+                              9=E6=9C=881=E6=97=A5=E6=98=AF=E4=BF=84=E7=BD=
+=97=E6=96=AF=E7=9A=84=E7=9F=A5=E8=AF=86=E8=8A=82=EF=BC=8C=E5=9B=A0=E4=B8=BA=
+=E8=BF=99=E4=B8=80=E5=A4=A9=E6=98=AF=E5=90=84=E7=BA=A7=E5=AD=A6=E6=A0=A1=E7=
+=9A=84=E5=BC=80=E5=AD=A6=E6=97=A5=EF=BC=8C=E8=B1=A1=E5=BE=81=E8=BF=9B=E5=85=
+=A5=E7=9F=A5=E8=AF=86=E5=AE=9D=E5=BA=93=E7=9A=84=E6=97=A5=E5=AD=90=E3=80=82
+
+                           </div>
+
+</li>
+
+=20
+<li><strong>2019.01.28: <a href=3D"https://www.ruanyifeng.com/blog/2019/01/=
+prolog.html">Prolog =E8=AF=AD=E8=A8=80=E5=85=A5=E9=97=A8=E6=95=99=E7=A8=8B<=
+/a></strong>
+
+                           <div class=3D"entry-body">
+                              Prolog =E6=98=AF=E4=B8=80=E7=A7=8D=E4=B8=8E=
+=E4=BC=97=E4=B8=8D=E5=90=8C=E7=9A=84=E8=AF=AD=E8=A8=80=EF=BC=8C=E4=B8=8D=E7=
+=94=A8=E6=9D=A5=E5=BC=80=E5=8F=91=E8=BD=AF=E4=BB=B6=EF=BC=8C=E4=B8=93=E9=97=
+=A8=E8=A7=A3=E5=86=B3=E9=80=BB=E8=BE=91=E9=97=AE=E9=A2=98=E3=80=82=E6=AF=94=
+=E5=A6=82=EF=BC=8C"=E8=8B=8F=E6=A0=BC=E6=8B=89=E5=BA=95=E6=98=AF=E4=BA=BA=
+=EF=BC=8C=E4=BA=BA=E9=83=BD=E4=BC=9A=E6=AD=BB=EF=BC=8C=E6=89=80=E4=BB=A5=E8=
+=8B=8F=E6=A0=BC=E6=8B=89=E5=BA=95=E4=BC=9A=E6=AD=BB"=E8=BF=99=E4=B8=80=E7=
+=B1=BB=E7=9A=84=E9=97=AE=E9=A2=98=E3=80=82
+
+                           </div>
+
+</li>
+
+=20
+<li><strong>2018.09.05: <a href=3D"https://www.ruanyifeng.com/blog/2018/09/=
+hash-collision-and-birthday-attack.html">=E5=93=88=E5=B8=8C=E7=A2=B0=E6=92=
+=9E=E4=B8=8E=E7=94=9F=E6=97=A5=E6=94=BB=E5=87=BB</a></strong>
+
+                           <div class=3D"entry-body">
+                              =E4=B8=80=E3=80=81=E5=93=88=E5=B8=8C=E7=A2=B0=
+=E6=92=9E=E6=98=AF=E4=BB=80=E4=B9=88=EF=BC=9F
+
+=E6=89=80=E8=B0=93=E5=93=88=E5=B8=8C=EF=BC=88hash=EF=BC=89=EF=BC=8C=E5=B0=
+=B1=E6=98=AF=E5=B0=86=E4=B8=8D=E5=90=8C=E7=9A=84=E8=BE=93=E5=85=A5=E6=98=A0=
+=E5=B0=84=E6=88=90=E7=8B=AC=E4=B8=80=E6=97=A0=E4=BA=8C=E7=9A=84=E3=80=81=E5=
+=9B=BA=E5=AE=9A=E9=95=BF=E5=BA=A6=E7=9A=84=E5=80=BC=EF=BC=88=E5=8F=88=E7=A7=
+=B0"=E5=93=88=E5=B8=8C=E5=80=BC"=EF=BC=89=E3=80=82=E5=AE=83=E6=98=AF=E6=9C=
+=80=E5=B8=B8=E8=A7=81=E7=9A=84=E8=BD=AF=E4=BB=B6=E8=BF=90=E7=AE=97=E4=B9=8B=
+=E4=B8=80=E3=80=82
+
+                           </div>
+
+</li>
+
+=20
+<li><strong>2017.12.13: <a href=3D"https://www.ruanyifeng.com/blog/2017/12/=
+image-and-wave-filters.html">=E5=9B=BE=E5=83=8F=E4=B8=8E=E6=BB=A4=E6=B3=A2<=
+/a></strong>
+
+                           <div class=3D"entry-body">
+                              =E6=88=91=E5=AF=B9=E5=9B=BE=E5=83=8F=E5=A4=84=
+=E7=90=86=E4=B8=80=E7=9B=B4=E5=BE=88=E6=84=9F=E5=85=B4=E8=B6=A3=EF=BC=8C=E6=
+=9B=BE=E7=BB=8F=E5=86=99=E8=BF=87=E5=A5=BD=E5=87=A0=E7=AF=87=E5=8D=9A=E5=AE=
+=A2=EF=BC=881=EF=BC=8C2=EF=BC=8C3=EF=BC=8C4=EF=BC=89=E3=80=82
+
+                           </div>
+
+</li>
+
+=20
+</ul>
+</div>
+
+
+                   =20
+
+                    <div id=3D"comments" class=3D"comments">
+
+
+   =20
+   =20
+       =20
+    <h2 class=3D"comments-header">=E7=95=99=E8=A8=80=EF=BC=8842=E6=9D=A1=EF=
+=BC=89</h2>
+
+    <div id=3D"comments-content" class=3D"comments-content" style=3D"clear:=
+ left;">
+       =20
+        <div id=3D"comment-379161" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">szpzs</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379161">
+            <p>"=E5=8E=9F=E6=9D=A5=EF=BC=8C=E6=AD=A3=E6=80=81=E5=88=86=E5=
+=B8=83=E5=8F=AA=E9=80=82=E5=90=88=E5=90=84=E7=A7=8D=E5=9B=A0=E7=B4=A0=E7=B4=
+=AF=E5=8A=A0=E7=9A=84=E6=83=85=E5=86=B5=EF=BC=8C=E5=A6=82=E6=9E=9C=E8=BF=99=
+=E4=BA=9B=E5=9B=A0=E7=B4=A0=E4=B8=8D=E6=98=AF=E5=BD=BC=E6=AD=A4=E7=8B=AC=E7=
+=AB=8B=E7=9A=84=EF=BC=8C=E4=BC=9A=E4=BA=92=E7=9B=B8=E5=8A=A0=E5=BC=BA=E5=BD=
+=B1=E5=93=8D=EF=BC=8C=E9=82=A3=E4=B9=88=E5=B0=B1=E4=B8=8D=E6=98=AF=E6=AD=A3=
+=E6=80=81=E5=88=86=E5=B8=83=E4=BA=86=E3=80=82" -- =E9=9A=BE=E6=80=AA=E5=AF=
+=8C=E4=BA=BA=E8=B6=8A=E5=AF=8C=EF=BC=8C=E7=A9=B7=E4=BA=BA=E8=B6=8A=E7=A9=B7=
+=E3=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  8:16=
+ AM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 08:16</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379161">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8szpzs=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379162" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">PeterParker</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379162">
+            <p>=E6=9C=AC=E6=96=87=E4=B8=AD=E6=89=80=E8=AF=B4=E7=9A=84=E9=82=
+=A3=E7=A7=8D=E5=AF=B9=E7=A7=B0=E7=9A=84=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=
+=E5=BA=94=E8=AF=A5=E6=98=AF=E6=A0=87=E5=87=86=E6=AD=A3=E6=80=81=E5=88=86=E5=
+=B8=83</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  8:35=
+ AM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 08:35</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379162">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8PeterParker=E7=9A=84=E8=BF=99=
+=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379167" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E4=B8=9A=E4=BD=99=E8=8D=
+=89</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379167">
+            <p>=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=A5=BD=E5=83=8F=E6=98=
+=AF=E9=AB=98=E4=B8=AD=E7=9A=84=E5=86=85=E5=AE=B9=E5=90=A7=EF=BC=8C=E9=83=BD=
+=E5=BF=98=E8=AE=B0=E5=AE=8C=E4=BA=86=EF=BC=81</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  9:32=
+ AM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 09:32</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379167">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E4=B8=9A=E4=BD=99=E8=8D=89=E7=
+=9A=84=E8=BF=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379173" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">xuefliang</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379173">
+            <p>=E7=9C=8B=E7=BB=9F=E8=AE=A1=E4=B9=A6=E6=B2=A1=E6=98=8E=E7=99=
+=BD=EF=BC=8C=E5=92=8B=E7=9C=8B=E4=BD=A0=E5=8D=9A=E5=AE=A2=E4=B8=80=E4=B8=8B=
+=E5=B0=B1=E6=87=82=E4=BA=86=EF=BC=9F</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017 11:00=
+ AM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 11:00</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379173">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8xuefliang=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379178" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">1@2</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379178">
+            <p>=E6=84=9F=E8=B0=A2=E9=98=AE=E8=80=81=E5=B8=88=EF=BC=8C=E7=AE=
+=80=E5=8D=95=E6=98=93=E6=87=82=EF=BC=81=E4=B8=8D=E8=BF=87=E8=A6=81=E6=98=AF=
+=E8=83=BD=E5=86=8D=E6=B7=B1=E5=85=A5=E8=AE=B2=E4=B8=80=E4=B8=8B=E4=B8=AD=E5=
+=BF=83=E6=9E=81=E9=99=90=E5=AE=9A=E7=90=86=E5=B0=B1=E5=A5=BD=E4=BA=86=E3=80=
+=82</p>
+
+<p>=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=
+=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=80=94=E2=
+=80=94=E2=80=94=E2=80=94<br>
+=E6=9C=89=E4=B8=AA=E5=B0=8Fmiss:</p>
+
+<p>=E4=B8=8E10,000=E5=85=83~100,000=E5=85=83=E4=B9=8B=E9=97=B4=E7=9A=84=E5=
+=AF=8C=E4=BA=BA=EF=BC=88=E6=AF=94=E5=B9=B3=E5=9D=87=E5=80=BC=E9=AB=98=E4=B8=
+=80=E4=B8=AA=E6=95=B0=E9=87=8F=E7=BA=A7=EF=BC=8C=E5=AE=BD=E5=BA=A6=E4=B8=BA=
+90,=E4=B8=BA000=EF=BC=89</p>
+
+<p>=E8=BF=99=E9=87=8C=E5=BA=94=E8=AF=A5=E6=98=AF=E2=80=9C=E5=AE=BD=E5=BA=A6=
+=E4=B8=BA90000=E2=80=9D=EF=BC=9F</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017 12:58=
+ PM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 12:58</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379178">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A81@2=E7=9A=84=E8=BF=99=E6=9D=A1=
+=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379180" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E9=98=AE=E4=B8=80=E5=B3=
+=B0</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379180">
+            <p>=E8=B0=A2=E8=B0=A2=E6=8C=87=E5=87=BA=EF=BC=8C=E5=B7=B2=E7=BB=
+=8F=E6=9B=B4=E6=AD=A3=E3=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  1:26=
+ PM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 13:26</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379180">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E9=98=AE=E4=B8=80=E5=B3=B0=E7=
+=9A=84=E8=BF=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379182" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">catbaron</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379182">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8PeterParker=E7=9A=84=E5=8F=91=E8=A8=80=EF=BC=9A</pre=
+>
+
+<p>=E6=9C=AC=E6=96=87=E4=B8=AD=E6=89=80=E8=AF=B4=E7=9A=84=E9=82=A3=E7=A7=8D=
+=E5=AF=B9=E7=A7=B0=E7=9A=84=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=BA=94=E8=
+=AF=A5=E6=98=AF=E6=A0=87=E5=87=86=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83</p>
+
+</blockquote>
+
+<p>=E4=B8=8D=E2=80=A6=E2=80=A6=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E5=B0=B1=
+=E6=98=AF=E4=BB=A5=CE=BC=E4=B8=BA=E5=AF=B9=E7=A7=B0=E8=BD=B4=E5=AF=B9=E7=A7=
+=B0=E7=9A=84=EF=BC=8C=E6=A0=87=E5=87=86=E6=98=AF=E6=8C=87=E7=9A=84=CE=BC=E4=
+=B8=BA0=EF=BC=8C =CF=83=E4=B8=BA1</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  2:07=
+ PM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 14:07</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379182">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8catbaron=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379183" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">catbaron</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379183">
+            <blockquote>
+=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E4=B8=BA=E4=BB=80=E4=B9=88=E5=B8=B8=E8=
+=A7=81=EF=BC=9F=E7=9C=9F=E6=AD=A3=E5=8E=9F=E5=9B=A0=E6=98=AF=E4=B8=AD=E5=BF=
+=83=E6=9E=81=E9=99=90=E5=AE=9A=E7=90=86
+</blockquote>
+
+<p>=E8=BF=99=E7=A7=8D=E8=AF=B4=E6=B3=95=E5=8F=AA=E6=98=AF=E6=8A=8A=E3=80=8C=
+=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E3=80=8D=E7=9A=84=E8=A7=A3=E9=87=8A=E8=
+=BD=AC=E5=8C=96=E4=B8=BA=E3=80=8C=E4=B8=AD=E5=BF=83=E6=9E=81=E9=99=90=E5=AE=
+=9A=E7=90=86=E3=80=8D=E5=90=A7=EF=BC=8C=E5=AE=9E=E9=99=85=E4=B8=8A=E3=80=8C=
+=E4=B8=BA=E4=BB=80=E4=B9=88=E4=BC=9A=E6=9C=89=E4=B8=AD=E5=BF=83=E6=9E=81=E9=
+=99=90=E5=AE=9A=E7=90=86=E3=80=8D=E8=BF=98=E6=98=AF=E6=B2=A1=E6=9C=89=E8=A7=
+=A3=E9=87=8A=E3=80=82<br>
+=E6=88=91=E8=BF=98=E6=98=AF=E8=A7=89=E5=BE=97=E4=BD=A0=E4=B9=8B=E5=89=8D=E7=
+=9A=84=E6=83=B3=E6=B3=95=E6=98=AF=E5=AF=B9=E7=9A=84=EF=BC=8C=E8=87=B3=E5=B0=
+=91=E6=98=AF=E4=B8=80=E7=A7=8D=E4=B8=AD=E5=BF=83=E6=9E=81=E9=99=90=E5=AE=9A=
+=E7=90=86=E7=9A=84=E8=A7=A3=E9=87=8A=E3=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  2:10=
+ PM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 14:10</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379183">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8catbaron=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379188" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">sandy</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379188">
+            <p>=E5=AF=B9=E7=9A=84=EF=BC=8C=E6=89=80=E4=BB=A5=E8=AF=B4=EF=BC=
+=8C=E5=88=A4=E6=96=AD=E7=A4=BE=E4=BC=9A=E6=88=96=E8=80=85=E6=9F=90=E5=B9=B3=
+=E5=8F=B0=E6=98=AF=E5=90=A6=E7=9C=9F=E7=9A=84=E5=85=AC=E5=B9=B3=E7=AB=9E=E4=
+=BA=89=E7=9A=84=E6=A0=87=E5=87=86=EF=BC=8C=E7=9C=8B=E6=9C=80=E5=90=8E=E7=9A=
+=84=E7=BB=93=E6=9E=9C=E6=98=AF=E5=90=A6=E7=AC=A6=E5=90=88=E6=AD=A3=E6=80=81=
+=E5=88=86=E5=B8=83=E3=80=82<br>
+</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  4:00=
+ PM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 16:00</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379188">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8sandy=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379189" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">sandy</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379189">
+            <p>=E5=98=BF=E5=98=BF=EF=BC=8C=E8=BF=98=E8=A6=81=E5=8A=A0=E4=B8=
+=80=E5=8F=A5=EF=BC=8C=E4=B8=BA=E4=BB=80=E4=B9=88=E5=90=84=E4=B8=AA=E5=9B=A0=
+=E7=B4=A0=E7=9B=B8=E4=BA=92=E5=BD=B1=E5=93=8D=E6=9C=80=E5=90=8E=E7=BB=93=E6=
+=9E=9C=E4=B8=8D=E6=98=AF=E5=8A=A0=E6=B3=95=E8=80=8C=E6=98=AF=E4=B9=98=E6=B3=
+=95=E5=91=A2=EF=BC=9F<br>
+=E5=9B=A0=E4=B8=BA=EF=BC=8C=E6=AD=A3=E5=8F=8D=E9=A6=88=EF=BC=8C=E5=90=84=E4=
+=B8=AA=E5=9B=A0=E7=B4=A0=E6=9E=84=E6=88=90=E5=BE=AA=E7=8E=AF=EF=BC=8C=E5=9C=
+=A8=E5=A4=9A=E6=AC=A1=E5=BE=AA=E7=8E=AF=E4=B9=8B=E5=90=8E=E8=A1=A8=E7=8E=B0=
+=E5=87=BA=E7=9A=84=E7=BB=93=E6=9E=9C=E6=98=AF=E5=80=8D=E6=95=B0=EF=BC=8C=E5=
+=85=B6=E5=AE=9E=E6=98=AF=E7=B4=AF=E5=8A=A0=E8=BF=87=E7=A8=8B=EF=BC=8C=E4=B9=
+=9F=E5=B0=B1=E6=98=AF=E7=A7=AF=E5=88=86=E5=98=9B=E3=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  4:15=
+ PM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 16:15</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379189">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8sandy=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379190" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">jasmine</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379190">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8PeterParker=E7=9A=84=E5=8F=91=E8=A8=80=EF=BC=9A</pre=
+>
+
+<p>=E6=9C=AC=E6=96=87=E4=B8=AD=E6=89=80=E8=AF=B4=E7=9A=84=E9=82=A3=E7=A7=8D=
+=E5=AF=B9=E7=A7=B0=E7=9A=84=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=BA=94=E8=
+=AF=A5=E6=98=AF=E6=A0=87=E5=87=86=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83</p>
+
+</blockquote>
+
+<p>=E5=9D=87=E5=80=BC=E4=B8=BA0=EF=BC=8C=E6=A0=87=E5=87=86=E5=B7=AE=E4=B8=
+=BA1=E7=9A=84=E6=89=8D=E6=98=AF=E6=A0=87=E5=87=86=E6=AD=A3=E5=A4=AA=E5=88=
+=86=E5=B8=83=E3=80=82=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E9=83=BD=E6=98=AF=
+=E5=AF=B9=E7=A7=B0=E7=9A=84=EF=BC=8C=E4=B8=8D=E5=AF=B9=E7=A7=B0=E7=9A=84=E6=
+=98=AF=E5=81=8F=E6=80=81=E5=88=86=E5=B8=83<br>
+</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  4:48=
+ PM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 16:48</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379190">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8jasmine=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379194" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">yisam</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379194">
+            <p>=E8=AE=B2=E7=9A=84=E4=B8=8D=E9=94=99=EF=BC=8C=E7=82=B9=E4=B8=
+=AA=E8=B5=9E</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  7:19=
+ PM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 19:19</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379194">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8yisam=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379197" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">archdevil</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379197">
+            <p>=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E9=87=8C=E6=9C=89=E8=87=
+=AA=E7=84=B6=E5=AF=B9=E6=95=B0=E7=9A=84=E5=BA=95=EF=BC=8C=E4=BB=A5=E5=8F=8A=
+=E5=9C=86=E5=91=A8=E7=8E=87=E3=80=82=E8=BF=99=E4=BA=9B=E6=95=B0=E5=AD=A6=E5=
+=B8=B8=E6=95=B0=E5=BE=88=E6=9C=89=E5=8F=AF=E8=83=BD=E6=98=AF=E5=AE=87=E5=AE=
+=99=E7=9A=84=E6=A1=86=E6=9E=B6=E7=9A=84=E5=9F=BA=E7=A1=80=E4=B9=8B=E4=B8=80=
+=E3=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2017  8:08=
+ PM">2017=E5=B9=B48=E6=9C=88 2=E6=97=A5 20:08</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379197">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8archdevil=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379203" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">lion</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379203">
+            <p>=E5=AF=B9=E6=95=B0=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E6=98=
+=AF=E5=90=A6=E5=8F=AF=E4=BB=A5=E5=86=8D=E9=80=9A=E4=BF=97=E7=82=B9=E5=91=A2=
+=EF=BC=8C=E7=9C=8B=E5=9B=BE=E6=88=91=E6=B2=A1=E7=9C=8B=E5=A4=A7=E6=98=8E=E7=
+=99=BD=EF=BC=8C=E5=8F=AF=E8=83=BD=E5=AF=B9=E6=95=B0=E6=88=91=E5=BF=98=E5=85=
+=89=E4=BA=86=E5=93=88=E5=93=88=EF=BC=8C=E4=B8=8D=E8=BF=87=E8=BF=98=E6=98=AF=
+=E6=84=9F=E8=B0=A2=E9=98=AE=E5=A4=A7=E5=85=B6=E4=BB=96=E8=AE=B2=E7=9A=84=E9=
+=9D=9E=E5=B8=B8=E9=80=9A=E4=BF=97=E6=98=93=E6=87=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  3, 2017 10:45=
+ AM">2017=E5=B9=B48=E6=9C=88 3=E6=97=A5 10:45</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379203">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8lion=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379213" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">bugbot</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379213">
+            <p>=E7=AC=AC=E4=BA=8C=E4=B8=AA=E5=8F=82=E8=80=83=E9=93=BE=E6=8E=
+=A5=E4=B8=8E=E7=AC=AC=E4=B8=80=E4=B8=AA=E9=9B=B7=E5=90=8C=E4=BA=86=E3=80=82=
+</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  3, 2017  3:11=
+ PM">2017=E5=B9=B48=E6=9C=88 3=E6=97=A5 15:11</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379213">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8bugbot=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379224" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">wangchao</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379224">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8szpzs=E7=9A=84=E5=8F=91=E8=A8=80=EF=BC=9A</pre>
+
+<p>"=E5=8E=9F=E6=9D=A5=EF=BC=8C=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=8F=
+=AA=E9=80=82=E5=90=88=E5=90=84=E7=A7=8D=E5=9B=A0=E7=B4=A0=E7=B4=AF=E5=8A=A0=
+=E7=9A=84=E6=83=85=E5=86=B5=EF=BC=8C=E5=A6=82=E6=9E=9C=E8=BF=99=E4=BA=9B=E5=
+=9B=A0=E7=B4=A0=E4=B8=8D=E6=98=AF=E5=BD=BC=E6=AD=A4=E7=8B=AC=E7=AB=8B=E7=9A=
+=84=EF=BC=8C=E4=BC=9A=E4=BA=92=E7=9B=B8=E5=8A=A0=E5=BC=BA=E5=BD=B1=E5=93=8D=
+=EF=BC=8C=E9=82=A3=E4=B9=88=E5=B0=B1=E4=B8=8D=E6=98=AF=E6=AD=A3=E6=80=81=E5=
+=88=86=E5=B8=83=E4=BA=86=E3=80=82" -- =E9=9A=BE=E6=80=AA=E5=AF=8C=E4=BA=BA=
+=E8=B6=8A=E5=AF=8C=EF=BC=8C=E7=A9=B7=E4=BA=BA=E8=B6=8A=E7=A9=B7=E3=80=82</p=
+>
+
+</blockquote>
+
+<p>=E8=BF=99=E4=B8=AA=E5=8F=AA=E6=98=AF=E7=BB=93=E6=9E=9C=EF=BC=8C=E5=B9=B6=
+=E4=B8=8D=E6=98=AF=E5=8E=9F=E5=9B=A0</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  4, 2017  8:37=
+ AM">2017=E5=B9=B48=E6=9C=88 4=E6=97=A5 08:37</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379224">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8wangchao=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379250" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">simoncos</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379250">
+            <p>=E6=AD=A3=E5=8F=8D=E9=A6=88=E6=89=93=E7=A0=B4=E6=AD=A3=E6=80=
+=81=E5=88=86=E5=B8=83</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  4, 2017  5:45=
+ PM">2017=E5=B9=B48=E6=9C=88 4=E6=97=A5 17:45</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379250">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8simoncos=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379368" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">723649234</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379368">
+            <p>=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E4=BB=A5=E5=89=8D=E7=9C=
+=8B=E4=B8=8D=E5=A4=AA=E6=87=82=EF=BC=8C=E4=BB=8A=E5=A4=A9=E5=9C=A8=E4=BD=A0=
+=E8=BF=99=E7=9C=8B=E6=87=82=E4=BA=86=EF=BC=8C=E5=BE=88=E7=9B=B4=E8=A7=82=E3=
+=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  9, 2017 12:04=
+ PM">2017=E5=B9=B48=E6=9C=88 9=E6=97=A5 12:04</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379368">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8723649234=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379615" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">zhangxiaoping</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379615">
+            <p>=E7=94=B7=E5=A5=B3=E8=BA=AB=E9=AB=98=E3=80=81=E5=AF=BF=E5=91=
+=BD=E3=80=81=E8=A1=80=E5=8E=8B=E3=80=81=E8=80=83=E8=AF=95=E6=88=90=E7=BB=A9=
+=E3=80=81=E6=B5=8B=E9=87=8F=E8=AF=AF=E5=B7=AE=E7=AD=89=E7=AD=89=EF=BC=8C=E9=
+=83=BD=E5=B1=9E=E4=BA=8E=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E3=80=82</p>
+
+<p>-------------------------------------------------------------</p>
+
+<p>=E8=BF=99=E5=8F=A5=E8=AF=9D=E6=98=BE=E7=84=B6=E6=98=AF=E9=94=99=E8=AF=AF=
+=EF=BC=8C=E7=BB=9F=E8=AE=A1=E5=AD=A6=E5=AE=B6=E5=85=A8=E6=98=AF=E9=AA=97=E5=
+=AD=90=E3=80=81=E5=BC=B1=E6=99=BA=E3=80=82</p>
+
+<p>=E6=AF=94=E5=A6=82=E7=94=B7=E5=A5=B3=E8=BA=AB=E9=AB=98=E3=80=82=E6=9F=90=
+=E6=97=B6=E5=88=BB1000=E4=B8=AA=E4=BA=BA=EF=BC=8C=E5=81=87=E5=A6=82=E8=BF=
+=991000=E4=B8=AA=E4=BA=BA=E7=AC=A6=E5=90=88=E6=AD=A3=E5=A4=AA=E5=88=86=E5=
+=B8=83;=E8=80=83=E5=AF=9F=E4=B8=8B=E4=B8=80=E6=97=B6=E5=88=BB=EF=BC=8C=E5=
+=A4=9A=E4=BA=86=E4=B8=80=E4=B8=AA=E4=BA=BA=EF=BC=8C1001=E4=B8=AA=E4=BA=BA=
+=EF=BC=8C=E8=BF=991001=E4=B8=AA=E4=BA=BA=E7=9A=84=E8=BA=AB=E9=AB=98=E4=B9=
+=9F=E7=AC=A6=E5=90=88=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E5=90=97=EF=BC=9F=
+=E6=98=BE=E7=84=B6=E4=B8=8D=E6=98=AF=E3=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August 17, 2017  8:11=
+ PM">2017=E5=B9=B48=E6=9C=8817=E6=97=A5 20:11</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379615">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8zhangxiaoping=E7=9A=84=E8=BF=
+=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-379641" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">FURENGETE</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-379641">
+            <p>=E5=9F=BA=E5=9B=A0=E7=9A=84=E9=81=97=E4=BC=A0=E7=BB=93=E6=9E=
+=9C=E7=9A=84=E7=BB=9F=E8=AE=A1=E5=AD=A6=E6=A6=82=E7=8E=87=E5=A4=A7=E6=A6=82=
+=E9=83=BD=E6=98=AF=E8=BF=99=E6=A0=B7=E3=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August 19, 2017  1:40=
+ AM">2017=E5=B9=B48=E6=9C=8819=E6=97=A5 01:40</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-379641">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8FURENGETE=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-380035" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E7=8E=8B=E6=99=93=E4=B8=
+=9C</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-380035">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8=E4=B8=9A=E4=BD=99=E8=8D=89=E7=9A=84=E5=8F=91=E8=A8=
+=80=EF=BC=9A</pre>
+
+<p>=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=A5=BD=E5=83=8F=E6=98=AF=E9=AB=98=
+=E4=B8=AD=E7=9A=84=E5=86=85=E5=AE=B9=E5=90=A7=EF=BC=8C=E9=83=BD=E5=BF=98=E8=
+=AE=B0=E5=AE=8C=E4=BA=86=EF=BC=81</p>
+
+</blockquote>
+=E4=B8=8D=E7=9F=A5=E9=81=93=E9=98=81=E4=B8=8B=E7=9A=84=E5=B9=B4=E9=BE=84
+=E6=88=91=E6=98=AF2007=E5=B9=B4=E4=B8=8A=E7=9A=84=E5=A4=A7=E5=AD=A6=EF=BC=
+=8C=E8=AE=B0=E5=BE=97=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E6=98=AF=E6=A6=82=
+=E7=8E=87=E8=AE=BA=E9=87=8C=E9=9D=A2=E8=AE=B2=E7=9A=84=E5=90=A7=EF=BC=9F
+=E8=AE=B0=E9=94=99=E4=BA=86=E7=9A=84=E8=AF=9D=E8=AE=B2=E6=8C=87=E6=AD=A3=E3=
+=80=82
+
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"September  4, 2017 10=
+:49 AM">2017=E5=B9=B49=E6=9C=88 4=E6=97=A5 10:49</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-380035">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E7=8E=8B=E6=99=93=E4=B8=9C=E7=
+=9A=84=E8=BF=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-380126" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">harper</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-380126">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8=E7=8E=8B=E6=99=93=E4=B8=9C=E7=9A=84=E5=8F=91=E8=A8=
+=80=EF=BC=9A</pre>
+
+<p><br>
+=E4=B8=8D=E7=9F=A5=E9=81=93=E9=98=81=E4=B8=8B=E7=9A=84=E5=B9=B4=E9=BE=84<br=
+>
+=E6=88=91=E6=98=AF2007=E5=B9=B4=E4=B8=8A=E7=9A=84=E5=A4=A7=E5=AD=A6=EF=BC=
+=8C=E8=AE=B0=E5=BE=97=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E6=98=AF=E6=A6=82=
+=E7=8E=87=E8=AE=BA=E9=87=8C=E9=9D=A2=E8=AE=B2=E7=9A=84=E5=90=A7=EF=BC=9F<br=
+>
+=E8=AE=B0=E9=94=99=E4=BA=86=E7=9A=84=E8=AF=9D=E8=AE=B2=E6=8C=87=E6=AD=A3=E3=
+=80=82</p>
+
+<p><br>
+</p></blockquote>
+
+<p>=E6=B1=9F=E8=8B=8F=E7=9A=84=E8=AF=9D=E9=AB=98=E4=B8=AD=E5=B0=B1=E5=AD=A6=
+=E4=BA=86</p>
+
+<p>=E9=97=AE=E4=B8=AA=E9=97=AE=E9=A2=98=EF=BC=8C=E4=B8=BA=E4=BB=80=E4=B9=88=
+=E7=94=B7=E5=A5=B3=E4=B8=80=E8=B5=B7=E7=9A=84=E8=BA=AB=E9=AB=98=E4=B8=8D=E7=
+=AC=A6=E5=90=88=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=91=A2=EF=BC=9F=E6=80=
+=A7=E5=88=AB=E4=B8=8D=E4=B9=9F=E6=98=AF=E4=B8=80=E4=B8=AA=E5=BD=B1=E5=93=8D=
+=E5=9B=A0=E7=B4=A0=E5=90=97=EF=BC=9F</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"September  7, 2017  5=
+:34 PM">2017=E5=B9=B49=E6=9C=88 7=E6=97=A5 17:34</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-380126">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8harper=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-380231" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">Windsting</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-380231">
+            <p>=E7=AC=AC=E4=BA=8C=E4=B8=AA=E5=8F=82=E8=80=83=E9=93=BE=E6=8E=
+=A5=E7=9A=84=E7=BD=91=E5=9D=80=E5=BA=94=E8=AF=A5=E6=98=AF=EF=BC=9A<br>
+<a href=3D"https://www.johndcook.com/blog/2009/09/29/achievement-is-log-nor=
+mal/" rel=3D"nofollow">https://www.johndcook.com/blog/2009/09/29/achievemen=
+t-is-log-normal/</a><br>
+</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"September 10, 2017  1=
+:49 PM">2017=E5=B9=B49=E6=9C=8810=E6=97=A5 13:49</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-380231">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8Windsting=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-380845" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E9=92=B1=E5=B0=8F=E8=8E=
+=B2</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-380845">
+            <p>=E5=85=B6=E5=AE=9E=E4=B9=9F=E5=8F=AF=E4=BB=A5=E4=BB=8E=E6=9C=
+=80=E5=A4=A7=E7=86=B5=E7=9A=84=E8=A7=92=E5=BA=A6=E5=8E=BB=E7=90=86=E8=A7=A3=
+=E3=80=82=E5=9C=A8=E4=BA=8C=E9=98=B6=E7=9F=A9=E4=B8=80=E5=AE=9A=E7=9A=84=E6=
+=83=85=E5=86=B5=E4=B8=8B=EF=BC=8C=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E7=9A=
+=84=E7=86=B5=E6=98=AF=E6=9C=80=E5=A4=A7=E7=9A=84=EF=BC=8C=E7=94=B1=E4=BA=8E=
+=E8=87=AA=E7=84=B6=E7=95=8C=E6=9C=89=E7=86=B5=E5=A2=9E=E7=9A=84=E8=A7=84=E5=
+=BE=8B=EF=BC=8C=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E8=87=AA=E7=84=B6=E4=B9=
+=9F=E5=B0=B1=E5=B8=B8=E8=A7=81=E4=BA=86</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"September 25, 2017  4=
+:43 PM">2017=E5=B9=B49=E6=9C=8825=E6=97=A5 16:43</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-380845">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E9=92=B1=E5=B0=8F=E8=8E=B2=E7=
+=9A=84=E8=BF=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-382391" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">Terry</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-382391">
+            <p>=E4=B8=AD=E5=BF=83=E6=9E=81=E9=99=90=E5=AE=9A=E7=90=86=E4=B8=
+=8D=E6=98=AF=E8=AF=B4 =E4=B8=8D=E7=AE=A1=E6=A0=B7=E6=9C=AC=E4=B8=AA=E4=BD=
+=93=E6=9C=AC=E8=BA=AB=E6=98=AF=E4=BB=80=E4=B9=88=E5=88=86=E5=B8=83 =E7=9B=
+=B8=E5=90=8C=E6=95=B0=E9=87=8F=E7=9A=84=E6=A0=B7=E6=9C=AC=E5=9D=87=E5=80=BC=
+=E5=91=88=E7=8E=B0=E5=88=86=E5=B8=83=E6=9C=80=E7=BB=88=E6=8E=A5=E8=BF=91=E4=
+=BA=8E=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E3=80=82  =E4=B8=BB=E8=A6=81=E4=
+=B8=8D=E6=98=AF=E6=8C=87=E7=9A=84=E6=98=AFsampling distribution of sampling=
+ mean=E5=98=9B=EF=BC=9F=E8=B7=9F=E6=96=87=E7=AB=A0=E9=87=8C=E8=AE=B2=E7=9A=
+=84=E4=B8=AD=E5=BF=83=E6=9E=81=E9=99=90=E5=AE=9A=E7=90=86=E7=9A=84=E5=AE=9A=
+=E4=B9=89=E8=B2=8C=E4=BC=BC=E6=98=AF=E4=B8=A4=E4=BB=B6=E4=BA=8B=E6=83=85=EF=
+=BC=9F=E8=B0=81=E6=9D=A5=E8=A7=A3=E9=87=8A=E4=B8=80=E4=B8=8B</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"November 16, 2017  2:=
+57 PM">2017=E5=B9=B411=E6=9C=8816=E6=97=A5 14:57</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-382391">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8Terry=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-382428" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E5=8D=95=E5=AE=9D=E8=8B=
+=B1</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-382428">
+            <p>=E6=82=A8=E8=AE=B2=E7=9A=84=E7=9C=9F=E5=A5=BD</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"November 17, 2017  4:=
+48 PM">2017=E5=B9=B411=E6=9C=8817=E6=97=A5 16:48</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-382428">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E5=8D=95=E5=AE=9D=E8=8B=B1=E7=
+=9A=84=E8=BF=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-383302" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">wynhbh</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-383302">
+            <p>=E8=B4=A2=E5=AF=8C=E5=88=86=E5=B8=83=E4=B8=8D=E6=98=AF=E5=B9=
+=82=E5=BE=8B=E5=88=86=E5=B8=83=E5=90=97=EF=BC=88Pareto=EF=BC=89</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"December 18, 2017 10:=
+00 AM">2017=E5=B9=B412=E6=9C=8818=E6=97=A5 10:00</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-383302">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8wynhbh=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-383549" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">zzz</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-383549">
+            <p>=E5=A6=82=E6=9E=9C=E5=B9=B3=E5=9D=87=E8=B4=A2=E5=AF=8C=E6=98=
+=AF10,000=E5=85=83=EF=BC=8C=E9=82=A3=E4=B9=881000=E5=85=83=EF=BD=9E10,000=
+=E5=85=83=E4=B9=8B=E9=97=B4=E7=9A=84=E7=A9=B7=E4=BA=BA=EF=BC=88=E6=AF=94=E5=
+=B9=B3=E5=9D=87=E5=80=BC=E4=BD=8E=E4=B8=80=E4=B8=AA=E6=95=B0=E9=87=8F=E7=BA=
+=A7=EF=BC=8C=E5=AE=BD=E5=BA=A6=E4=B8=BA9000=EF=BC=89=E4=B8=8E10,000=E5=85=
+=83~100,000=E5=85=83=E4=B9=8B=E9=97=B4=E7=9A=84=E5=AF=8C=E4=BA=BA=EF=BC=88=
+=E6=AF=94=E5=B9=B3=E5=9D=87=E5=80=BC=E9=AB=98=E4=B8=80=E4=B8=AA=E6=95=B0=E9=
+=87=8F=E7=BA=A7=EF=BC=8C=E5=AE=BD=E5=BA=A6=E4=B8=BA90,000=EF=BC=89=E4=BA=BA=
+=E6=95=B0=E4=B8=80=E6=A0=B7=E5=A4=9A=E3=80=82</p>
+
+<p>=E5=BA=94=E8=AF=A5=E6=98=AF=E5=AF=B9=E6=95=B0=E5=B9=B3=E5=9D=87=E8=B4=A2=
+=E5=AF=8C=E6=98=AF10,000=E5=85=83</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"December 24, 2017  9:=
+23 PM">2017=E5=B9=B412=E6=9C=8824=E6=97=A5 21:23</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-383549">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8zzz=E7=9A=84=E8=BF=99=E6=9D=A1=
+=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-383586" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E5=A4=A9=E7=A9=BA</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-383586">
+            <p>=E6=95=B0=E5=AD=A6=E4=B8=93=E4=B8=9A=E7=9A=84=E9=83=BD=E7=9F=
+=A5=E9=81=93=E6=98=AF=E4=B8=AD=E5=BF=83=E6=9E=81=E9=99=90=E5=AE=9A=E7=90=86=
+=E3=80=82=E8=BF=99=E4=B8=AA=E9=83=BD=E8=BF=98=E8=A6=81=E6=8B=BF=E5=87=BA=E6=
+=9D=A5=E8=AF=B4=E5=95=8A</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"December 25, 2017  7:=
+18 PM">2017=E5=B9=B412=E6=9C=8825=E6=97=A5 19:18</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-383586">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E5=A4=A9=E7=A9=BA=E7=9A=84=E8=
+=BF=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-387888" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">a</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-387888">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8harper=E7=9A=84=E5=8F=91=E8=A8=80=EF=BC=9A</pre>
+
+<p></p>
+
+<p>=E6=B1=9F=E8=8B=8F=E7=9A=84=E8=AF=9D=E9=AB=98=E4=B8=AD=E5=B0=B1=E5=AD=A6=
+=E4=BA=86</p>
+
+<p>=E9=97=AE=E4=B8=AA=E9=97=AE=E9=A2=98=EF=BC=8C=E4=B8=BA=E4=BB=80=E4=B9=88=
+=E7=94=B7=E5=A5=B3=E4=B8=80=E8=B5=B7=E7=9A=84=E8=BA=AB=E9=AB=98=E4=B8=8D=E7=
+=AC=A6=E5=90=88=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=91=A2=EF=BC=9F=E6=80=
+=A7=E5=88=AB=E4=B8=8D=E4=B9=9F=E6=98=AF=E4=B8=80=E4=B8=AA=E5=BD=B1=E5=93=8D=
+=E5=9B=A0=E7=B4=A0=E5=90=97=EF=BC=9F</p>
+
+</blockquote>
+
+<p>=E5=9C=A8=E8=87=AA=E7=84=B6=E7=95=8C=E4=B8=8E=E7=94=9F=E4=BA=A7=E4=B8=AD=
+=EF=BC=8C=E4=B8=80=E4=BA=9B=E7=8E=B0=E8=B1=A1=E5=8F=97=E5=88=B0=E8=AE=B8=E5=
+=A4=9A=E7=9B=B8=E4=BA=92=E7=8B=AC=E7=AB=8B=E7=9A=84=E9=9A=8F=E6=9C=BA=E5=9B=
+=A0=E7=B4=A0=E7=9A=84=E5=BD=B1=E5=93=8D=EF=BC=8C=E5=A6=82=E6=9E=9C=E6=AF=8F=
+=E4=B8=AA=E5=9B=A0=E7=B4=A0=E6=89=80=E4=BA=A7=E7=94=9F=E7=9A=84=E5=BD=B1=E5=
+=93=8D=E9=83=BD=E5=BE=88=E5=BE=AE=E5=B0=8F=E6=97=B6=EF=BC=8C=E6=80=BB=E7=9A=
+=84=E5=BD=B1=E5=93=8D=E5=8F=AF=E4=BB=A5=E7=9C=8B=E4=BD=9C=E6=98=AF=E6=9C=8D=
+=E4=BB=8E=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E7=9A=84=E3=80=82</p>
+
+<p>=E6=80=A7=E5=88=AB=E5=BD=B1=E5=93=8D=E4=B8=8D=E5=B0=8F=EF=BC=8C=E6=80=A7=
+=E5=88=AB=E5=B9=B6=E4=B8=8D=E7=8B=AC=E7=AB=8B=EF=BC=8C=E4=BE=8B=E5=A6=82=E4=
+=B8=8D=E5=90=8C=E6=80=A7=E5=88=AB=E5=9F=BA=E5=9B=A0=E5=B7=AE=E5=88=AB=E5=B0=
+=B1=E5=BE=88=E5=A4=A7<br>
+</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"April 11, 2018  5:56 =
+PM">2018=E5=B9=B44=E6=9C=8811=E6=97=A5 17:56</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-387888">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8a=E7=9A=84=E8=BF=99=E6=9D=A1=
+=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-391310" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">Seagle</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-391310">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8harper=E7=9A=84=E5=8F=91=E8=A8=80=EF=BC=9A</pre>
+
+<p></p>
+
+<p>=E6=B1=9F=E8=8B=8F=E7=9A=84=E8=AF=9D=E9=AB=98=E4=B8=AD=E5=B0=B1=E5=AD=A6=
+=E4=BA=86</p>
+
+<p>=E9=97=AE=E4=B8=AA=E9=97=AE=E9=A2=98=EF=BC=8C=E4=B8=BA=E4=BB=80=E4=B9=88=
+=E7=94=B7=E5=A5=B3=E4=B8=80=E8=B5=B7=E7=9A=84=E8=BA=AB=E9=AB=98=E4=B8=8D=E7=
+=AC=A6=E5=90=88=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E5=91=A2=EF=BC=9F=E6=80=
+=A7=E5=88=AB=E4=B8=8D=E4=B9=9F=E6=98=AF=E4=B8=80=E4=B8=AA=E5=BD=B1=E5=93=8D=
+=E5=9B=A0=E7=B4=A0=E5=90=97=EF=BC=9F</p>
+
+</blockquote>
+
+<p><br>
+=E6=80=A7=E5=88=AB=E4=B8=8E=E5=9F=BA=E5=9B=A0,=E8=90=A5=E5=85=BB=E5=B9=B6=
+=E4=B8=8D=E7=8B=AC=E7=AB=8B,=E5=BC=BA=E7=9B=B8=E5=85=B3=E3=80=82=E5=90=8C=
+=E4=B8=80=E7=B1=BB=E7=9B=AE=E6=A0=87=E7=BB=9F=E8=AE=A1=E6=89=8D=E6=9C=89=E7=
+=BB=9F=E8=AE=A1=E5=AD=A6=E6=84=8F=E4=B9=89=E3=80=82=E7=94=B7=E5=A5=B3=E5=90=
+=84=E8=87=AA=E5=A4=B4=E5=8F=91=E7=9A=84=E9=95=BF=E7=9F=AD=E5=8F=AF=E8=83=BD=
+=E5=B1=9E=E4=BA=8E=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=EF=BC=8C=E4=BD=86=E5=
+=9D=87=E5=80=BC=E4=B8=80=E5=AE=9A=E4=B8=8D=E4=B8=BA0=EF=BC=8C=E5=9C=A8=E9=
+=9D=9E=E6=A0=87=E5=87=86=E5=88=86=E5=B8=83=E7=9A=84=E6=83=85=E5=86=B5=E4=B8=
+=8B=EF=BC=8C=E6=B7=B7=E5=90=88=E5=9C=A8=E4=B8=80=E8=B5=B7=E7=BB=9F=E8=AE=A1=
+=E4=BC=9A=E7=AC=A6=E5=90=88=E5=90=97=EF=BC=9F</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"July 23, 2018  6:02 P=
+M">2018=E5=B9=B47=E6=9C=8823=E6=97=A5 18:02</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-391310">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8Seagle=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-393459" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">Blues</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-393459">
+            <p>=E8=AF=B7=E9=97=AEN=3D1=EF=BC=8C=E5=88=B0N=3D10=E7=9A=84=E5=
+=85=B7=E4=BD=93=E5=9B=BE=E5=BD=A2=E6=98=AF=E6=80=8E=E4=B9=88=E5=BE=97=E6=9D=
+=A5=E7=9A=84=E5=91=A2=EF=BC=9F=E6=9C=89=E5=85=B7=E4=BD=93=E7=9A=84=E6=95=B0=
+=E6=8D=AE=E8=AE=A1=E7=AE=97=E8=BF=87=E7=A8=8B=E4=B9=88=EF=BC=9F</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"September 27, 2018 11=
+:26 AM">2018=E5=B9=B49=E6=9C=8827=E6=97=A5 11:26</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-393459">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8Blues=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-407283" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">Lingtong</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-407283">
+            <p>=E8=BF=99=E5=87=A0=E5=A4=A9=E7=9C=8B=E4=BA=86=E4=B8=8D=E5=B0=
+=91=E9=98=AE=E5=85=88=E7=94=9F=E7=9A=84=E6=96=87=E7=AB=A0=EF=BC=8C=E5=A4=A7=
+=E4=B8=BA=E5=8F=97=E7=94=A8=EF=BC=8C=E9=9D=9E=E5=B8=B8=E6=84=9F=E8=B0=A2=EF=
+=BC=81</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"January 31, 2019  3:2=
+5 AM">2019=E5=B9=B41=E6=9C=8831=E6=97=A5 03:25</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-407283">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8Lingtong=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-412558" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E5=86=B0=E5=B1=B1=E4=B8=
+=8B=E7=9A=84=E9=B1=BC</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-412558">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8zhangxiaoping=E7=9A=84=E5=8F=91=E8=A8=80=EF=BC=9A</p=
+re>
+
+<p>=E7=94=B7=E5=A5=B3=E8=BA=AB=E9=AB=98=E3=80=81=E5=AF=BF=E5=91=BD=E3=80=81=
+=E8=A1=80=E5=8E=8B=E3=80=81=E8=80=83=E8=AF=95=E6=88=90=E7=BB=A9=E3=80=81=E6=
+=B5=8B=E9=87=8F=E8=AF=AF=E5=B7=AE=E7=AD=89=E7=AD=89=EF=BC=8C=E9=83=BD=E5=B1=
+=9E=E4=BA=8E=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E3=80=82</p>
+
+<p>-------------------------------------------------------------</p>
+
+<p>=E8=BF=99=E5=8F=A5=E8=AF=9D=E6=98=BE=E7=84=B6=E6=98=AF=E9=94=99=E8=AF=AF=
+=EF=BC=8C=E7=BB=9F=E8=AE=A1=E5=AD=A6=E5=AE=B6=E5=85=A8=E6=98=AF=E9=AA=97=E5=
+=AD=90=E3=80=81=E5=BC=B1=E6=99=BA=E3=80=82</p>
+
+<p>=E6=AF=94=E5=A6=82=E7=94=B7=E5=A5=B3=E8=BA=AB=E9=AB=98=E3=80=82=E6=9F=90=
+=E6=97=B6=E5=88=BB1000=E4=B8=AA=E4=BA=BA=EF=BC=8C=E5=81=87=E5=A6=82=E8=BF=
+=991000=E4=B8=AA=E4=BA=BA=E7=AC=A6=E5=90=88=E6=AD=A3=E5=A4=AA=E5=88=86=E5=
+=B8=83;=E8=80=83=E5=AF=9F=E4=B8=8B=E4=B8=80=E6=97=B6=E5=88=BB=EF=BC=8C=E5=
+=A4=9A=E4=BA=86=E4=B8=80=E4=B8=AA=E4=BA=BA=EF=BC=8C1001=E4=B8=AA=E4=BA=BA=
+=EF=BC=8C=E8=BF=991001=E4=B8=AA=E4=BA=BA=E7=9A=84=E8=BA=AB=E9=AB=98=E4=B9=
+=9F=E7=AC=A6=E5=90=88=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E5=90=97=EF=BC=9F=
+=E6=98=BE=E7=84=B6=E4=B8=8D=E6=98=AF=E3=80=82</p>
+
+</blockquote>
+
+<p><br>
+=E7=94=AD=E7=AE=A1=E5=A4=9A=E5=B0=91=E4=BA=BA=EF=BC=8C=E9=83=BD=E7=AC=A6=E5=
+=90=88=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E3=80=82</p>
+
+<p>=E4=BD=A0=E6=B2=A1=E5=BC=84=E6=98=8E=E7=99=BD=E6=A6=82=E7=8E=87=E5=92=8C=
+=E5=AE=9E=E9=99=85=E7=9A=84=E5=8C=BA=E5=88=AB=EF=BC=8C=E6=A6=82=E7=8E=87=E6=
+=98=AF=E2=80=9C=E6=9C=9F=E6=9C=9B=E5=80=BC=E2=80=9D=EF=BC=8C=E5=92=8C=E5=8F=
+=91=E7=94=9F=E7=9A=84=E5=AE=9E=E9=99=85=E6=B2=A1=E6=9C=89=E5=85=B3=E7=B3=BB=
+=E3=80=82</p>
+
+<p>=E5=B0=B1=E5=A5=BD=E5=83=8F=E6=8A=9B=E4=B8=80=E6=9E=9A=E6=AD=A3=E5=B8=B8=
+=E7=9A=84=E7=A1=AC=E5=B8=81=E6=8A=9B=E4=BA=865=E6=AC=A1=E9=83=BD=E6=98=AF=
+=E6=AD=A3=E9=9D=A2=E6=9C=9D=E4=B8=8A=EF=BC=8C=E4=B8=8B=E4=B8=80=E6=AC=A1=E7=
+=9A=84=E6=8A=9B=E7=A1=AC=E5=B8=81=EF=BC=8C=E6=AD=A3=E9=9D=A2=E6=9C=9D=E4=B8=
+=8A=E7=9A=84=E6=A6=82=E7=8E=87=E8=BF=98=E6=98=AF50%=E3=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"August  2, 2019  9:41=
+ PM">2019=E5=B9=B48=E6=9C=88 2=E6=97=A5 21:41</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-412558">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E5=86=B0=E5=B1=B1=E4=B8=8B=E7=
+=9A=84=E9=B1=BC=E7=9A=84=E8=BF=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=
+=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-416231" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">wangxiaofeng</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-416231">
+            <p>r=E8=80=81=E5=B8=88=E8=BF=99=E7=AF=87=E6=96=87=E7=AB=A0=E5=
+=BE=88=E5=A5=BD=EF=BC=8C=E6=B7=B1=E5=85=A5=E6=B5=85=E5=87=BA=EF=BC=8C=E5=8F=
+=97=E7=9B=8A=E5=8C=AA=E6=B5=85</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"February 15, 2020  3:=
+48 PM">2020=E5=B9=B42=E6=9C=8815=E6=97=A5 15:48</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-416231">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8wangxiaofeng=E7=9A=84=E8=BF=99=
+=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-416432" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E9=99=88=E5=B0=8F=E5=AD=
+=A9</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-416432">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8=E5=86=B0=E5=B1=B1=E4=B8=8B=E7=9A=84=E9=B1=BC=E7=9A=
+=84=E5=8F=91=E8=A8=80=EF=BC=9A</pre>
+
+<p></p>
+
+<p><br>
+=E7=94=AD=E7=AE=A1=E5=A4=9A=E5=B0=91=E4=BA=BA=EF=BC=8C=E9=83=BD=E7=AC=A6=E5=
+=90=88=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E3=80=82</p>
+
+<p>=E4=BD=A0=E6=B2=A1=E5=BC=84=E6=98=8E=E7=99=BD=E6=A6=82=E7=8E=87=E5=92=8C=
+=E5=AE=9E=E9=99=85=E7=9A=84=E5=8C=BA=E5=88=AB=EF=BC=8C=E6=A6=82=E7=8E=87=E6=
+=98=AF=E2=80=9C=E6=9C=9F=E6=9C=9B=E5=80=BC=E2=80=9D=EF=BC=8C=E5=92=8C=E5=8F=
+=91=E7=94=9F=E7=9A=84=E5=AE=9E=E9=99=85=E6=B2=A1=E6=9C=89=E5=85=B3=E7=B3=BB=
+=E3=80=82</p>
+
+<p>=E5=B0=B1=E5=A5=BD=E5=83=8F=E6=8A=9B=E4=B8=80=E6=9E=9A=E6=AD=A3=E5=B8=B8=
+=E7=9A=84=E7=A1=AC=E5=B8=81=E6=8A=9B=E4=BA=865=E6=AC=A1=E9=83=BD=E6=98=AF=
+=E6=AD=A3=E9=9D=A2=E6=9C=9D=E4=B8=8A=EF=BC=8C=E4=B8=8B=E4=B8=80=E6=AC=A1=E7=
+=9A=84=E6=8A=9B=E7=A1=AC=E5=B8=81=EF=BC=8C=E6=AD=A3=E9=9D=A2=E6=9C=9D=E4=B8=
+=8A=E7=9A=84=E6=A6=82=E7=8E=87=E8=BF=98=E6=98=AF50%=E3=80=82</p>
+
+</blockquote>
+
+<p>=E8=BF=99=E4=B9=9F=E6=98=AF=E6=88=91=E5=BE=88=E7=BA=B3=E9=97=B7=E7=9A=84=
+,=E5=A6=82=E6=9E=9C=E7=AE=97=E7=9A=84=E6=98=AF=E6=9D=A1=E4=BB=B6=E6=A6=82=
+=E7=8E=87"=E5=9C=A8=E5=89=8D=E4=BA=94=E6=AC=A1=E6=8A=9B=E5=87=BA=E9=83=BD=
+=E6=98=AF=E6=AD=A3=E9=9D=A2=E7=9A=84=E6=83=85=E5=86=B5=E4=B8=8B,=E7=AC=AC=
+=E5=85=AD=E6=AC=A1=E6=8A=9B=E5=87=BA=E6=98=AF=E6=AD=A3=E9=9D=A2=E7=9A=84=E6=
+=A6=82=E7=8E=87=E6=98=AF=E5=A4=9A=E5=B0=91",=E7=BB=93=E6=9E=9C=E8=BF=98=E6=
+=98=AF=E4=B8=80=E6=A0=B7=E5=90=97?=E5=A4=A7=E5=AD=A6=E6=A6=82=E7=8E=87=E8=
+=AE=BA=E6=9C=89=E4=B8=A4=E4=B8=AA=E9=97=AE=E9=A2=98,<br>
+=E4=B8=80=E4=B8=AA=E6=98=AF:=E4=B8=80=E5=AE=B6=E5=BA=AD=E6=81=B0=E6=9C=89=
+=E4=B8=A4=E4=B8=AA=E5=B0=8F=E5=AD=A9,=E4=B8=80=E5=B0=8F=E5=AD=A9=E4=B8=BA=
+=E5=A5=B3,=E5=88=99=E5=8F=A6=E4=B8=80=E5=B0=8F=E5=AD=A9=E4=B8=BA=E7=94=B7=
+=E7=9A=84=E6=A6=82=E7=8E=87=E4=B8=BA=E5=A4=9A=E5=B0=91?<br>
+=E5=8F=A6=E4=B8=80=E4=B8=AA=E6=98=AF:=E8=80=83=E8=99=91=E6=81=B0=E6=9C=89=
+=E4=B8=A4=E4=B8=AA=E5=B0=8F=E5=AD=A9=E7=9A=84=E5=85=A8=E9=83=A8=E5=AE=B6=E5=
+=BA=AD,=E4=BB=8E=E8=BF=99=E4=BA=9B=E5=AE=B6=E5=BA=AD=E4=B8=AD=E9=9A=8F=E6=
+=9C=BA=E9=80=89=E4=B8=80=E5=AD=A9=E5=AD=90,=E8=8B=A5=E5=8F=91=E7=8E=B0=E5=
+=A5=B9=E4=B8=BA=E5=A5=B3=E5=AD=A9,=E5=88=99=E5=8F=A6=E4=B8=80=E5=AD=A9=E5=
+=AD=90=E6=98=AF=E7=94=B7=E5=AD=A9=E7=9A=84=E6=A6=82=E7=8E=87=E6=98=AF=E5=A4=
+=9A=E5=B0=91?<br>
+=E5=89=8D=E8=80=85=E6=98=AF2/3,=E5=90=8E=E8=80=85=E6=98=AF1/2,=E5=8D=81=E5=
+=88=86=E7=BA=B3=E9=97=B7@-@</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"February 27, 2020  2:=
+30 PM">2020=E5=B9=B42=E6=9C=8827=E6=97=A5 14:30</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-416432">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E9=99=88=E5=B0=8F=E5=AD=A9=E7=
+=9A=84=E8=BF=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-418338" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">liuwin7</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-418338">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8=E9=99=88=E5=B0=8F=E5=AD=A9=E7=9A=84=E5=8F=91=E8=A8=
+=80=EF=BC=9A</pre>
+
+<p></p>
+
+<p>=E8=BF=99=E4=B9=9F=E6=98=AF=E6=88=91=E5=BE=88=E7=BA=B3=E9=97=B7=E7=9A=84=
+,=E5=A6=82=E6=9E=9C=E7=AE=97=E7=9A=84=E6=98=AF=E6=9D=A1=E4=BB=B6=E6=A6=82=
+=E7=8E=87"=E5=9C=A8=E5=89=8D=E4=BA=94=E6=AC=A1=E6=8A=9B=E5=87=BA=E9=83=BD=
+=E6=98=AF=E6=AD=A3=E9=9D=A2=E7=9A=84=E6=83=85=E5=86=B5=E4=B8=8B,=E7=AC=AC=
+=E5=85=AD=E6=AC=A1=E6=8A=9B=E5=87=BA=E6=98=AF=E6=AD=A3=E9=9D=A2=E7=9A=84=E6=
+=A6=82=E7=8E=87=E6=98=AF=E5=A4=9A=E5=B0=91",=E7=BB=93=E6=9E=9C=E8=BF=98=E6=
+=98=AF=E4=B8=80=E6=A0=B7=E5=90=97?=E5=A4=A7=E5=AD=A6=E6=A6=82=E7=8E=87=E8=
+=AE=BA=E6=9C=89=E4=B8=A4=E4=B8=AA=E9=97=AE=E9=A2=98,<br>
+=E4=B8=80=E4=B8=AA=E6=98=AF:=E4=B8=80=E5=AE=B6=E5=BA=AD=E6=81=B0=E6=9C=89=
+=E4=B8=A4=E4=B8=AA=E5=B0=8F=E5=AD=A9,=E4=B8=80=E5=B0=8F=E5=AD=A9=E4=B8=BA=
+=E5=A5=B3,=E5=88=99=E5=8F=A6=E4=B8=80=E5=B0=8F=E5=AD=A9=E4=B8=BA=E7=94=B7=
+=E7=9A=84=E6=A6=82=E7=8E=87=E4=B8=BA=E5=A4=9A=E5=B0=91?<br>
+=E5=8F=A6=E4=B8=80=E4=B8=AA=E6=98=AF:=E8=80=83=E8=99=91=E6=81=B0=E6=9C=89=
+=E4=B8=A4=E4=B8=AA=E5=B0=8F=E5=AD=A9=E7=9A=84=E5=85=A8=E9=83=A8=E5=AE=B6=E5=
+=BA=AD,=E4=BB=8E=E8=BF=99=E4=BA=9B=E5=AE=B6=E5=BA=AD=E4=B8=AD=E9=9A=8F=E6=
+=9C=BA=E9=80=89=E4=B8=80=E5=AD=A9=E5=AD=90,=E8=8B=A5=E5=8F=91=E7=8E=B0=E5=
+=A5=B9=E4=B8=BA=E5=A5=B3=E5=AD=A9,=E5=88=99=E5=8F=A6=E4=B8=80=E5=AD=A9=E5=
+=AD=90=E6=98=AF=E7=94=B7=E5=AD=A9=E7=9A=84=E6=A6=82=E7=8E=87=E6=98=AF=E5=A4=
+=9A=E5=B0=91?<br>
+=E5=89=8D=E8=80=85=E6=98=AF2/3,=E5=90=8E=E8=80=85=E6=98=AF1/2,=E5=8D=81=E5=
+=88=86=E7=BA=B3=E9=97=B7@-@</p>
+
+</blockquote>
+
+<p>=E5=85=B3=E9=94=AE=E7=82=B9=E5=9C=A8=E4=BA=8E=E6=AD=A3=E7=A1=AE=E7=90=86=
+=E8=A7=A3=EF=BC=8C=E7=8B=AC=E7=AB=8B=E9=9A=8F=E6=9C=BA=E4=BA=8B=E4=BB=B6=E3=
+=80=82<br>
+=E5=A6=82=E6=9E=9C=E9=97=AE=E9=A2=982=E6=8D=A2=E4=B8=80=E7=A7=8D=E6=8F=8F=
+=E8=BF=B0=EF=BC=8C=E9=97=AE=E9=A2=98=E5=B0=B1=E6=B8=85=E6=A5=9A=E4=BA=86=EF=
+=BC=8C=E2=80=9C=E8=80=83=E8=99=91=E6=81=B0=E6=9C=89=E4=B8=A4=E4=B8=AA=E5=B0=
+=8F=E5=AD=A9=E7=9A=84=E5=85=A8=E9=83=A8=E5=AE=B6=E5=BA=AD,=E4=BB=8E=E8=BF=
+=99=E4=BA=9B=E5=AE=B6=E5=BA=AD=E9=80=89=E6=8B=A9=E4=B8=80=E4=B8=AA=E5=AE=B6=
+=E5=BA=AD=EF=BC=8C=E6=98=AF=E4=B8=80=E7=94=B7=E4=B8=80=E5=A5=B3=E7=9A=84=E6=
+=A6=82=E7=8E=87=EF=BC=8C=E6=98=AF=E5=A4=9A=E5=B0=91=E2=80=9D=E3=80=82=E4=BA=
+=8B=E4=BB=B6=E6=BB=A1=E8=B6=B3=E7=8B=AC=E7=AB=8B=E4=B8=94=E9=9A=8F=E6=9C=BA=
+=E3=80=82</p>
+
+<p>=E5=86=8D=E7=9C=8B=E9=97=AE=E9=A2=981=EF=BC=8C=E4=B8=BA=E4=BD=95=E6=98=
+=AF2/3=EF=BC=8C=E4=B8=A4=E4=B8=AA=E5=AD=A9=E5=AD=90=E7=9A=84=E7=94=B7=E5=A5=
+=B3=E6=8E=92=E5=88=97=E5=92=8C=E7=BB=84=E5=90=88=EF=BC=8C=E4=B8=80=E5=85=B1=
+=E5=B0=B14=E7=A7=8D=EF=BC=8C=E5=88=86=E5=88=AB=E6=98=AF=E7=94=B7=E5=A5=B3=
+=E3=80=81=E5=A5=B3=E7=94=B7=EF=BC=8C=E5=A5=B3=E5=A5=B3=EF=BC=8C=E7=94=B7=E7=
+=94=B7=EF=BC=8C=E5=B7=B2=E7=BB=8F=E7=9F=A5=E9=81=93=E6=9C=89=E4=B8=80=E4=B8=
+=AA=E6=98=AF=E5=A5=B3=E5=AD=A9=EF=BC=8C=E2=80=9C=E7=94=B7=E7=94=B7=E2=80=9D=
+=E8=BF=99=E7=A7=8D=E5=8F=AF=E8=83=BD=E5=B0=B1=E8=A2=AB=E6=8E=92=E9=99=A4=E4=
+=BA=86=E3=80=82<br>
+=E6=89=80=E4=BB=A5=E5=8F=AF=E8=83=BD=E6=80=A7=E5=B0=B13=E4=B8=AA=EF=BC=88=
+=E7=94=B7=E5=A5=B3=E3=80=81=E5=A5=B3=E7=94=B7=EF=BC=8C=E5=A5=B3=E5=A5=B3=EF=
+=BC=89=EF=BC=8C=E8=80=8C=E6=BB=A1=E8=B6=B3=E6=9D=A1=E4=BB=B6=E7=9A=84=E5=8F=
+=AF=E8=83=BD=E6=80=A7=E6=98=AF2=E4=B8=AA=EF=BC=88=E7=94=B7=E5=A5=B3=EF=BC=
+=8C=E5=A5=B3=E7=94=B7=EF=BC=89=EF=BC=8C=E6=89=80=E4=BB=A5=EF=BC=8C=E7=AC=AC=
+=E4=B8=80=E9=A2=98=E6=98=AF=EF=BC=8C2/3=EF=BC=8C=E8=BF=99=E4=B8=AA=E9=A2=98=
+=E5=BA=94=E8=AF=A5=E5=9C=A8=E9=AB=98=E4=B8=AD=E7=9A=84=E7=94=9F=E7=89=A9=E9=
+=87=8C=E9=9D=A2=E4=BC=9A=E5=AD=A6=E5=88=B0=E3=80=82</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"May 15, 2020 11:06 AM=
+">2020=E5=B9=B45=E6=9C=8815=E6=97=A5 11:06</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-418338">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8liuwin7=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-418339" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">liuwin7</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-418339">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8liuwin7=E7=9A=84=E5=8F=91=E8=A8=80=EF=BC=9A</pre>
+
+<p></p>
+
+<p>=E5=85=B3=E9=94=AE=E7=82=B9=E5=9C=A8=E4=BA=8E=E6=AD=A3=E7=A1=AE=E7=90=86=
+=E8=A7=A3=EF=BC=8C=E7=8B=AC=E7=AB=8B=E9=9A=8F=E6=9C=BA=E4=BA=8B=E4=BB=B6=E3=
+=80=82<br>
+=E5=A6=82=E6=9E=9C=E9=97=AE=E9=A2=982=E6=8D=A2=E4=B8=80=E7=A7=8D=E6=8F=8F=
+=E8=BF=B0=EF=BC=8C=E9=97=AE=E9=A2=98=E5=B0=B1=E6=B8=85=E6=A5=9A=E4=BA=86=EF=
+=BC=8C=E2=80=9C=E8=80=83=E8=99=91=E6=81=B0=E6=9C=89=E4=B8=A4=E4=B8=AA=E5=B0=
+=8F=E5=AD=A9=E7=9A=84=E5=85=A8=E9=83=A8=E5=AE=B6=E5=BA=AD,=E4=BB=8E=E8=BF=
+=99=E4=BA=9B=E5=AE=B6=E5=BA=AD=E9=80=89=E6=8B=A9=E4=B8=80=E4=B8=AA=E5=AE=B6=
+=E5=BA=AD=EF=BC=8C=E6=98=AF=E4=B8=80=E7=94=B7=E4=B8=80=E5=A5=B3=E7=9A=84=E6=
+=A6=82=E7=8E=87=EF=BC=8C=E6=98=AF=E5=A4=9A=E5=B0=91=E2=80=9D=E3=80=82=E4=BA=
+=8B=E4=BB=B6=E6=BB=A1=E8=B6=B3=E7=8B=AC=E7=AB=8B=E4=B8=94=E9=9A=8F=E6=9C=BA=
+=E3=80=82</p>
+
+<p><br>
+=E5=86=8D=E7=9C=8B=E9=97=AE=E9=A2=981=EF=BC=8C=E4=B8=BA=E4=BD=95=E6=98=AF2/=
+3=EF=BC=8C=E4=B8=A4=E4=B8=AA=E5=AD=A9=E5=AD=90=E7=9A=84=E7=94=B7=E5=A5=B3=
+=E6=8E=92=E5=88=97=E5=92=8C=E7=BB=84=E5=90=88=EF=BC=8C=E4=B8=80=E5=85=B1=E5=
+=B0=B14=E7=A7=8D=EF=BC=8C=E5=88=86=E5=88=AB=E6=98=AF=E7=94=B7=E5=A5=B3=E3=
+=80=81=E5=A5=B3=E7=94=B7=EF=BC=8C=E5=A5=B3=E5=A5=B3=EF=BC=8C=E7=94=B7=E7=94=
+=B7=EF=BC=8C=E5=B7=B2=E7=BB=8F=E7=9F=A5=E9=81=93=E6=9C=89=E4=B8=80=E4=B8=AA=
+=E6=98=AF=E5=A5=B3=E5=AD=A9=EF=BC=8C=E2=80=9C=E7=94=B7=E7=94=B7=E2=80=9D=E8=
+=BF=99=E7=A7=8D=E5=8F=AF=E8=83=BD=E5=B0=B1=E8=A2=AB=E6=8E=92=E9=99=A4=E4=BA=
+=86=E3=80=82<br>
+=E6=89=80=E4=BB=A5=E5=8F=AF=E8=83=BD=E6=80=A7=E5=B0=B13=E4=B8=AA=EF=BC=88=
+=E7=94=B7=E5=A5=B3=E3=80=81=E5=A5=B3=E7=94=B7=EF=BC=8C=E5=A5=B3=E5=A5=B3=EF=
+=BC=89=EF=BC=8C=E8=80=8C=E6=BB=A1=E8=B6=B3=E6=9D=A1=E4=BB=B6=E7=9A=84=E5=8F=
+=AF=E8=83=BD=E6=80=A7=E6=98=AF2=E4=B8=AA=EF=BC=88=E7=94=B7=E5=A5=B3=EF=BC=
+=8C=E5=A5=B3=E7=94=B7=EF=BC=89=EF=BC=8C=E6=89=80=E4=BB=A5=EF=BC=8C=E7=AC=AC=
+=E4=B8=80=E9=A2=98=E6=98=AF=EF=BC=8C2/3=EF=BC=8C=E8=BF=99=E4=B8=AA=E9=A2=98=
+=E5=BA=94=E8=AF=A5=E5=9C=A8=E9=AB=98=E4=B8=AD=E7=9A=84=E7=94=9F=E7=89=A9=E9=
+=87=8C=E9=9D=A2=E4=BC=9A=E5=AD=A6=E5=88=B0=E3=80=82</p>
+
+</blockquote>
+
+<p>Sorry=EF=BC=8C=E5=AF=B9=E7=AC=AC2=E4=B8=AA=E9=97=AE=E9=A2=98=E7=90=86=E8=
+=A7=A3=E6=9C=89=E8=AF=AF=E3=80=82<br>
+=E4=B8=8D=E7=9F=A5=E9=81=93=E5=8E=9F=E6=96=87=E6=98=AF=E6=80=8E=E4=B9=88=E6=
+=8F=8F=E8=BF=B0=EF=BC=8C=E6=84=9F=E8=A7=89=E8=A1=A8=E8=BE=BE=E6=9C=89=E7=B2=
+=BE=E7=AE=80=EF=BC=8C=E2=80=9C=E8=8B=A5=E5=8F=91=E7=8E=B0=E5=A5=B9=E4=B8=BA=
+=E5=A5=B3=E5=AD=A9,=E5=88=99=E5=8F=A6=E4=B8=80=E5=AD=A9=E5=AD=90=E6=98=AF=
+=E7=94=B7=E5=AD=A9=E7=9A=84=E6=A6=82=E7=8E=87=E6=98=AF=E5=A4=9A=E5=B0=91?=
+=E2=80=9D =E5=BA=94=E8=AF=A5=E6=98=AF =E2=80=9C=E8=8B=A5=E5=8F=91=E7=8E=B0=
+=E5=A5=B9=E4=B8=BA=E5=A5=B3=E5=AD=A9,=E5=88=99=E8=AF=A5=E5=AE=B6=E5=BA=AD=
+=E4=B8=AD=EF=BC=8C=E5=8F=A6=E4=B8=80=E5=AD=A9=E5=AD=90=E6=98=AF=E7=94=B7=E5=
+=AD=A9=E7=9A=84=E6=A6=82=E7=8E=87=E6=98=AF=E5=A4=9A=E5=B0=91?=E2=80=9D<br>
+=E5=9F=BA=E4=BA=8E=E6=AD=A4=EF=BC=8C=E6=88=91=E7=9A=84=E7=90=86=E8=A7=A3=EF=
+=BC=8C=E9=80=89=E5=87=BA=E4=B8=80=E4=B8=AA=E5=AD=A9=E5=AD=90=E6=98=AF=E5=A5=
+=B3=E5=AD=A9=E8=BF=99=E4=B8=AA=E4=BA=8B=E4=BB=B6=EF=BC=8C=E8=B7=9F=E5=90=8E=
+=E9=9D=A2=E9=82=A3=E4=B8=AA=E4=BA=8B=E4=BB=B6=EF=BC=88=E8=AF=A5=E5=AE=B6=E5=
+=BA=AD=E7=9A=84=E5=8F=A6=E4=B8=80=E4=B8=AA=E5=AD=A9=E5=AD=90=E6=98=AF=E7=94=
+=B7=E5=AD=A9=EF=BC=89=EF=BC=8C=E4=B9=8B=E9=97=B4=E6=98=AF=E6=B2=A1=E6=9C=89=
+=E5=85=B3=E7=B3=BB=E7=9A=84=EF=BC=8C=E7=9B=B8=E5=AF=B9=E7=8B=AC=E7=AB=8B=E7=
+=9A=84=E3=80=82=E8=80=8C=E4=B8=94=E6=98=AF=E9=9A=8F=E6=9C=BA=E7=9A=84=E3=80=
+=82<br>
+</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"May 15, 2020 11:31 AM=
+">2020=E5=B9=B45=E6=9C=8815=E6=97=A5 11:31</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-418339">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8liuwin7=E7=9A=84=E8=BF=99=E6=
+=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-427088" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E6=9C=88=E5=85=89=E7=85=
+=A7=E5=9C=A8=E9=85=92=E7=93=B6=E4=B8=8A</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-427088">
+            <p>=E8=BF=99=E6=9C=AC=E8=B4=A8=E6=98=AF=E5=BA=94=E8=AF=A5=E6=8E=
+=A2=E6=B1=82=E4=B8=AD=E5=BF=83=E6=9E=81=E9=99=90=E5=AE=9A=E7=90=86=EF=BC=88=
+central limit theorem=EF=BC=89=E4=B8=BA=E4=BB=80=E4=B9=88=E9=82=A3=E4=B9=88=
+=E7=A5=9E=E5=A5=87=EF=BC=9F =E6=88=91=E5=8F=AA=E8=83=BD=E5=AE=9A=E6=80=A7=
+=E7=9A=84=E7=90=86=E8=A7=A3=E6=88=90=EF=BC=8C=E8=BF=99=E9=87=8C=E9=9D=A2=E6=
+=98=AF=E5=A4=A7=E6=95=B0=E5=AE=9A=E5=BE=8B=E8=BF=99=E4=B8=AA=E7=AE=80=E5=8D=
+=95=E8=A7=84=E5=BE=8B=E7=9A=84=E4=B8=80=E7=A7=8D=E7=B4=AF=E7=A7=AF=E5=90=8E=
+=E7=9A=84=E6=95=88=E6=9E=9C</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"May 28, 2021  9:25 AM=
+">2021=E5=B9=B45=E6=9C=8828=E6=97=A5 09:25</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-427088">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E6=9C=88=E5=85=89=E7=85=A7=E5=
+=9C=A8=E9=85=92=E7=93=B6=E4=B8=8A=E7=9A=84=E8=BF=99=E6=9D=A1=E7=95=99=E8=A8=
+=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-430221" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">=E7=AC=99=E7=AE=AB=E9=BB=
+=98</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-430221">
+            <p>=E5=90=8C=E9=97=AE=EF=BC=8C=E8=B4=A2=E5=AF=8C=E5=88=86=E5=B8=
+=83=E4=B8=8D=E6=98=AF=E5=B9=82=E5=BE=8B=E5=88=86=E5=B8=83=E5=90=97=EF=BC=9F=
+</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"October 24, 2021 10:5=
+0 PM">2021=E5=B9=B410=E6=9C=8824=E6=97=A5 22:50</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-430221">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8=E7=AC=99=E7=AE=AB=E9=BB=98=E7=
+=9A=84=E8=BF=99=E6=9D=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-432858" class=3D"comment">
+    <div class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">Solas</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-432858">
+            <blockquote>
+<pre>=E5=BC=95=E7=94=A8zhangxiaoping=E7=9A=84=E5=8F=91=E8=A8=80=EF=BC=9A</p=
+re>
+
+<p>=E7=94=B7=E5=A5=B3=E8=BA=AB=E9=AB=98=E3=80=81=E5=AF=BF=E5=91=BD=E3=80=81=
+=E8=A1=80=E5=8E=8B=E3=80=81=E8=80=83=E8=AF=95=E6=88=90=E7=BB=A9=E3=80=81=E6=
+=B5=8B=E9=87=8F=E8=AF=AF=E5=B7=AE=E7=AD=89=E7=AD=89=EF=BC=8C=E9=83=BD=E5=B1=
+=9E=E4=BA=8E=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E3=80=82</p>
+
+<p>-------------------------------------------------------------</p>
+
+<p>=E8=BF=99=E5=8F=A5=E8=AF=9D=E6=98=BE=E7=84=B6=E6=98=AF=E9=94=99=E8=AF=AF=
+=EF=BC=8C=E7=BB=9F=E8=AE=A1=E5=AD=A6=E5=AE=B6=E5=85=A8=E6=98=AF=E9=AA=97=E5=
+=AD=90=E3=80=81=E5=BC=B1=E6=99=BA=E3=80=82</p>
+
+<p>=E6=AF=94=E5=A6=82=E7=94=B7=E5=A5=B3=E8=BA=AB=E9=AB=98=E3=80=82=E6=9F=90=
+=E6=97=B6=E5=88=BB1000=E4=B8=AA=E4=BA=BA=EF=BC=8C=E5=81=87=E5=A6=82=E8=BF=
+=991000=E4=B8=AA=E4=BA=BA=E7=AC=A6=E5=90=88=E6=AD=A3=E5=A4=AA=E5=88=86=E5=
+=B8=83;=E8=80=83=E5=AF=9F=E4=B8=8B=E4=B8=80=E6=97=B6=E5=88=BB=EF=BC=8C=E5=
+=A4=9A=E4=BA=86=E4=B8=80=E4=B8=AA=E4=BA=BA=EF=BC=8C1001=E4=B8=AA=E4=BA=BA=
+=EF=BC=8C=E8=BF=991001=E4=B8=AA=E4=BA=BA=E7=9A=84=E8=BA=AB=E9=AB=98=E4=B9=
+=9F=E7=AC=A6=E5=90=88=E6=AD=A3=E5=A4=AA=E5=88=86=E5=B8=83=E5=90=97=EF=BC=9F=
+=E6=98=BE=E7=84=B6=E4=B8=8D=E6=98=AF=E3=80=82</p>
+
+</blockquote>
+
+<p>=E8=BF=99=E4=B9=88=E6=AD=A6=E6=96=AD=E7=9A=84=E8=AF=84=E5=88=A4=E7=BB=9F=
+=E8=AE=A1=E5=AD=A6=E5=AE=B6=EF=BC=8C=E8=80=8C=E4=BA=8B=E5=AE=9E=E4=B8=8A=E5=
+=8D=B4=E6=98=AF=E4=BD=A0=E6=B2=A1=E6=9C=89=E6=98=8E=E7=99=BD=E6=95=B0=E6=8D=
+=AE=E7=9A=84=E6=A6=82=E7=8E=87=E5=88=86=E5=B8=83=E5=92=8C=E5=AE=9E=E9=99=85=
+=E9=87=87=E6=A0=B7=E4=B9=8B=E9=97=B4=E7=9A=84=E5=B7=AE=E5=BC=82=EF=BC=8C=E5=
+=B8=8C=E6=9C=9B=E4=BA=94=E5=B9=B4=E5=90=8E=E7=9A=84=E4=BD=A0=E5=B7=B2=E7=BB=
+=8F=E8=AE=A4=E8=AF=86=E5=88=B0=E4=BA=86=E6=97=A0=E7=9F=A5=EF=BC=8C=E4=B9=9F=
+=E6=94=B6=E8=B5=B7=E4=BA=86=E5=82=B2=E6=85=A2=E5=90=A7</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"March 29, 2022  4:13 =
+PM">2022=E5=B9=B43=E6=9C=8829=E6=97=A5 16:13</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-432858">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8Solas=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+   =20
+       =20
+        <div id=3D"comment-438331" class=3D"comment">
+    <div id=3D"comment-last" class=3D"inner">
+        <div class=3D"comment-header">
+            <div class=3D"asset-meta">
+<p>
+                <span class=3D"byline">
+                   =20
+
+                    <span class=3D"vcard author">hongqi</span>
+
+ =E8=AF=B4=EF=BC=9A
+                </span>
+</p>
+            </div>
+        </div>
+        <div class=3D"comment-content" id=3D"comment-quote-438331">
+            <p>=E6=95=88=E5=BA=94=E6=98=AF=E7=8B=AC=E7=AB=8B=E7=9A=84=EF=BC=
+=8C=E4=BD=86=E4=B9=98=E6=B3=95=E6=80=A7=E7=9A=84=EF=BC=8C=E6=98=AF=E5=AF=B9=
+=E6=95=B0=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=E3=80=82<br>
+=E5=A6=82=E6=9E=9C=E4=B8=8D=E6=98=AF=E7=8B=AC=E7=AB=8B=E5=B0=B1=E4=BC=9A=E6=
+=98=AF=E5=B9=82=E5=BE=8B=E5=88=86=E5=B8=83=E3=80=82<br>
+=E8=BF=99=E9=87=8C=E8=AE=B2=E9=94=99=E4=BA=86</p>
+
+<p>=E2=80=98=E5=8E=9F=E6=9D=A5=EF=BC=8C=E6=AD=A3=E6=80=81=E5=88=86=E5=B8=83=
+=E5=8F=AA=E9=80=82=E5=90=88=E5=90=84=E7=A7=8D=E5=9B=A0=E7=B4=A0=E7=B4=AF=E5=
+=8A=A0=E7=9A=84=E6=83=85=E5=86=B5=EF=BC=8C=E5=A6=82=E6=9E=9C=E8=BF=99=E4=BA=
+=9B=E5=9B=A0=E7=B4=A0=E4=B8=8D=E6=98=AF=E5=BD=BC=E6=AD=A4=E7=8B=AC=E7=AB=8B=
+=E7=9A=84=EF=BC=8C=E4=BC=9A=E4=BA=92=E7=9B=B8=E5=8A=A0=E5=BC=BA=E5=BD=B1=E5=
+=93=8D=EF=BC=8C=E9=82=A3=E4=B9=88=E5=B0=B1=E4=B8=8D=E6=98=AF=E6=AD=A3=E6=80=
+=81=E5=88=86=E5=B8=83=E4=BA=86=E3=80=82=E4=B8=80=E4=B8=AA=E4=BA=BA=E6=98=AF=
+=E5=90=A6=E8=83=BD=E5=A4=9F=E6=8C=A3=E5=A4=A7=E9=92=B1=EF=BC=8C=E7=94=B1=E5=
+=A4=9A=E7=A7=8D=E5=9B=A0=E7=B4=A0=E5=86=B3=E5=AE=9A=EF=BC=9A<br>
+=E5=AE=B6=E5=BA=AD<br>
+=E6=95=99=E8=82=B2<br>
+=E8=BF=90=E6=B0=94<br>
+=E5=B7=A5=E4=BD=9C<br>
+...<br>
+=E8=BF=99=E4=BA=9B=E5=9B=A0=E7=B4=A0=E9=83=BD=E4=B8=8D=E6=98=AF=E7=8B=AC=E7=
+=AB=8B=E7=9A=84=EF=BC=8C=E4=BC=9A=E5=BD=BC=E6=AD=A4=E5=8A=A0=E5=BC=BA=E3=80=
+=82=E2=80=99</p>
+        </div>
+<div class=3D"comment-footer">
+<div class=3D"comment-footer-inner">
+<p>
+                   <abbr class=3D"published" title=3D"June  4, 2023 11:08 P=
+M">2023=E5=B9=B46=E6=9C=88 4=E6=97=A5 23:08</abbr>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-438331">#</a>
+ | <a href=3D"https://www.ruanyifeng.com/blog/2017/08/normal-distribution.h=
+tml#comment-text" title=3D"=E5=BC=95=E7=94=A8hongqi=E7=9A=84=E8=BF=99=E6=9D=
+=A1=E7=95=99=E8=A8=80">=E5=BC=95=E7=94=A8</a>
+</p>
+</div>
+</div>
+    </div>
+</div>
+       =20
+    </div>
+       =20
+   =20
+
+
+   =20
+   =20
+    <div class=3D"comments-open" id=3D"comments-open">
+        <h2 class=3D"comments-open-header">=E6=88=91=E8=A6=81=E5=8F=91=E8=
+=A1=A8=E7=9C=8B=E6=B3=95</h2>
+        <div class=3D"comments-open-content">
+
+       =20
+            <div id=3D"comment-greeting"></div>
+
+            <form method=3D"post" action=3D"https://www.ruanyifeng.com/cgi-=
+bin/mtos/mt-comments.cgi" name=3D"comments_form" id=3D"comments-form">
+               =20
+               =20
+               =20
+               =20
+               =20
+               =20
+               =20
+                <div id=3D"comments-open-data">
+            <div id=3D"comments-open-text">
+                    <p><label for=3D"comment-text">=E6=82=A8=E7=9A=84=E7=95=
+=99=E8=A8=80
+                    =EF=BC=88HTML=E6=A0=87=E7=AD=BE=E9=83=A8=E5=88=86=E5=8F=
+=AF=E7=94=A8=EF=BC=89</label></p>
+                    <p><textarea id=3D"comment-text" name=3D"text" rows=3D"=
+10" cols=3D"50"></textarea></p>
+                </div>
+                    <div id=3D"comment-form-name">
+                        <p><label for=3D"comment-author">=E6=82=A8=E7=9A=84=
+=E5=A4=A7=E5=90=8D=EF=BC=9A</label></p>
+                        <p><input id=3D"comment-author" name=3D"author" siz=
+e=3D"30" value=3D"">  <span class=3D"hint"> =C2=AB-=E5=BF=85=E5=A1=AB</span=
+></p>
+                    </div>
+                    <div id=3D"comment-form-email">
+                        <p><label for=3D"comment-email">=E7=94=B5=E5=AD=90=
+=E9=82=AE=E4=BB=B6=EF=BC=9A</label></p>
+                        <p><input id=3D"comment-email" name=3D"email" size=
+=3D"30" value=3D"">  <span class=3D"hint"> =C2=AB-=E5=BF=85=E5=A1=AB=EF=BC=
+=8C=E4=B8=8D=E5=85=AC=E5=BC=80</span></p>
+                    </div>
+                    <div id=3D"comment-form-url">
+                        <p><label for=3D"comment-url">=E4=B8=AA=E4=BA=BA=E7=
+=BD=91=E5=9D=80=EF=BC=9A</label></p>
+                        <p><input id=3D"comment-url" name=3D"url" size=3D"3=
+0" value=3D"">  <span class=3D"hint"> =C2=AB-=E6=88=91=E4=BF=A1=E4=BB=BB=E4=
+=BD=A0=EF=BC=8C=E4=B8=8D=E4=BC=9A=E5=A1=AB=E5=86=99=E5=B9=BF=E5=91=8A=E9=93=
+=BE=E6=8E=A5</span></p>
+                    </div>
+                    <div id=3D"comment-form-remember-me">
+                        <p>
+                        <label for=3D"comment-bake-cookie">=E8=AE=B0=E4=BD=
+=8F=E4=B8=AA=E4=BA=BA=E4=BF=A1=E6=81=AF=EF=BC=9F</label><input type=3D"chec=
+kbox" id=3D"comment-bake-cookie" name=3D"bakecookie" value=3D"1" accesskey=
+=3D"r"></p>
+                    </div>
+                </div>
+                    <div id=3D"comment-form-reply" style=3D"display:none">
+                    <input type=3D"checkbox" id=3D"comment-reply" name=3D"c=
+omment_reply" value=3D"">
+                    <label for=3D"comment-reply" id=3D"comment-reply-label"=
+></label>
+                </div>
+                <div id=3D"comments-open-captcha"></div>
+                <div id=3D"comments-open-footer">
+<div id=3D"wait" style=3D"display:none;">
+<p><strong>=E6=AD=A3=E5=9C=A8=E5=8F=91=E8=A1=A8=E6=82=A8=E7=9A=84=E8=AF=84=
+=E8=AE=BA=EF=BC=8C=E8=AF=B7=E7=A8=8D=E5=80=99</strong></p>
+<p>
+<input type=3D"text" name=3D"percent" size=3D"3" style=3D"font-family:Arial=
+; color:black;text-align:center; border-width:medium; border-style:none;"> =
+         =20
+<input type=3D"text" name=3D"chart" size=3D"46" style=3D"font-family:Arial;=
+font-weight:bolder; color:black; padding:0px; border-style:none;">
+</p>
+</div>
+
+                    <p><input type=3D"submit" accesskey=3D"s" name=3D"post"=
+ id=3D"comment-submit" value=3D"=E5=8F=91=E8=A1=A8">  <span class=3D"hint">=
+ =C2=AB- =E7=82=B9=E5=87=BB=E6=8C=89=E9=92=AE</span></p>
+                </div>
+            </form>
+
+
+        </div>
+    </div>
+
+   =20
+
+
+</div>
+
+
+
+
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+       =20
+        =20
+            <div id=3D"footer">
+<div id=3D"footer-inner">
+  <div id=3D"footer-content">
+
+     =20
+<!--
+      <section>=20
+     </section>
+  <p><a title=3D"Instagram" target=3D"_blank" href=3D"http://instagram.com/=
+ruanyf">Instagram</a></p>
+       <p><a title=3D"=E8=AE=A2=E9=98=85" href=3D"https://app.feedblitz.com=
+/f/f.fbz?Sub=3D348868" target=3D"_blank">=E9=82=AE=E4=BB=B6=E8=AE=A2=E9=98=
+=85</a></p>
+ =20
+       <h2>Feed</h2>
+       <p><a title=3D"FeedBurner" href=3D"http://feeds.feedburner.com/ruany=
+ifeng" target=3D"_blank">FeedBurner</a></p>
+       <p><a title=3D"atom.xml" href=3D"http://www.ruanyifeng.com/blog/atom=
+.xml" target=3D"_blank">atom.xml</a></p>
+    =20
+      <p>=E6=94=AF=E4=BB=98=E5=AE=9D=EF=BC=9A<a title=3D"=E6=94=AF=E4=BB=98=
+=E5=AE=9D" href=3D"alipays://platformapi/startapp?appId=3D20000067&url=3Dht=
+tp%3A%2F%2Fwww.ruanyifeng.com%2Fblog" target=3D"_blank">yifeng.ruan@gmail.c=
+om</a></p>
+-->
+
+     <section>
+<!--
+       <h2>=E6=8E=88=E6=9D=83=E6=96=B9=E5=BC=8F</h2>
+       <p><a title=3D"=E8=AE=B8=E5=8F=AF=E8=AF=81" href=3D"http://creativec=
+ommons.org/licenses/by-nc-nd/3.0/deed.zh" target=3D"_blank">=E8=87=AA=E7=94=
+=B1=E8=BD=AC=E8=BD=BD-=E9=9D=9E=E5=95=86=E7=94=A8-=E9=9D=9E=E8=A1=8D=E7=94=
+=9F-=E4=BF=9D=E6=8C=81=E7=BD=B2=E5=90=8D</a></p>
+       <h2>=E5=BE=AE=E4=BF=A1=E5=85=AC=E5=8F=B7</h2>
+       <h2>=E7=A4=BE=E4=BA=A4=E5=B8=90=E5=8F=B7</h2>
+       <h2>=E8=81=94=E7=B3=BB=E6=96=B9=E5=BC=8F</h2>
+     -->
+       <p><img src=3D"https://www.wangbase.com/blogimg/asset/202001/bg20200=
+13101.jpg" alt=3D"=E5=BE=AE=E4=BF=A1=E6=89=AB=E6=8F=8F"></p>
+       <p>
+         <a title=3D"=E5=BE=AE=E5=8D=9A" href=3D"http://weibo.com/ruanyf" t=
+arget=3D"_blank">Weibo</a> |=20
+         <a title=3D"Twitter" target=3D"_blank" href=3D"https://twitter.com=
+/ruanyf">Twitter</a> |
+         <a title=3D"GitHub" target=3D"_blank" href=3D"https://github.com/r=
+uanyf">GitHub</a>
+       </p>
+    =20
+     <p>Email: <a title=3D"=E7=94=B5=E5=AD=90=E9=82=AE=E4=BB=B6" href=3D"ma=
+ilto:yifeng.ruan@gmail.com" target=3D"_blank">yifeng.ruan@gmail.com</a></p>
+     </section>
+ =20
+ =20
+
+
+  </div>
+</div>
+</div>
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                                           =
+                                                             =20
+
+
+
+
+
+
+
+        </div>
+    </div>
+
+</body></html>
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-d8a322de-5b75-46e8-8ecc-cf83411fe064@mhtml.blink
+
+@charset "utf-8";
+
+body { background-color: rgb(245, 245, 213); }
+
+#container::before { display: block; width: 100%; padding: 10px; background=
+: rgba(0, 0, 0, 0.1); text-align: center; content: "=E6=9C=AC=E7=AB=99=E6=
+=98=BE=E7=A4=BA=E4=B8=8D=E6=AD=A3=E5=B8=B8=EF=BC=8C=E5=8F=AF=E8=83=BD=E5=9B=
+=A0=E4=B8=BA=E6=82=A8=E4=BD=BF=E7=94=A8=E4=BA=86=E5=B9=BF=E5=91=8A=E6=8B=A6=
+=E6=88=AA=E5=99=A8=E3=80=82"; }
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5252bef0-b546-4e40-961c-e33c4d96b2ab@mhtml.blink
+
+@charset "utf-8";
+
+.wwads-content .wwads-text { font-size: 1.4em; }
+
+.wwads-cn img { border: none; }
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.ruanyifeng.com/static/themes/theme_scrapbook/theme_scrapbook.min.css
+
+@charset "utf-8";
+
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquot=
+e, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, =
+ol, ul, li, tt, fieldset, form, label, legend, table, caption, tbody, tfoot=
+, thead, tr, th, td { margin: 0px; padding: 0px; list-style-type: none; tex=
+t-align: left; text-decoration: none; font-weight: normal; font-style: norm=
+al; border: none; color: rgb(17, 17, 17); }
+
+body { margin: 0px; padding: 0px; background-color: rgb(245, 245, 213); fon=
+t-family: Georgia, serif; letter-spacing: -0.01em; word-spacing: 0.2em; lin=
+e-height: 1.8em; font-size: 62.5%; color: rgb(17, 17, 17); width: 98%; }
+
+body.mobile { font-size: 60%; }
+
+body.mobile.two-columns { font-size: 100%; }
+
+#container::before { display: none; }
+
+@media (max-width: 30rem) {
+  body, body.mobile.two-columns { font-size: 60%; }
+}
+
+h1 { font-size: 2.88em; }
+
+h2 { font-size: 2.88em; line-height: 1.35em; }
+
+body.mobile h2 { font-size: 2em; }
+
+@media (max-width: 30rem) {
+  h2 { font-size: 2em; }
+}
+
+h3 { font-size: 1.87em; }
+
+h4 { font-size: 1.5em; }
+
+ul li { list-style-type: square; }
+
+ol li { list-style-type: decimal; list-style-position: inside; }
+
+img { border: 2px solid rgb(0, 57, 138); }
+
+strong { font-weight: 800; }
+
+p, li { font-size: 1.6em; line-height: 220%; }
+
+input, textarea { font-size: 1.13em; }
+
+select, button { font-size: 1.03em; }
+
+#container { margin: 0px auto; background-color: rgb(245, 245, 213); paddin=
+g: 1em; }
+
+body.one-column #container { width: 65%; min-width: 640px; max-width: 960px=
+; }
+
+body.two-columns #container { width: 85%; min-width: 780px; max-width: 1260=
+px; }
+
+body.mobile.one-column #container, body.mobile.two-columns #container { wid=
+th: 98%; min-width: 0px; overflow: hidden; }
+
+@media (max-width: 48rem) {
+  #container { padding: 0.5em; }
+  body.one-column #container { width: 98%; min-width: 0px; overflow: hidden=
+; }
+  body.two-columns #container { width: 98%; min-width: 0px; overflow: hidde=
+n; }
+}
+
+#header { width: 100%; }
+
+#header { border-bottom: 1px solid rgb(211, 211, 211); margin: 1em; float: =
+left; height: 5em; }
+
+#header h1, #header #header-description, #header div#header-name { margin-t=
+op: 0.9em; font-size: 1.8em; color: rgb(85, 102, 119); }
+
+#header h1, #header div#header-name { float: left; }
+
+#header #feed_icon, #header #google_search { float: right; margin-left: 1%;=
+ margin-right: 1%; }
+
+#header #feed_icon { margin-top: 0.9em; transform: rotate(5deg); transition=
+: transform 0.4s ease-in 0s; }
+
+#header #feed_icon:hover { transform: rotate(275deg); }
+
+#header #google_search { width: 201px; height: 2.4em; background-image: url=
+("images/searchtop.gif"); background-repeat: no-repeat; padding: 0px; margi=
+n: 1.3em 1em; position: relative; }
+
+#header #google_search form { display: inline; }
+
+#header #google_search .searchbox { border: 0px; background-color: transpar=
+ent; position: absolute; top: 0px; left: 1px; width: 180px; height: 24px; o=
+utline: none; }
+
+#header #google_search .searchbox_submit { border: 0px; background-color: t=
+ransparent; position: absolute; top: 0px; left: 176px; width: 29px; height:=
+ 25px; }
+
+#header a { color: orange; }
+
+#footer img { border: none; }
+
+body.mobile #header #feed_icon { display: none; }
+
+body.mobile #header #google_search { display: none; }
+
+@media (max-width: 30rem) {
+  #header #feed_icon { display: none; }
+  #header #google_search { display: none; }
+}
+
+body.mobile #header { margin: 0px 1em 1em; height: 3em; max-width: 95%; }
+
+body.mobile #header h1, body.mobile #header #header-description, body.mobil=
+e #header div#header-name { margin-top: 0.5em; }
+
+@media (max-width: 48rem) {
+  #header { margin: 0px 2em 1em; height: 3em; max-width: 95%; }
+  #header h1, #header #header-description, #header div#header-name { margin=
+-top: 0.5em; }
+}
+
+#content { clear: both; margin: 1.5em 1em 1em; }
+
+body.mobile #content { margin: 0em; }
+
+@media (max-width: 30rem) {
+  #content { margin: 0em; }
+}
+
+#content h1, h2, h3 { margin: 0.4em 0px 0.2em; padding: 0px 0px 0.2em; colo=
+r: rgb(0, 0, 0); font-weight: 500; letter-spacing: -0.03em; border-bottom: =
+1px solid rgb(211, 211, 211); }
+
+#content a:link { color: rgb(85, 102, 119); }
+
+#content a:visited { color: rgb(85, 102, 119); }
+
+#content a:hover { color: rgb(102, 85, 68); }
+
+#content .email { color: rgb(85, 102, 119); }
+
+.one-column #alpha { width: 100%; }
+
+.one-column #alpha h1 { line-height: 250%; font-family: "Trebuchet MS", Ari=
+al, "Lucida Grande", Verdana, Lucida, Helvetica, sans-serif; }
+
+body.one-column #content #alpha { padding-top: 0.5em; }
+
+body.one-column #content #alpha p { margin-top: 1em; line-height: 180%; mar=
+gin-left: 0.8em; }
+
+body.one-column #content #alpha .asset-content a:link { color: rgb(34, 52, =
+114); }
+
+body.one-column #content #alpha .asset-content a:visited { color: rgb(68, 0=
+, 102); }
+
+body.one-column #content #alpha .asset-content a:hover { color: rgb(208, 53=
+, 0); }
+
+body.one-column #content #alpha .asset-content a:active { color: rgb(154, 4=
+4, 6); }
+
+body.one-column #content #alpha .asset-content img { border: 0.3em solid rg=
+b(224, 223, 204); border-radius: 1em; }
+
+body.mobile.one-column #content #alpha .asset-content img { max-width: 95%;=
+ overflow: auto; border: 0.15em solid rgb(224, 223, 204); }
+
+@media (max-width: 48rem) {
+  body.one-column #content #alpha .asset-content img { max-width: 95%; over=
+flow: auto; border: 0.15em solid rgb(224, 223, 204); }
+}
+
+body.one-column #content #alpha .asset-content h2, body.one-column #content=
+ #alpha .asset-content h3 { margin-top: 1.5em; }
+
+body.one-column #content #alpha .asset-content ul, body.one-column #content=
+ #alpha .asset-content ol, body.one-column #content #alpha .asset-content t=
+able { margin-left: 4em; }
+
+body.mobile.one-column #content #alpha .asset-content ul, body.mobile.one-c=
+olumn #content #alpha .asset-content ol, body.mobile.one-column #content #a=
+lpha .asset-content table { margin-left: 1.5em; }
+
+@media (max-width: 48rem) {
+  body.one-column #content #alpha .asset-content ul, body.one-column #conte=
+nt #alpha .asset-content ol, body.one-column #content #alpha .asset-content=
+ table { margin-left: 1.5em; }
+}
+
+body.one-column #content #alpha .asset-content table { border: 1px solid rg=
+b(43, 43, 43); font-family: verdana, arial, sans-serif; font-size: 100%; co=
+lor: rgb(51, 51, 51); border-collapse: collapse; width: 90%; }
+
+body.one-column #content #alpha .asset-content table td { border: 1px solid=
+ rgb(102, 102, 102); font-size: 1.4em; padding: 0.6em; }
+
+body.one-column #content #alpha .asset-content table th { border-width: 1px=
+; font-size: 1.4em; padding: 0.6em; border-style: solid; border-color: rgb(=
+102, 102, 102); background-color: rgb(222, 222, 222); }
+
+body.one-column #content #alpha ul#entry-folder span.folder-tag { color: gr=
+een; }
+
+body.one-column #content #alpha p code { display: inline-block; padding-lef=
+t: 5px; padding-right: 5px; font-size: 120%; background-color: pink; border=
+-radius: 5px; margin: auto 3px; }
+
+body.one-column #content #alpha p a code { text-decoration: underline; tran=
+sition: all 1s ease 0s; }
+
+body.one-column #content #alpha p a code:hover { text-decoration: none; bac=
+kground-color: deeppink; color: white; }
+
+body.two-columns #content #alpha { width: 64%; min-width: 470px; max-width:=
+ 740px; margin-left: 3%; float: left; }
+
+body.two-columns #content #beta { float: right; width: 24%; padding: 0.6em;=
+ margin-right: 3%; margin-bottom: 1em; min-width: 180px; max-width: 300px; =
+overflow: hidden; border-radius: 20px; }
+
+body.mobile.two-columns #content #alpha, body.mobile.two-columns #content #=
+beta { float: left; width: 95%; min-width: 0px; max-width: none; }
+
+@media (max-width: 48rem) {
+  body.two-columns #content #alpha, body.two-columns #content #beta { float=
+: left; width: 95%; min-width: 0px; max-width: none; }
+}
+
+body.two-columns #content #alpha h1 { font-size: 1.6em; font-weight: bold; =
+color: rgb(85, 102, 119); padding: 0.5em 1em; margin: 0px 0px 1em; border-b=
+ottom: none; background-color: rgb(170, 210, 240); border-radius: 10px; }
+
+body.two-columns #content #alpha h1 a { text-decoration: underline; color: =
+rgb(85, 102, 119); font-weight: 500; }
+
+body.two-columns #content #alpha h2 { font-size: 2.88em; font-family: "Treb=
+uchet MS", Arial, "Lucida Grande", Verdana, Lucida, Helvetica, sans-serif; =
+line-height: 180%; margin-bottom: 0.5em; }
+
+body.two-columns #content #alpha h2 a:link, body.two-columns #content #alph=
+a h2 a:visited { color: rgb(0, 0, 0); font-weight: 500; }
+
+body.two-columns #content #alpha .asset-header #asset-tags { float: right; =
+margin-top: -1em; color: gray; padding-right: 2em; }
+
+body.two-columns #content #alpha .asset-header #asset-tags p { font-size: 1=
+.44em; }
+
+body.two-columns #content #alpha .asset-header #asset-tags a { color: orang=
+e; }
+
+body.two-columns #content #alpha .asset-body p { font-size: 180%; }
+
+body.two-columns #content .content-nav { float: right; color: gray; positio=
+n: relative; margin: 0px 2em -3em; top: -5em; padding: 0px; }
+
+body.two-columns #content .content-nav p { font-size: 1.44em; }
+
+body.two-columns #content .content-nav a { color: rgb(85, 102, 119); text-d=
+ecoration: underline; }
+
+body.two-columns #content #alpha h2 a { text-decoration: none; color: rgb(5=
+1, 102, 153); }
+
+body.two-columns #content #alpha h2 a:hover { color: rgb(4, 99, 128); }
+
+body.two-columns #content #alpha .asset-body, body.two-columns #content #al=
+pha .asset-more-link { clear: both; margin: 1em 1.5em; color: rgb(43, 43, 4=
+3); }
+
+body.two-columns #content #alpha .asset-body a { color: rgb(0, 0, 0); text-=
+decoration: underline; }
+
+body.two-columns #content #alpha .asset-body a:hover, body.two-columns #con=
+tent #alpha .asset-more-link a:hover { color: rgb(17, 34, 51); }
+
+body.two-columns #content #alpha .asset-more-link a { color: green; }
+
+body.two-columns #content #alpha .asset-footer { border-top: 1px solid rgb(=
+211, 211, 211); margin-top: 1em; padding-left: 2em; }
+
+body.two-columns #content #alpha .asset-footer p { font-size: 1.2em; }
+
+.asset-footer span, .asset-footer abbr { color: rgb(61, 61, 61); }
+
+body.two-columns #content #alpha .module-content { margin-left: 2em; }
+
+body.two-columns #content #beta p, body.two-columns #content #beta li { fon=
+t-size: 1.44em; }
+
+body.two-columns #content #beta li ul { font-size: 69.4%; }
+
+body.two-columns #content .module-content a { text-decoration: underline; c=
+olor: rgb(0, 0, 0); }
+
+body.two-columns #content .module-content ul { list-style-type: square; }
+
+body.two-columns #content #alpha .module h2 { font-size: 1.8em; clear: both=
+; font-weight: bold; padding: 0.3em 0.5em; margin: 0.5em 0.4em 0.1em; borde=
+r-bottom: 1px solid rgb(211, 211, 211); }
+
+.module { margin-bottom: 1em; }
+
+.module h2 { font-size: 1.8em; }
+
+.module h3 { font-size: 1.4em; text-align: center; }
+
+.module table { width: 90%; font-size: 1.02em; margin: auto; }
+
+.module td { padding: 0em 0.2em; }
+
+.module p, .module ul { margin-left: 1em; }
+
+.module li { margin-left: 1em; }
+
+.module button { width: 4em; height: 2em; text-align: center; }
+
+#beta .module { padding: 1em; border-radius: 1em; border: 1px solid rgb(211=
+, 211, 211); }
+
+#beta .module .sponsor img { filter: opacity(90%); }
+
+#beta .module .sponsor img:hover { filter: opacity(100%); }
+
+body.two-columns #content #alpha #homepage h3 { font-size: 2.2em; font-weig=
+ht: 500; margin-top: 2em; }
+
+body.two-columns #content #alpha #homepage ul { margin-left: 4em; }
+
+body.two-columns #content #alpha #homepage ul li, body.two-columns #content=
+ #alpha #homepage ul li span { color: rgba(0, 0, 0, 0.5); }
+
+body.mobile.two-columns #content #alpha #homepage ul { margin-left: 2em; }
+
+body.mobile.two-columns #content #alpha #homepage ul li span { display: non=
+e; }
+
+@media (max-width: 48rem) {
+  body.two-columns #content #alpha #homepage ul { margin-left: 2em; }
+  body.two-columns #content #alpha #homepage ul li span { display: none; }
+}
+
+#homepage #homepage-alpha { width: 58%; float: left; }
+
+#homepage #homepage-beta { width: 34%; float: left; margin-left: 3%; }
+
+body.mobile #homepage #homepage-alpha, body.mobile #homepage #homepage-beta=
+ { float: left; width: 95%; margin-left: 0px; }
+
+@media (max-width: 30rem) {
+  #homepage #homepage-alpha, #homepage #homepage-beta { float: left; width:=
+ 95%; margin-left: 0px; }
+}
+
+body.two-columns #content #homepage .module-content li { line-height: 180%;=
+ margin-left: 1em; font-size: 1.44em; }
+
+body.two-columns #alpha #homepage-beta .module h2 { border-bottom: none; }
+
+body.two-columns #homepage #homepage-beta .module-content { border-left: 1p=
+x solid rgb(211, 211, 211); border-top: 1px solid rgb(211, 211, 211); paddi=
+ng: 0.3em; }
+
+body.mobile.two-columns #homepage_pos img { max-width: 100%; overflow: auto=
+; }
+
+@media (max-width: 48rem) {
+  body.two-columns #homepage_pos img { max-width: 100%; overflow: auto; }
+}
+
+.mt-main-index #alpha #photo { width: 120px; margin: 0em 2em; padding: 0px;=
+ }
+
+.mt-main-index #alpha #photo p { padding: 0px; margin: 0px; text-align: cen=
+ter; color: gray; font-size: 1.58em; }
+
+.mt-main-index #alpha #photo img { padding: 0.3em; width: 100px; background=
+-color: rgb(255, 255, 255); border: 1px solid rgb(51, 102, 153); }
+
+#content #search_form img { border: none; }
+
+#content #search_form #search_input_box { border: 1px solid rgb(51, 102, 15=
+3); }
+
+#content #search_form #search_button { text-align: center; height: 2em; wid=
+th: 4em; }
+
+body.one-column #content #alpha div.entry-asset { border-bottom: 1px solid =
+rgb(211, 211, 211); padding-bottom: 1em; }
+
+body.one-column #content #alpha div.asset-nav, body.one-column #content #al=
+pha div.asset-footer { font-weight: bold; color: rgb(252, 178, 151); paddin=
+g: 0.3em 0.5em; margin: 0px 0px 1em; border-radius: 1em; box-shadow: rgb(23=
+8, 238, 238) 0px 1px 0px 0px inset; background: -webkit-gradient(linear, 0%=
+ 0%, 0% 100%, color-stop(0.05, rgb(170, 210, 240)), to(rgb(139, 193, 237)))=
+ rgb(170, 210, 240); border: 1px solid rgb(220, 220, 220); text-shadow: rgb=
+(238, 238, 238) 1px 1px 0px; }
+
+body.one-column #content #alpha div.asset-nav::after { content: " "; displa=
+y: block; height: 0px; clear: both; }
+
+body.one-column #content #alpha div.asset-nav { zoom: 1; }
+
+body.one-column #content #alpha div.asset-footer { margin-top: 2em; padding=
+: 1.5em; border: 1px solid rgb(211, 211, 211); background-color: rgb(222, 2=
+35, 247); }
+
+body.one-column #content #alpha div.asset-footer h3 { border-bottom: 1px so=
+lid gray; font-size: 1.92em; font-weight: bold; color: rgb(85, 102, 119); }
+
+body.one-column #content #alpha div.asset-footer ul { padding-left: 2em; pa=
+dding-right: 2em; }
+
+body.one-column #content #alpha div.asset-footer li { color: rgb(85, 102, 1=
+19); }
+
+body.one-column #content #alpha div.asset-nav * { display: inline; }
+
+body.one-column #content #alpha div.asset-nav a { color: green; }
+
+body.mobile.one-column #content #alpha div.asset-nav div.entry-tags, body.m=
+obile.one-column #content #alpha div.asset-nav div.entry-categories { float=
+: left; width: 70%; display: inline-block; }
+
+@media (max-width: 30rem) {
+  body.one-column #content #alpha div.asset-nav div.entry-tags, body.one-co=
+lumn #content #alpha div.asset-nav div.entry-categories { float: left; widt=
+h: 70%; display: inline-block; }
+}
+
+body.one-column #content #alpha div.asset-nav div.entry-location { width: 2=
+0em; float: right; overflow: hidden; white-space: nowrap; }
+
+body.one-column #content #alpha div.asset-nav div.entry-location li { displ=
+ay: block; list-style-type: none; }
+
+body.one-column #content #alpha div.asset-nav div.entry-location a { color:=
+ rgb(85, 102, 119); text-decoration: underline; font-size: 95%; }
+
+body.mobile.one-column #content #alpha div.asset-nav div.entry-location { d=
+isplay: none; }
+
+@media (max-width: 30rem) {
+  body.one-column #content #alpha div.asset-nav div.entry-location { displa=
+y: none; }
+}
+
+body.one-column #content #alpha div.asset-nav div.entry-location-mobile { d=
+isplay: none; float: right; }
+
+body.mobile.one-column #content #alpha div.asset-nav div.entry-location-mob=
+ile { display: inline-block; text-align: right; float: right; width: 20%; }
+
+body.mobile.one-column #content #alpha div.asset-nav div.entry-location-mob=
+ile li { display: inline; list-style-type: none; }
+
+@media (max-width: 30rem) {
+  body.one-column #content #alpha div.asset-nav div.entry-location-mobile {=
+ display: inline-block; float: right; text-align: right; width: 20%; }
+  body.one-column #content #alpha div.asset-nav div.entry-location-mobile l=
+i { display: inline; list-style-type: none; }
+}
+
+body.one-column #content #alpha div.asset-meta { margin: 1.5em auto 2em; li=
+ne-height: 0.8; }
+
+body.one-column #content #alpha div.asset-meta * { color: rgb(85, 102, 119)=
+; }
+
+body.one-column #content #alpha div.asset-meta .sponsor-banner { display: b=
+lock; margin: 1.5em 0.8em; padding: 0.7em 1em; font-size: 0.87rem; line-hei=
+ght: 1.5; color: rgb(85, 102, 119); background-color: rgb(222, 235, 247); b=
+order: 1px solid rgb(219, 228, 224); border-radius: 4px; }
+
+body.mobile.one-column #content #alpha .entry-sponsor .entry-sponsor-img { =
+display: none; }
+
+@media (max-width: 30rem) {
+  body.one-column #content #alpha .entry-sponsor .entry-sponsor-img { displ=
+ay: none; }
+}
+
+body.one-column #content #alpha div.asset-content a { text-decoration: unde=
+rline; color: rgb(17, 34, 51); }
+
+body.one-column #content #alpha div.asset-content a:visited { color: rgb(17=
+, 34, 51); }
+
+body.one-column #content #alpha div.asset-content blockquote { background-c=
+olor: rgb(245, 242, 240); padding: 1em; margin: 2em; border-radius: 1em; fo=
+nt-family: Consolas, Monaco, "Andale Mono", monospace; border-width: 0.3em;=
+ border-color: rgb(224, 223, 204); border-style: solid; text-shadow: white =
+0px 1px; overflow: auto; }
+
+body.mobile.one-column #content #alpha div.asset-content blockquote { paddi=
+ng: 0.5em 1em; margin: 1em; border-radius: 1em; border-width: 0.15em; }
+
+@media (max-width: 48rem) {
+  body.one-column #content #alpha div.asset-content blockquote { padding: 0=
+.5em 1em; margin: 1em; border-radius: 1em; border-width: 0.15em; }
+}
+
+#googlead2 { margin: 0px auto; text-align: center; }
+
+#related_entries, #entry_utility, #cre { margin-top: 4em; }
+
+#related_entries ul { margin-left: 2em; }
+
+#entry_utility ul { margin-left: 3em; }
+
+#related_entries ul a, #entry_utility ul a { text-decoration: underline; }
+
+#entry_utility ul input { border: 1px solid rgb(211, 211, 211); }
+
+#entry_utility ul img { border: none; }
+
+#related_entries li div.entry-body { margin-left: 1em; padding-left: 0.4em;=
+ border-left: 0.4em solid gray; }
+
+#cre-inner { width: 100%; max-width: 100%; }
+
+div#cre-left, div#cre-right { width: 49%; display: inline-block; }
+
+div#crd-left { float: left; }
+
+div#cre-right { float: right; }
+
+#cre-inner img { width: 100%; max-width: 100%; }
+
+#sup-post-2 p img { width: 100%; max-width: 100%; }
+
+body.mobile #cre div#cre-inner { width: 98%; max-width: 98%; }
+
+body.mobile div#cre-left, body.mobile div#cre-right { float: none; margin: =
+0.5em auto; width: 98%; display: block; }
+
+body.mobile div#cre-left a, body.mobile div#cre-right a { text-align: cente=
+r; display: block; }
+
+body.mobile div#cre-left img, body.mobile div#cre-right img { max-width: 10=
+0%; overflow: auto; }
+
+body.mobile #sup-post-2 p { display: block; width: 98%; position: relative;=
+ height: 0px; padding: 26.67% 0px 0px; overflow: hidden; }
+
+body.mobile #sup-post-2 p img { position: absolute; display: block; max-wid=
+th: 100%; max-height: 100%; inset: 0px; margin: auto; }
+
+@media (max-width: 48rem) {
+  #cre div#cre-inner { width: 98%; max-width: 98%; }
+  div#cre-left, div#cre-right { float: none; margin: 0.5em auto; width: 98%=
+; display: block; }
+  div#cre-left a, div#cre-right a { text-align: center; display: block; }
+  div#cre-left img, div#cre-right img { max-width: 100%; overflow: auto; }
+  #sup-post-2 p { display: block; width: 98%; position: relative; height: 0=
+px; padding: 26.67% 0px 0px; overflow: hidden; }
+  #sup-post-2 p img { position: absolute; display: block; max-width: 100%; =
+max-height: 100%; inset: 0px; margin: auto; }
+}
+
+body.one-column #content #alpha #comments { clear: both; margin-top: 2em; }
+
+body.one-column #content #alpha #comments h2 { padding-top: 2em; }
+
+body.one-column #content #alpha #comments a { text-decoration: underline; }
+
+body.one-column #content #alpha #comments .comment { border-bottom: 1px das=
+hed rgb(211, 211, 211); }
+
+body.one-column #content #alpha #comments .comment-header { margin-top: 1.6=
+em; }
+
+body.one-column #content #alpha #comments .comment-header * { color: rgb(43=
+, 43, 43); font-weight: 700; }
+
+body.one-column #content #alpha #comments .asset-meta { margin: 0.6em 0px; =
+}
+
+body.one-column #content #alpha #comments .comment-content { margin-left: 1=
+em; font-size: 0.9em; }
+
+body.one-column #content #alpha #comments .comment-content blockquote { bac=
+kground-color: rgb(224, 223, 204); padding: 2em; margin: 2em; border-radius=
+: 1em; font-size: 0.9em; }
+
+body.one-column #content #alpha #comments .comment-content blockquote pre {=
+ font-weight: 700; margin-bottom: 1.5em; font-size: 1.6em; }
+
+body.one-column #content #alpha #comments .comment-footer { width: 40%; mar=
+gin-left: 55%; }
+
+body.one-column #content #alpha #comments .comment-footer p { font-size: 1.=
+2em; }
+
+body.one-column #content #alpha #comments .comment-footer * { color: black;=
+ }
+
+body.one-column #content #alpha #comments #comments-open input { border: 1p=
+x solid rgb(211, 211, 211); margin-top: 0px; line-height: 1.2; padding: 0.4=
+em 0.3em; background-color: rgb(245, 244, 223); }
+
+body.one-column #content #alpha #comments #comments-open p { margin: 0.4em;=
+ }
+
+body.one-column #content #alpha #comments #comments-open textarea { border:=
+ 1px solid rgb(211, 211, 211); background-color: rgb(245, 244, 223); paddin=
+g: 0.5em; width: 90%; }
+
+body.one-column #content #alpha #comments #comments-open input#comment-subm=
+it { width: 10em; padding: 0.2em 3em; text-align: center; }
+
+span.hint { color: gray; }
+
+body.one-column #content #alpha #comments #comment-last:target { animation:=
+ 4s ease 0s 1 normal none running target-fade; }
+
+@keyframes move {=20
+  0% { background-color: rgba(0, 0, 0, 0.1); }
+  100% { background-color: rgba(0, 0, 0, 0); }
+}
+
+@-webkit-keyframes target-fade {=20
+  0% { background-color: rgba(0, 0, 0, 0.1); }
+  100% { background-color: rgba(0, 0, 0, 0); }
+}
+
+body.one-column #content #alpha #comments #comments-open div#wait input { b=
+ackground-color: rgb(255, 255, 221); }
+
+body.one-column #content #alpha #comments #comments-open div#wait * { color=
+: rgb(43, 43, 43); background-color: rgb(255, 255, 221); }
+
+body.mobile.one-column #content #alpha #comments .comment-footer { display:=
+ none; }
+
+@media (max-width: 48rem) {
+  body.one-column #content #alpha #comments .comment-footer { display: none=
+; }
+}
+
+code[class*=3D"language-"], pre[class*=3D"language-"] { color: black; text-=
+shadow: white 0px 1px; font-family: monospace, Consolas, Monaco, "Andale Mo=
+no"; direction: ltr; text-align: left; white-space: pre; word-spacing: norm=
+al; font-size: 1.2em; tab-size: 4; hyphens: none; }
+
+pre[class*=3D"language-"]::selection, pre[class*=3D"language-"] ::selection=
+, code[class*=3D"language-"]::selection, code[class*=3D"language-"] ::selec=
+tion { text-shadow: none; background: rgb(179, 212, 252); }
+
+@media print {
+  code[class*=3D"language-"], pre[class*=3D"language-"] { text-shadow: none=
+; }
+  #header, .asset-header, #gegz1, #sup-post-2, #cre, #comments { display: n=
+one; }
+}
+
+pre[class*=3D"language-"] { padding: 0em 0em 0.5em; overflow: auto; }
+
+:not(pre) > code[class*=3D"language-"], pre[class*=3D"language-"] { backgro=
+und: rgb(245, 242, 240); }
+
+:not(pre) > code[class*=3D"language-"] { padding: 0.1em; border-radius: 0.3=
+em; }
+
+.token.comment, .token.prolog, .token.doctype, .token.cdata { color: slateg=
+ray; }
+
+.token.punctuation { color: rgb(153, 153, 153); }
+
+.namespace { opacity: 0.7; }
+
+.token.property, .token.tag, .token.boolean, .token.number { color: rgb(153=
+, 0, 85); }
+
+.token.selector, .token.attr-name, .token.string { color: rgb(102, 153, 0);=
+ }
+
+.token.operator, .token.entity, .token.url, .language-css .token.string, .s=
+tyle .token.string { color: rgb(166, 127, 89); background: rgba(255, 255, 2=
+55, 0.5); }
+
+.token.atrule, .token.attr-value, .token.keyword { color: rgb(0, 119, 170);=
+ }
+
+.token.regex, .token.important { color: rgb(238, 153, 0); }
+
+.token.important { font-weight: bold; }
+
+.token.entity { cursor: help; }
+
+.token a { color: inherit; }
+
+#comments-open { background: rgb(240, 240, 192); padding: 0em 1em 2em 2em; =
+border-radius: 2em; }
+
+#footer { margin: 0px 1em; border-top: 1px solid rgb(211, 211, 211); color:=
+ rgb(211, 211, 211); padding-top: 0px; clear: both; line-height: 1.2; }
+
+#footer a { color: gray; }
+
+#footer-content { display: flex; justify-content: flex-end; flex-wrap: wrap=
+; }
+
+#footer-content section { width: 300px; margin: 1em 2em 2em 0px; }
+
+#footer-content section h2 { margin-top: 2em; font-size: 1.6em; font-weight=
+: 500; color: rgb(0, 0, 0); }
+
+#footer-content section p { color: gray; font-size: 1.4em; }
+
+body.mobile #footer-content section { margin: 1em 1em 0px 0px; }
+
+body.mobile #footer-content section h2 { margin-top: 1em; }
+
+body.mobile #footer-content section h2, body.mobile #footer-content section=
+ p { text-align: right; }
+
+@media (max-width: 30rem) {
+  #footer-content section { margin: 1em 1em 0px 0px; }
+  #footer-content section h2 { margin-top: 1em; }
+  #footer-content section h2, #footer-content section p { text-align: right=
+; }
+}
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.ruanyifeng.com/static/themes/theme_scrapbook/images/searchtop.gif
+
+R0lGODlhyQAYANUAAISEhNjY2Nzc3NnZ2dra2tfX193d3YWFhZiYmPv7++Xl5dvb26KiooeHh/Ly
+8oiIiLW1tY6Ojvz8/KioqI2NjYuLi7+/v9/f35CQkJSUlKGhoaWlpaurq+rq6unp6eTk5PX19ezs
+7Lu7u5KSksjIyLi4uPn5+Z2dne7u7tXV1ejo6Pj4+Ovr67y8vObm5peXl5GRkbGxsfHx8e/v75ub
+m97e3tbW1v///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAADJABgAAAb/wE5t
+SCwaj8ikcslsOp/QqHRKVQpv2Kx2y+16v+CweEwum8/o9LdmULvf8Lh8Tg8b2vW8fs/vl+9+gYKD
+giAtCAAIEDNkBgKEkJGSaQoRABQMiA02YwKPk6ChojcOERUBWRcRDS5inqOwsYElAKhaCgcTrguy
+vb5zGRldEwcSYQu8v8rLZrldIgAOxwTM1dZeGAhdHAcJYQTU1+LXMQAXWzIPDGLg4+7MLA0YClke
+IwAADxbGXgQD7wB/pWgAYAMEDfgQ4qMRwsuAfwEjxlLBAV/BAStOWHxAostDiSBjofCGRYKFAxYZ
+SNMywFbIl7IUvLBY4ROWAC5h6hSVAIJFQgpacO4cOkoADADrsgQoQLQpqAQfTGgpwNSpVVFUr2qd
+VIDT1q+DbASwQbas2bNo06pdy7at27dw48qdS7fu2gBBAAA7
+
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.ruanyifeng.com/static/themes/theme_scrapbook/images/top_search_submit.gif
+
+R0lGODlhHQAYAIAAADg4OAAAACH5BAEAAAAALAAAAAAdABgAAAIYhI+py+0Po5y02ouz3rz7D4bi
+SJbmiYoFADs=
+
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://wangbase.com/blogimg/asset/202107/bg2021072117.png
+
+iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAUzSURBVHjavFdbbFRVFF3nPjoz7dTWTitt
+aW0jUDRAUqaNojyqREnEQKgfUj9MqqAmhqRt/OCD4CuY+Kckoh+aiGKC+gMJbdHoRysJ8dkhhmJL
+NdDKtJU+6GMK87j3Hs85d2Z6HzNtMYWb3Dn3NWftvfba+5xNYDl+e6Fkj6yqb/oDRbWq14vlPBLR
+KCITkxf0ROLt+hNjp1PPSRK4kA3vF1dXNRcWlyA2OQU9eos9opAkAiKxD+XkKO6t15aRWO7J/Mgm
+AZU8MEgexgZHMX518Dh72sYMmVKShnxWuWHdHtxKIDIYTgMuDzgfmSOIQkYMpdUF8OY92Hytt4/j
+vkg47czzU16iQovM3QFwmNck+Yyduu7D6NA0Z6JR4THntFs9V4tWQg6Ui3s6MwKDncsFTnXKLJhD
+SeUK3AgPtyhccDzmVs999buRt/1Vm4i0od+hX7+MRG87jPGB/w1u8FPj9xEw7McVrnYuOCvtpjTt
+h3J/nTg99c8LRhKhr6D3dTB5R24bXFwbMXBsyZzeoXaycEpJ95TB09AGX/NpqLVNtw8urnVzLvHj
+FNxiFqRy2OOHuqUVnue+ACkoWzo4O6lGzTmuHq6nPvY2m9rVqjrIK2rMEKxqyG5NPAKt+wjo0Lkl
+gfNxJkZMA3KJvqRUk3z5UFY3QH14P0h+WUY79HPvgv7VuSg4ZRGY1YgZgqXmORccF17sy2ehnf9A
+eO085K2HQFbtXBScj0LcpgF2cN+WV+DZ/LJQu6gD4R7oV7pBJwbSgtMvfiPoVp56DySwxm7EtkMs
+1WdAB7qzggsDJKQYsHucSkOudrkiCPWR/fA2nYCn8SNIK4NptSMyAu3sAdDRkIsJdfth0LzSrODU
+oPNZ4KI9SxJI5UHk7D4GdQfz2us31c7CoHMjRkKuDPHseCMrONVhNcDJwMJpKFVvg9L4OaTiNWm1
+x789KCqkrXhVBiEz0WYCT2nAzQAD1/vaETv1GrRfP4Vx5cfMNcDPwvP0h0DhanPym7OIf/+O67vc
+J1/PCJ4KgdzaUP6Wz+dU+5yIL6fV+PsHGAOdwlPpvvUOyeeAVGyCdqkDNB6DPjsBSrnndfOGevOh
+3RhGItxvA+fX1CtbGFhgYUFkFMZPR6F1HnClHq8HyubWtJexX06CRmdt33hrd7nA7SFY4qoGpnYu
+OKcRykPPgDCBcsHx9Iv+fNL2PueBehCWUfYQIIMGLOCcOmXDXsh1+yCt35tUPfvzGFuSvzvoinXO
+xqa02qOhM6733nVP2MAdaej2XN11DPKjLZCD+yBvahGCo7JfTKAN9UD7s8Oe9zUNIhz8fWI8DG2k
+38WCFdxugANcXrvTVd1IEbuv3Jour7Hzn7jLMBNfKs7R3i67gRVrbeCOEDhinmWhAatsqdquM2Xz
+HZINhK2cqTjHr/XZdVJUbgN3MWAVXKbSyg9jesRW2xP9di+lwrL5ojM3m2H/kG9hwcIA37c71W6w
+JdW2J2S5nrjYbq/t1AHAhJsKQeyfPvf6IMJgghPJhFZ4x0KlfLFvt22du45Au/A1SOlGc0P672XX
+whLtOcM0kTTEMMd0qkVmMNXxMd/tsedUjInr4SQDgOfeXMSiN0FCL5WHah4L1qqYXPJOJlttd+a5
+M+YpcG5poLYKQ5f+6JJ4r8bbJYP47hq4r7QAs9PjYNhHJd4o8l5taiwuOpa7AS4XKqI/5NjJbTna
+WK92nLdLuhQAJayRNMiygXPBeQN+Qbvu0zDc3y+aUzhbkGR73sI7ljvUnndx2q3t+X8CDAD66Ftr
+IL864AAAAABJRU5ErkJggg==
+
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://www.ruanyifeng.com/blogimg/asset/2017/bg2017073006.jpg
+
+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
+GCnkBOQoRlpGQrjC4wuMLjC4wuMLjC4wuMLjC4wuMLjC4wuMLjCKP+bkxyPB7UF5WpCYB5tniz2h
+AByWCBBEC4uM9xEiD2pvtN2nFy1USHYM9kTjAmSnSRIo4jO1YBdDmEEebGazM3mGQdOPXZlhA3CR
+JWzBLxFzKyBsYwSRfEJyK68X/CmRiZrmCgYDksJmyIeaYBCCYJQkv5NqUSaaJoMkA1oQwu4dF2gO
+zASlgEGipW5R2lyZCYfy0CFgaSQl3lRnH+XozBLbFARF/wDQav/aAAwDAQACAAMAAAAQkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkgkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkgkkkkkkkkkkkEEkkkkkkkgAEgEgkkkgkkkkkkkkkkkkkgkkkkkkkkkkkEkAggkEAkAAgEEkkk
+gEkgkkkkkkkkkkkgkkkkkkkkkkkEEgkAgAAkEEgAgAkggkgAkkkkkkkkkkkgkkkkkkkkkkkgEgEg
+gkEkgEkEkgkEkAAgEEkkkkkkkkkgkkkkkkkkkkggAkkAgAkkAAAkEkAAAgEAAEkkkkkkkkkgkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkgkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkgkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkgkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkgkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkgkkkkkkkkkkkk
+kkkkkkkkggAkkkkkkkkkkkkkkkkkkkkgkkkkkkkkkgAAAAAAAAAEgEEEAAAAAAAAAAEEkkkkkkkg
+kkkkkkkkgkkkkkkkkkkkEgkkkkkkkkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkAAAAAgEgEAAAAEkkk
+kkgkkkkkkkkgkkkkkkkkgkkkkkkAAAAAEEAgAAAAgkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkEkkkk
+gkgkkkkkgkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkEkkkAEkEgEkkkgkkkkkgkkkkkkkkgkkkkkkkk
+gkkkkkkEkkkgkkkkgEkkgkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkEkgAkkkkkkkEkgkkkkkgkkkkk
+kkkgkkkkkkkkgkkkkkkEkgkkkkEkkgkkgkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkEgEkkkkEkkkAk
+gkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkkgEkkkkEkkkggkkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkA
+gkkkkkEkkkkAAkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkkkkkkkkkkkkkkEkkkkkgkkkkkkkkgkkkk
+kkkkgkkkkkkkkkkkkkkkkkkkAkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkkkkkkkkkkkkkkgEkkkkgk
+kkkkkkkgkkkkkkkkgkkkkkEEkkkkkkkkkkkkkEkkkkgkkkkkkkkgkkkkkkkkgkkkkkEkkkkkkkkk
+kkkkAgkkkkgkkkkkkkkgkkkkkkkkgkkkkkkkkkkkkkkkkkkkEgEkkkgkkkkkkkkgkkkkkkkkgkkk
+kAkkkkkkkkkkkkkkkgkkkkgkkkkkkkkgkkkkkkkkgkkkkgkkkkkkkkkkkkkkkkgkkkgkkkkkkkkg
+kkkkkkkkgkkkkEkkkkkkkkkkkkkkAkgEkkgkkkkkkkkgkkkkkkkkgkkkkkkkkkkkkkkkkkkkAkgE
+kkgkkkkkkkkgkkkkkkkkgkkkkkkkkkkkkkkkkkkkAkkkkkgkkkkkkkkgkkkkkkkkgkkgEkkkkkkk
+kkkkkkkkAkkkkkgkkkkkkkkgkkkkkkkkgkkkkkkkkkkkkkkkkkkkkkkgEkgkkkkkkkkgkkkkkkkk
+gkgEkkkkkkkkkkkkkkkkEkkkEkgkkkkkkkkgkkkkkkkkgkEkkkkkkkkkkkkkkkkkgkkkgkgkkkkk
+kkkgkkkkkkkkgkAkkkkkkkkkkkkkkkkkkkkkkkgkkkkkkkkgkkkkkkkkkgEkkkkkkkkkkkkkkkkk
+AkkkkEAkkkkkkkkgkkkkkkkkkEkkkkkkkkkkkkkkkkkkEkkkkkgkkkkkkkkgkkkkkkkkgAkEkEkk
+kEEAEkkkAkkkgkkEEEEEkkkkkkkgkkkkkkkkEgggEgkkgkgAEkkgAkEkkkEkggkgkkkkkkkgkkkk
+kkkEgkkkkkkkkkkkkkkkkkkkgkkkkkggEkkkkkkgkkkkkkgggkkkkkkkkkkkkkkkkkkkEkkkkkgE
+EEkkkkkgkkkkkgkkgkkkkkkkkkkkkkkkkkkkAkkkkkgEgAkkkkkgkkkkggEkgkkkkkkkkkkkkkkk
+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
+mO1/zHan/9k=
+
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.ruanyifeng.com/blogimg/asset/2017/bg2017073002.gif
+
+R0lGODlh4ADdAPAAAP///wAAACwAAAAA4ADdAAAC/4SPqcvtD6OctNqLs968+w+G4kiW5omm6sq2
+7gvH8kzX9o3n+v4GwfF7BHnEIskHFA6NzKbmF1wypM6qVQiIQqjXrjdrgIZ9SAT3i25qz+a02zos
+O9jv+i0eJUvp9r5syQfmN0hYaHiImKi4yNjo+AgZKTlJWWl5iZmpuck5o/cp1ymaNDVqGtbABvpZ
+uKrXqZoqSxjLWbtw65ebuds25Ro6ARwsMdxLijtcZ5yqXPqcDDxbcYz6Kw2tYLzNzfo0rQ2eoOqM
+K25WHp49fo6sbr7uC59RLTj/js8eD5SuH+3aztq/VQHt5ZOHoZ7Cggv3CTzozh/EhxIrIrQY0ULD
+e/8YKV78mDGkR5EGO5YEOTLlSZKBsDhcqXLjRJg0ZZq0ibJmwWIMe77EydInx5xAY+6MUFTnT6Ez
+kzplenPD06VUhwat2hQqUa3UuBrFGhXsVrFXrX41K8yrUrRT2aptm/UlT7Jn47qlu9au3rB36XX7
+Cziw4MGECxs+/PeU4sWMGzt+DDmy5MmUK1u+jDmz5s2cO3v+DDo0E2aiDdUr7eY06hqk+2rrt7oE
+XL6xTcweW9v2W7W5PZDD5tpkb2Gwy+7NOXxucKLFVSZHuhtvy+fSo6Ol7nK5cdqS5EyffsT6cZKN
+vCMFP+L2duSMxNBMgj5h87zcmQNP5J6PlhPq69b/J68LKnmQgUx8F/RHH24zDbIGOAZqJN5//rHX
+Bx7NeCPVfAgiyCA/YxC4IAUbRqggIoAoJxWJ6604YWcjVoeXZi9q16Jzmc04Xo3v3aiijk4RBouG
+PSbIIpE2djckjhIaWYmSJT5ZpGpIwkgjkxvOp4iTUSbJ2zJCUpmjlVyaOGaVWvqYA2Jqrslmm26+
+eR92cs5JZ5123olnnnruyWeffv4JaKCCDkpooYZ6GeehLkipqG5yNcrfUZDKJumk6VVqaQi/AZSp
+fIkW2Wl2YT4YKoehlnlqWmCmCp10WHZ65qmxlooqq2jGCGutts6a66rofHporKTqKWyvZnaZZ2uj
+/yKLZ7GPJqsrqMRGq+Oezl7niHnXgLgotUw+ou0WMFwbYnmCtDQsB+QKl+25rfbgLaOLNJjFKxQ6
+eqyvU7o3xx/xXshpex72i4KyS/La4RgfhpKuqvk+HGYr7DWM4sH/PrculEeGlvGWGF9s5quOGayx
+mPpuzFjHt1YJmcoms/yYywg3JnOSIm9S88nfpglnzz7/DDTQtg5NdNFGH4100krzDOzSED7rND9N
+Uzx0UlFbfLW4uGb9Mtc6e9012FiLvSzZZZtdMtW7Mnu11V67zTXcWctNNMks3TzpzHl7S6vOavup
+N6SBNzq4ooUHy7exZ5dr6eGGOm7tlxALDvLefp9jCqiweNuZs6CdB/o5JeGeQ0x4l2/dXhxK6PM3
+wZOnjUl+Wj/U+umvI7mf6wbVfvvKjM8r4MJ7IMT74mP/nmXwop7Ygd2+Hy/6wLozr27lS4I7MIYU
+5V697aNuvgyFVJROj/Wwf+w99PeCFnrJqLUvrWjwV1va/DvLb77HHEtu/PkDgRIz/qlPf/3zQtAO
+iMAEKpBbaGugAx8IwdgQAAUAOw==
+
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: image/png
+Content-Transfer-Encoding: base64
+Content-Location: https://www.ruanyifeng.com/blogimg/asset/2017/bg2017073003.png
+
+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
+kgQAAAAASUVORK5CYII=
+
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: https://www.ruanyifeng.com/blogimg/asset/2017/bg2017073004.gif
+
+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
+t6vCAjzCLIwY1BrDMjzDNFzDr5kAADs=
+
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://www.wangbase.com/blogimg/asset/202001/bg2020013101.jpg
+
+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
+qVlRFz1v/9k=
+
+------MultipartBoundary--q2AuYu5NyRGs3rcenO6kLDJRoOuQyIqL9UEQZiJife------
