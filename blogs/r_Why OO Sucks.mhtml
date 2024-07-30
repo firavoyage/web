@@ -1,0 +1,226 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm
+Subject: Why OO Sucks
+Date: Sat, 27 Jul 2024 22:03:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--pT6fdQVCUvMoEIibF1f8FBwywNkBjihJkOLvkvfR0u----"
+
+
+------MultipartBoundary--pT6fdQVCUvMoEIibF1f8FBwywNkBjihJkOLvkvfR0u----
+Content-Type: text/html
+Content-ID: <frame-CA496C9BA630482F9D1CAA8383B5D6AB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.cs.otago.ac.nz/staffpriv/ok/Joe-Hates-OO.htm
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0//EN"><html><head><meta http-equ=
+iv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8">
+<meta name=3D"GENERATOR" content=3D"Emacs">
+<meta name=3D"author" content=3D"Joe Armstrong">
+<title>Why OO Sucks</title>
+</head>
+<!-- The &ldquo; and &rdquo; sequences below _should_ be <Q> and </Q>,
+     but Netscape 4.7 botches <Q> elements:  it displays NOTHING
+     at the boundaries.  It'll have to stay like this until Netscape
+     get their act together.
+-->
+<body>
+<h1 align=3D"center">Why OO Sucks</h1>
+<h2 align=3D"center">by Joe Armstrong (joe@bluetail.com)</h2>
+
+<p>When I was first introduced to the idea of OOP I was sceptical but
+didn't know why=E2=80=94it just felt =E2=80=9Cwrong=E2=80=9D. After its
+introduction OOP became very popular (I will explain why later) and
+criticising OOP was rather like =E2=80=9Cswearing in church=E2=80=9D. OOnes=
+s
+became something that every respectable language just had to have.
+
+</p><p>As Erlang became popular we were often asked =E2=80=9CIs Erlang
+OO=E2=80=9D=E2=80=94well, of course the true answer was =E2=80=9CNo of cour=
+se
+not=E2=80=9D=E2=80=94but we didn't care to say this out loud=E2=80=94so we
+invented a serious of ingenious ways of answering the question that were
+designed to give the impression that Erlang was (sort of) OO (If you
+waved your hands a lot) but not really (if you listened to what we
+actually said, and read the small print <i>carefully</i>).
+
+</p><p>At this point I am reminded of the keynote speech of the then boss o=
+f
+IBM in France who addressed the audience at the 7th IEEE Logic
+programming conference in Paris.  IBM Prolog had added a lot of OO
+extensions.  When asked why he replied:
+</p><blockquote>
+<i>Our customers wanted OO Prolog so we made OO Prolog</i>
+</blockquote>
+
+<p>I remember thinking =E2=80=9CHow simple, no qualms of conscience, no
+soul-searching, no asking =E2=80=98Is this the right thing to do=E2=80=99
+=E2=80=A6=E2=80=9D
+
+</p><h2>Why OO sucks</h2>
+
+<p>My principal objection to OOP goes back to the basic ideas involved,
+I will outline some of these ideas and my objections to them.
+
+</p><h3>Objection 1.&nbsp;&nbsp;Data structure and functions should not be =
+bound together</h3>
+
+<p>Objects bind functions and data structures together in indivisible
+units.  I think this is a fundamental error since functions and data
+structures belong in totally different worlds.  Why is this?
+
+</p><ul>
+<li>Functions do things.  They have inputs and outputs.  The inputs and
+outputs are data structures, which get changed by the functions.  In
+most languages functions are built from sequences of imperatives:
+=E2=80=9CDo this and then that =E2=80=A6=E2=80=9D. To understand functions
+you have to understand the order in which things get done.  (In lazy
+FPLs and logical languages this restriction is relaxed.)
+
+</li><li>Data structures just are.  They don't do anything.  They are
+intrinsically declarative.  =E2=80=9CUnderstanding=E2=80=9D a data structur=
+e
+is a lot easier than =E2=80=9Cunderstanding=E2=80=9D a function.
+</li></ul>
+
+<p>Functions are understood as black boxes that transform inputs to
+outputs.  If I understand the input and the output then I have
+understood the function.  <i>This does not mean to say that I could have
+written the function</i>.
+
+</p><p>Functions are usually =E2=80=9Cunderstood=E2=80=9D by observing that=
+ they
+are the things in a computational system whose job is to transfer data
+structures of type <i>T1</i> into data structure of type <i>T2</i>.
+
+</p><p><b>Since functions and data structures are completely different type=
+s
+of animal it is fundamentally incorrect to lock them up in the same
+cage.</b>
+
+</p><h3>Objection 2.&nbsp;&nbsp;Everything has to be an object.</h3>
+
+<p>Consider =E2=80=9Ctime=E2=80=9D. In an OO language a =E2=80=9Ctime=E2=80=
+=9D
+has to be an object.  (In Smalltalk, even =E2=80=9C3=E2=80=9D is an object.=
+)
+But in a non OO language a =E2=80=9Ctime=E2=80=9D is a instance of a data
+type.  For example, in Erlang there are lots of different varieties of
+time, which can be clearly and unambiguously specified using type
+declarations, as follows:
+
+</p><pre><b>
+-deftype day()     =3D 1..31.
+-deftype month()   =3D 1..12.
+-deftype year()    =3D int().
+-deftype hour()    =3D 1..24.
+-deftype minute()  =3D 1..60.
+-deftype second()  =3D 1..60.
+-deftype abstime() =3D {abstime,year(),month(),day(),hour(),min(),sec()}.
+-deftype hms()     =3D {hms,hour(),min(),sec()}.
+=E2=80=A6
+</b>
+</pre>
+
+<p>Note that these definitions do not belong to any particular object.
+they are ubiquitous and data structures representing times can be
+manipulated by any function in the system.
+
+</p><p>There are no associated methods.=20
+
+</p><h3>Objection 3.&nbsp;&nbsp;In an OOPL data type  definitions are sprea=
+d out all
+over the place.</h3>
+
+<p>In an OOPL data type definitions belong to objects.  So I can't find
+all the data type definition in one place.  In Erlang or C I can define
+all my data types in a single include file or data dictionary.  In an
+OOPL I can't=E2=80=94the data type definitions are spread out all over the
+place.
+
+</p><p>Let me give an example of this.  Suppose I want to define a
+ubiquitous data structure.  A <i>ubiquitous</i> data type is a data type
+that occurs =E2=80=9Call over the place=E2=80=9D in a system.
+
+</p><p>As Lisp programmers have know for a long time it is better to have a
+smallish number of ubiquitous data types and a large number of small
+functions that work on them, than to have a large number of data types
+and a small number of functions that work on them.
+
+</p><p>A ubiquitous data structure is something like a linked list, or an
+array or a hash table or a more advanced object like a time or date or
+filename.
+
+</p><p>In an OOPL I have to choose some base object in which I will define
+the ubiquitous data structure.  All other objects that want to use this
+data structure must inherit this object.  Suppose now I want to create
+some =E2=80=9Ctime=E2=80=9D object, where does this belong and in which
+object=E2=80=A6
+
+</p><h3>Objection 4.&nbsp;&nbsp;Objects have private state.</h3>
+
+<p>State is the root of all evil. In particular functions with side effects
+should be avoided.=20
+
+</p><p>While state in programming languages is undesirable, in the real
+world state abounds.  I am highly interested in the state of my bank
+account, and when I deposit or withdraw money from my bank I expect the
+state of my bank account to be correctly updated.
+
+</p><p>Given that state exists in the real world what facilities should
+programming language provide for dealing with state?
+
+</p><ul>
+<li>OOPLs say =E2=80=9Chide the state from the programmer=E2=80=9D.
+The state is hidden and visible only through access functions.
+</li><li>Conventional programming languages (C, Pascal) say that the
+visibility of state variables is controlled by the scope rules of the
+language.
+</li><li>Pure declarative languages say that there is no state.  The global
+state of the system is carried into all functions and comes out from all
+functions.  Mechanisms like monads (for FPLs) and DCGs (logic languages)
+are used to hide state from the programmer so they can program =E2=80=9Cas =
+if
+state didn't matter=E2=80=9D but have full access to the state of the syste=
+m
+should this be necessary.
+</li></ul>
+
+<p>The =E2=80=9Chide the state from the programmer=E2=80=9D option chosen b=
+y
+OOPLs is the worst possible choice.  Instead of revealing the state and
+trying to find ways to minimise the nuisance of state, they hide it away.
+
+</p><h3>Why was OO popular?</h3>
+
+<ul>
+<li>Reason 1. It was thought to be easy to learn.
+</li><li>Reason 2. It was thought to make code reuse easier.
+</li><li>Reason 3. It was hyped.
+</li><li>Reason 4. It created a new software industry.
+</li></ul>
+
+<p>I see no evidence of 1 and 2.  Reasons 3 and 4 seem to be the driving
+force behind the technology.  If a language technology is so bad that it
+creates a new industry to solve problems of its own making then it must
+be a good idea for the guys who want to make money.
+
+</p><p>This is is the real driving force behind OOPs.
+
+</p><h3>See The Third Manifesto</h3>
+
+<p>[This section added in 2000 for COSC345 by R. A. O'Keefe.]
+
+</p><p>The book =E2=80=9CThe Third Manifesto=E2=80=9D by Date and Darwen is
+about how to design object data bases =E2=80=9Cright=E2=80=9D. In the
+appendices, they treat SQL3 rather ungently, but no more ungently than
+the muddled giant deserves.  They are even more critical of ODMG; if the
+industry cannot, after spending large amounts of time and money, produce
+a logically coherent object model for object data base systems, perhaps
+OO is not as simple or as usable as it seems.
+
+
+
+</p></body></html>
+------MultipartBoundary--pT6fdQVCUvMoEIibF1f8FBwywNkBjihJkOLvkvfR0u------
