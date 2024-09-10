@@ -1,14 +1,14 @@
 From: <Saved by Blink>
 Snapshot-Content-Location: https://react.dev/learn/reacting-to-input-with-state
 Subject: =?utf-8?Q?Reacting=20to=20Input=20with=20State=20=E2=80=93=20React?=
-Date: Mon, 9 Sep 2024 00:53:19 +0800
+Date: Mon, 9 Sep 2024 23:27:12 +0800
 MIME-Version: 1.0
 Content-Type: multipart/related;
 	type="text/html";
-	boundary="----MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----"
+	boundary="----MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----"
 
 
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/html
 Content-ID: <frame-653C4EC2ED87EADC22BFCFE2D9A08852@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -17,7 +17,7 @@ Content-Location: https://react.dev/learn/reacting-to-input-with-state
 <!DOCTYPE html><html lang=3D"en" dir=3D"ltr" class=3D"uwu dark platform-win=
 " style=3D""><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
 charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css=
--a5216ef5-93a6-4f6b-a26c-5119f7eb3fe0@mhtml.blink" /><link rel=3D"preconnec=
+-927b19f1-9a06-4732-bc8b-5453404007ff@mhtml.blink" /><link rel=3D"preconnec=
 t" href=3D"https://1fcf9ayyat-dsn.algolia.net/"><link rel=3D"preload" as=3D=
 "style" href=3D"https://react.dev/_next/static/css/70006ba8a90671f5.css"><l=
 ink rel=3D"preload" as=3D"script" href=3D"https://react.dev/_next/static/ch=
@@ -954,171 +954,219 @@ x=3D"-1" class=3D"cm-scroller"><div class=3D"cm-gutters" aria-hidden=3D"tru=
 e" style=3D"min-height: 1602px; position: sticky;"><div class=3D"cm-gutter =
 cm-lineNumbers"><div class=3D"cm-gutterElement" style=3D"height: 0px; visib=
 ility: hidden; pointer-events: none;">99</div><div class=3D"cm-gutterElemen=
-t" style=3D"height: 24px;">1</div><div class=3D"cm-gutterElement" style=3D"=
-height: 24px;">2</div><div class=3D"cm-gutterElement" style=3D"height: 24px=
-;">3</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">4</div><d=
-iv class=3D"cm-gutterElement" style=3D"height: 24px;">5</div><div class=3D"=
-cm-gutterElement" style=3D"height: 24px;">6</div><div class=3D"cm-gutterEle=
-ment" style=3D"height: 24px;">7</div><div class=3D"cm-gutterElement" style=
-=3D"height: 24px;">8</div><div class=3D"cm-gutterElement" style=3D"height: =
-24px;">9</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">10</d=
-iv><div class=3D"cm-gutterElement" style=3D"height: 24px;">11</div><div cla=
-ss=3D"cm-gutterElement" style=3D"height: 24px;">12</div><div class=3D"cm-gu=
-tterElement" style=3D"height: 24px;">13</div><div class=3D"cm-gutterElement=
-" style=3D"height: 24px;">14</div><div class=3D"cm-gutterElement" style=3D"=
-height: 24px;">15</div><div class=3D"cm-gutterElement" style=3D"height: 24p=
-x;">16</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">17</div=
-><div class=3D"cm-gutterElement" style=3D"height: 24px;">18</div><div class=
-=3D"cm-gutterElement" style=3D"height: 24px;">19</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 24px;">20</div><div class=3D"cm-gutterElement" =
-style=3D"height: 24px;">21</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 24px;">22</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
-">23</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">24</div><=
-div class=3D"cm-gutterElement" style=3D"height: 24px;">25</div><div class=
-=3D"cm-gutterElement" style=3D"height: 24px;">26</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 24px;">27</div><div class=3D"cm-gutterElement" =
-style=3D"height: 24px;">28</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 24px;">29</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
-">30</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">31</div><=
-div class=3D"cm-gutterElement" style=3D"height: 24px;">32</div><div class=
-=3D"cm-gutterElement" style=3D"height: 24px;">33</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 24px;">34</div><div class=3D"cm-gutterElement" =
-style=3D"height: 24px;">35</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 24px;">36</div></div></div><div spellcheck=3D"false" autocorrect=3D"o=
-ff" autocapitalize=3D"off" translate=3D"no" contenteditable=3D"true" class=
-=3D"cm-content" style=3D"tab-size: 4;" role=3D"textbox" aria-multiline=3D"t=
-rue" data-language=3D"javascript" data-gramm=3D"false" data-lt-active=3D"fa=
-lse" aria-label=3D"Code Editor for index.js" tabindex=3D"-1"><div class=3D"=
-cm-activeLine cm-line"><span class=3D"sp-syntax-keyword">async</span> <span=
- class=3D"sp-syntax-keyword">function</span> <span class=3D"sp-syntax-defin=
-ition">handleFormSubmit</span><span class=3D"sp-syntax-punctuation">(</span=
-><span class=3D"sp-syntax-plain">e</span><span class=3D"sp-syntax-punctuati=
-on">)</span> <span class=3D"sp-syntax-punctuation">{</span></div><div class=
-=3D"cm-line">  <span class=3D"sp-syntax-plain">e</span>.<span class=3D"sp-s=
-yntax-property">preventDefault</span><span class=3D"sp-syntax-punctuation">=
-(</span><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syn=
-tax-punctuation">;</span></div><div class=3D"cm-line">  <span class=3D"sp-s=
-yntax-definition">disable</span><span class=3D"sp-syntax-punctuation">(</sp=
-an><span class=3D"sp-syntax-plain">textarea</span><span class=3D"sp-syntax-=
-punctuation">)</span><span class=3D"sp-syntax-punctuation">;</span></div><d=
-iv class=3D"cm-line">  <span class=3D"sp-syntax-definition">disable</span><=
-span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain=
-">button</span><span class=3D"sp-syntax-punctuation">)</span><span class=3D=
-"sp-syntax-punctuation">;</span></div><div class=3D"cm-line">  <span class=
-=3D"sp-syntax-definition">show</span><span class=3D"sp-syntax-punctuation">=
-(</span><span class=3D"sp-syntax-plain">loadingMessage</span><span class=3D=
-"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punctuation">;</sp=
-an></div><div class=3D"cm-line">  <span class=3D"sp-syntax-definition">hide=
-</span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-synt=
-ax-plain">errorMessage</span><span class=3D"sp-syntax-punctuation">)</span>=
-<span class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-line">=
-  <span class=3D"sp-syntax-keyword">try</span> <span class=3D"sp-syntax-pun=
-ctuation">{</span></div><div class=3D"cm-line">    <span class=3D"sp-syntax=
--keyword">await</span> <span class=3D"sp-syntax-definition">submitForm</spa=
-n><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-pl=
-ain">textarea</span>.<span class=3D"sp-syntax-property">value</span><span c=
-lass=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punctuation=
-">;</span></div><div class=3D"cm-line">    <span class=3D"sp-syntax-definit=
-ion">show</span><span class=3D"sp-syntax-punctuation">(</span><span class=
-=3D"sp-syntax-plain">successMessage</span><span class=3D"sp-syntax-punctuat=
-ion">)</span><span class=3D"sp-syntax-punctuation">;</span></div><div class=
-=3D"cm-line">    <span class=3D"sp-syntax-definition">hide</span><span clas=
-s=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">form</s=
-pan><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-=
-punctuation">;</span></div><div class=3D"cm-line">  <span class=3D"sp-synta=
-x-punctuation">}</span> <span class=3D"sp-syntax-keyword">catch</span> <spa=
-n class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">e=
-rr</span><span class=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-s=
-yntax-punctuation">{</span></div><div class=3D"cm-line">    <span class=3D"=
-sp-syntax-definition">show</span><span class=3D"sp-syntax-punctuation">(</s=
-pan><span class=3D"sp-syntax-plain">errorMessage</span><span class=3D"sp-sy=
-ntax-punctuation">)</span><span class=3D"sp-syntax-punctuation">;</span></d=
-iv><div class=3D"cm-line">    <span class=3D"sp-syntax-plain">errorMessage<=
-/span>.<span class=3D"sp-syntax-property">textContent</span> =3D <span clas=
-s=3D"sp-syntax-plain">err</span>.<span class=3D"sp-syntax-property">message=
+t" style=3D"height: 24px; margin-top: 456px;">20</div><div class=3D"cm-gutt=
+erElement" style=3D"height: 24px;">21</div><div class=3D"cm-gutterElement" =
+style=3D"height: 24px;">22</div><div class=3D"cm-gutterElement" style=3D"he=
+ight: 24px;">23</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
+">24</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">25</div><=
+div class=3D"cm-gutterElement" style=3D"height: 24px;">26</div><div class=
+=3D"cm-gutterElement" style=3D"height: 24px;">27</div><div class=3D"cm-gutt=
+erElement" style=3D"height: 24px;">28</div><div class=3D"cm-gutterElement" =
+style=3D"height: 24px;">29</div><div class=3D"cm-gutterElement" style=3D"he=
+ight: 24px;">30</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
+">31</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">32</div><=
+div class=3D"cm-gutterElement" style=3D"height: 24px;">33</div><div class=
+=3D"cm-gutterElement" style=3D"height: 24px;">34</div><div class=3D"cm-gutt=
+erElement" style=3D"height: 24px;">35</div><div class=3D"cm-gutterElement" =
+style=3D"height: 24px;">36</div><div class=3D"cm-gutterElement" style=3D"he=
+ight: 24px;">37</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
+">38</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">39</div><=
+div class=3D"cm-gutterElement" style=3D"height: 24px;">40</div><div class=
+=3D"cm-gutterElement" style=3D"height: 24px;">41</div><div class=3D"cm-gutt=
+erElement" style=3D"height: 24px;">42</div><div class=3D"cm-gutterElement" =
+style=3D"height: 24px;">43</div><div class=3D"cm-gutterElement" style=3D"he=
+ight: 24px;">44</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
+">45</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">46</div><=
+div class=3D"cm-gutterElement" style=3D"height: 24px;">47</div><div class=
+=3D"cm-gutterElement" style=3D"height: 24px;">48</div><div class=3D"cm-gutt=
+erElement" style=3D"height: 24px;">49</div><div class=3D"cm-gutterElement" =
+style=3D"height: 24px;">50</div><div class=3D"cm-gutterElement" style=3D"he=
+ight: 24px;">51</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
+">52</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">53</div><=
+div class=3D"cm-gutterElement" style=3D"height: 24px;">54</div><div class=
+=3D"cm-gutterElement" style=3D"height: 24px;">55</div><div class=3D"cm-gutt=
+erElement" style=3D"height: 24px;">56</div><div class=3D"cm-gutterElement" =
+style=3D"height: 24px;">57</div><div class=3D"cm-gutterElement" style=3D"he=
+ight: 24px;">58</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
+">59</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">60</div><=
+div class=3D"cm-gutterElement" style=3D"height: 24px;">61</div><div class=
+=3D"cm-gutterElement" style=3D"height: 24px;">62</div><div class=3D"cm-gutt=
+erElement" style=3D"height: 24px;">63</div><div class=3D"cm-gutterElement" =
+style=3D"height: 24px;">64</div><div class=3D"cm-gutterElement" style=3D"he=
+ight: 24px;">65</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
+">66</div></div></div><div spellcheck=3D"false" autocorrect=3D"off" autocap=
+italize=3D"off" translate=3D"no" contenteditable=3D"true" class=3D"cm-conte=
+nt" style=3D"tab-size: 4;" role=3D"textbox" aria-multiline=3D"true" data-la=
+nguage=3D"javascript" data-gramm=3D"false" data-lt-active=3D"false" aria-la=
+bel=3D"Code Editor for index.js" tabindex=3D"-1"><div class=3D"cm-activeLin=
+e cm-line">async function handleFormSubmit(e) {</div><div contenteditable=
+=3D"false" style=3D"height: 432px;"></div><div class=3D"cm-line"><br></div>=
+<div class=3D"cm-line"><span class=3D"sp-syntax-keyword">function</span> <s=
+pan class=3D"sp-syntax-definition">handleTextareaChange</span><span class=
+=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-punctuation">)<=
+/span> <span class=3D"sp-syntax-punctuation">{</span></div><div class=3D"cm=
+-line">  <span class=3D"sp-syntax-keyword">if</span> <span class=3D"sp-synt=
+ax-punctuation">(</span><span class=3D"sp-syntax-plain">textarea</span>.<sp=
+an class=3D"sp-syntax-property">value</span>.<span class=3D"sp-syntax-prope=
+rty">length</span> =3D=3D=3D <span class=3D"sp-syntax-static">0</span><span=
+ class=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-syntax-punctuat=
+ion">{</span></div><div class=3D"cm-line">    <span class=3D"sp-syntax-defi=
+nition">disable</span><span class=3D"sp-syntax-punctuation">(</span><span c=
+lass=3D"sp-syntax-plain">button</span><span class=3D"sp-syntax-punctuation"=
+>)</span><span class=3D"sp-syntax-punctuation">;</span></div><div class=3D"=
+cm-line">  <span class=3D"sp-syntax-punctuation">}</span> <span class=3D"sp=
+-syntax-keyword">else</span> <span class=3D"sp-syntax-punctuation">{</span>=
+</div><div class=3D"cm-line">    <span class=3D"sp-syntax-definition">enabl=
+e</span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syn=
+tax-plain">button</span><span class=3D"sp-syntax-punctuation">)</span><span=
+ class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-line">  <sp=
+an class=3D"sp-syntax-punctuation">}</span></div><div class=3D"cm-line"><sp=
+an class=3D"sp-syntax-punctuation">}</span></div><div class=3D"cm-line"><br=
+></div><div class=3D"cm-line"><span class=3D"sp-syntax-keyword">function</s=
+pan> <span class=3D"sp-syntax-definition">hide</span><span class=3D"sp-synt=
+ax-punctuation">(</span><span class=3D"sp-syntax-plain">el</span><span clas=
+s=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-syntax-punctuation">=
+{</span></div><div class=3D"cm-line">  <span class=3D"sp-syntax-plain">el</=
+span>.<span class=3D"sp-syntax-property">style</span>.<span class=3D"sp-syn=
+tax-property">display</span> =3D <span class=3D"sp-syntax-string">'none'</s=
+pan><span class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-li=
+ne"><span class=3D"sp-syntax-punctuation">}</span></div><div class=3D"cm-li=
+ne"><br></div><div class=3D"cm-line"><span class=3D"sp-syntax-keyword">func=
+tion</span> <span class=3D"sp-syntax-definition">show</span><span class=3D"=
+sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">el</span><sp=
+an class=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-syntax-punctu=
+ation">{</span></div><div class=3D"cm-line">  <span class=3D"sp-syntax-plai=
+n">el</span>.<span class=3D"sp-syntax-property">style</span>.<span class=3D=
+"sp-syntax-property">display</span> =3D <span class=3D"sp-syntax-string">''=
 </span><span class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm=
--line">  <span class=3D"sp-syntax-punctuation">}</span> <span class=3D"sp-s=
-yntax-keyword">finally</span> <span class=3D"sp-syntax-punctuation">{</span=
-></div><div class=3D"cm-line">    <span class=3D"sp-syntax-definition">hide=
-</span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-synt=
-ax-plain">loadingMessage</span><span class=3D"sp-syntax-punctuation">)</spa=
-n><span class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-line=
-">    <span class=3D"sp-syntax-definition">enable</span><span class=3D"sp-s=
-yntax-punctuation">(</span><span class=3D"sp-syntax-plain">textarea</span><=
-span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punct=
-uation">;</span></div><div class=3D"cm-line">    <span class=3D"sp-syntax-d=
-efinition">enable</span><span class=3D"sp-syntax-punctuation">(</span><span=
- class=3D"sp-syntax-plain">button</span><span class=3D"sp-syntax-punctuatio=
-n">)</span><span class=3D"sp-syntax-punctuation">;</span></div><div class=
-=3D"cm-line">  <span class=3D"sp-syntax-punctuation">}</span></div><div cla=
-ss=3D"cm-line"><span class=3D"sp-syntax-punctuation">}</span></div><div cla=
-ss=3D"cm-line"><br></div><div class=3D"cm-line"><span class=3D"sp-syntax-ke=
-yword">function</span> <span class=3D"sp-syntax-definition">handleTextareaC=
-hange</span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp=
--syntax-punctuation">)</span> <span class=3D"sp-syntax-punctuation">{</span=
-></div><div class=3D"cm-line">  <span class=3D"sp-syntax-keyword">if</span>=
- <span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-pla=
-in">textarea</span>.<span class=3D"sp-syntax-property">value</span>.<span c=
-lass=3D"sp-syntax-property">length</span> =3D=3D=3D <span class=3D"sp-synta=
-x-static">0</span><span class=3D"sp-syntax-punctuation">)</span> <span clas=
-s=3D"sp-syntax-punctuation">{</span></div><div class=3D"cm-line">    <span =
-class=3D"sp-syntax-definition">disable</span><span class=3D"sp-syntax-punct=
-uation">(</span><span class=3D"sp-syntax-plain">button</span><span class=3D=
-"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punctuation">;</sp=
-an></div><div class=3D"cm-line">  <span class=3D"sp-syntax-punctuation">}</=
-span> <span class=3D"sp-syntax-keyword">else</span> <span class=3D"sp-synta=
-x-punctuation">{</span></div><div class=3D"cm-line">    <span class=3D"sp-s=
-yntax-definition">enable</span><span class=3D"sp-syntax-punctuation">(</spa=
-n><span class=3D"sp-syntax-plain">button</span><span class=3D"sp-syntax-pun=
-ctuation">)</span><span class=3D"sp-syntax-punctuation">;</span></div><div =
-class=3D"cm-line">  <span class=3D"sp-syntax-punctuation">}</span></div><di=
-v class=3D"cm-line"><span class=3D"sp-syntax-punctuation">}</span></div><di=
-v class=3D"cm-line"><br></div><div class=3D"cm-line"><span class=3D"sp-synt=
-ax-keyword">function</span> <span class=3D"sp-syntax-definition">hide</span=
-><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-pla=
-in">el</span><span class=3D"sp-syntax-punctuation">)</span> <span class=3D"=
-sp-syntax-punctuation">{</span></div><div class=3D"cm-line">  <span class=
-=3D"sp-syntax-plain">el</span>.<span class=3D"sp-syntax-property">style</sp=
-an>.<span class=3D"sp-syntax-property">display</span> =3D <span class=3D"sp=
--syntax-string">'none'</span><span class=3D"sp-syntax-punctuation">;</span>=
-</div><div class=3D"cm-line"><span class=3D"sp-syntax-punctuation">}</span>=
-</div><div class=3D"cm-line"><br></div><div class=3D"cm-line"><span class=
-=3D"sp-syntax-keyword">function</span> <span class=3D"sp-syntax-definition"=
->show</span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp=
--syntax-plain">el</span><span class=3D"sp-syntax-punctuation">)</span> <spa=
-n class=3D"sp-syntax-punctuation">{</span></div><div class=3D"cm-line">  <s=
-pan class=3D"sp-syntax-plain">el</span>.<span class=3D"sp-syntax-property">=
-style</span>.<span class=3D"sp-syntax-property">display</span> =3D <span cl=
-ass=3D"sp-syntax-string">''</span><span class=3D"sp-syntax-punctuation">;</=
-span></div><div class=3D"cm-line"><span class=3D"sp-syntax-punctuation">}</=
-span></div><div class=3D"cm-line"><br></div><div contenteditable=3D"false" =
-style=3D"height: 720px;"></div></div></div></div></div></div></div><div cla=
-ss=3D" order-last xl:order-2 sp-stack"><div class=3D"p-0 sm:p-2 md:p-4 lg:p=
--8 bg-card dark:bg-wash-dark h-full relative md:rounded-b-lg lg:rounded-b-n=
-one"><div style=3D"position: relative;"><iframe class=3D"rounded-t-none bg-=
-white md:shadow-md sm:rounded-lg w-full max-w-full transition-opacity absol=
-ute opacity-0 pointer-events-none duration-75" title=3D"Sandbox Preview" st=
-yle=3D"height: 15px; z-index: -1;" sandbox=3D"allow-forms allow-modals allo=
-w-popups allow-presentation allow-same-origin allow-scripts allow-downloads=
- allow-pointer-lock" allow=3D"accelerometer; camera; encrypted-media; geolo=
-cation; gyroscope; hid; microphone; midi; clipboard-write;"></iframe></div>=
-</div></div><button translate=3D"yes" class=3D"sandpack-expand flex text-ba=
-se justify-between dark:border-card-dark bg-wash dark:bg-card-dark items-ce=
-nter z-10 p-1 w-full order-2 xl:order-last border-b-1 relative top-0"><span=
- class=3D"flex p-2 focus:outline-none text-primary dark:text-primary-dark l=
-eading-[20px]"><svg class=3D"rotate-0 inline me-1.5 text-xl" xmlns=3D"http:=
-//www.w3.org/2000/svg" width=3D"20" height=3D"20" viewBox=3D"0 0 20 20"><g =
-fill=3D"none" fill-rule=3D"evenodd" transform=3D"translate(-446 -398)"><pat=
-h fill=3D"currentColor" fill-rule=3D"nonzero" d=3D"M95.8838835,240.366117 C=
-95.3957281,239.877961 94.6042719,239.877961 94.1161165,240.366117 C93.62796=
-12,240.854272 93.6279612,241.645728 94.1161165,242.133883 L98.6161165,246.6=
-33883 C99.1042719,247.122039 99.8957281,247.122039 100.383883,246.633883 L1=
-04.883883,242.133883 C105.372039,241.645728 105.372039,240.854272 104.88388=
-3,240.366117 C104.395728,239.877961 103.604272,239.877961 103.116117,240.36=
-6117 L99.5,243.982233 L95.8838835,240.366117 Z" transform=3D"translate(356.=
-5 164.5)"></path><polygon points=3D"446 418 466 418 466 398 446 398"></poly=
-gon></g></svg>Show more</span></button></div></div></div></div><div class=
-=3D"max-w-4xl ms-0 2xl:mx-auto">
+-line"><span class=3D"sp-syntax-punctuation">}</span></div><div class=3D"cm=
+-line"><br></div><div class=3D"cm-line"><span class=3D"sp-syntax-keyword">f=
+unction</span> <span class=3D"sp-syntax-definition">enable</span><span clas=
+s=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">el</spa=
+n><span class=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-syntax-p=
+unctuation">{</span></div><div class=3D"cm-line">  <span class=3D"sp-syntax=
+-plain">el</span>.<span class=3D"sp-syntax-property">disabled</span> =3D <s=
+pan class=3D"sp-syntax-static">false</span><span class=3D"sp-syntax-punctua=
+tion">;</span></div><div class=3D"cm-line"><span class=3D"sp-syntax-punctua=
+tion">}</span></div><div class=3D"cm-line"><br></div><div class=3D"cm-line"=
+><span class=3D"sp-syntax-keyword">function</span> <span class=3D"sp-syntax=
+-definition">disable</span><span class=3D"sp-syntax-punctuation">(</span><s=
+pan class=3D"sp-syntax-plain">el</span><span class=3D"sp-syntax-punctuation=
+">)</span> <span class=3D"sp-syntax-punctuation">{</span></div><div class=
+=3D"cm-line">  <span class=3D"sp-syntax-plain">el</span>.<span class=3D"sp-=
+syntax-property">disabled</span> =3D <span class=3D"sp-syntax-static">true<=
+/span><span class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-=
+line"><span class=3D"sp-syntax-punctuation">}</span></div><div class=3D"cm-=
+line"><br></div><div class=3D"cm-line"><span class=3D"sp-syntax-keyword">fu=
+nction</span> <span class=3D"sp-syntax-definition">submitForm</span><span c=
+lass=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">answ=
+er</span><span class=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-s=
+yntax-punctuation">{</span></div><div class=3D"cm-line">  <span class=3D"sp=
+-syntax-comment">// Pretend it's hitting the network.</span></div><div clas=
+s=3D"cm-line">  <span class=3D"sp-syntax-keyword">return</span> <span class=
+=3D"sp-syntax-keyword">new</span> <span class=3D"sp-syntax-plain">Promise</=
+span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax=
+-punctuation">(</span><span class=3D"sp-syntax-plain">resolve</span><span c=
+lass=3D"sp-syntax-punctuation">,</span> <span class=3D"sp-syntax-plain">rej=
+ect</span><span class=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-=
+syntax-punctuation">=3D&gt;</span> <span class=3D"sp-syntax-punctuation">{<=
+/span></div><div class=3D"cm-line">    <span class=3D"sp-syntax-definition"=
+>setTimeout</span><span class=3D"sp-syntax-punctuation">(</span><span class=
+=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-punctuation">)<=
+/span> <span class=3D"sp-syntax-punctuation">=3D&gt;</span> <span class=3D"=
+sp-syntax-punctuation">{</span></div><div class=3D"cm-line">      <span cla=
+ss=3D"sp-syntax-keyword">if</span> <span class=3D"sp-syntax-punctuation">(<=
+/span><span class=3D"sp-syntax-plain">answer</span>.<span class=3D"sp-synta=
+x-property">toLowerCase</span><span class=3D"sp-syntax-punctuation">(</span=
+><span class=3D"sp-syntax-punctuation">)</span> =3D=3D=3D <span class=3D"sp=
+-syntax-string">'istanbul'</span><span class=3D"sp-syntax-punctuation">)</s=
+pan> <span class=3D"sp-syntax-punctuation">{</span></div><div class=3D"cm-l=
+ine">        <span class=3D"sp-syntax-definition">resolve</span><span class=
+=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-punctuation">)<=
+/span><span class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-=
+line">      <span class=3D"sp-syntax-punctuation">}</span> <span class=3D"s=
+p-syntax-keyword">else</span> <span class=3D"sp-syntax-punctuation">{</span=
+></div><div class=3D"cm-line">        <span class=3D"sp-syntax-definition">=
+reject</span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"s=
+p-syntax-keyword">new</span> <span class=3D"sp-syntax-plain">Error</span><s=
+pan class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-string=
+">'Good guess but a wrong answer. Try again!'</span><span class=3D"sp-synta=
+x-punctuation">)</span><span class=3D"sp-syntax-punctuation">)</span><span =
+class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-line">      =
+<span class=3D"sp-syntax-punctuation">}</span></div><div class=3D"cm-line">=
+    <span class=3D"sp-syntax-punctuation">}</span><span class=3D"sp-syntax-=
+punctuation">,</span> <span class=3D"sp-syntax-static">1500</span><span cla=
+ss=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punctuation">=
+;</span></div><div class=3D"cm-line">  <span class=3D"sp-syntax-punctuation=
+">}</span><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-s=
+yntax-punctuation">;</span></div><div class=3D"cm-line"><span class=3D"sp-s=
+yntax-punctuation">}</span></div><div class=3D"cm-line"><br></div><div clas=
+s=3D"cm-line"><span class=3D"sp-syntax-keyword">let</span> <span class=3D"s=
+p-syntax-plain">form</span> =3D <span class=3D"sp-syntax-plain">document</s=
+pan>.<span class=3D"sp-syntax-property">getElementById</span><span class=3D=
+"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-string">'form'</sp=
+an><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-p=
+unctuation">;</span></div><div class=3D"cm-line"><span class=3D"sp-syntax-k=
+eyword">let</span> <span class=3D"sp-syntax-plain">textarea</span> =3D <spa=
+n class=3D"sp-syntax-plain">document</span>.<span class=3D"sp-syntax-proper=
+ty">getElementById</span><span class=3D"sp-syntax-punctuation">(</span><spa=
+n class=3D"sp-syntax-string">'textarea'</span><span class=3D"sp-syntax-punc=
+tuation">)</span><span class=3D"sp-syntax-punctuation">;</span></div><div c=
+lass=3D"cm-line"><span class=3D"sp-syntax-keyword">let</span> <span class=
+=3D"sp-syntax-plain">button</span> =3D <span class=3D"sp-syntax-plain">docu=
+ment</span>.<span class=3D"sp-syntax-property">getElementById</span><span c=
+lass=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-string">'bu=
+tton'</span><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp=
+-syntax-punctuation">;</span></div><div class=3D"cm-line"><span class=3D"sp=
+-syntax-keyword">let</span> <span class=3D"sp-syntax-plain">loadingMessage<=
+/span> =3D <span class=3D"sp-syntax-plain">document</span>.<span class=3D"s=
+p-syntax-property">getElementById</span><span class=3D"sp-syntax-punctuatio=
+n">(</span><span class=3D"sp-syntax-string">'loading'</span><span class=3D"=
+sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punctuation">;</spa=
+n></div><div class=3D"cm-line"><span class=3D"sp-syntax-keyword">let</span>=
+ <span class=3D"sp-syntax-plain">errorMessage</span> =3D <span class=3D"sp-=
+syntax-plain">document</span>.<span class=3D"sp-syntax-property">getElement=
+ById</span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-=
+syntax-string">'error'</span><span class=3D"sp-syntax-punctuation">)</span>=
+<span class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-line">=
+<span class=3D"sp-syntax-keyword">let</span> <span class=3D"sp-syntax-plain=
+">successMessage</span> =3D <span class=3D"sp-syntax-plain">document</span>=
+.<span class=3D"sp-syntax-property">getElementById</span><span class=3D"sp-=
+syntax-punctuation">(</span><span class=3D"sp-syntax-string">'success'</spa=
+n><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-pu=
+nctuation">;</span></div><div class=3D"cm-line"><span class=3D"sp-syntax-pl=
+ain">form</span>.<span class=3D"sp-syntax-property">onsubmit</span> =3D <sp=
+an class=3D"sp-syntax-plain">handleFormSubmit</span><span class=3D"sp-synta=
+x-punctuation">;</span></div><div class=3D"cm-line"><span class=3D"sp-synta=
+x-plain">textarea</span>.<span class=3D"sp-syntax-property">oninput</span> =
+=3D <span class=3D"sp-syntax-plain">handleTextareaChange</span><span class=
+=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-line"><br></div><=
+/div></div></div></div></div></div><div class=3D" order-last xl:order-2 sp-=
+stack"><div class=3D"p-0 sm:p-2 md:p-4 lg:p-8 bg-card dark:bg-wash-dark h-f=
+ull relative md:rounded-b-lg lg:rounded-b-none"><div style=3D"position: rel=
+ative;"><iframe class=3D"rounded-t-none bg-white md:shadow-md sm:rounded-lg=
+ w-full max-w-full transition-opacity absolute opacity-0 pointer-events-non=
+e duration-75" title=3D"Sandbox Preview" style=3D"height: 15px; z-index: -1=
+;" sandbox=3D"allow-forms allow-modals allow-popups allow-presentation allo=
+w-same-origin allow-scripts allow-downloads allow-pointer-lock" allow=3D"ac=
+celerometer; camera; encrypted-media; geolocation; gyroscope; hid; micropho=
+ne; midi; clipboard-write;"></iframe></div></div></div><button translate=3D=
+"yes" class=3D"sandpack-expand flex text-base justify-between dark:border-c=
+ard-dark bg-wash dark:bg-card-dark items-center z-10 p-1 w-full order-2 xl:=
+order-last border-b-1 relative top-0"><span class=3D"flex p-2 focus:outline=
+-none text-primary dark:text-primary-dark leading-[20px]"><svg class=3D"rot=
+ate-0 inline me-1.5 text-xl" xmlns=3D"http://www.w3.org/2000/svg" width=3D"=
+20" height=3D"20" viewBox=3D"0 0 20 20"><g fill=3D"none" fill-rule=3D"eveno=
+dd" transform=3D"translate(-446 -398)"><path fill=3D"currentColor" fill-rul=
+e=3D"nonzero" d=3D"M95.8838835,240.366117 C95.3957281,239.877961 94.6042719=
+,239.877961 94.1161165,240.366117 C93.6279612,240.854272 93.6279612,241.645=
+728 94.1161165,242.133883 L98.6161165,246.633883 C99.1042719,247.122039 99.=
+8957281,247.122039 100.383883,246.633883 L104.883883,242.133883 C105.372039=
+,241.645728 105.372039,240.854272 104.883883,240.366117 C104.395728,239.877=
+961 103.604272,239.877961 103.116117,240.366117 L99.5,243.982233 L95.883883=
+5,240.366117 Z" transform=3D"translate(356.5 164.5)"></path><polygon points=
+=3D"446 418 466 418 466 398 446 398"></polygon></g></svg>Show more</span></=
+button></div></div></div></div><div class=3D"max-w-4xl ms-0 2xl:mx-auto">
 <p class=3D"whitespace-pre-wrap my-4">Manipulating the UI imperatively work=
 s well enough for isolated examples, but it gets exponentially more difficu=
 lt to manage in more complex systems. Imagine updating a page full of diffe=
@@ -2318,81 +2366,81 @@ x-punctuation">)</span><span class=3D"sp-syntax-punctuation">;</span> <span=
 you can=E2=80=99t remove any of them without breaking the functionality.</p=
 >
 <details class=3D"my-12 rounded-2xl shadow-inner-border dark:shadow-inner-b=
-order-dark relative dark:bg-opacity-20 dark:bg-purple-60 bg-purple-5"><summ=
-ary class=3D"list-none p-8" tabindex=3D"-1"><h5 class=3D"mb-4 uppercase fon=
-t-bold flex items-center text-sm dark:text-purple-30 text-purple-50"><svg c=
-lass=3D"inline me-2 dark:text-purple-30 text-purple-40" width=3D"1.5em" hei=
-ght=3D"1.5em" viewBox=3D"0 0 72 72" fill=3D"none" xmlns=3D"http://www.w3.or=
-g/2000/svg"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=3D"M34.7409=
- 59.7228L32.9567 58.9094C27.2672 56.3157 20.7328 56.3157 15.0433 58.9094C12=
-.6018 60.0224 9.39163 59.0275 8.44602 56.0621C7.45647 52.9589 5.99975 46.58=
-98 6 35.9997C6.00029 23.5648 8.00803 18.3599 9.11099 16.4196C9.67795 15.422=
-2 10.5255 14.8455 11.2254 14.5264L12.0179 14.1651C19.6351 10.6926 28.4011 1=
-0.6738 36 14.1733C43.5989 10.6738 52.3649 10.6926 59.9821 14.1651L60.7746 1=
-4.5264C61.4745 14.8455 62.3221 15.4222 62.889 16.4196C63.992 18.3599 65.999=
-7 23.5648 66 35.9997C66.0002 46.5898 64.5435 52.9589 63.554 56.0621C62.6084=
- 59.0275 59.3982 60.0224 56.9567 58.9094C51.2672 56.3157 44.7328 56.3157 39=
-.0433 58.9094L37.2591 59.7228C37.1986 59.7508 37.1373 59.7767 37.0753 59.80=
-04C36.4484 60.0411 35.7556 60.0653 35.1102 59.8648C34.9847 59.8258 34.8613 =
-59.7784 34.7409 59.7228ZM14.5068 19.6246C20.3733 16.9501 27.0874 16.8775 33=
- 19.4067V52.473C26.7613 50.32 19.9378 50.471 13.7811 52.9261C13.0005 49.984=
-3 11.9998 44.547 12 35.9998C12.0002 25.5786 13.4879 21.1893 14.1179 19.8018=
-L14.5068 19.6246ZM39 52.473C45.2387 50.32 52.0622 50.471 58.2189 52.9261C58=
-.9995 49.9843 60.0002 44.547 60 35.9998C59.9998 25.5786 58.5121 21.1893 57.=
-8821 19.8018L57.4932 19.6246C51.6267 16.9501 44.9126 16.8775 39 19.4067V52.=
-473Z" fill=3D"currentColor"></path></svg>Deep Dive</h5><div class=3D"mb-4">=
-<h4 id=3D"eliminating-impossible-states-with-a-reducer" class=3D"mdx-headin=
-g text-xl font-bold text-primary dark:text-primary-dark text-xl font-displa=
-y font-bold leading-9 my-4">Eliminating =E2=80=9Cimpossible=E2=80=9D states=
- with a reducer <a href=3D"https://react.dev/learn/reacting-to-input-with-s=
-tate#eliminating-impossible-states-with-a-reducer" aria-label=3D"Link for E=
-liminating =E2=80=9Cimpossible=E2=80=9D states with a reducer " title=3D"Li=
-nk for Eliminating =E2=80=9Cimpossible=E2=80=9D states with a reducer " cla=
-ss=3D"mdx-header-anchor inline-block"><svg width=3D"1em" height=3D"1em" vie=
-wBox=3D"0 0 13 13" xmlns=3D"http://www.w3.org/2000/svg" class=3D"text-gray-=
-70 ms-2 h-5 w-5"><g fill=3D"currentColor" fill-rule=3D"evenodd"><path d=3D"=
-M7.778 7.975a2.5 2.5 0 0 0 .347-3.837L6.017 2.03a2.498 2.498 0 0 0-3.542-.0=
-07 2.5 2.5 0 0 0 .006 3.543l1.153 1.15c.07-.29.154-.563.25-.773.036-.077.08=
-4-.16.14-.25L3.18 4.85a1.496 1.496 0 0 1 .002-2.12 1.496 1.496 0 0 1 2.12 0=
-l2.124 2.123a1.496 1.496 0 0 1-.333 2.37c.16.246.42.504.685.752z"></path><p=
-ath d=3D"M5.657 4.557a2.5 2.5 0 0 0-.347 3.837l2.108 2.108a2.498 2.498 0 0 =
-0 3.542.007 2.5 2.5 0 0 0-.006-3.543L9.802 5.815c-.07.29-.154.565-.25.774-.=
-036.076-.084.16-.14.25l.842.84c.585.587.59 1.532 0 2.122-.587.585-1.532.59-=
-2.12 0L6.008 7.68a1.496 1.496 0 0 1 .332-2.372c-.16-.245-.42-.503-.685-.75z=
-"></path></g></svg></a></h4></div><button class=3D"bg-purple-50 border-purp=
-le-50 hover:bg-purple-40 focus:bg-purple-50 active:bg-purple-50 text-base l=
-eading-tight font-bold rounded-full py-2 px-4 focus:outline focus:outline-o=
-ffset-2 focus:outline-link dark:focus:outline-link-dark inline-flex items-c=
-enter my-1 bg-link border-link text-white hover:bg-link focus:bg-link activ=
-e:bg-link"><span class=3D"me-1"><svg class=3D"rotate-0" xmlns=3D"http://www=
-.w3.org/2000/svg" width=3D"20" height=3D"20" viewBox=3D"0 0 20 20"><g fill=
-=3D"none" fill-rule=3D"evenodd" transform=3D"translate(-446 -398)"><path fi=
-ll=3D"currentColor" fill-rule=3D"nonzero" d=3D"M95.8838835,240.366117 C95.3=
-957281,239.877961 94.6042719,239.877961 94.1161165,240.366117 C93.6279612,2=
-40.854272 93.6279612,241.645728 94.1161165,242.133883 L98.6161165,246.63388=
-3 C99.1042719,247.122039 99.8957281,247.122039 100.383883,246.633883 L104.8=
-83883,242.133883 C105.372039,241.645728 105.372039,240.854272 104.883883,24=
-0.366117 C104.395728,239.877961 103.604272,239.877961 103.116117,240.366117=
- L99.5,243.982233 L95.8838835,240.366117 Z" transform=3D"translate(356.5 16=
-4.5)"></path><polygon points=3D"446 418 466 418 466 398 446 398"></polygon>=
-</g></svg></span>Show Details</button></summary><div class=3D"p-8 border-t =
-dark:border-purple-60 border-purple-10 "><p class=3D"whitespace-pre-wrap my=
--4">These three variables are a good enough representation of this form=E2=
-=80=99s state. However, there are still some intermediate states that don=
-=E2=80=99t fully make sense. For example, a non-null <code dir=3D"ltr" clas=
-s=3D"inline text-code text-secondary dark:text-secondary-dark px-1 rounded-=
-md no-underline bg-gray-30 bg-opacity-10 py-px">error</code> doesn=E2=80=99=
-t make sense when <code dir=3D"ltr" class=3D"inline text-code text-secondar=
-y dark:text-secondary-dark px-1 rounded-md no-underline bg-gray-30 bg-opaci=
-ty-10 py-px">status</code> is <code dir=3D"ltr" class=3D"inline text-code t=
-ext-secondary dark:text-secondary-dark px-1 rounded-md no-underline bg-gray=
--30 bg-opacity-10 py-px">'success'</code>. To model the state more precisel=
-y, you can <a class=3D"inline text-link dark:text-link-dark border-b border=
--link border-opacity-0 hover:border-opacity-100 duration-100 ease-in transi=
-tion leading-normal" href=3D"https://react.dev/learn/extracting-state-logic=
--into-a-reducer">extract it into a reducer.</a> Reducers let you unify mult=
-iple state variables into a single object and consolidate all the related l=
-ogic!</p></div></details>
+order-dark relative dark:bg-opacity-20 dark:bg-purple-60 bg-purple-5" open=
+=3D""><summary class=3D"list-none p-8" tabindex=3D"-1"><h5 class=3D"mb-4 up=
+percase font-bold flex items-center text-sm dark:text-purple-30 text-purple=
+-50"><svg class=3D"inline me-2 dark:text-purple-30 text-purple-40" width=3D=
+"1.5em" height=3D"1.5em" viewBox=3D"0 0 72 72" fill=3D"none" xmlns=3D"http:=
+//www.w3.org/2000/svg"><path fill-rule=3D"evenodd" clip-rule=3D"evenodd" d=
+=3D"M34.7409 59.7228L32.9567 58.9094C27.2672 56.3157 20.7328 56.3157 15.043=
+3 58.9094C12.6018 60.0224 9.39163 59.0275 8.44602 56.0621C7.45647 52.9589 5=
+.99975 46.5898 6 35.9997C6.00029 23.5648 8.00803 18.3599 9.11099 16.4196C9.=
+67795 15.4222 10.5255 14.8455 11.2254 14.5264L12.0179 14.1651C19.6351 10.69=
+26 28.4011 10.6738 36 14.1733C43.5989 10.6738 52.3649 10.6926 59.9821 14.16=
+51L60.7746 14.5264C61.4745 14.8455 62.3221 15.4222 62.889 16.4196C63.992 18=
+.3599 65.9997 23.5648 66 35.9997C66.0002 46.5898 64.5435 52.9589 63.554 56.=
+0621C62.6084 59.0275 59.3982 60.0224 56.9567 58.9094C51.2672 56.3157 44.732=
+8 56.3157 39.0433 58.9094L37.2591 59.7228C37.1986 59.7508 37.1373 59.7767 3=
+7.0753 59.8004C36.4484 60.0411 35.7556 60.0653 35.1102 59.8648C34.9847 59.8=
+258 34.8613 59.7784 34.7409 59.7228ZM14.5068 19.6246C20.3733 16.9501 27.087=
+4 16.8775 33 19.4067V52.473C26.7613 50.32 19.9378 50.471 13.7811 52.9261C13=
+.0005 49.9843 11.9998 44.547 12 35.9998C12.0002 25.5786 13.4879 21.1893 14.=
+1179 19.8018L14.5068 19.6246ZM39 52.473C45.2387 50.32 52.0622 50.471 58.218=
+9 52.9261C58.9995 49.9843 60.0002 44.547 60 35.9998C59.9998 25.5786 58.5121=
+ 21.1893 57.8821 19.8018L57.4932 19.6246C51.6267 16.9501 44.9126 16.8775 39=
+ 19.4067V52.473Z" fill=3D"currentColor"></path></svg>Deep Dive</h5><div cla=
+ss=3D"mb-4"><h4 id=3D"eliminating-impossible-states-with-a-reducer" class=
+=3D"mdx-heading text-xl font-bold text-primary dark:text-primary-dark text-=
+xl font-display font-bold leading-9 my-4">Eliminating =E2=80=9Cimpossible=
+=E2=80=9D states with a reducer <a href=3D"https://react.dev/learn/reacting=
+-to-input-with-state#eliminating-impossible-states-with-a-reducer" aria-lab=
+el=3D"Link for Eliminating =E2=80=9Cimpossible=E2=80=9D states with a reduc=
+er " title=3D"Link for Eliminating =E2=80=9Cimpossible=E2=80=9D states with=
+ a reducer " class=3D"mdx-header-anchor inline-block"><svg width=3D"1em" he=
+ight=3D"1em" viewBox=3D"0 0 13 13" xmlns=3D"http://www.w3.org/2000/svg" cla=
+ss=3D"text-gray-70 ms-2 h-5 w-5"><g fill=3D"currentColor" fill-rule=3D"even=
+odd"><path d=3D"M7.778 7.975a2.5 2.5 0 0 0 .347-3.837L6.017 2.03a2.498 2.49=
+8 0 0 0-3.542-.007 2.5 2.5 0 0 0 .006 3.543l1.153 1.15c.07-.29.154-.563.25-=
+.773.036-.077.084-.16.14-.25L3.18 4.85a1.496 1.496 0 0 1 .002-2.12 1.496 1.=
+496 0 0 1 2.12 0l2.124 2.123a1.496 1.496 0 0 1-.333 2.37c.16.246.42.504.685=
+.752z"></path><path d=3D"M5.657 4.557a2.5 2.5 0 0 0-.347 3.837l2.108 2.108a=
+2.498 2.498 0 0 0 3.542.007 2.5 2.5 0 0 0-.006-3.543L9.802 5.815c-.07.29-.1=
+54.565-.25.774-.036.076-.084.16-.14.25l.842.84c.585.587.59 1.532 0 2.122-.5=
+87.585-1.532.59-2.12 0L6.008 7.68a1.496 1.496 0 0 1 .332-2.372c-.16-.245-.4=
+2-.503-.685-.75z"></path></g></svg></a></h4></div><button class=3D"bg-purpl=
+e-50 border-purple-50 hover:bg-purple-40 focus:bg-purple-50 active:bg-purpl=
+e-50 text-base leading-tight font-bold rounded-full py-2 px-4 focus:outline=
+ focus:outline-offset-2 focus:outline-link dark:focus:outline-link-dark inl=
+ine-flex items-center my-1 bg-link border-link text-white hover:bg-link foc=
+us:bg-link active:bg-link"><span class=3D"me-1"><svg class=3D"rotate-180" x=
+mlns=3D"http://www.w3.org/2000/svg" width=3D"20" height=3D"20" viewBox=3D"0=
+ 0 20 20"><g fill=3D"none" fill-rule=3D"evenodd" transform=3D"translate(-44=
+6 -398)"><path fill=3D"currentColor" fill-rule=3D"nonzero" d=3D"M95.8838835=
+,240.366117 C95.3957281,239.877961 94.6042719,239.877961 94.1161165,240.366=
+117 C93.6279612,240.854272 93.6279612,241.645728 94.1161165,242.133883 L98.=
+6161165,246.633883 C99.1042719,247.122039 99.8957281,247.122039 100.383883,=
+246.633883 L104.883883,242.133883 C105.372039,241.645728 105.372039,240.854=
+272 104.883883,240.366117 C104.395728,239.877961 103.604272,239.877961 103.=
+116117,240.366117 L99.5,243.982233 L95.8838835,240.366117 Z" transform=3D"t=
+ranslate(356.5 164.5)"></path><polygon points=3D"446 418 466 418 466 398 44=
+6 398"></polygon></g></svg></span>Hide Details</button></summary><div class=
+=3D"p-8 border-t dark:border-purple-60 border-purple-10 "><p class=3D"white=
+space-pre-wrap my-4">These three variables are a good enough representation=
+ of this form=E2=80=99s state. However, there are still some intermediate s=
+tates that don=E2=80=99t fully make sense. For example, a non-null <code di=
+r=3D"ltr" class=3D"inline text-code text-secondary dark:text-secondary-dark=
+ px-1 rounded-md no-underline bg-gray-30 bg-opacity-10 py-px">error</code> =
+doesn=E2=80=99t make sense when <code dir=3D"ltr" class=3D"inline text-code=
+ text-secondary dark:text-secondary-dark px-1 rounded-md no-underline bg-gr=
+ay-30 bg-opacity-10 py-px">status</code> is <code dir=3D"ltr" class=3D"inli=
+ne text-code text-secondary dark:text-secondary-dark px-1 rounded-md no-und=
+erline bg-gray-30 bg-opacity-10 py-px">'success'</code>. To model the state=
+ more precisely, you can <a class=3D"inline text-link dark:text-link-dark b=
+order-b border-link border-opacity-0 hover:border-opacity-100 duration-100 =
+ease-in transition leading-normal" href=3D"https://react.dev/learn/extracti=
+ng-state-logic-into-a-reducer">extract it into a reducer.</a> Reducers let =
+you unify multiple state variables into a single object and consolidate all=
+ the related logic!</p></div></details>
 <h3 id=3D"step-5-connect-the-event-handlers-to-set-state" class=3D"mdx-head=
 ing text-2xl font-display leading-9 text-primary dark:text-primary-dark fon=
 t-bold my-6">Step 5: Connect the event handlers to set state <a href=3D"htt=
@@ -2523,181 +2571,216 @@ tabindex=3D"0" translate=3D"no"><div class=3D"cm-editor =CD=BC1 =CD=BC2 =CD=
 aria-hidden=3D"true" style=3D"min-height: 1698px; position: sticky;"><div c=
 lass=3D"cm-gutter cm-lineNumbers"><div class=3D"cm-gutterElement" style=3D"=
 height: 0px; visibility: hidden; pointer-events: none;">99</div><div class=
-=3D"cm-gutterElement" style=3D"height: 24px;">1</div><div class=3D"cm-gutte=
-rElement" style=3D"height: 24px;">2</div><div class=3D"cm-gutterElement" st=
-yle=3D"height: 24px;">3</div><div class=3D"cm-gutterElement" style=3D"heigh=
-t: 24px;">4</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">5<=
-/div><div class=3D"cm-gutterElement" style=3D"height: 24px;">6</div><div cl=
-ass=3D"cm-gutterElement" style=3D"height: 24px;">7</div><div class=3D"cm-gu=
-tterElement" style=3D"height: 24px;">8</div><div class=3D"cm-gutterElement"=
- style=3D"height: 24px;">9</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 24px;">10</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
-">11</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">12</div><=
-div class=3D"cm-gutterElement" style=3D"height: 24px;">13</div><div class=
-=3D"cm-gutterElement" style=3D"height: 24px;">14</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 24px;">15</div><div class=3D"cm-gutterElement" =
-style=3D"height: 24px;">16</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 24px;">17</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
-">18</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">19</div><=
-div class=3D"cm-gutterElement" style=3D"height: 24px;">20</div><div class=
-=3D"cm-gutterElement" style=3D"height: 24px;">21</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 24px;">22</div><div class=3D"cm-gutterElement" =
-style=3D"height: 24px;">23</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 24px;">24</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
-">25</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">26</div><=
-div class=3D"cm-gutterElement" style=3D"height: 24px;">27</div><div class=
-=3D"cm-gutterElement" style=3D"height: 24px;">28</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 24px;">29</div><div class=3D"cm-gutterElement" =
-style=3D"height: 24px;">30</div><div class=3D"cm-gutterElement" style=3D"he=
-ight: 24px;">31</div><div class=3D"cm-gutterElement" style=3D"height: 24px;=
-">32</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">33</div><=
-div class=3D"cm-gutterElement" style=3D"height: 24px;">34</div><div class=
-=3D"cm-gutterElement" style=3D"height: 24px;">35</div><div class=3D"cm-gutt=
-erElement" style=3D"height: 24px;">36</div></div></div><div spellcheck=3D"f=
-alse" autocorrect=3D"off" autocapitalize=3D"off" translate=3D"no" contented=
-itable=3D"true" class=3D"cm-content" style=3D"tab-size: 4;" role=3D"textbox=
-" aria-multiline=3D"true" data-language=3D"javascript" data-gramm=3D"false"=
- data-lt-active=3D"false" aria-label=3D"Code Editor for App.js" tabindex=3D=
-"-1"><div class=3D"cm-activeLine cm-line"><span class=3D"sp-syntax-keyword"=
->import</span> <span class=3D"sp-syntax-punctuation">{</span> <span class=
-=3D"sp-syntax-plain">useState</span> <span class=3D"sp-syntax-punctuation">=
-}</span> <span class=3D"sp-syntax-keyword">from</span> <span class=3D"sp-sy=
-ntax-string">'react'</span><span class=3D"sp-syntax-punctuation">;</span></=
-div><div class=3D"cm-line"><br></div><div class=3D"cm-line"><span class=3D"=
-sp-syntax-keyword">export</span> <span class=3D"sp-syntax-keyword">default<=
-/span> <span class=3D"sp-syntax-keyword">function</span> <span class=3D"sp-=
-syntax-definition">Form</span><span class=3D"sp-syntax-punctuation">(</span=
-><span class=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-syntax-pu=
-nctuation">{</span></div><div class=3D"cm-line">  <span class=3D"sp-syntax-=
-keyword">const</span> <span class=3D"sp-syntax-punctuation">[</span><span c=
-lass=3D"sp-syntax-plain">answer</span><span class=3D"sp-syntax-punctuation"=
->,</span> <span class=3D"sp-syntax-plain">setAnswer</span><span class=3D"sp=
--syntax-punctuation">]</span> =3D <span class=3D"sp-syntax-definition">useS=
-tate</span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-=
-syntax-string">''</span><span class=3D"sp-syntax-punctuation">)</span><span=
- class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-line">  <sp=
-an class=3D"sp-syntax-keyword">const</span> <span class=3D"sp-syntax-punctu=
-ation">[</span><span class=3D"sp-syntax-plain">error</span><span class=3D"s=
-p-syntax-punctuation">,</span> <span class=3D"sp-syntax-plain">setError</sp=
-an><span class=3D"sp-syntax-punctuation">]</span> =3D <span class=3D"sp-syn=
-tax-definition">useState</span><span class=3D"sp-syntax-punctuation">(</spa=
-n><span class=3D"sp-syntax-keyword">null</span><span class=3D"sp-syntax-pun=
-ctuation">)</span><span class=3D"sp-syntax-punctuation">;</span></div><div =
-class=3D"cm-line">  <span class=3D"sp-syntax-keyword">const</span> <span cl=
-ass=3D"sp-syntax-punctuation">[</span><span class=3D"sp-syntax-plain">statu=
-s</span><span class=3D"sp-syntax-punctuation">,</span> <span class=3D"sp-sy=
-ntax-plain">setStatus</span><span class=3D"sp-syntax-punctuation">]</span> =
-=3D <span class=3D"sp-syntax-definition">useState</span><span class=3D"sp-s=
-yntax-punctuation">(</span><span class=3D"sp-syntax-string">'typing'</span>=
-<span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punc=
-tuation">;</span></div><div class=3D"cm-line"><br></div><div class=3D"cm-li=
-ne">  <span class=3D"sp-syntax-keyword">if</span> <span class=3D"sp-syntax-=
-punctuation">(</span><span class=3D"sp-syntax-plain">status</span> =3D=3D=
-=3D <span class=3D"sp-syntax-string">'success'</span><span class=3D"sp-synt=
+=3D"cm-gutterElement" style=3D"height: 24px; margin-top: 432px;">19</div><d=
+iv class=3D"cm-gutterElement" style=3D"height: 24px;">20</div><div class=3D=
+"cm-gutterElement" style=3D"height: 24px;">21</div><div class=3D"cm-gutterE=
+lement" style=3D"height: 24px;">22</div><div class=3D"cm-gutterElement" sty=
+le=3D"height: 24px;">23</div><div class=3D"cm-gutterElement" style=3D"heigh=
+t: 24px;">24</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">2=
+5</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">26</div><div=
+ class=3D"cm-gutterElement" style=3D"height: 24px;">27</div><div class=3D"c=
+m-gutterElement" style=3D"height: 24px;">28</div><div class=3D"cm-gutterEle=
+ment" style=3D"height: 24px;">29</div><div class=3D"cm-gutterElement" style=
+=3D"height: 24px;">30</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 24px;">31</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">32<=
+/div><div class=3D"cm-gutterElement" style=3D"height: 24px;">33</div><div c=
+lass=3D"cm-gutterElement" style=3D"height: 24px;">34</div><div class=3D"cm-=
+gutterElement" style=3D"height: 24px;">35</div><div class=3D"cm-gutterEleme=
+nt" style=3D"height: 24px;">36</div><div class=3D"cm-gutterElement" style=
+=3D"height: 24px;">37</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 24px;">38</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">39<=
+/div><div class=3D"cm-gutterElement" style=3D"height: 24px;">40</div><div c=
+lass=3D"cm-gutterElement" style=3D"height: 24px;">41</div><div class=3D"cm-=
+gutterElement" style=3D"height: 24px;">42</div><div class=3D"cm-gutterEleme=
+nt" style=3D"height: 24px;">43</div><div class=3D"cm-gutterElement" style=
+=3D"height: 24px;">44</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 24px;">45</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">46<=
+/div><div class=3D"cm-gutterElement" style=3D"height: 24px;">47</div><div c=
+lass=3D"cm-gutterElement" style=3D"height: 24px;">48</div><div class=3D"cm-=
+gutterElement" style=3D"height: 24px;">49</div><div class=3D"cm-gutterEleme=
+nt" style=3D"height: 24px;">50</div><div class=3D"cm-gutterElement" style=
+=3D"height: 24px;">51</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 24px;">52</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">53<=
+/div><div class=3D"cm-gutterElement" style=3D"height: 24px;">54</div><div c=
+lass=3D"cm-gutterElement" style=3D"height: 24px;">55</div><div class=3D"cm-=
+gutterElement" style=3D"height: 24px;">56</div><div class=3D"cm-gutterEleme=
+nt" style=3D"height: 24px;">57</div><div class=3D"cm-gutterElement" style=
+=3D"height: 24px;">58</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 24px;">59</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">60<=
+/div><div class=3D"cm-gutterElement" style=3D"height: 24px;">61</div><div c=
+lass=3D"cm-gutterElement" style=3D"height: 24px;">62</div><div class=3D"cm-=
+gutterElement" style=3D"height: 24px;">63</div><div class=3D"cm-gutterEleme=
+nt" style=3D"height: 24px;">64</div><div class=3D"cm-gutterElement" style=
+=3D"height: 24px;">65</div><div class=3D"cm-gutterElement" style=3D"height:=
+ 24px;">66</div><div class=3D"cm-gutterElement" style=3D"height: 24px;">67<=
+/div><div class=3D"cm-gutterElement" style=3D"height: 24px;">68</div><div c=
+lass=3D"cm-gutterElement" style=3D"height: 24px;">69</div><div class=3D"cm-=
+gutterElement" style=3D"height: 24px;">70</div></div></div><div spellcheck=
+=3D"false" autocorrect=3D"off" autocapitalize=3D"off" translate=3D"no" cont=
+enteditable=3D"true" class=3D"cm-content" style=3D"tab-size: 4;" role=3D"te=
+xtbox" aria-multiline=3D"true" data-language=3D"javascript" data-gramm=3D"f=
+alse" data-lt-active=3D"false" aria-label=3D"Code Editor for App.js" tabind=
+ex=3D"-1"><div class=3D"cm-activeLine cm-line">import { useState } from 're=
+act';</div><div contenteditable=3D"false" style=3D"height: 408px;"></div><d=
+iv class=3D"cm-line">      <span class=3D"sp-syntax-definition">setStatus</=
+span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax=
+-string">'typing'</span><span class=3D"sp-syntax-punctuation">)</span><span=
+ class=3D"sp-syntax-punctuation">;</span></div><div class=3D"cm-line">     =
+ <span class=3D"sp-syntax-definition">setError</span><span class=3D"sp-synt=
+ax-punctuation">(</span><span class=3D"sp-syntax-plain">err</span><span cla=
+ss=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punctuation">=
+;</span></div><div class=3D"cm-line">    <span class=3D"sp-syntax-punctuati=
+on">}</span></div><div class=3D"cm-line">  <span class=3D"sp-syntax-punctua=
+tion">}</span></div><div class=3D"cm-line"><br></div><div class=3D"cm-line"=
+>  <span class=3D"sp-syntax-keyword">function</span> <span class=3D"sp-synt=
+ax-definition">handleTextareaChange</span><span class=3D"sp-syntax-punctuat=
+ion">(</span><span class=3D"sp-syntax-plain">e</span><span class=3D"sp-synt=
 ax-punctuation">)</span> <span class=3D"sp-syntax-punctuation">{</span></di=
-v><div class=3D"cm-line">    <span class=3D"sp-syntax-keyword">return</span=
-> <span class=3D"sp-syntax-punctuation">&lt;</span><span class=3D"sp-syntax=
--tag">h1</span><span class=3D"sp-syntax-punctuation">&gt;</span>That's righ=
-t!<span class=3D"sp-syntax-punctuation">&lt;/</span><span class=3D"sp-synta=
-x-tag">h1</span><span class=3D"sp-syntax-punctuation">&gt;</span></div><div=
- class=3D"cm-line">  <span class=3D"sp-syntax-punctuation">}</span></div><d=
-iv class=3D"cm-line"><br></div><div class=3D"cm-line">  <span class=3D"sp-s=
-yntax-keyword">async</span> <span class=3D"sp-syntax-keyword">function</spa=
-n> <span class=3D"sp-syntax-definition">handleSubmit</span><span class=3D"s=
-p-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">e</span><span=
- class=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-syntax-punctuat=
-ion">{</span></div><div class=3D"cm-line">    <span class=3D"sp-syntax-plai=
-n">e</span>.<span class=3D"sp-syntax-property">preventDefault</span><span c=
-lass=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-punctuation=
-">)</span><span class=3D"sp-syntax-punctuation">;</span></div><div class=3D=
-"cm-line">    <span class=3D"sp-syntax-definition">setStatus</span><span cl=
-ass=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-string">'sub=
-mitting'</span><span class=3D"sp-syntax-punctuation">)</span><span class=3D=
-"sp-syntax-punctuation">;</span></div><div class=3D"cm-line">    <span clas=
-s=3D"sp-syntax-keyword">try</span> <span class=3D"sp-syntax-punctuation">{<=
-/span></div><div class=3D"cm-line">      <span class=3D"sp-syntax-keyword">=
-await</span> <span class=3D"sp-syntax-definition">submitForm</span><span cl=
-ass=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">answe=
-r</span><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syn=
-tax-punctuation">;</span></div><div class=3D"cm-line">      <span class=3D"=
-sp-syntax-definition">setStatus</span><span class=3D"sp-syntax-punctuation"=
->(</span><span class=3D"sp-syntax-string">'success'</span><span class=3D"sp=
--syntax-punctuation">)</span><span class=3D"sp-syntax-punctuation">;</span>=
-</div><div class=3D"cm-line">    <span class=3D"sp-syntax-punctuation">}</s=
-pan> <span class=3D"sp-syntax-keyword">catch</span> <span class=3D"sp-synta=
-x-punctuation">(</span><span class=3D"sp-syntax-plain">err</span><span clas=
-s=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-syntax-punctuation">=
-{</span></div><div class=3D"cm-line">      <span class=3D"sp-syntax-definit=
-ion">setStatus</span><span class=3D"sp-syntax-punctuation">(</span><span cl=
-ass=3D"sp-syntax-string">'typing'</span><span class=3D"sp-syntax-punctuatio=
+v><div class=3D"cm-line">    <span class=3D"sp-syntax-definition">setAnswer=
+</span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-synt=
+ax-plain">e</span>.<span class=3D"sp-syntax-property">target</span>.<span c=
+lass=3D"sp-syntax-property">value</span><span class=3D"sp-syntax-punctuatio=
 n">)</span><span class=3D"sp-syntax-punctuation">;</span></div><div class=
-=3D"cm-line">      <span class=3D"sp-syntax-definition">setError</span><spa=
-n class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">e=
-rr</span><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-sy=
-ntax-punctuation">;</span></div><div class=3D"cm-line">    <span class=3D"s=
-p-syntax-punctuation">}</span></div><div class=3D"cm-line">  <span class=3D=
-"sp-syntax-punctuation">}</span></div><div class=3D"cm-line"><br></div><div=
- class=3D"cm-line">  <span class=3D"sp-syntax-keyword">function</span> <spa=
-n class=3D"sp-syntax-definition">handleTextareaChange</span><span class=3D"=
-sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">e</span><spa=
-n class=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-syntax-punctua=
-tion">{</span></div><div class=3D"cm-line">    <span class=3D"sp-syntax-def=
-inition">setAnswer</span><span class=3D"sp-syntax-punctuation">(</span><spa=
-n class=3D"sp-syntax-plain">e</span>.<span class=3D"sp-syntax-property">tar=
-get</span>.<span class=3D"sp-syntax-property">value</span><span class=3D"sp=
+=3D"cm-line">  <span class=3D"sp-syntax-punctuation">}</span></div><div cla=
+ss=3D"cm-line"><br></div><div class=3D"cm-line">  <span class=3D"sp-syntax-=
+keyword">return</span> <span class=3D"sp-syntax-punctuation">(</span></div>=
+<div class=3D"cm-line">    <span class=3D"sp-syntax-punctuation">&lt;</span=
+><span class=3D"sp-syntax-punctuation">&gt;</span></div><div class=3D"cm-li=
+ne">      <span class=3D"sp-syntax-punctuation">&lt;</span><span class=3D"s=
+p-syntax-tag">h2</span><span class=3D"sp-syntax-punctuation">&gt;</span>Cit=
+y quiz<span class=3D"sp-syntax-punctuation">&lt;/</span><span class=3D"sp-s=
+yntax-tag">h2</span><span class=3D"sp-syntax-punctuation">&gt;</span></div>=
+<div class=3D"cm-line">      <span class=3D"sp-syntax-punctuation">&lt;</sp=
+an><span class=3D"sp-syntax-tag">p</span><span class=3D"sp-syntax-punctuati=
+on">&gt;</span></div><div class=3D"cm-line">        In which city is there =
+a billboard that turns air into drinkable water?</div><div class=3D"cm-line=
+">      <span class=3D"sp-syntax-punctuation">&lt;/</span><span class=3D"sp=
+-syntax-tag">p</span><span class=3D"sp-syntax-punctuation">&gt;</span></div=
+><div class=3D"cm-line">      <span class=3D"sp-syntax-punctuation">&lt;</s=
+pan><span class=3D"sp-syntax-tag">form</span> <span class=3D"sp-syntax-prop=
+erty">onSubmit</span>=3D<span class=3D"sp-syntax-punctuation">{</span><span=
+ class=3D"sp-syntax-plain">handleSubmit</span><span class=3D"sp-syntax-punc=
+tuation">}</span><span class=3D"sp-syntax-punctuation">&gt;</span></div><di=
+v class=3D"cm-line">        <span class=3D"sp-syntax-punctuation">&lt;</spa=
+n><span class=3D"sp-syntax-tag">textarea</span></div><div class=3D"cm-line"=
+>          <span class=3D"sp-syntax-property">value</span>=3D<span class=3D=
+"sp-syntax-punctuation">{</span><span class=3D"sp-syntax-plain">answer</spa=
+n><span class=3D"sp-syntax-punctuation">}</span></div><div class=3D"cm-line=
+">          <span class=3D"sp-syntax-property">onChange</span>=3D<span clas=
+s=3D"sp-syntax-punctuation">{</span><span class=3D"sp-syntax-plain">handleT=
+extareaChange</span><span class=3D"sp-syntax-punctuation">}</span></div><di=
+v class=3D"cm-line">          <span class=3D"sp-syntax-property">disabled</=
+span>=3D<span class=3D"sp-syntax-punctuation">{</span><span class=3D"sp-syn=
+tax-plain">status</span> =3D=3D=3D <span class=3D"sp-syntax-string">'submit=
+ting'</span><span class=3D"sp-syntax-punctuation">}</span></div><div class=
+=3D"cm-line">        <span class=3D"sp-syntax-punctuation">/&gt;</span></di=
+v><div class=3D"cm-line">        <span class=3D"sp-syntax-punctuation">&lt;=
+</span><span class=3D"sp-syntax-tag">br</span> <span class=3D"sp-syntax-pun=
+ctuation">/&gt;</span></div><div class=3D"cm-line">        <span class=3D"s=
+p-syntax-punctuation">&lt;</span><span class=3D"sp-syntax-tag">button</span=
+> <span class=3D"sp-syntax-property">disabled</span>=3D<span class=3D"sp-sy=
+ntax-punctuation">{</span></div><div class=3D"cm-line">          <span clas=
+s=3D"sp-syntax-plain">answer</span>.<span class=3D"sp-syntax-property">leng=
+th</span> =3D=3D=3D <span class=3D"sp-syntax-static">0</span> ||</div><div =
+class=3D"cm-line">          <span class=3D"sp-syntax-plain">status</span> =
+=3D=3D=3D <span class=3D"sp-syntax-string">'submitting'</span></div><div cl=
+ass=3D"cm-line">        <span class=3D"sp-syntax-punctuation">}</span><span=
+ class=3D"sp-syntax-punctuation">&gt;</span></div><div class=3D"cm-line">  =
+        Submit</div><div class=3D"cm-line">        <span class=3D"sp-syntax=
+-punctuation">&lt;/</span><span class=3D"sp-syntax-tag">button</span><span =
+class=3D"sp-syntax-punctuation">&gt;</span></div><div class=3D"cm-line">   =
+     <span class=3D"sp-syntax-punctuation">{</span><span class=3D"sp-syntax=
+-plain">error</span> !=3D=3D <span class=3D"sp-syntax-keyword">null</span> =
+&amp;&amp;</div><div class=3D"cm-line">          <span class=3D"sp-syntax-p=
+unctuation">&lt;</span><span class=3D"sp-syntax-tag">p</span> <span class=
+=3D"sp-syntax-property">className</span>=3D<span class=3D"sp-syntax-string"=
+>"Error"</span><span class=3D"sp-syntax-punctuation">&gt;</span></div><div =
+class=3D"cm-line">            <span class=3D"sp-syntax-punctuation">{</span=
+><span class=3D"sp-syntax-plain">error</span>.<span class=3D"sp-syntax-prop=
+erty">message</span><span class=3D"sp-syntax-punctuation">}</span></div><di=
+v class=3D"cm-line">          <span class=3D"sp-syntax-punctuation">&lt;/</=
+span><span class=3D"sp-syntax-tag">p</span><span class=3D"sp-syntax-punctua=
+tion">&gt;</span></div><div class=3D"cm-line">        <span class=3D"sp-syn=
+tax-punctuation">}</span></div><div class=3D"cm-line">      <span class=3D"=
+sp-syntax-punctuation">&lt;/</span><span class=3D"sp-syntax-tag">form</span=
+><span class=3D"sp-syntax-punctuation">&gt;</span></div><div class=3D"cm-li=
+ne">    <span class=3D"sp-syntax-punctuation">&lt;/</span><span class=3D"sp=
+-syntax-punctuation">&gt;</span></div><div class=3D"cm-line">  <span class=
+=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punctuation">;<=
+/span></div><div class=3D"cm-line"><span class=3D"sp-syntax-punctuation">}<=
+/span></div><div class=3D"cm-line"><br></div><div class=3D"cm-line"><span c=
+lass=3D"sp-syntax-keyword">function</span> <span class=3D"sp-syntax-definit=
+ion">submitForm</span><span class=3D"sp-syntax-punctuation">(</span><span c=
+lass=3D"sp-syntax-plain">answer</span><span class=3D"sp-syntax-punctuation"=
+>)</span> <span class=3D"sp-syntax-punctuation">{</span></div><div class=3D=
+"cm-line">  <span class=3D"sp-syntax-comment">// Pretend it's hitting the n=
+etwork.</span></div><div class=3D"cm-line">  <span class=3D"sp-syntax-keywo=
+rd">return</span> <span class=3D"sp-syntax-keyword">new</span> <span class=
+=3D"sp-syntax-plain">Promise</span><span class=3D"sp-syntax-punctuation">(<=
+/span><span class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-synta=
+x-plain">resolve</span><span class=3D"sp-syntax-punctuation">,</span> <span=
+ class=3D"sp-syntax-plain">reject</span><span class=3D"sp-syntax-punctuatio=
+n">)</span> <span class=3D"sp-syntax-punctuation">=3D&gt;</span> <span clas=
+s=3D"sp-syntax-punctuation">{</span></div><div class=3D"cm-line">    <span =
+class=3D"sp-syntax-definition">setTimeout</span><span class=3D"sp-syntax-pu=
+nctuation">(</span><span class=3D"sp-syntax-punctuation">(</span><span clas=
+s=3D"sp-syntax-punctuation">)</span> <span class=3D"sp-syntax-punctuation">=
+=3D&gt;</span> <span class=3D"sp-syntax-punctuation">{</span></div><div cla=
+ss=3D"cm-line">      <span class=3D"sp-syntax-keyword">let</span> <span cla=
+ss=3D"sp-syntax-plain">shouldError</span> =3D <span class=3D"sp-syntax-plai=
+n">answer</span>.<span class=3D"sp-syntax-property">toLowerCase</span><span=
+ class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-punctuati=
+on">)</span> !=3D=3D <span class=3D"sp-syntax-string">'lima'</span></div><d=
+iv class=3D"cm-line">      <span class=3D"sp-syntax-keyword">if</span> <spa=
+n class=3D"sp-syntax-punctuation">(</span><span class=3D"sp-syntax-plain">s=
+houldError</span><span class=3D"sp-syntax-punctuation">)</span> <span class=
+=3D"sp-syntax-punctuation">{</span></div><div class=3D"cm-line">        <sp=
+an class=3D"sp-syntax-definition">reject</span><span class=3D"sp-syntax-pun=
+ctuation">(</span><span class=3D"sp-syntax-keyword">new</span> <span class=
+=3D"sp-syntax-plain">Error</span><span class=3D"sp-syntax-punctuation">(</s=
+pan><span class=3D"sp-syntax-string">'Good guess but a wrong answer. Try ag=
+ain!'</span><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp=
 -syntax-punctuation">)</span><span class=3D"sp-syntax-punctuation">;</span>=
-</div><div class=3D"cm-line">  <span class=3D"sp-syntax-punctuation">}</spa=
-n></div><div class=3D"cm-line"><br></div><div class=3D"cm-line">  <span cla=
-ss=3D"sp-syntax-keyword">return</span> <span class=3D"sp-syntax-punctuation=
-">(</span></div><div class=3D"cm-line">    <span class=3D"sp-syntax-punctua=
-tion">&lt;</span><span class=3D"sp-syntax-punctuation">&gt;</span></div><di=
-v class=3D"cm-line">      <span class=3D"sp-syntax-punctuation">&lt;</span>=
-<span class=3D"sp-syntax-tag">h2</span><span class=3D"sp-syntax-punctuation=
-">&gt;</span>City quiz<span class=3D"sp-syntax-punctuation">&lt;/</span><sp=
-an class=3D"sp-syntax-tag">h2</span><span class=3D"sp-syntax-punctuation">&=
-gt;</span></div><div class=3D"cm-line">      <span class=3D"sp-syntax-punct=
-uation">&lt;</span><span class=3D"sp-syntax-tag">p</span><span class=3D"sp-=
-syntax-punctuation">&gt;</span></div><div class=3D"cm-line">        In whic=
-h city is there a billboard that turns air into drinkable water?</div><div =
-class=3D"cm-line">      <span class=3D"sp-syntax-punctuation">&lt;/</span><=
-span class=3D"sp-syntax-tag">p</span><span class=3D"sp-syntax-punctuation">=
-&gt;</span></div><div class=3D"cm-line">      <span class=3D"sp-syntax-punc=
-tuation">&lt;</span><span class=3D"sp-syntax-tag">form</span> <span class=
-=3D"sp-syntax-property">onSubmit</span>=3D<span class=3D"sp-syntax-punctuat=
-ion">{</span><span class=3D"sp-syntax-plain">handleSubmit</span><span class=
-=3D"sp-syntax-punctuation">}</span><span class=3D"sp-syntax-punctuation">&g=
-t;</span></div><div class=3D"cm-line">        <span class=3D"sp-syntax-punc=
-tuation">&lt;</span><span class=3D"sp-syntax-tag">textarea</span></div><div=
- class=3D"cm-line">          <span class=3D"sp-syntax-property">value</span=
->=3D<span class=3D"sp-syntax-punctuation">{</span><span class=3D"sp-syntax-=
-plain">answer</span><span class=3D"sp-syntax-punctuation">}</span></div><di=
-v contenteditable=3D"false" style=3D"height: 816px;"></div></div></div></di=
-v></div></div></div><div class=3D" order-last xl:order-2 sp-stack"><div cla=
-ss=3D"p-0 sm:p-2 md:p-4 lg:p-8 bg-card dark:bg-wash-dark h-full relative md=
-:rounded-b-lg lg:rounded-b-none"><div style=3D"position: relative;"><iframe=
- class=3D"rounded-t-none bg-white md:shadow-md sm:rounded-lg w-full max-w-f=
-ull transition-opacity absolute opacity-0 pointer-events-none duration-75" =
-title=3D"Sandbox Preview" style=3D"height: 15px; z-index: -1;" sandbox=3D"a=
-llow-forms allow-modals allow-popups allow-presentation allow-same-origin a=
-llow-scripts allow-downloads allow-pointer-lock" allow=3D"accelerometer; ca=
-mera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; clipb=
-oard-write;"></iframe></div></div></div><button translate=3D"yes" class=3D"=
-sandpack-expand flex text-base justify-between dark:border-card-dark bg-was=
-h dark:bg-card-dark items-center z-10 p-1 w-full order-2 xl:order-last bord=
-er-b-1 relative top-0"><span class=3D"flex p-2 focus:outline-none text-prim=
-ary dark:text-primary-dark leading-[20px]"><svg class=3D"rotate-0 inline me=
--1.5 text-xl" xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" height=3D"2=
-0" viewBox=3D"0 0 20 20"><g fill=3D"none" fill-rule=3D"evenodd" transform=
-=3D"translate(-446 -398)"><path fill=3D"currentColor" fill-rule=3D"nonzero"=
- d=3D"M95.8838835,240.366117 C95.3957281,239.877961 94.6042719,239.877961 9=
-4.1161165,240.366117 C93.6279612,240.854272 93.6279612,241.645728 94.116116=
-5,242.133883 L98.6161165,246.633883 C99.1042719,247.122039 99.8957281,247.1=
-22039 100.383883,246.633883 L104.883883,242.133883 C105.372039,241.645728 1=
-05.372039,240.854272 104.883883,240.366117 C104.395728,239.877961 103.60427=
-2,239.877961 103.116117,240.366117 L99.5,243.982233 L95.8838835,240.366117 =
-Z" transform=3D"translate(356.5 164.5)"></path><polygon points=3D"446 418 4=
-66 418 466 398 446 398"></polygon></g></svg>Show more</span></button></div>=
-</div></div></div><div class=3D"max-w-4xl ms-0 2xl:mx-auto">
+</div><div class=3D"cm-line">      <span class=3D"sp-syntax-punctuation">}<=
+/span> <span class=3D"sp-syntax-keyword">else</span> <span class=3D"sp-synt=
+ax-punctuation">{</span></div><div class=3D"cm-line">        <span class=3D=
+"sp-syntax-definition">resolve</span><span class=3D"sp-syntax-punctuation">=
+(</span><span class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syn=
+tax-punctuation">;</span></div><div class=3D"cm-line">      <span class=3D"=
+sp-syntax-punctuation">}</span></div><div class=3D"cm-line">    <span class=
+=3D"sp-syntax-punctuation">}</span><span class=3D"sp-syntax-punctuation">,<=
+/span> <span class=3D"sp-syntax-static">1500</span><span class=3D"sp-syntax=
+-punctuation">)</span><span class=3D"sp-syntax-punctuation">;</span></div><=
+div class=3D"cm-line">  <span class=3D"sp-syntax-punctuation">}</span><span=
+ class=3D"sp-syntax-punctuation">)</span><span class=3D"sp-syntax-punctuati=
+on">;</span></div><div class=3D"cm-line"><span class=3D"sp-syntax-punctuati=
+on">}</span></div><div class=3D"cm-line"><br></div></div></div></div></div>=
+</div></div><div class=3D" order-last xl:order-2 sp-stack"><div class=3D"p-=
+0 sm:p-2 md:p-4 lg:p-8 bg-card dark:bg-wash-dark h-full relative md:rounded=
+-b-lg lg:rounded-b-none"><div style=3D"position: relative;"><iframe class=
+=3D"rounded-t-none bg-white md:shadow-md sm:rounded-lg w-full max-w-full tr=
+ansition-opacity absolute opacity-0 pointer-events-none duration-75" title=
+=3D"Sandbox Preview" style=3D"height: 15px; z-index: -1;" sandbox=3D"allow-=
+forms allow-modals allow-popups allow-presentation allow-same-origin allow-=
+scripts allow-downloads allow-pointer-lock" allow=3D"accelerometer; camera;=
+ encrypted-media; geolocation; gyroscope; hid; microphone; midi; clipboard-=
+write;"></iframe></div></div></div><button translate=3D"yes" class=3D"sandp=
+ack-expand flex text-base justify-between dark:border-card-dark bg-wash dar=
+k:bg-card-dark items-center z-10 p-1 w-full order-2 xl:order-last border-b-=
+1 relative top-0"><span class=3D"flex p-2 focus:outline-none text-primary d=
+ark:text-primary-dark leading-[20px]"><svg class=3D"rotate-0 inline me-1.5 =
+text-xl" xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" height=3D"20" vi=
+ewBox=3D"0 0 20 20"><g fill=3D"none" fill-rule=3D"evenodd" transform=3D"tra=
+nslate(-446 -398)"><path fill=3D"currentColor" fill-rule=3D"nonzero" d=3D"M=
+95.8838835,240.366117 C95.3957281,239.877961 94.6042719,239.877961 94.11611=
+65,240.366117 C93.6279612,240.854272 93.6279612,241.645728 94.1161165,242.1=
+33883 L98.6161165,246.633883 C99.1042719,247.122039 99.8957281,247.122039 1=
+00.383883,246.633883 L104.883883,242.133883 C105.372039,241.645728 105.3720=
+39,240.854272 104.883883,240.366117 C104.395728,239.877961 103.604272,239.8=
+77961 103.116117,240.366117 L99.5,243.982233 L95.8838835,240.366117 Z" tran=
+sform=3D"translate(356.5 164.5)"></path><polygon points=3D"446 418 466 418 =
+466 398 446 398"></polygon></g></svg>Show more</span></button></div></div><=
+/div></div><div class=3D"max-w-4xl ms-0 2xl:mx-auto">
 <p class=3D"whitespace-pre-wrap my-4">Although this code is longer than the=
  original imperative example, it is much less fragile. Expressing all inter=
 actions as state changes lets you later introduce new visual states without=
@@ -3500,10 +3583,10 @@ nnouncer__" role=3D"alert" style=3D"border: 0px; clip: rect(0px, 0px, 0px, =
 absolute; top: 0px; width: 1px; white-space: nowrap; overflow-wrap: normal;=
 ">Reacting to Input with State =E2=80=93 React</p></next-route-announcer></=
 body></html>
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-a5216ef5-93a6-4f6b-a26c-5119f7eb3fe0@mhtml.blink
+Content-Location: cid:css-927b19f1-9a06-4732-bc8b-5453404007ff@mhtml.blink
 
 @charset "utf-8";
 
@@ -4754,7 +4837,7 @@ neHeight); min-width: var(--sp-space-5); }
 .=CD=BC1p .cm-content .cm-line { padding-left: var(--sp-space-1); }
 
 .=CD=BC1p .cm-content.cm-readonly .cm-line { padding-left: 0px; }
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
 Content-Location: https://react.dev/_next/static/css/70006ba8a90671f5.css
@@ -8206,7 +8289,7 @@ d .sp-code-editor .sp-pre-placeholder { font-size: medium; }
 }
 
 .sp-loading .sp-icon-standalone span { display: none; }
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: image/webp
 Content-Transfer-Encoding: base64
 Content-Location: https://react.dev/_next/image?url=%2Fimages%2Fuwu.png&w=128&q=75
@@ -8281,7 +8364,7 @@ WCXPs2ZF3QRuachIqCzIVXmmrNvcAyId4xFeQAPLkaat1VOuR2WLfCUUu1RoAVXJ0mwVTgk5rzJd
 mSOhZTJK8EmMtFOYU0vt7qum6poN1nRSTFyshxJ5mO+WgI1OJUKFT183hhYB8HKxlEg5dpCRLLDh
 TREo0xiRFbF9hX1CKBRR6RKC3T9+fYj27uUTISs6N4LNkzzQMsWKp9QRpnfwgAJ9IAAAAAAA
 
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://react.dev/images/docs/illustrations/i_imperative-ui-programming.png
@@ -9294,7 +9377,7 @@ nfhwlujEbAkAVYgjiB611j715sfyHw8uGt1IAKhQHEGUKQHgL+IIffRJAkBl4whuiCG6IwGg+nEE
 RzuRBsDMxBE8J4wAGEccwTLCCIBxxBH8HH2yVAJAc+IIFoluLZkA0Ow4ghPnivaOTACoit8BCKOu
 zJsXLGsAAAAASUVORK5CYII=
 
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://react.dev/images/docs/illustrations/i_declarative-ui-programming.png
@@ -10713,7 +10796,7 @@ ZaNqABx66KGBvEUAAAAASANVA+DVV18NZK5kAAAAAICqAdCrVy8lAwAAAACyR9UAmDt3bqhSPXv2
 jAAAAABQ9VUDgO7du4fs6NGjRwQAAACAxVA1ABg6dGiHDh1CuQwePDgCAAAAAP/4G9sMDyI0UZgY
 AAAAAElFTkSuQmCC
 
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://react.dev/images/docs/illustrations/i_inputs1.png
@@ -10945,7 +11028,7 @@ KUCUoKKmAEdQcewFEFTMUwAEVU0BEFRKW4IKIKiYpwBhgoqaAggqggqAoKopAIJKH1tNAQQV8xRA
 UFFTAAT1A2oKIKiYpwCCil8kAATVsRcAQcWxF0BQMU8BBBU1BUBQBRUAQUVNAR5BRU0BBBVBBUBQ
 1RQAQUVNAQSVdPMUgAsFhB2LczZAbQAAAABJRU5ErkJggg==
 
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: image/png
 Content-Transfer-Encoding: base64
 Content-Location: https://react.dev/images/docs/illustrations/i_inputs2.png
@@ -11527,7 +11610,7 @@ UXEM/hQRNMHVN4BHd2/cqahcAARNEDSBCvniHueTuxwBABA0i4agCQAACJogaAIAABA0CZprTwcC
 AABA0ARPrQIAAH0RNLFlPCBoAgCAFBE0mdT8/B5HAAAACJpgwVsAAFA+/wcgVnPbc+zTFwAAAABJ
 RU5ErkJggg==
 
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: image/webp
 Content-Transfer-Encoding: base64
 Content-Location: https://react.dev/_next/image?url=%2Fimages%2Fdocs%2Fdiagrams%2Fresponding_to_input_flow.dark.png&w=1920&q=75
@@ -12246,42 +12329,42 @@ DNR57F+8X7xdxCigkCqHsI9RQv54sTzYeoK3Uq20l3B99rpT4ixlJm8gAAABeGRsyaXhgWoFngVq
 DZC50XJA8N0K7a+iLgza89DNX42Ok7iYp/TguigEB3qbFNkjDSb7mcFi8+AkTY/3RuDlGzU8TZpv
 HgnEAAAA
 
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/html
 Content-ID: <frame-FD9CE4AA061986F88E2ECD776D66E0CD@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 
 <html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"></head><body></body></html>
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/html
 Content-ID: <frame-467767F170C1478A22CA75B6E1144BB8@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 
 <html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"></head><body></body></html>
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/html
 Content-ID: <frame-2915BE422B29EB617BA17038E5F44946@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 
 <html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"></head><body></body></html>
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/html
 Content-ID: <frame-2CDE4342778C774EE3C2B6F50C46CFDB@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 
 <html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"></head><body></body></html>
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/html
 Content-ID: <frame-97AA3B044998AD0120CE8E4A56B7E44E@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
 
 <html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
 =3DUTF-8"></head><body></body></html>
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/html
 Content-ID: <frame-98BE25CA9A4776ACAD6B3197D80BE3FB@mhtml.blink>
 Content-Transfer-Encoding: quoted-printable
@@ -12289,7 +12372,7 @@ Content-Location: https://786946de.sandpack-bundler-4bw.pages.dev/
 
 <!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
 ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
-css" href=3D"cid:css-75182899-d624-49f7-bad4-247d294a05fe@mhtml.blink" /><m=
+css" href=3D"cid:css-2c0b6038-025b-405c-b952-aaf4fc5011fd@mhtml.blink" /><m=
 eta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge"><meta name=3D"view=
 port" content=3D"width=3Ddevice-width, initial-scale=3D1.0"><title>Sandpack=
  Preview</title></head><body>
@@ -12297,10 +12380,10 @@ port" content=3D"width=3Ddevice-width, initial-scale=3D1.0"><title>Sandpack=
 =3D"picture" alt=3D"Rainbow houses in Kampung Pelangi, Indonesia" src=3D"ht=
 tps://i.imgur.com/5qwVYb1.jpeg"></div></div>
 </body></html>
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: text/css
 Content-Transfer-Encoding: quoted-printable
-Content-Location: cid:css-75182899-d624-49f7-bad4-247d294a05fe@mhtml.blink
+Content-Location: cid:css-2c0b6038-025b-405c-b952-aaf4fc5011fd@mhtml.blink
 
 @charset "utf-8";
 
@@ -12335,7 +12418,7 @@ center; align-items: center; background: rgb(238, 238, 238); }
 lid transparent; }
 
 .picture--active { border: 5px solid rgb(166, 181, 255); }
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml----
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh----
 Content-Type: image/jpeg
 Content-Transfer-Encoding: base64
 Content-Location: https://i.imgur.com/5qwVYb1.jpeg
@@ -14403,4 +14486,4 @@ NqpFGs7ggGF/ZdMcA/8AtZ/+PWg4D7tvI/qPyFWrDmk7VpkLIsYSR4965O1urq1uKsRAymsbDZ6e
 bUMU7hjJCrMh44yjD/InoiNPUVFIzDWltrenDy68gZmKiI4PGQfVTn/E9HmlEZD97UBeSC65PKh9
 Y/QhjCMQBnHj9R/u6lhU70NA0r//2Q==
 
-------MultipartBoundary--4U120uTCpsJUlSXIkp8GCVCVekcO8zxGjl44YAc3Ml------
+------MultipartBoundary--MWp8um2oyYE7qevoMW3Rlx807ZyD8EQNndj4bR21Gh------
