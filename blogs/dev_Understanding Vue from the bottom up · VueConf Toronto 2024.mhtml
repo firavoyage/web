@@ -1,0 +1,2092 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://www.vuetoronto.com/workshops/understanding-vue-from-the-bottom-up
+Subject: =?utf-8?Q?Understanding=20Vue=20from=20the=20bottom=20up=20=C2=B7=20VueCo?=
+ =?utf-8?Q?nf=20Toronto=202024?=
+Date: Wed, 11 Sep 2024 20:34:02 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--h187OSCGHexCBrTXhip2JRJhheXTG86TtH2fAZMLE6----"
+
+
+------MultipartBoundary--h187OSCGHexCBrTXhip2JRJhheXTG86TtH2fAZMLE6----
+Content-Type: text/html
+Content-ID: <frame-A3866E560C534590CD819C604FABEF27@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.vuetoronto.com/workshops/understanding-vue-from-the-bottom-up
+
+<!DOCTYPE html><html lang=3D"en" data-capo=3D""><head><meta http-equiv=3D"C=
+ontent-Type" content=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet=
+" type=3D"text/css" href=3D"cid:css-54ad0f1d-971d-4a38-ac3e-67e4765895a5@mh=
+tml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-247=
+e8a5d-6af2-417a-afb7-87f9eef75f02@mhtml.blink" /><link rel=3D"stylesheet" t=
+ype=3D"text/css" href=3D"cid:css-825da4e6-d330-49b4-a53b-aa2b06d7be33@mhtml=
+.blink" />
+<meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=3D1"=
+>
+<title>Understanding Vue from the bottom up =C2=B7 VueConf Toronto 2024</ti=
+tle>
+<meta property=3D"og:image" content=3D"https://www.vuetoronto.com/__og-imag=
+e__/image/workshops/understanding-vue-from-the-bottom-up/og.png">
+<meta property=3D"og:image:type" content=3D"image/png">
+<meta name=3D"twitter:card" content=3D"summary_large_image">
+<meta name=3D"twitter:image" content=3D"https://www.vuetoronto.com/__og-ima=
+ge__/image/workshops/understanding-vue-from-the-bottom-up/og.png">
+<meta name=3D"twitter:image:src" content=3D"https://www.vuetoronto.com/__og=
+-image__/image/workshops/understanding-vue-from-the-bottom-up/og.png">
+<meta property=3D"og:image:width" content=3D"1200">
+<meta name=3D"twitter:image:width" content=3D"1200">
+<meta property=3D"og:image:height" content=3D"600">
+<meta name=3D"twitter:image:height" content=3D"600">
+
+
+
+<link rel=3D"stylesheet" href=3D"https://www.vuetoronto.com/_nuxt/entry.D_v=
+YqnXL.css">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/BOIaCqkE.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/CBdQg02d.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/BMTtQHLS.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/2yCjcLnE.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/BJ-Oletw.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/3DHH4it8.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/CNbHSGeZ.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/C-v3KzvZ.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/C5MHNNEA.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/m3n59YC5.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/B8UL86f1.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/Cpjk1tSM.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/CMKjb98c.js">
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/hWrDghNX.js">
+
+<link rel=3D"prefetch" as=3D"script" crossorigin=3D"" href=3D"https://www.v=
+uetoronto.com/_nuxt/DLmxpJBL.js">
+<link rel=3D"prefetch" as=3D"script" crossorigin=3D"" href=3D"https://www.v=
+uetoronto.com/_nuxt/CMl1pjqP.js">
+<link rel=3D"icon" href=3D"https://www.vuetoronto.com/favicon.ico" sizes=3D=
+"any">
+<link rel=3D"icon" href=3D"https://www.vuetoronto.com/favicon.png" type=3D"=
+image/png" sizes=3D"512x512">
+<meta name=3D"twitter:image:type" content=3D"image/jpeg">
+<link rel=3D"canonical" href=3D"https://www.vuetoronto.com/workshops/unders=
+tanding-vue-from-the-bottom-up">
+<meta name=3D"robots" content=3D"index, follow, max-image-preview:large, ma=
+x-snippet:-1, max-video-preview:-1">
+<link rel=3D"icon" type=3D"image/png" href=3D"https://www.vuetoronto.com/fa=
+vicon.png">
+<meta property=3D"og:site_name" content=3D"VueConf Toronto 2024">
+<meta property=3D"og:type" content=3D"website">
+<meta name=3D"twitter:site" content=3D"@vuetoronto">
+<meta name=3D"twitter:creator" content=3D"@vuetoronto">
+<meta property=3D"og:title" content=3D"Understanding Vue From The Bottom Up=
+ =C2=B7 VueConf Toronto 2024">
+<meta name=3D"description" content=3D"Get a tour through the source code of=
+ Vue with its creator to understand two key concepts of the framework: the =
+reactivity system and the template compiler.">
+<meta property=3D"og:description" content=3D"Get a tour through the source =
+code of Vue with its creator to understand two key concepts of the framewor=
+k: the reactivity system and the template compiler.">
+
+<meta property=3D"og:url" content=3D"https://www.vuetoronto.com/workshops/u=
+nderstanding-vue-from-the-bottom-up"><link rel=3D"modulepreload" as=3D"scri=
+pt" crossorigin=3D"" href=3D"https://www.vuetoronto.com/_nuxt/BRdzjbtx.js">=
+<link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https://=
+www.vuetoronto.com/_nuxt/IlneRQnn.js"><link rel=3D"modulepreload" as=3D"scr=
+ipt" crossorigin=3D"" href=3D"https://www.vuetoronto.com/_nuxt/Dp6JZzht.js"=
+><link rel=3D"modulepreload" as=3D"script" crossorigin=3D"" href=3D"https:/=
+/www.vuetoronto.com/_nuxt/BNmKCDX-.js"><link rel=3D"modulepreload" as=3D"sc=
+ript" crossorigin=3D"" href=3D"https://www.vuetoronto.com/_nuxt/R7AA6uaR.js=
+"></head><body style=3D"--header-height: 96px;"><div id=3D"__nuxt"><div cla=
+ss=3D"min-h-screen bg-sdecondary texdt-white bg-secondary text-white"><nav =
+class=3D"py-4 lg:py-6 z-50 transition-colors duration-300 bg-secondary stic=
+ky top-0"><div class=3D"container"><div class=3D"flex items-center"><a href=
+=3D"https://www.vuetoronto.com/" class=3D"" title=3D"Go to homepage"><svg v=
+iewBox=3D"0 0 83 35" fill=3D"none" xmlns=3D"http://www.w3.org/2000/svg" cla=
+ss=3D"h-10 lg:h-12 text-white"><path d=3D"M9.07345 15.7907L14.4564 1.07828H=
+10.5779L7.31047 10.5911L4.04309 1.07828H0L5.38295 15.7907H9.07345Z" fill=3D=
+"currentColor"></path><path d=3D"M25.0267 5.00799H21.3362V11.5495C21.1482 1=
+2.2923 20.5135 12.7476 19.8318 12.7476C18.8916 12.7476 18.4685 12.1006 18.4=
+685 11.1901V5.00799H14.8015V12.0767C14.8015 14.4728 16.1883 16.0304 18.5155=
+ 16.0304C19.7143 16.0304 20.7721 15.5272 21.3362 14.8562V15.7907H25.0267V5.=
+00799Z" fill=3D"currentColor"></path><path d=3D"M33.3621 12.0288C33.1506 12=
+.7716 32.5629 13.107 31.8107 13.107C30.7529 13.107 30.0947 12.4121 29.9772 =
+11.1182H36.8176V10.1837C36.8176 6.97284 34.9841 4.76837 31.7402 4.76837C28.=
+6844 4.76837 26.4277 7.06869 26.4277 10.3994C26.4277 13.754 28.5668 16.0304=
+ 31.8107 16.0304C34.5609 16.0304 36.3944 14.5208 36.7705 12.0288H33.3621ZM3=
+1.7402 7.69169C32.6569 7.69169 33.1976 8.36262 33.2446 9.2492H30.0477C30.28=
+28 8.24281 30.8704 7.69169 31.7402 7.69169Z" fill=3D"currentColor"></path><=
+path d=3D"M37.747 8.43451C37.747 12.8914 40.6382 16.0304 44.6813 16.0304C48=
+.2778 16.0304 50.3934 13.8498 50.9105 10.8307H47.1495C46.7734 11.9329 45.99=
+77 12.6518 44.6813 12.6518C42.6833 12.6518 41.555 10.8307 41.555 8.43451C41=
+.555 6.01438 42.6833 4.21725 44.6813 4.21725C45.9977 4.21725 46.7734 4.9361=
+ 47.1495 6.01438H50.9105C50.3934 3.01917 48.2778 0.838659 44.6813 0.838659C=
+40.6382 0.838659 37.747 3.97764 37.747 8.43451Z" fill=3D"currentColor"></pa=
+th><path d=3D"M62.6523 10.3994C62.6523 7.06869 60.4662 4.76837 57.2459 4.76=
+837C54.049 4.76837 51.8394 7.06869 51.8394 10.3994C51.8394 13.73 54.049 16.=
+0304 57.2459 16.0304C60.4662 16.0304 62.6523 13.73 62.6523 10.3994ZM59.0323=
+ 10.3994C59.0323 11.885 58.3977 12.9153 57.2459 12.9153C56.1175 12.9153 55.=
+4829 11.885 55.4829 10.3994C55.4829 8.91374 56.1175 7.85943 57.2459 7.85943=
+C58.3977 7.85943 59.0323 8.91374 59.0323 10.3994Z" fill=3D"currentColor"></=
+path><path d=3D"M64.0879 15.7907H67.7784V9.27316C67.9664 8.53035 68.5776 8.=
+09904 69.3063 8.09904C70.2465 8.09904 70.6931 8.74601 70.6931 9.63259V15.79=
+07H74.3601V8.72204C74.3601 6.32588 72.9733 4.76837 70.6226 4.76837C69.4003 =
+4.76837 68.366 5.27157 67.7784 5.94249V5.00799H64.0879V15.7907Z" fill=3D"cu=
+rrentColor"></path><path d=3D"M83 0.287541C82.5534 0.119808 81.9892 0 81.28=
+4 0C78.6983 0 77.1704 1.62939 77.1704 4.21725V5.00799H75.5955V7.93131H77.17=
+04V15.7907H80.8139V7.93131H82.859V5.00799H80.8139V4.43291C80.8139 3.57029 8=
+1.3075 3.13898 82.1303 3.13898C82.4594 3.13898 82.7414 3.21086 83 3.35463V0=
+.287541Z" fill=3D"currentColor"></path><path d=3D"M1.28501 23.3546H5.72771V=
+34.7604H9.51224V23.3546H13.9784V20.0479H1.28501V23.3546Z" fill=3D"currentCo=
+lor"></path><path d=3D"M24.2402 29.369C24.2402 26.0383 22.0542 23.738 18.83=
+38 23.738C15.6369 23.738 13.4273 26.0383 13.4273 29.369C13.4273 32.6997 15.=
+6369 35 18.8338 35C22.0542 35 24.2402 32.6997 24.2402 29.369ZM20.6203 29.36=
+9C20.6203 30.8546 19.9856 31.885 18.8338 31.885C17.7055 31.885 17.0708 30.8=
+546 17.0708 29.369C17.0708 27.8834 17.7055 26.8291 18.8338 26.8291C19.9856 =
+26.8291 20.6203 27.8834 20.6203 29.369Z" fill=3D"currentColor"></path><path=
+ d=3D"M32.7747 23.9297C32.6102 23.8339 32.2341 23.738 31.7639 23.738C30.706=
+1 23.738 29.8834 24.2173 29.3663 24.9361V23.9776H25.6758V34.7604H29.3663V28=
+.4345C29.5543 27.6677 30.236 27.2125 31.2468 27.2125C31.8345 27.2125 32.328=
+1 27.3083 32.7747 27.5479V23.9297Z" fill=3D"currentColor"></path><path d=3D=
+"M44.3722 29.369C44.3722 26.0383 42.1861 23.738 38.9657 23.738C35.7688 23.7=
+38 33.5592 26.0383 33.5592 29.369C33.5592 32.6997 35.7688 35 38.9657 35C42.=
+1861 35 44.3722 32.6997 44.3722 29.369ZM40.7522 29.369C40.7522 30.8546 40.1=
+175 31.885 38.9657 31.885C37.8374 31.885 37.2027 30.8546 37.2027 29.369C37.=
+2027 27.8834 37.8374 26.8291 38.9657 26.8291C40.1175 26.8291 40.7522 27.883=
+4 40.7522 29.369Z" fill=3D"currentColor"></path><path d=3D"M45.8077 34.7604=
+H49.4982V28.2428C49.6862 27.5 50.2974 27.0687 51.0261 27.0687C51.9664 27.06=
+87 52.413 27.7157 52.413 28.6022V34.7604H56.08V27.6917C56.08 25.2955 54.693=
+1 23.738 52.3425 23.738C51.1201 23.738 50.0858 24.2412 49.4982 24.9121V23.9=
+776H45.8077V34.7604Z" fill=3D"currentColor"></path><path d=3D"M58.7727 31.0=
+463C58.7727 33.778 60.1831 34.976 62.6748 34.976C63.4975 34.976 64.2967 34.=
+8323 64.7198 34.6406V31.4537C64.3907 31.5974 63.9441 31.6933 63.5445 31.693=
+3C62.8158 31.6933 62.4162 31.3339 62.4162 30.4952V26.901H64.6258V23.9776H62=
+.4162V21.0064H58.7727V23.9776H57.2213V26.901H58.7727V31.0463Z" fill=3D"curr=
+entColor"></path><path d=3D"M76.6245 29.369C76.6245 26.0383 74.4384 23.738 =
+71.218 23.738C68.0212 23.738 65.8116 26.0383 65.8116 29.369C65.8116 32.6997=
+ 68.0212 35 71.218 35C74.4384 35 76.6245 32.6997 76.6245 29.369ZM73.0045 29=
+.369C73.0045 30.8546 72.3699 31.885 71.218 31.885C70.0897 31.885 69.4551 30=
+.8546 69.4551 29.369C69.4551 27.8834 70.0897 26.8291 71.218 26.8291C72.3699=
+ 26.8291 73.0045 27.8834 73.0045 29.369Z" fill=3D"currentColor"></path></sv=
+g></a><div class=3D"hidden lg:flex gap-12 items-center ml-20 text-lg"><!--[=
+--><a href=3D"https://www.vuetoronto.com/tickets" class=3D"hover:text-brand=
+ font-medium">Tickets</a><a href=3D"https://www.vuetoronto.com/workshops" c=
+lass=3D"text-brand hover:text-brand font-medium">Workshops</a><a href=3D"ht=
+tps://forms.vuetoronto.com/f/32e55658-2a8c-43f6-b51c-58fc153884b9" rel=3D"n=
+oopener noreferrer" target=3D"_blank" class=3D"hover:text-brand font-medium=
+">Call for Papers</a><a href=3D"https://forms.vuetoronto.com/f/7e8ea8f1-453=
+7-4db8-ae34-cc6d555fba70" rel=3D"noopener noreferrer" target=3D"_blank" cla=
+ss=3D"hover:text-brand font-medium">Become a Sponsor</a><!--]--></div><a hr=
+ef=3D"https://www.vuetoronto.com/tickets" class=3D"hidden ml-auto lg:mr-0 l=
+g:inline-flex justify-center rounded-lg bg-brand hover:bg-white hover:text-=
+secondary py-1 px-2 lg:py-2 lg:px-3 text-lg font-medium text-white"> Get yo=
+ur tickets </a><button to=3D"/tickets" class=3D"lg:hidden z-[60] ml-auto ro=
+unded-lg bg-white/10 size-10 hover:bg-white hover:text-secondary flex justi=
+fy-center items-center text-white"><svg xmlns=3D"http://www.w3.org/2000/svg=
+" xmlns:xlink=3D"http://www.w3.org/1999/xlink" aria-hidden=3D"true" role=3D=
+"img" class=3D"icon size-6" style=3D"" width=3D"1em" height=3D"1em" viewBox=
+=3D"0 0 24 24" data-v-e8d572f6=3D""><path fill=3D"currentColor" d=3D"M3 6h1=
+8v2H3zm0 5h18v2H3zm0 5h18v2H3z"></path></svg></button></div></div><!----></=
+nav><div><div><div><div class=3D"py-6 md:py-8 bg-white/10"><div class=3D"co=
+ntainer"><!--[--><h1 class=3D"text-xl md:text-3xl font-bold">Workshop</h1><=
+!--]--><!--[--><p class=3D"mt-1 md:mt-2 md:text-lg">Understanding Vue from =
+the bottom up</p><!--]--></div></div></div><div class=3D"py-8 lg:py-12 bg-w=
+hite/5"><div class=3D"container xl:max-w-5xl"><div class=3D"flex flex-col l=
+g:flex-row gap-8"><div class=3D"shrink-0"><img class=3D"w-52 rounded-3xl" s=
+rc=3D"https://www.vuetoronto.com/assets/speakers/evan-you.jpg" alt=3D"Photo=
+ of Understanding Vue from the bottom up"><div class=3D"mt-6"><a target=3D"=
+_blank" class=3D"rounded-xl inline-flex bg-white text-secondary hover:bg-br=
+and hover:text-white py-2.5 px-4 text-lg font-semibold" href=3D"https://www=
+.universe.com/events/vueconf-toronto-2024-tickets-XDKH8C?buttonColor=3D#3A6=
+6E5&amp;buttonText=3DRegister%20Now"> Register now $499</a></div></div><div=
+><div class=3D"pt-0 lg:pt-5 text-lg font-semibold">Evan You</div><div class=
+=3D"text-sm">Creator of Vue.js</div><h1 class=3D"mt-2 text-white text-2xl l=
+g:text-4xl font-bold">Understanding Vue from the bottom up</h1><div class=
+=3D"mt-6 flex flex-wrap gap-x-10 gap-y-4 lg:gap-6 items-center"><div><div c=
+lass=3D"text-xs opacity-80"> When </div><div class=3D"rounded-lg font-semib=
+old lg:text-lg uppercase">Nov 18, 2024</div></div><div class=3D"hidden lg:b=
+lock w-1 h-8 border-r border-r-white/30"></div><div><div class=3D"text-xs o=
+pacity-80"> Time </div><div class=3D"rounded-lg font-semibold lg:text-lg">9=
+ - 5pm</div></div><div class=3D"hidden lg:block w-1 h-8 border-r border-r-w=
+hite/30"></div><div><div class=3D"text-xs opacity-80"> Where </div><div cla=
+ss=3D"rounded-lg font-semibold lg:text-lg">Novotel Toronto North York</div>=
+</div></div><div class=3D"mt-6 lg:mt-12 prose lg:prose-lg text-white max-w-=
+full"><h2 class=3D"text-white"> Workshop details </h2><!--[--><div><p><!--[=
+-->In this workshop, we will look at Vue from the implementor's perspective=
+ and understand how different lower level pieces fit together to form a fra=
+mework. We will be taking a brief tour of the source code, and then deep di=
+ve into two core parts of Vue: the reactivity system and the template compi=
+ler. We will discuss how the compiler transforms the template into code tha=
+t leverages the reactivity system for efficient rendering.<!--]--></p><p><!=
+--[-->This is a relatively advanced workshop and is intended for experience=
+d Vue developers who want to have a deeper understanding of the framework.<=
+!--]--></p></div><!--]--></div></div></div></div></div></div></div><div cla=
+ss=3D"bg-secondary border-t-8 border-brand"><div class=3D"container pt-20 p=
+b-10"><svg viewBox=3D"0 0 83 35" fill=3D"none" xmlns=3D"http://www.w3.org/2=
+000/svg" class=3D"text-brand h-16"><path d=3D"M9.07345 15.7907L14.4564 1.07=
+828H10.5779L7.31047 10.5911L4.04309 1.07828H0L5.38295 15.7907H9.07345Z" fil=
+l=3D"currentColor"></path><path d=3D"M25.0267 5.00799H21.3362V11.5495C21.14=
+82 12.2923 20.5135 12.7476 19.8318 12.7476C18.8916 12.7476 18.4685 12.1006 =
+18.4685 11.1901V5.00799H14.8015V12.0767C14.8015 14.4728 16.1883 16.0304 18.=
+5155 16.0304C19.7143 16.0304 20.7721 15.5272 21.3362 14.8562V15.7907H25.026=
+7V5.00799Z" fill=3D"currentColor"></path><path d=3D"M33.3621 12.0288C33.150=
+6 12.7716 32.5629 13.107 31.8107 13.107C30.7529 13.107 30.0947 12.4121 29.9=
+772 11.1182H36.8176V10.1837C36.8176 6.97284 34.9841 4.76837 31.7402 4.76837=
+C28.6844 4.76837 26.4277 7.06869 26.4277 10.3994C26.4277 13.754 28.5668 16.=
+0304 31.8107 16.0304C34.5609 16.0304 36.3944 14.5208 36.7705 12.0288H33.362=
+1ZM31.7402 7.69169C32.6569 7.69169 33.1976 8.36262 33.2446 9.2492H30.0477C3=
+0.2828 8.24281 30.8704 7.69169 31.7402 7.69169Z" fill=3D"currentColor"></pa=
+th><path d=3D"M37.747 8.43451C37.747 12.8914 40.6382 16.0304 44.6813 16.030=
+4C48.2778 16.0304 50.3934 13.8498 50.9105 10.8307H47.1495C46.7734 11.9329 4=
+5.9977 12.6518 44.6813 12.6518C42.6833 12.6518 41.555 10.8307 41.555 8.4345=
+1C41.555 6.01438 42.6833 4.21725 44.6813 4.21725C45.9977 4.21725 46.7734 4.=
+9361 47.1495 6.01438H50.9105C50.3934 3.01917 48.2778 0.838659 44.6813 0.838=
+659C40.6382 0.838659 37.747 3.97764 37.747 8.43451Z" fill=3D"currentColor">=
+</path><path d=3D"M62.6523 10.3994C62.6523 7.06869 60.4662 4.76837 57.2459 =
+4.76837C54.049 4.76837 51.8394 7.06869 51.8394 10.3994C51.8394 13.73 54.049=
+ 16.0304 57.2459 16.0304C60.4662 16.0304 62.6523 13.73 62.6523 10.3994ZM59.=
+0323 10.3994C59.0323 11.885 58.3977 12.9153 57.2459 12.9153C56.1175 12.9153=
+ 55.4829 11.885 55.4829 10.3994C55.4829 8.91374 56.1175 7.85943 57.2459 7.8=
+5943C58.3977 7.85943 59.0323 8.91374 59.0323 10.3994Z" fill=3D"currentColor=
+"></path><path d=3D"M64.0879 15.7907H67.7784V9.27316C67.9664 8.53035 68.577=
+6 8.09904 69.3063 8.09904C70.2465 8.09904 70.6931 8.74601 70.6931 9.63259V1=
+5.7907H74.3601V8.72204C74.3601 6.32588 72.9733 4.76837 70.6226 4.76837C69.4=
+003 4.76837 68.366 5.27157 67.7784 5.94249V5.00799H64.0879V15.7907Z" fill=
+=3D"currentColor"></path><path d=3D"M83 0.287541C82.5534 0.119808 81.9892 0=
+ 81.284 0C78.6983 0 77.1704 1.62939 77.1704 4.21725V5.00799H75.5955V7.93131=
+H77.1704V15.7907H80.8139V7.93131H82.859V5.00799H80.8139V4.43291C80.8139 3.5=
+7029 81.3075 3.13898 82.1303 3.13898C82.4594 3.13898 82.7414 3.21086 83 3.3=
+5463V0.287541Z" fill=3D"currentColor"></path><path d=3D"M1.28501 23.3546H5.=
+72771V34.7604H9.51224V23.3546H13.9784V20.0479H1.28501V23.3546Z" fill=3D"cur=
+rentColor"></path><path d=3D"M24.2402 29.369C24.2402 26.0383 22.0542 23.738=
+ 18.8338 23.738C15.6369 23.738 13.4273 26.0383 13.4273 29.369C13.4273 32.69=
+97 15.6369 35 18.8338 35C22.0542 35 24.2402 32.6997 24.2402 29.369ZM20.6203=
+ 29.369C20.6203 30.8546 19.9856 31.885 18.8338 31.885C17.7055 31.885 17.070=
+8 30.8546 17.0708 29.369C17.0708 27.8834 17.7055 26.8291 18.8338 26.8291C19=
+.9856 26.8291 20.6203 27.8834 20.6203 29.369Z" fill=3D"currentColor"></path=
+><path d=3D"M32.7747 23.9297C32.6102 23.8339 32.2341 23.738 31.7639 23.738C=
+30.7061 23.738 29.8834 24.2173 29.3663 24.9361V23.9776H25.6758V34.7604H29.3=
+663V28.4345C29.5543 27.6677 30.236 27.2125 31.2468 27.2125C31.8345 27.2125 =
+32.3281 27.3083 32.7747 27.5479V23.9297Z" fill=3D"currentColor"></path><pat=
+h d=3D"M44.3722 29.369C44.3722 26.0383 42.1861 23.738 38.9657 23.738C35.768=
+8 23.738 33.5592 26.0383 33.5592 29.369C33.5592 32.6997 35.7688 35 38.9657 =
+35C42.1861 35 44.3722 32.6997 44.3722 29.369ZM40.7522 29.369C40.7522 30.854=
+6 40.1175 31.885 38.9657 31.885C37.8374 31.885 37.2027 30.8546 37.2027 29.3=
+69C37.2027 27.8834 37.8374 26.8291 38.9657 26.8291C40.1175 26.8291 40.7522 =
+27.8834 40.7522 29.369Z" fill=3D"currentColor"></path><path d=3D"M45.8077 3=
+4.7604H49.4982V28.2428C49.6862 27.5 50.2974 27.0687 51.0261 27.0687C51.9664=
+ 27.0687 52.413 27.7157 52.413 28.6022V34.7604H56.08V27.6917C56.08 25.2955 =
+54.6931 23.738 52.3425 23.738C51.1201 23.738 50.0858 24.2412 49.4982 24.912=
+1V23.9776H45.8077V34.7604Z" fill=3D"currentColor"></path><path d=3D"M58.772=
+7 31.0463C58.7727 33.778 60.1831 34.976 62.6748 34.976C63.4975 34.976 64.29=
+67 34.8323 64.7198 34.6406V31.4537C64.3907 31.5974 63.9441 31.6933 63.5445 =
+31.6933C62.8158 31.6933 62.4162 31.3339 62.4162 30.4952V26.901H64.6258V23.9=
+776H62.4162V21.0064H58.7727V23.9776H57.2213V26.901H58.7727V31.0463Z" fill=
+=3D"currentColor"></path><path d=3D"M76.6245 29.369C76.6245 26.0383 74.4384=
+ 23.738 71.218 23.738C68.0212 23.738 65.8116 26.0383 65.8116 29.369C65.8116=
+ 32.6997 68.0212 35 71.218 35C74.4384 35 76.6245 32.6997 76.6245 29.369ZM73=
+.0045 29.369C73.0045 30.8546 72.3699 31.885 71.218 31.885C70.0897 31.885 69=
+.4551 30.8546 69.4551 29.369C69.4551 27.8834 70.0897 26.8291 71.218 26.8291=
+C72.3699 26.8291 73.0045 27.8834 73.0045 29.369Z" fill=3D"currentColor"></p=
+ath></svg><div class=3D"grid grid-cols-2 gap-x-6 sm:grid-cols-3 lg:gap-x-8 =
+lg:gap-y-1 lg:py-8"><div><ul><li class=3D"py-1 lg:py-2"><a href=3D"https://=
+twitter.com/vuetoronto" title=3D"Follow us on X" rel=3D"noreferrer" target=
+=3D"_blank" class=3D"text-base"> @VueToronto </a></li><li class=3D"py-1 lg:=
+py-2"><a href=3D"mailto:info@vuetoronto.com">info@vuetoronto.com</a></li></=
+ul></div><div><ul><li class=3D"py-1 lg:py-2"><a href=3D"https://vuejobs.com=
+/" rel=3D"noreferrer" target=3D"_blank" class=3D"text-base"> Vue.js Jobs </=
+a></li><li class=3D"py-1 lg:py-2"><a href=3D"https://www.meetup.com/Vue-Tor=
+onto/" rel=3D"noreferrer nofollow" target=3D"_blank" class=3D"text-base"> M=
+eetup Page </a></li><li class=3D"py-1 lg:py-2"><a href=3D"https://www.vueto=
+ronto.com/code-of-conduct" class=3D"text-base" title=3D"Read our code of co=
+nduct"> Code of conduct </a></li></ul></div><div><ul><li class=3D"py-1 lg:p=
+y-2"><a href=3D"https://www.vuetoronto.com/privacy" class=3D"text-base" tit=
+le=3D"Read our privacy policy"> Privacy </a></li><li class=3D"py-1 lg:py-2"=
+><a href=3D"https://www.vuetoronto.com/terms" class=3D"text-base" title=3D"=
+Read our terms of service"> Terms </a></li></ul></div></div></div></div></d=
+iv></div><div id=3D"teleports"></div>
+
+
+</body></html>
+------MultipartBoundary--h187OSCGHexCBrTXhip2JRJhheXTG86TtH2fAZMLE6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-54ad0f1d-971d-4a38-ac3e-67e4765895a5@mhtml.blink
+
+@charset "utf-8";
+
+*, ::after, ::before { border: 0px solid rgb(229, 231, 235); box-sizing: bo=
+rder-box; }
+
+::after, ::before { --tw-content: ""; }
+
+:host, html { line-height: 1.5; text-size-adjust: 100%; font-family: ui-san=
+s-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Seg=
+oe UI Symbol", "Noto Color Emoji"; font-feature-settings: normal; font-vari=
+ation-settings: normal; tab-size: 4; -webkit-tap-highlight-color: transpare=
+nt; }
+
+body { line-height: inherit; margin: 0px; }
+
+hr { border-top-width: 1px; color: inherit; height: 0px; }
+
+abbr:where([title]) { text-decoration: underline dotted; }
+
+h1, h2, h3, h4, h5, h6 { font-size: inherit; font-weight: inherit; }
+
+a { color: inherit; text-decoration: inherit; }
+
+b, strong { font-weight: bolder; }
+
+code, kbd, pre, samp { font-family: ui-monospace, SFMono-Regular, Menlo, Mo=
+naco, Consolas, "Liberation Mono", "Courier New", monospace; font-feature-s=
+ettings: normal; font-size: 1em; font-variation-settings: normal; }
+
+small { font-size: 80%; }
+
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-ali=
+gn: initial; }
+
+sub { bottom: -0.25em; }
+
+sup { top: -0.5em; }
+
+table { border-collapse: collapse; border-color: inherit; text-indent: 0px;=
+ }
+
+button, input, optgroup, select, textarea { color: inherit; font-family: in=
+herit; font-feature-settings: inherit; font-size: 100%; font-variation-sett=
+ings: inherit; font-weight: inherit; letter-spacing: inherit; line-height: =
+inherit; margin: 0px; padding: 0px; }
+
+button, select { text-transform: none; }
+
+button, input:where([type=3D"button"]), input:where([type=3D"reset"]), inpu=
+t:where([type=3D"submit"]) { appearance: button; background-color: initial;=
+ background-image: none; }
+
+progress { vertical-align: initial; }
+
+::-webkit-inner-spin-button, ::-webkit-outer-spin-button { height: auto; }
+
+[type=3D"search"] { appearance: textfield; outline-offset: -2px; }
+
+::-webkit-search-decoration { appearance: none; }
+
+::-webkit-file-upload-button { appearance: button; font: inherit; }
+
+summary { display: list-item; }
+
+blockquote, dd, dl, figure, h1, h2, h3, h4, h5, h6, hr, p, pre { margin: 0p=
+x; }
+
+fieldset { margin: 0px; }
+
+fieldset, legend { padding: 0px; }
+
+menu, ol, ul { list-style: none; margin: 0px; padding: 0px; }
+
+dialog { padding: 0px; }
+
+textarea { resize: vertical; }
+
+input::placeholder, textarea::placeholder { color: rgb(156, 163, 175); opac=
+ity: 1; }
+
+[role=3D"button"], button { cursor: pointer; }
+
+:disabled { cursor: default; }
+
+audio, canvas, embed, iframe, img, object, svg, video { display: block; ver=
+tical-align: middle; }
+
+img, video { height: auto; max-width: 100%; }
+
+[hidden] { display: none; }
+
+*, ::backdrop, ::after, ::before { --tw-border-spacing-x: 0; --tw-border-sp=
+acing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-=
+skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; =
+--tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --=
+tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to=
+-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --=
+tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring=
+-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: #3b82f68=
+0; --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-sh=
+adow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightne=
+ss: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; =
+--tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --=
+tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale=
+: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opaci=
+ty: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ;=
+ --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; }
+
+.container { margin-left: auto; margin-right: auto; padding-left: 1rem; pad=
+ding-right: 1rem; width: 100%; }
+
+@media (min-width: 640px) {
+  .container { max-width: 640px; }
+}
+
+@media (min-width: 768px) {
+  .container { max-width: 768px; }
+}
+
+@media (min-width: 1024px) {
+  .container { max-width: 1024px; padding-left: 2rem; padding-right: 2rem; =
+}
+}
+
+@media (min-width: 1280px) {
+  .container { max-width: 1280px; }
+}
+
+@media (min-width: 1536px) {
+  .container { max-width: 1536px; }
+}
+
+.prose { color: var(--tw-prose-body); max-width: 65ch; }
+
+.prose :where(p):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"] =
+*)) { margin-bottom: 1.25em; margin-top: 1.25em; }
+
+.prose :where([class~=3D"lead"]):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { color: var(--tw-prose-lead); font-size: 1.25em; line-=
+height: 1.6; margin-bottom: 1.2em; margin-top: 1.2em; }
+
+.prose :where(a):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"] =
+*)) { color: var(--tw-prose-links); font-weight: 500; text-decoration: unde=
+rline; }
+
+.prose :where(strong):not(:where([class~=3D"not-prose"], [class~=3D"not-pro=
+se"] *)) { color: var(--tw-prose-bold); font-weight: 600; }
+
+.prose :where(a strong):not(:where([class~=3D"not-prose"], [class~=3D"not-p=
+rose"] *)) { color: inherit; }
+
+.prose :where(blockquote strong):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { color: inherit; }
+
+.prose :where(thead th strong):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { color: inherit; }
+
+.prose :where(ol):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { list-style-type: decimal; margin-bottom: 1.25em; margin-top: 1.25em;=
+ padding-inline-start: 1.625em; }
+
+.prose :where(ol[type=3D"A"]):not(:where([class~=3D"not-prose"], [class~=3D=
+"not-prose"] *)) { list-style-type: upper-alpha; }
+
+.prose :where(ol[type=3D"a"]):not(:where([class~=3D"not-prose"], [class~=3D=
+"not-prose"] *)) { list-style-type: lower-alpha; }
+
+.prose :where():not(:where([class~=3D"not-prose"], [class~=3D"not-prose"] *=
+)) { list-style-type: upper-alpha; }
+
+.prose :where():not(:where([class~=3D"not-prose"], [class~=3D"not-prose"] *=
+)) { list-style-type: lower-alpha; }
+
+.prose :where(ol[type=3D"I"]):not(:where([class~=3D"not-prose"], [class~=3D=
+"not-prose"] *)) { list-style-type: upper-roman; }
+
+.prose :where(ol[type=3D"i"]):not(:where([class~=3D"not-prose"], [class~=3D=
+"not-prose"] *)) { list-style-type: lower-roman; }
+
+.prose :where():not(:where([class~=3D"not-prose"], [class~=3D"not-prose"] *=
+)) { list-style-type: upper-roman; }
+
+.prose :where():not(:where([class~=3D"not-prose"], [class~=3D"not-prose"] *=
+)) { list-style-type: lower-roman; }
+
+.prose :where(ol[type=3D"1"]):not(:where([class~=3D"not-prose"], [class~=3D=
+"not-prose"] *)) { list-style-type: decimal; }
+
+.prose :where(ul):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { list-style-type: disc; margin-bottom: 1.25em; margin-top: 1.25em; pa=
+dding-inline-start: 1.625em; }
+
+.prose :where(ol > li):not(:where([class~=3D"not-prose"], [class~=3D"not-pr=
+ose"] *))::marker { color: var(--tw-prose-counters); font-weight: 400; }
+
+.prose :where(ul > li):not(:where([class~=3D"not-prose"], [class~=3D"not-pr=
+ose"] *))::marker { color: var(--tw-prose-bullets); }
+
+.prose :where(dt):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { color: var(--tw-prose-headings); font-weight: 600; margin-top: 1.25e=
+m; }
+
+.prose :where(hr):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { border-color: var(--tw-prose-hr); border-top-width: 1px; margin-bott=
+om: 3em; margin-top: 3em; }
+
+.prose :where(blockquote):not(:where([class~=3D"not-prose"], [class~=3D"not=
+-prose"] *)) { border-inline-start-color: var(--tw-prose-quote-borders); bo=
+rder-inline-start-width: 0.25rem; color: var(--tw-prose-quotes); font-style=
+: italic; font-weight: 500; margin-bottom: 1.6em; margin-top: 1.6em; paddin=
+g-inline-start: 1em; quotes: "=E2=80=9C" "=E2=80=9D" "=E2=80=98" "=E2=80=99=
+"; }
+
+.prose :where(blockquote p:first-of-type):not(:where([class~=3D"not-prose"]=
+, [class~=3D"not-prose"] *))::before { content: open-quote; }
+
+.prose :where(blockquote p:last-of-type):not(:where([class~=3D"not-prose"],=
+ [class~=3D"not-prose"] *))::after { content: close-quote; }
+
+.prose :where(h1):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { color: var(--tw-prose-headings); font-size: 2.25em; font-weight: 800=
+; line-height: 1.11111; margin-bottom: 0.888889em; margin-top: 0px; }
+
+.prose :where(h1 strong):not(:where([class~=3D"not-prose"], [class~=3D"not-=
+prose"] *)) { color: inherit; font-weight: 900; }
+
+.prose :where(h2):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { color: var(--tw-prose-headings); font-size: 1.5em; font-weight: 700;=
+ line-height: 1.33333; margin-bottom: 1em; margin-top: 2em; }
+
+.prose :where(h2 strong):not(:where([class~=3D"not-prose"], [class~=3D"not-=
+prose"] *)) { color: inherit; font-weight: 800; }
+
+.prose :where(h3):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { color: var(--tw-prose-headings); font-size: 1.25em; font-weight: 600=
+; line-height: 1.6; margin-bottom: 0.6em; margin-top: 1.6em; }
+
+.prose :where(h3 strong):not(:where([class~=3D"not-prose"], [class~=3D"not-=
+prose"] *)) { color: inherit; font-weight: 700; }
+
+.prose :where(h4):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { color: var(--tw-prose-headings); font-weight: 600; line-height: 1.5;=
+ margin-bottom: 0.5em; margin-top: 1.5em; }
+
+.prose :where(h4 strong):not(:where([class~=3D"not-prose"], [class~=3D"not-=
+prose"] *)) { color: inherit; font-weight: 700; }
+
+.prose :where(img):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"=
+] *)) { margin-bottom: 2em; margin-top: 2em; }
+
+.prose :where(picture):not(:where([class~=3D"not-prose"], [class~=3D"not-pr=
+ose"] *)) { display: block; margin-bottom: 2em; margin-top: 2em; }
+
+.prose :where(video):not(:where([class~=3D"not-prose"], [class~=3D"not-pros=
+e"] *)) { margin-bottom: 2em; margin-top: 2em; }
+
+.prose :where(kbd):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"=
+] *)) { border-radius: 0.3125rem; box-shadow: 0 0 0 1px rgb(var(--tw-prose-=
+kbd-shadows)/10%),0 3px 0 rgb(var(--tw-prose-kbd-shadows)/10%); color: var(=
+--tw-prose-kbd); font-family: inherit; font-size: 0.875em; font-weight: 500=
+; padding-inline: 0.375em; padding-bottom: 0.1875em; padding-top: 0.1875em;=
+ }
+
+.prose :where(code):not(:where([class~=3D"not-prose"], [class~=3D"not-prose=
+"] *)) { color: var(--tw-prose-code); font-size: 0.875em; font-weight: 600;=
+ }
+
+.prose :where(code):not(:where([class~=3D"not-prose"], [class~=3D"not-prose=
+"] *))::before { content: "`"; }
+
+.prose :where(code):not(:where([class~=3D"not-prose"], [class~=3D"not-prose=
+"] *))::after { content: "`"; }
+
+.prose :where(a code):not(:where([class~=3D"not-prose"], [class~=3D"not-pro=
+se"] *)) { color: inherit; }
+
+.prose :where(h1 code):not(:where([class~=3D"not-prose"], [class~=3D"not-pr=
+ose"] *)) { color: inherit; }
+
+.prose :where(h2 code):not(:where([class~=3D"not-prose"], [class~=3D"not-pr=
+ose"] *)) { color: inherit; font-size: 0.875em; }
+
+.prose :where(h3 code):not(:where([class~=3D"not-prose"], [class~=3D"not-pr=
+ose"] *)) { color: inherit; font-size: 0.9em; }
+
+.prose :where(h4 code):not(:where([class~=3D"not-prose"], [class~=3D"not-pr=
+ose"] *)) { color: inherit; }
+
+.prose :where(blockquote code):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { color: inherit; }
+
+.prose :where(thead th code):not(:where([class~=3D"not-prose"], [class~=3D"=
+not-prose"] *)) { color: inherit; }
+
+.prose :where(pre):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"=
+] *)) { background-color: var(--tw-prose-pre-bg); border-radius: 0.375rem; =
+color: var(--tw-prose-pre-code); font-size: 0.875em; font-weight: 400; line=
+-height: 1.71429; margin-bottom: 1.71429em; margin-top: 1.71429em; overflow=
+-x: auto; padding-inline: 1.14286em; padding-bottom: 0.857143em; padding-to=
+p: 0.857143em; }
+
+.prose :where(pre code):not(:where([class~=3D"not-prose"], [class~=3D"not-p=
+rose"] *)) { background-color: initial; border-radius: 0px; border-width: 0=
+px; color: inherit; font-family: inherit; font-size: inherit; font-weight: =
+inherit; line-height: inherit; padding: 0px; }
+
+.prose :where(pre code):not(:where([class~=3D"not-prose"], [class~=3D"not-p=
+rose"] *))::before { content: none; }
+
+.prose :where(pre code):not(:where([class~=3D"not-prose"], [class~=3D"not-p=
+rose"] *))::after { content: none; }
+
+.prose :where(table):not(:where([class~=3D"not-prose"], [class~=3D"not-pros=
+e"] *)) { font-size: 0.875em; line-height: 1.71429; margin-bottom: 2em; mar=
+gin-top: 2em; table-layout: auto; text-align: start; width: 100%; }
+
+.prose :where(thead):not(:where([class~=3D"not-prose"], [class~=3D"not-pros=
+e"] *)) { border-bottom-color: var(--tw-prose-th-borders); border-bottom-wi=
+dth: 1px; }
+
+.prose :where(thead th):not(:where([class~=3D"not-prose"], [class~=3D"not-p=
+rose"] *)) { color: var(--tw-prose-headings); font-weight: 600; padding-inl=
+ine: 0.571429em; padding-bottom: 0.571429em; vertical-align: bottom; }
+
+.prose :where(tbody tr):not(:where([class~=3D"not-prose"], [class~=3D"not-p=
+rose"] *)) { border-bottom-color: var(--tw-prose-td-borders); border-bottom=
+-width: 1px; }
+
+.prose :where(tbody tr:last-child):not(:where([class~=3D"not-prose"], [clas=
+s~=3D"not-prose"] *)) { border-bottom-width: 0px; }
+
+.prose :where(tbody td):not(:where([class~=3D"not-prose"], [class~=3D"not-p=
+rose"] *)) { vertical-align: initial; }
+
+.prose :where(tfoot):not(:where([class~=3D"not-prose"], [class~=3D"not-pros=
+e"] *)) { border-top-color: var(--tw-prose-th-borders); border-top-width: 1=
+px; }
+
+.prose :where(tfoot td):not(:where([class~=3D"not-prose"], [class~=3D"not-p=
+rose"] *)) { vertical-align: top; }
+
+.prose :where(figure > *):not(:where([class~=3D"not-prose"], [class~=3D"not=
+-prose"] *)) { margin-bottom: 0px; margin-top: 0px; }
+
+.prose :where(figcaption):not(:where([class~=3D"not-prose"], [class~=3D"not=
+-prose"] *)) { color: var(--tw-prose-captions); font-size: 0.875em; line-he=
+ight: 1.42857; margin-top: 0.857143em; }
+
+.prose { --tw-prose-body: #374151; --tw-prose-headings: #111827; --tw-prose=
+-lead: #4b5563; --tw-prose-links: #111827; --tw-prose-bold: #111827; --tw-p=
+rose-counters: #6b7280; --tw-prose-bullets: #d1d5db; --tw-prose-hr: #e5e7eb=
+; --tw-prose-quotes: #111827; --tw-prose-quote-borders: #e5e7eb; --tw-prose=
+-captions: #6b7280; --tw-prose-kbd: #111827; --tw-prose-kbd-shadows: 17 24 =
+39; --tw-prose-code: #111827; --tw-prose-pre-code: #e5e7eb; --tw-prose-pre-=
+bg: #1f2937; --tw-prose-th-borders: #d1d5db; --tw-prose-td-borders: #e5e7eb=
+; --tw-prose-invert-body: #d1d5db; --tw-prose-invert-headings: #fff; --tw-p=
+rose-invert-lead: #9ca3af; --tw-prose-invert-links: #fff; --tw-prose-invert=
+-bold: #fff; --tw-prose-invert-counters: #9ca3af; --tw-prose-invert-bullets=
+: #4b5563; --tw-prose-invert-hr: #374151; --tw-prose-invert-quotes: #f3f4f6=
+; --tw-prose-invert-quote-borders: #374151; --tw-prose-invert-captions: #9c=
+a3af; --tw-prose-invert-kbd: #fff; --tw-prose-invert-kbd-shadows: 255 255 2=
+55; --tw-prose-invert-code: #fff; --tw-prose-invert-pre-code: #d1d5db; --tw=
+-prose-invert-pre-bg: #00000080; --tw-prose-invert-th-borders: #4b5563; --t=
+w-prose-invert-td-borders: #374151; font-size: 1rem; line-height: 1.75; }
+
+.prose :where(picture > img):not(:where([class~=3D"not-prose"], [class~=3D"=
+not-prose"] *)) { margin-bottom: 0px; margin-top: 0px; }
+
+.prose :where(li):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { margin-bottom: 0.5em; margin-top: 0.5em; }
+
+.prose :where(ol > li):not(:where([class~=3D"not-prose"], [class~=3D"not-pr=
+ose"] *)) { padding-inline-start: 0.375em; }
+
+.prose :where(ul > li):not(:where([class~=3D"not-prose"], [class~=3D"not-pr=
+ose"] *)) { padding-inline-start: 0.375em; }
+
+.prose :where(.prose > ul > li p):not(:where([class~=3D"not-prose"], [class=
+~=3D"not-prose"] *)) { margin-bottom: 0.75em; margin-top: 0.75em; }
+
+.prose :where(.prose > ul > li > p:first-child):not(:where([class~=3D"not-p=
+rose"], [class~=3D"not-prose"] *)) { margin-top: 1.25em; }
+
+.prose :where(.prose > ul > li > p:last-child):not(:where([class~=3D"not-pr=
+ose"], [class~=3D"not-prose"] *)) { margin-bottom: 1.25em; }
+
+.prose :where(.prose > ol > li > p:first-child):not(:where([class~=3D"not-p=
+rose"], [class~=3D"not-prose"] *)) { margin-top: 1.25em; }
+
+.prose :where(.prose > ol > li > p:last-child):not(:where([class~=3D"not-pr=
+ose"], [class~=3D"not-prose"] *)) { margin-bottom: 1.25em; }
+
+.prose :where(ul ul, ul ol, ol ul, ol ol):not(:where([class~=3D"not-prose"]=
+, [class~=3D"not-prose"] *)) { margin-bottom: 0.75em; margin-top: 0.75em; }
+
+.prose :where(dl):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { margin-bottom: 1.25em; margin-top: 1.25em; }
+
+.prose :where(dd):not(:where([class~=3D"not-prose"], [class~=3D"not-prose"]=
+ *)) { margin-top: 0.5em; padding-inline-start: 1.625em; }
+
+.prose :where(hr + *):not(:where([class~=3D"not-prose"], [class~=3D"not-pro=
+se"] *)) { margin-top: 0px; }
+
+.prose :where(h2 + *):not(:where([class~=3D"not-prose"], [class~=3D"not-pro=
+se"] *)) { margin-top: 0px; }
+
+.prose :where(h3 + *):not(:where([class~=3D"not-prose"], [class~=3D"not-pro=
+se"] *)) { margin-top: 0px; }
+
+.prose :where(h4 + *):not(:where([class~=3D"not-prose"], [class~=3D"not-pro=
+se"] *)) { margin-top: 0px; }
+
+.prose :where(thead th:first-child):not(:where([class~=3D"not-prose"], [cla=
+ss~=3D"not-prose"] *)) { padding-inline-start: 0px; }
+
+.prose :where(thead th:last-child):not(:where([class~=3D"not-prose"], [clas=
+s~=3D"not-prose"] *)) { padding-inline-end: 0px; }
+
+.prose :where(tbody td, tfoot td):not(:where([class~=3D"not-prose"], [class=
+~=3D"not-prose"] *)) { padding-inline: 0.571429em; padding-bottom: 0.571429=
+em; padding-top: 0.571429em; }
+
+.prose :where(tbody td:first-child, tfoot td:first-child):not(:where([class=
+~=3D"not-prose"], [class~=3D"not-prose"] *)) { padding-inline-start: 0px; }
+
+.prose :where(tbody td:last-child, tfoot td:last-child):not(:where([class~=
+=3D"not-prose"], [class~=3D"not-prose"] *)) { padding-inline-end: 0px; }
+
+.prose :where(figure):not(:where([class~=3D"not-prose"], [class~=3D"not-pro=
+se"] *)) { margin-bottom: 2em; margin-top: 2em; }
+
+.prose :where(.prose > :first-child):not(:where([class~=3D"not-prose"], [cl=
+ass~=3D"not-prose"] *)) { margin-top: 0px; }
+
+.prose :where(.prose > :last-child):not(:where([class~=3D"not-prose"], [cla=
+ss~=3D"not-prose"] *)) { margin-bottom: 0px; }
+
+.prose-green { --tw-prose-links: #16a34a; --tw-prose-invert-links: #22c55e;=
+ }
+
+.prose-invert { --tw-prose-body: var(--tw-prose-invert-body); --tw-prose-he=
+adings: var(--tw-prose-invert-headings); --tw-prose-lead: var(--tw-prose-in=
+vert-lead); --tw-prose-links: var(--tw-prose-invert-links); --tw-prose-bold=
+: var(--tw-prose-invert-bold); --tw-prose-counters: var(--tw-prose-invert-c=
+ounters); --tw-prose-bullets: var(--tw-prose-invert-bullets); --tw-prose-hr=
+: var(--tw-prose-invert-hr); --tw-prose-quotes: var(--tw-prose-invert-quote=
+s); --tw-prose-quote-borders: var(--tw-prose-invert-quote-borders); --tw-pr=
+ose-captions: var(--tw-prose-invert-captions); --tw-prose-kbd: var(--tw-pro=
+se-invert-kbd); --tw-prose-kbd-shadows: var(--tw-prose-invert-kbd-shadows);=
+ --tw-prose-code: var(--tw-prose-invert-code); --tw-prose-pre-code: var(--t=
+w-prose-invert-pre-code); --tw-prose-pre-bg: var(--tw-prose-invert-pre-bg);=
+ --tw-prose-th-borders: var(--tw-prose-invert-th-borders); --tw-prose-td-bo=
+rders: var(--tw-prose-invert-td-borders); }
+
+.fixed { position: fixed; }
+
+.absolute { position: absolute; }
+
+.relative { position: relative; }
+
+.sticky { position: sticky; }
+
+.inset-0 { inset: 0px; }
+
+.bottom-0 { bottom: 0px; }
+
+.left-0 { left: 0px; }
+
+.right-0 { right: 0px; }
+
+.top-0 { top: 0px; }
+
+.top-\[--header-height\] { top: var(--header-height); }
+
+.top-\[calc\(var\(--header-height\)_\+_2rem\)\] { top: calc(var(--header-he=
+ight) + 2rem); }
+
+.z-10 { z-index: 10; }
+
+.z-50 { z-index: 50; }
+
+.z-\[60\] { z-index: 60; }
+
+.col-span-3 { grid-column: span 3 / span 3; }
+
+.m-0 { margin: 0px; }
+
+.mx-auto { margin-left: auto; margin-right: auto; }
+
+.mb-12 { margin-bottom: 3rem; }
+
+.mb-4 { margin-bottom: 1rem; }
+
+.mb-auto { margin-bottom: auto; }
+
+.ml-2 { margin-left: 0.5rem; }
+
+.ml-20 { margin-left: 5rem; }
+
+.ml-4 { margin-left: 1rem; }
+
+.ml-auto { margin-left: auto; }
+
+.mr-1 { margin-right: 0.25rem; }
+
+.mr-1\.5 { margin-right: 0.375rem; }
+
+.mt-0 { margin-top: 0px; }
+
+.mt-1 { margin-top: 0.25rem; }
+
+.mt-12 { margin-top: 3rem; }
+
+.mt-2 { margin-top: 0.5rem; }
+
+.mt-3 { margin-top: 0.75rem; }
+
+.mt-4 { margin-top: 1rem; }
+
+.mt-6 { margin-top: 1.5rem; }
+
+.mt-8 { margin-top: 2rem; }
+
+.mt-\[30px\] { margin-top: 30px; }
+
+.mt-\[5px\] { margin-top: 5px; }
+
+.line-clamp-1 { -webkit-line-clamp: 1; }
+
+.line-clamp-1, .line-clamp-2 { display: -webkit-box; overflow: hidden; -web=
+kit-box-orient: vertical; }
+
+.line-clamp-2 { -webkit-line-clamp: 2; }
+
+.block { display: block; }
+
+.flex { display: flex; }
+
+.inline-flex { display: inline-flex; }
+
+.table { display: table; }
+
+.grid { display: grid; }
+
+.hidden { display: none; }
+
+.size-10 { height: 2.5rem; width: 2.5rem; }
+
+.size-5 { height: 1.25rem; width: 1.25rem; }
+
+.size-6 { height: 1.5rem; width: 1.5rem; }
+
+.size-\[40px\] { height: 40px; width: 40px; }
+
+.size-full { height: 100%; width: 100%; }
+
+.h-10 { height: 2.5rem; }
+
+.h-16 { height: 4rem; }
+
+.h-8 { height: 2rem; }
+
+.h-96 { height: 24rem; }
+
+.h-full { height: 100%; }
+
+.h-screen { height: 100vh; }
+
+.min-h-screen { min-height: 100vh; }
+
+.w-1 { width: 0.25rem; }
+
+.w-40 { width: 10rem; }
+
+.w-52 { width: 13rem; }
+
+.w-\[300px\] { width: 300px; }
+
+.w-\[600px\] { width: 600px; }
+
+.w-full { width: 100%; }
+
+.max-w-4xl { max-width: 56rem; }
+
+.max-w-full { max-width: 100%; }
+
+.shrink-0 { flex-shrink: 0; }
+
+.grid-cols-1 { grid-template-columns: repeat(1, minmax(0px, 1fr)); }
+
+.grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+
+.flex-row { flex-direction: row; }
+
+.flex-col { flex-direction: column; }
+
+.flex-wrap { flex-wrap: wrap; }
+
+.items-start { align-items: flex-start; }
+
+.items-center { align-items: center; }
+
+.justify-start { justify-content: flex-start; }
+
+.justify-center { justify-content: center; }
+
+.justify-between { justify-content: space-between; }
+
+.gap-1 { gap: 0.25rem; }
+
+.gap-1\.5 { gap: 0.375rem; }
+
+.gap-10 { gap: 2.5rem; }
+
+.gap-12 { gap: 3rem; }
+
+.gap-2 { gap: 0.5rem; }
+
+.gap-3 { gap: 0.75rem; }
+
+.gap-4 { gap: 1rem; }
+
+.gap-6 { gap: 1.5rem; }
+
+.gap-8 { gap: 2rem; }
+
+.gap-\[50px\] { gap: 50px; }
+
+.gap-x-10 { column-gap: 2.5rem; }
+
+.gap-x-6 { column-gap: 1.5rem; }
+
+.gap-x-8 { column-gap: 2rem; }
+
+.gap-y-4 { row-gap: 1rem; }
+
+.gap-y-8 { row-gap: 2rem; }
+
+.space-y-1 > :not([hidden]) ~ :not([hidden]) { --tw-space-y-reverse: 0; mar=
+gin-bottom: calc(.25rem*var(--tw-space-y-reverse)); margin-top: calc(.25rem=
+*(1 - var(--tw-space-y-reverse))); }
+
+.overflow-hidden { overflow: hidden; }
+
+.overflow-y-auto { overflow-y: auto; }
+
+.rounded-2xl { border-radius: 1rem; }
+
+.rounded-3xl { border-radius: 1.5rem; }
+
+.rounded-lg { border-radius: 0.5rem; }
+
+.rounded-xl { border-radius: 0.75rem; }
+
+.border-2 { border-width: 2px; }
+
+.border-\[10px\] { border-width: 10px; }
+
+.border-\[15px\] { border-width: 15px; }
+
+.border-r { border-right-width: 1px; }
+
+.border-t-8 { border-top-width: 8px; }
+
+.border-brand { --tw-border-opacity: 1; border-color: rgb(117 192 94/var(--=
+tw-border-opacity)); }
+
+.border-r-white\/30 { border-right-color: rgba(255, 255, 255, 0.3); }
+
+.bg-brand { --tw-bg-opacity: 1; background-color: rgb(117 192 94/var(--tw-b=
+g-opacity)); }
+
+.bg-secondary { --tw-bg-opacity: 1; background-color: rgb(6 20 25/var(--tw-=
+bg-opacity)); }
+
+.bg-white { --tw-bg-opacity: 1; background-color: rgb(255 255 255/var(--tw-=
+bg-opacity)); }
+
+.bg-white\/10 { background-color: rgba(255, 255, 255, 0.1); }
+
+.bg-white\/5 { background-color: rgba(255, 255, 255, 0.05); }
+
+.bg-gradient-to-t { background-image: linear-gradient(to top,var(--tw-gradi=
+ent-stops)); }
+
+.from-secondary { --tw-gradient-from: #061419 var(--tw-gradient-from-positi=
+on); --tw-gradient-to: #06141900 var(--tw-gradient-to-position); --tw-gradi=
+ent-stops: var(--tw-gradient-from),var(--tw-gradient-to); }
+
+.to-transparent { --tw-gradient-to: #0000 var(--tw-gradient-to-position); }
+
+.object-contain { object-fit: contain; }
+
+.object-cover { object-fit: cover; }
+
+.object-center { object-position: center center; }
+
+.p-20 { padding: 5rem; }
+
+.p-4 { padding: 1rem; }
+
+.p-6 { padding: 1.5rem; }
+
+.p-\[25px\] { padding: 25px; }
+
+.px-1 { padding-left: 0.25rem; padding-right: 0.25rem; }
+
+.px-1\.5 { padding-left: 0.375rem; padding-right: 0.375rem; }
+
+.px-2 { padding-left: 0.5rem; padding-right: 0.5rem; }
+
+.px-3 { padding-left: 0.75rem; padding-right: 0.75rem; }
+
+.px-3\.5 { padding-left: 0.875rem; padding-right: 0.875rem; }
+
+.px-4 { padding-left: 1rem; padding-right: 1rem; }
+
+.px-\[100px\] { padding-left: 100px; padding-right: 100px; }
+
+.py-1 { padding-bottom: 0.25rem; padding-top: 0.25rem; }
+
+.py-1\.5 { padding-bottom: 0.375rem; padding-top: 0.375rem; }
+
+.py-12 { padding-bottom: 3rem; padding-top: 3rem; }
+
+.py-16 { padding-bottom: 4rem; padding-top: 4rem; }
+
+.py-2 { padding-bottom: 0.5rem; padding-top: 0.5rem; }
+
+.py-2\.5 { padding-bottom: 0.625rem; padding-top: 0.625rem; }
+
+.py-20 { padding-bottom: 5rem; padding-top: 5rem; }
+
+.py-4 { padding-bottom: 1rem; padding-top: 1rem; }
+
+.py-6 { padding-bottom: 1.5rem; padding-top: 1.5rem; }
+
+.py-8 { padding-bottom: 2rem; padding-top: 2rem; }
+
+.pb-10 { padding-bottom: 2.5rem; }
+
+.pb-20 { padding-bottom: 5rem; }
+
+.pt-0 { padding-top: 0px; }
+
+.pt-10 { padding-top: 2.5rem; }
+
+.pt-20 { padding-top: 5rem; }
+
+.pt-\[var\(--header-height\)\] { padding-top: var(--header-height); }
+
+.text-left { text-align: left; }
+
+.text-center { text-align: center; }
+
+.text-2xl { font-size: 1.5rem; line-height: 2rem; }
+
+.text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+
+.text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+
+.text-\[28px\] { font-size: 28px; }
+
+.text-\[32px\] { font-size: 32px; }
+
+.text-\[38px\] { font-size: 38px; }
+
+.text-\[48px\] { font-size: 48px; }
+
+.text-\[60px\] { font-size: 60px; }
+
+.text-base { font-size: 1rem; line-height: 1.5rem; }
+
+.text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+
+.text-sm { font-size: 0.875rem; line-height: 1.25rem; }
+
+.text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+
+.text-xs { font-size: 0.75rem; line-height: 1rem; }
+
+.font-bold { font-weight: 700; }
+
+.font-medium { font-weight: 500; }
+
+.font-semibold { font-weight: 600; }
+
+.uppercase { text-transform: uppercase; }
+
+.italic { font-style: italic; }
+
+.\!leading-tight { line-height: 1.25 !important; }
+
+.leading-none { line-height: 1; }
+
+.text-brand { --tw-text-opacity: 1; color: rgb(117 192 94/var(--tw-text-opa=
+city)); }
+
+.text-gray-300 { --tw-text-opacity: 1; color: rgb(209 213 219/var(--tw-text=
+-opacity)); }
+
+.text-gray-400 { --tw-text-opacity: 1; color: rgb(156 163 175/var(--tw-text=
+-opacity)); }
+
+.text-red-600 { --tw-text-opacity: 1; color: rgb(220 38 38/var(--tw-text-op=
+acity)); }
+
+.text-secondary { --tw-text-opacity: 1; color: rgb(6 20 25/var(--tw-text-op=
+acity)); }
+
+.text-white { --tw-text-opacity: 1; color: rgb(255 255 255/var(--tw-text-op=
+acity)); }
+
+.text-yellow-300 { --tw-text-opacity: 1; color: rgb(253 224 71/var(--tw-tex=
+t-opacity)); }
+
+.line-through { text-decoration-line: line-through; }
+
+.antialiased { -webkit-font-smoothing: antialiased; }
+
+.opacity-40 { opacity: 0.4; }
+
+.opacity-50 { opacity: 0.5; }
+
+.opacity-70 { opacity: 0.7; }
+
+.opacity-80 { opacity: 0.8; }
+
+.outline { outline-style: solid; }
+
+.filter { filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) va=
+r(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) =
+var(--tw-sepia) var(--tw-drop-shadow); }
+
+.transition-colors { transition-duration: 0.15s; transition-property: color=
+, background-color, border-color, text-decoration-color, fill, stroke; tran=
+sition-timing-function: cubic-bezier(0.4, 0, 0.2, 1); }
+
+.duration-300 { transition-duration: 0.3s; }
+
+@media (min-width: 1024px) {
+  .lg\:prose-lg { font-size: 1.125rem; line-height: 1.77778; }
+  .lg\:prose-lg :where(p):not(:where([class~=3D"not-prose"], [class~=3D"not=
+-prose"] *)) { margin-bottom: 1.33333em; margin-top: 1.33333em; }
+  .lg\:prose-lg :where([class~=3D"lead"]):not(:where([class~=3D"not-prose"]=
+, [class~=3D"not-prose"] *)) { font-size: 1.22222em; line-height: 1.45455; =
+margin-bottom: 1.09091em; margin-top: 1.09091em; }
+  .lg\:prose-lg :where(blockquote):not(:where([class~=3D"not-prose"], [clas=
+s~=3D"not-prose"] *)) { margin-bottom: 1.66667em; margin-top: 1.66667em; pa=
+dding-inline-start: 1em; }
+  .lg\:prose-lg :where(h1):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { font-size: 2.66667em; line-height: 1; margin-bottom: 0.8333=
+33em; margin-top: 0px; }
+  .lg\:prose-lg :where(h2):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { font-size: 1.66667em; line-height: 1.33333; margin-bottom: =
+1.06667em; margin-top: 1.86667em; }
+  .lg\:prose-lg :where(h3):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { font-size: 1.33333em; line-height: 1.5; margin-bottom: 0.66=
+6667em; margin-top: 1.66667em; }
+  .lg\:prose-lg :where(h4):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { line-height: 1.55556; margin-bottom: 0.444444em; margin-top=
+: 1.77778em; }
+  .lg\:prose-lg :where(img):not(:where([class~=3D"not-prose"], [class~=3D"n=
+ot-prose"] *)) { margin-bottom: 1.77778em; margin-top: 1.77778em; }
+  .lg\:prose-lg :where(picture):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { margin-bottom: 1.77778em; margin-top: 1.77778em; }
+  .lg\:prose-lg :where(picture > img):not(:where([class~=3D"not-prose"], [c=
+lass~=3D"not-prose"] *)) { margin-bottom: 0px; margin-top: 0px; }
+  .lg\:prose-lg :where(video):not(:where([class~=3D"not-prose"], [class~=3D=
+"not-prose"] *)) { margin-bottom: 1.77778em; margin-top: 1.77778em; }
+  .lg\:prose-lg :where(kbd):not(:where([class~=3D"not-prose"], [class~=3D"n=
+ot-prose"] *)) { border-radius: 0.3125rem; font-size: 0.888889em; padding-i=
+nline: 0.444444em; padding-bottom: 0.222222em; padding-top: 0.222222em; }
+  .lg\:prose-lg :where(code):not(:where([class~=3D"not-prose"], [class~=3D"=
+not-prose"] *)) { font-size: 0.888889em; }
+  .lg\:prose-lg :where(h2 code):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { font-size: 0.866667em; }
+  .lg\:prose-lg :where(h3 code):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { font-size: 0.875em; }
+  .lg\:prose-lg :where(pre):not(:where([class~=3D"not-prose"], [class~=3D"n=
+ot-prose"] *)) { border-radius: 0.375rem; font-size: 0.888889em; line-heigh=
+t: 1.75; margin-bottom: 2em; margin-top: 2em; padding-inline: 1.5em; paddin=
+g-bottom: 1em; padding-top: 1em; }
+  .lg\:prose-lg :where(ol):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { margin-bottom: 1.33333em; margin-top: 1.33333em; padding-in=
+line-start: 1.55556em; }
+  .lg\:prose-lg :where(ul):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { margin-bottom: 1.33333em; margin-top: 1.33333em; padding-in=
+line-start: 1.55556em; }
+  .lg\:prose-lg :where(li):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { margin-bottom: 0.666667em; margin-top: 0.666667em; }
+  .lg\:prose-lg :where(ol > li):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { padding-inline-start: 0.444444em; }
+  .lg\:prose-lg :where(ul > li):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { padding-inline-start: 0.444444em; }
+  .lg\:prose-lg :where(.lg\:prose-lg > ul > li p):not(:where([class~=3D"not=
+-prose"], [class~=3D"not-prose"] *)) { margin-bottom: 0.888889em; margin-to=
+p: 0.888889em; }
+  .lg\:prose-lg :where(.lg\:prose-lg > ul > li > p:first-child):not(:where(=
+[class~=3D"not-prose"], [class~=3D"not-prose"] *)) { margin-top: 1.33333em;=
+ }
+  .lg\:prose-lg :where(.lg\:prose-lg > ul > li > p:last-child):not(:where([=
+class~=3D"not-prose"], [class~=3D"not-prose"] *)) { margin-bottom: 1.33333e=
+m; }
+  .lg\:prose-lg :where(.lg\:prose-lg > ol > li > p:first-child):not(:where(=
+[class~=3D"not-prose"], [class~=3D"not-prose"] *)) { margin-top: 1.33333em;=
+ }
+  .lg\:prose-lg :where(.lg\:prose-lg > ol > li > p:last-child):not(:where([=
+class~=3D"not-prose"], [class~=3D"not-prose"] *)) { margin-bottom: 1.33333e=
+m; }
+  .lg\:prose-lg :where(ul ul, ul ol, ol ul, ol ol):not(:where([class~=3D"no=
+t-prose"], [class~=3D"not-prose"] *)) { margin-bottom: 0.888889em; margin-t=
+op: 0.888889em; }
+  .lg\:prose-lg :where(dl):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { margin-bottom: 1.33333em; margin-top: 1.33333em; }
+  .lg\:prose-lg :where(dt):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { margin-top: 1.33333em; }
+  .lg\:prose-lg :where(dd):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { margin-top: 0.666667em; padding-inline-start: 1.55556em; }
+  .lg\:prose-lg :where(hr):not(:where([class~=3D"not-prose"], [class~=3D"no=
+t-prose"] *)) { margin-bottom: 3.11111em; margin-top: 3.11111em; }
+  .lg\:prose-lg :where(hr + *):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { margin-top: 0px; }
+  .lg\:prose-lg :where(h2 + *):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { margin-top: 0px; }
+  .lg\:prose-lg :where(h3 + *):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { margin-top: 0px; }
+  .lg\:prose-lg :where(h4 + *):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { margin-top: 0px; }
+  .lg\:prose-lg :where(table):not(:where([class~=3D"not-prose"], [class~=3D=
+"not-prose"] *)) { font-size: 0.888889em; line-height: 1.5; }
+  .lg\:prose-lg :where(thead th):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { padding-inline: 0.75em; padding-bottom: 0.75em; }
+  .lg\:prose-lg :where(thead th:first-child):not(:where([class~=3D"not-pros=
+e"], [class~=3D"not-prose"] *)) { padding-inline-start: 0px; }
+  .lg\:prose-lg :where(thead th:last-child):not(:where([class~=3D"not-prose=
+"], [class~=3D"not-prose"] *)) { padding-inline-end: 0px; }
+  .lg\:prose-lg :where(tbody td, tfoot td):not(:where([class~=3D"not-prose"=
+], [class~=3D"not-prose"] *)) { padding-inline: 0.75em; padding-bottom: 0.7=
+5em; padding-top: 0.75em; }
+  .lg\:prose-lg :where(tbody td:first-child, tfoot td:first-child):not(:whe=
+re([class~=3D"not-prose"], [class~=3D"not-prose"] *)) { padding-inline-star=
+t: 0px; }
+  .lg\:prose-lg :where(tbody td:last-child, tfoot td:last-child):not(:where=
+([class~=3D"not-prose"], [class~=3D"not-prose"] *)) { padding-inline-end: 0=
+px; }
+  .lg\:prose-lg :where(figure):not(:where([class~=3D"not-prose"], [class~=
+=3D"not-prose"] *)) { margin-bottom: 1.77778em; margin-top: 1.77778em; }
+  .lg\:prose-lg :where(figure > *):not(:where([class~=3D"not-prose"], [clas=
+s~=3D"not-prose"] *)) { margin-bottom: 0px; margin-top: 0px; }
+  .lg\:prose-lg :where(figcaption):not(:where([class~=3D"not-prose"], [clas=
+s~=3D"not-prose"] *)) { font-size: 0.888889em; line-height: 1.5; margin-top=
+: 1em; }
+  .lg\:prose-lg :where(.lg\:prose-lg > :first-child):not(:where([class~=3D"=
+not-prose"], [class~=3D"not-prose"] *)) { margin-top: 0px; }
+  .lg\:prose-lg :where(.lg\:prose-lg > :last-child):not(:where([class~=3D"n=
+ot-prose"], [class~=3D"not-prose"] *)) { margin-bottom: 0px; }
+}
+
+.hover\:bg-brand:hover { --tw-bg-opacity: 1; background-color: rgb(117 192 =
+94/var(--tw-bg-opacity)); }
+
+.hover\:bg-brand\/40:hover { background-color: rgba(117, 192, 94, 0.4); }
+
+.hover\:bg-transparent:hover { background-color: initial; }
+
+.hover\:bg-white:hover { --tw-bg-opacity: 1; background-color: rgb(255 255 =
+255/var(--tw-bg-opacity)); }
+
+.hover\:bg-white\/5:hover { background-color: rgba(255, 255, 255, 0.05); }
+
+.hover\:text-brand:hover { --tw-text-opacity: 1; color: rgb(117 192 94/var(=
+--tw-text-opacity)); }
+
+.hover\:text-secondary:hover { --tw-text-opacity: 1; color: rgb(6 20 25/var=
+(--tw-text-opacity)); }
+
+.hover\:text-white:hover { --tw-text-opacity: 1; color: rgb(255 255 255/var=
+(--tw-text-opacity)); }
+
+@media (min-width: 640px) {
+  .sm\:w-1\/2 { width: 50%; }
+  .sm\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+  .sm\:flex-row { flex-direction: row; }
+}
+
+@media (min-width: 768px) {
+  .md\:mt-2 { margin-top: 0.5rem; }
+  .md\:w-auto { width: auto; }
+  .md\:flex-row { flex-direction: row; }
+  .md\:p-6 { padding: 1.5rem; }
+  .md\:py-8 { padding-bottom: 2rem; padding-top: 2rem; }
+  .md\:text-2xl { font-size: 1.5rem; line-height: 2rem; }
+  .md\:text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+  .md\:text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+  .md\:text-xl { font-size: 1.25rem; line-height: 1.75rem; }
+}
+
+@media (min-width: 1024px) {
+  .lg\:col-span-3 { grid-column: span 3 / span 3; }
+  .lg\:mr-0 { margin-right: 0px; }
+  .lg\:mt-0 { margin-top: 0px; }
+  .lg\:mt-12 { margin-top: 3rem; }
+  .lg\:mt-6 { margin-top: 1.5rem; }
+  .lg\:mt-8 { margin-top: 2rem; }
+  .lg\:block { display: block; }
+  .lg\:flex { display: flex; }
+  .lg\:inline-flex { display: inline-flex; }
+  .lg\:hidden { display: none; }
+  .lg\:h-12 { height: 3rem; }
+  .lg\:h-\[750px\] { height: 750px; }
+  .lg\:w-1\/2 { width: 50%; }
+  .lg\:w-\[300px\] { width: 300px; }
+  .lg\:grid-cols-2 { grid-template-columns: repeat(2, minmax(0px, 1fr)); }
+  .lg\:grid-cols-3 { grid-template-columns: repeat(3, minmax(0px, 1fr)); }
+  .lg\:grid-cols-6 { grid-template-columns: repeat(6, minmax(0px, 1fr)); }
+  .lg\:flex-row { flex-direction: row; }
+  .lg\:items-center { align-items: center; }
+  .lg\:gap-20 { gap: 5rem; }
+  .lg\:gap-6 { gap: 1.5rem; }
+  .lg\:gap-8 { gap: 2rem; }
+  .lg\:gap-x-8 { column-gap: 2rem; }
+  .lg\:gap-y-1 { row-gap: 0.25rem; }
+  .lg\:px-3 { padding-left: 0.75rem; padding-right: 0.75rem; }
+  .lg\:px-6 { padding-left: 1.5rem; padding-right: 1.5rem; }
+  .lg\:py-12 { padding-bottom: 3rem; padding-top: 3rem; }
+  .lg\:py-2 { padding-bottom: 0.5rem; padding-top: 0.5rem; }
+  .lg\:py-28 { padding-bottom: 7rem; padding-top: 7rem; }
+  .lg\:py-3 { padding-bottom: 0.75rem; padding-top: 0.75rem; }
+  .lg\:py-6 { padding-bottom: 1.5rem; padding-top: 1.5rem; }
+  .lg\:py-8 { padding-bottom: 2rem; padding-top: 2rem; }
+  .lg\:pt-5 { padding-top: 1.25rem; }
+  .lg\:text-left { text-align: left; }
+  .lg\:text-2xl { font-size: 1.5rem; line-height: 2rem; }
+  .lg\:text-3xl { font-size: 1.875rem; line-height: 2.25rem; }
+  .lg\:text-4xl { font-size: 2.25rem; line-height: 2.5rem; }
+  .lg\:text-5xl { font-size: 3rem; line-height: 1; }
+  .lg\:text-7xl { font-size: 4.5rem; line-height: 1; }
+  .lg\:text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+}
+
+@media (min-width: 1280px) {
+  .xl\:w-\[350px\] { width: 350px; }
+  .xl\:max-w-5xl { max-width: 64rem; }
+  .xl\:gap-12 { gap: 3rem; }
+  .xl\:gap-8 { gap: 2rem; }
+  .xl\:p-6 { padding: 1.5rem; }
+  .xl\:text-lg { font-size: 1.125rem; line-height: 1.75rem; }
+}
+------MultipartBoundary--h187OSCGHexCBrTXhip2JRJhheXTG86TtH2fAZMLE6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-247e8a5d-6af2-417a-afb7-87f9eef75f02@mhtml.blink
+
+@charset "utf-8";
+
+.icon[data-v-e8d572f6] { display: inline-block; vertical-align: middle; }
+------MultipartBoundary--h187OSCGHexCBrTXhip2JRJhheXTG86TtH2fAZMLE6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-825da4e6-d330-49b4-a53b-aa2b06d7be33@mhtml.blink
+
+@charset "utf-8";
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L0UUMbndwVgHU-65EHupo1eE.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+460-52F, U+1C80-1C88,=
+ U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; font-weight: 100 900; font-=
+style: italic; }
+
+@font-face { font-family: "Inter Fallback: Arial"; src: local("Arial"); siz=
+e-adjust: 107.06%; ascent-override: 90.4869%; descent-override: 22.5554%; l=
+ine-gap-override: 0%; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L9UUMbndwVgHU-NhITM010QG.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+301, U+400-45F, U+490=
+-491, U+4B0-4B1, U+2116; font-weight: 100 900; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L1UUMbndwVgHU-qH7ATOX08m.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+1F00-1FFF; font-weigh=
+t: 100 900; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L6UUMbndwVgHU-QGpAKkWaRW.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+370-377, U+37A-37F, U=
++384-38A, U+38C, U+38E-3A1, U+3A3-3FF; font-weight: 100 900; font-style: it=
+alic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L2UUMbndwVgHU-dUAjfz9vRP.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+102-103, U+110-111, U=
++128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309,=
+ U+323, U+329, U+1EA0-1EF9, U+20AB; font-weight: 100 900; font-style: itali=
+c; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L3UUMbndwVgHU-AqFQoE4dmC.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+100-2AF, U+304, U+308=
+, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113=
+, U+2C60-2C7F, U+A720-A7FF; font-weight: 100 900; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L5UUMbndwV-pgdKO9ZKgu.woff2") for=
+mat("woff2"); font-display: swap; unicode-range: U+0-FF, U+131, U+152-153, =
+U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+2074, U=
++20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; font-weight:=
+ 100 900; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU-KVPO7qQakV.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; font-weight: 100 900; font-style: nor=
+mal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU-dhQPbMoiPv.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; font-weight: 100 900; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU-F30FOQT0Pw.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+1F00-1FFF; font-weight: 100 900=
+; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU-sGaaRn4DAV.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; font-weight: 100 900; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU-lsYHSK6K6k.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; font-weight: 100 900; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU-RqiMbhqjR3.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+100-2AF, U+304, U+308, U+329, U=
++1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2=
+C7F, U+A720-A7FF; font-weight: 100 900; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-D8rjOS3fnY.woff2") format("woff=
+2"); font-display: swap; unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+=
+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; font-weight: 100 900;=
+ font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Thin Italic"), url("/_fo=
+nts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjg-yc9Sc53FFE.woff"=
+) format("woff"); font-display: swap; font-weight: 100; font-style: italic;=
+ }
+
+@font-face { font-family: Inter; src: local("Inter ExtraLight Italic"), url=
+("/_fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjg-uKvhBPXFuv=
+.woff") format("woff"); font-display: swap; font-weight: 200; font-style: i=
+talic; }
+
+@font-face { font-family: Inter; src: local("Inter Light Italic"), url("/_f=
+onts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjg-uRdt8wXlMN.woff=
+") format("woff"); font-display: swap; font-weight: 300; font-style: italic=
+; }
+
+@font-face { font-family: Inter; src: local("Inter Regular Italic"), local(=
+"Inter Italic"), url("/_fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8Sr=
+XTc2dthjg-Cghfr3Mro7.woff") format("woff"); font-display: swap; font-weight=
+: 400; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Medium Italic"), url("/_=
+fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjg-9Gz4DM1G4W.wof=
+f") format("woff"); font-display: swap; font-weight: 500; font-style: itali=
+c; }
+
+@font-face { font-family: Inter; src: local("Inter SemiBold Italic"), url("=
+/_fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjg-io7FNUyPjT.w=
+off") format("woff"); font-display: swap; font-weight: 600; font-style: ita=
+lic; }
+
+@font-face { font-family: Inter; src: local("Inter Bold Italic"), url("/_fo=
+nts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjg-IvzPBD7f1q.woff"=
+) format("woff"); font-display: swap; font-weight: 700; font-style: italic;=
+ }
+
+@font-face { font-family: Inter; src: local("Inter ExtraBold Italic"), url(=
+"/_fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjg-ZlaHUsm4JN.=
+woff") format("woff"); font-display: swap; font-weight: 800; font-style: it=
+alic; }
+
+@font-face { font-family: Inter; src: local("Inter Black Italic"), url("/_f=
+onts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjg-11AqZvIeQZ.woff=
+") format("woff"); font-display: swap; font-weight: 900; font-style: italic=
+; }
+
+@font-face { font-family: Inter; src: local("Inter Thin"), url("/_fonts/UcC=
+O3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZs-oMIw0BKr1g.woff") format("=
+woff"); font-display: swap; font-weight: 100; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter ExtraLight"), url("/_fon=
+ts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZs-mesapiiH4F.woff") fo=
+rmat("woff"); font-display: swap; font-weight: 200; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Light"), url("/_fonts/Uc=
+CO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZs-ppaBBMhPkF.woff") format(=
+"woff"); font-display: swap; font-weight: 300; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Regular"), local("Inter"=
+), url("/_fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZs-1nnSLxp=
+IaT.woff") format("woff"); font-display: swap; font-weight: 400; font-style=
+: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Medium"), url("/_fonts/U=
+cCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZs-eCVSWtm5ex.woff") format=
+("woff"); font-display: swap; font-weight: 500; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter SemiBold"), url("/_fonts=
+/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZs-hqV6ZTaH7p.woff") form=
+at("woff"); font-display: swap; font-weight: 600; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Bold"), url("/_fonts/UcC=
+O3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZs-6xY2YA4tKL.woff") format("=
+woff"); font-display: swap; font-weight: 700; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter ExtraBold"), url("/_font=
+s/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZs-GhuC9bNp0d.woff") for=
+mat("woff"); font-display: swap; font-weight: 800; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Black"), url("/_fonts/Uc=
+CO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZs-uM0pOraRMj.woff") format(=
+"woff"); font-display: swap; font-weight: 900; font-style: normal; }
+
+@font-face { font-family: "Gloria Hallelujah"; src: local("Gloria Halleluja=
+h Regular"), local("Gloria Hallelujah"), url("/_fonts/LYjYdHv3kUk9BMV96EIsw=
+T9DIbW-MIS11zOmvVCE-6k9nAczdvT.woff2") format("woff2"); font-display: swap;=
+ unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U=
++304, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+=
+2212, U+2215, U+FEFF, U+FFFD; font-weight: 400; font-style: normal; }
+
+@font-face { font-family: "Gloria Hallelujah"; src: local("Gloria Halleluja=
+h Regular"), local("Gloria Hallelujah"), url("/_fonts/LYjYdHv3kUk9BMV96EIsw=
+T9DIbW-MLSx-85zwSUkjbl.woff") format("woff"); font-display: swap; font-weig=
+ht: 400; font-style: normal; }
+
+body, html { --tw-text-opacity: 1; color: rgb(55 65 81/var(--tw-text-opacit=
+y)); font-family: Inter, "Inter Fallback: Arial", sans-serif; -webkit-font-=
+smoothing: antialiased; }
+
+body { --header-height: 72px; }
+
+@media (min-width: 1024px) {
+  body { --header-height: 96px; }
+}
+
+.font-handwriting { font-family: "Gloria Hallelujah", cursive; font-weight:=
+ 700; }
+------MultipartBoundary--h187OSCGHexCBrTXhip2JRJhheXTG86TtH2fAZMLE6----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://www.vuetoronto.com/_nuxt/entry.D_vYqnXL.css
+
+@charset "utf-8";
+
+.icon[data-v-e8d572f6] { display: inline-block; vertical-align: middle; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L0UUMbndwVgHU-65EHupo1eE.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+460-52F, U+1C80-1C88,=
+ U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; font-weight: 100 900; font-=
+style: italic; }
+
+@font-face { font-family: "Inter Fallback: Arial"; src: local("Arial"); siz=
+e-adjust: 107.06%; ascent-override: 90.4869%; descent-override: 22.5554%; l=
+ine-gap-override: 0%; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L9UUMbndwVgHU-NhITM010QG.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+301, U+400-45F, U+490=
+-491, U+4B0-4B1, U+2116; font-weight: 100 900; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L1UUMbndwVgHU-qH7ATOX08m.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+1F00-1FFF; font-weigh=
+t: 100 900; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L6UUMbndwVgHU-QGpAKkWaRW.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+370-377, U+37A-37F, U=
++384-38A, U+38C, U+38E-3A1, U+3A3-3FF; font-weight: 100 900; font-style: it=
+alic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L2UUMbndwVgHU-dUAjfz9vRP.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+102-103, U+110-111, U=
++128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309,=
+ U+323, U+329, U+1EA0-1EF9, U+20AB; font-weight: 100 900; font-style: itali=
+c; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L3UUMbndwVgHU-AqFQoE4dmC.woff2") =
+format("woff2"); font-display: swap; unicode-range: U+100-2AF, U+304, U+308=
+, U+329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113=
+, U+2C60-2C7F, U+A720-A7FF; font-weight: 100 900; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable Italic"), url("=
+/_fonts/UcC53FwrK3iLTcvneQg7Ca725JhhKnNqk6L5UUMbndwV-pgdKO9ZKgu.woff2") for=
+mat("woff2"); font-display: swap; unicode-range: U+0-FF, U+131, U+152-153, =
+U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+2074, U=
++20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; font-weight:=
+ 100 900; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7W0Q5n-wU-KVPO7qQakV.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+460-52F, U+1C80-1C88, U+20B4, U=
++2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F; font-weight: 100 900; font-style: nor=
+mal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa0ZL7W0Q5n-wU-dhQPbMoiPv.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+301, U+400-45F, U+490-491, U+4B=
+0-4B1, U+2116; font-weight: 100 900; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2ZL7W0Q5n-wU-F30FOQT0Pw.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+1F00-1FFF; font-weight: 100 900=
+; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1pL7W0Q5n-wU-sGaaRn4DAV.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+370-377, U+37A-37F, U+384-38A, =
+U+38C, U+38E-3A1, U+3A3-3FF; font-weight: 100 900; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2pL7W0Q5n-wU-lsYHSK6K6k.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+102-103, U+110-111, U+128-129, =
+U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+=
+329, U+1EA0-1EF9, U+20AB; font-weight: 100 900; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa25L7W0Q5n-wU-RqiMbhqjR3.woff2") format("wo=
+ff2"); font-display: swap; unicode-range: U+100-2AF, U+304, U+308, U+329, U=
++1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2=
+C7F, U+A720-A7FF; font-weight: 100 900; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Variable"), url("/_fonts=
+/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa1ZL7W0Q5nw-D8rjOS3fnY.woff2") format("woff=
+2"); font-display: swap; unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC=
+, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+=
+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD; font-weight: 100 900;=
+ font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Thin Italic"), url("/_fo=
+nts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc2dphjg-yc9Sc53FFE.woff"=
+) format("woff"); font-display: swap; font-weight: 100; font-style: italic;=
+ }
+
+@font-face { font-family: Inter; src: local("Inter ExtraLight Italic"), url=
+("/_fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdthjg-uKvhBPXFuv=
+.woff") format("woff"); font-display: swap; font-weight: 200; font-style: i=
+talic; }
+
+@font-face { font-family: Inter; src: local("Inter Light Italic"), url("/_f=
+onts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTch9thjg-uRdt8wXlMN.woff=
+") format("woff"); font-display: swap; font-weight: 300; font-style: italic=
+; }
+
+@font-face { font-family: Inter; src: local("Inter Regular Italic"), local(=
+"Inter Italic"), url("/_fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8Sr=
+XTc2dthjg-Cghfr3Mro7.woff") format("woff"); font-display: swap; font-weight=
+: 400; font-style: italic; }
+
+@font-face { font-family: Inter; src: local("Inter Medium Italic"), url("/_=
+fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTc69thjg-9Gz4DM1G4W.wof=
+f") format("woff"); font-display: swap; font-weight: 500; font-style: itali=
+c; }
+
+@font-face { font-family: Inter; src: local("Inter SemiBold Italic"), url("=
+/_fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcB9xhjg-io7FNUyPjT.w=
+off") format("woff"); font-display: swap; font-weight: 600; font-style: ita=
+lic; }
+
+@font-face { font-family: Inter; src: local("Inter Bold Italic"), url("/_fo=
+nts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcPtxhjg-IvzPBD7f1q.woff"=
+) format("woff"); font-display: swap; font-weight: 700; font-style: italic;=
+ }
+
+@font-face { font-family: Inter; src: local("Inter ExtraBold Italic"), url(=
+"/_fonts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTcWdxhjg-ZlaHUsm4JN.=
+woff") format("woff"); font-display: swap; font-weight: 800; font-style: it=
+alic; }
+
+@font-face { font-family: Inter; src: local("Inter Black Italic"), url("/_f=
+onts/UcCM3FwrK3iLTcvneQg7Ca725JhhKnNqk4j1ebLhAm8SrXTccNxhjg-11AqZvIeQZ.woff=
+") format("woff"); font-display: swap; font-weight: 900; font-style: italic=
+; }
+
+@font-face { font-family: Inter; src: local("Inter Thin"), url("/_fonts/UcC=
+O3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyeMZs-oMIw0BKr1g.woff") format("=
+woff"); font-display: swap; font-weight: 100; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter ExtraLight"), url("/_fon=
+ts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyfMZs-mesapiiH4F.woff") fo=
+rmat("woff"); font-display: swap; font-weight: 200; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Light"), url("/_fonts/Uc=
+CO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZs-ppaBBMhPkF.woff") format(=
+"woff"); font-display: swap; font-weight: 300; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Regular"), local("Inter"=
+), url("/_fonts/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZs-1nnSLxp=
+IaT.woff") format("woff"); font-display: swap; font-weight: 400; font-style=
+: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Medium"), url("/_fonts/U=
+cCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZs-eCVSWtm5ex.woff") format=
+("woff"); font-display: swap; font-weight: 500; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter SemiBold"), url("/_fonts=
+/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZs-hqV6ZTaH7p.woff") form=
+at("woff"); font-display: swap; font-weight: 600; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Bold"), url("/_fonts/UcC=
+O3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZs-6xY2YA4tKL.woff") format("=
+woff"); font-display: swap; font-weight: 700; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter ExtraBold"), url("/_font=
+s/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuDyYMZs-GhuC9bNp0d.woff") for=
+mat("woff"); font-display: swap; font-weight: 800; font-style: normal; }
+
+@font-face { font-family: Inter; src: local("Inter Black"), url("/_fonts/Uc=
+CO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuBWYMZs-uM0pOraRMj.woff") format(=
+"woff"); font-display: swap; font-weight: 900; font-style: normal; }
+
+@font-face { font-family: "Gloria Hallelujah"; src: local("Gloria Halleluja=
+h Regular"), local("Gloria Hallelujah"), url("/_fonts/LYjYdHv3kUk9BMV96EIsw=
+T9DIbW-MIS11zOmvVCE-6k9nAczdvT.woff2") format("woff2"); font-display: swap;=
+ unicode-range: U+0-FF, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U=
++304, U+308, U+329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+=
+2212, U+2215, U+FEFF, U+FFFD; font-weight: 400; font-style: normal; }
+
+@font-face { font-family: "Gloria Hallelujah"; src: local("Gloria Halleluja=
+h Regular"), local("Gloria Hallelujah"), url("/_fonts/LYjYdHv3kUk9BMV96EIsw=
+T9DIbW-MLSx-85zwSUkjbl.woff") format("woff"); font-display: swap; font-weig=
+ht: 400; font-style: normal; }
+
+body, html { --tw-text-opacity: 1; color: rgb(55 65 81/var(--tw-text-opacit=
+y)); font-family: Inter, "Inter Fallback: Arial", sans-serif; -webkit-font-=
+smoothing: antialiased; }
+
+body { --header-height: 72px; }
+
+@media (min-width: 1024px) {
+  body { --header-height: 96px; }
+}
+
+.font-handwriting { font-family: "Gloria Hallelujah", cursive; font-weight:=
+ 700; }
+------MultipartBoundary--h187OSCGHexCBrTXhip2JRJhheXTG86TtH2fAZMLE6----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: https://www.vuetoronto.com/assets/speakers/evan-you.jpg
+
+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
+
+------MultipartBoundary--h187OSCGHexCBrTXhip2JRJhheXTG86TtH2fAZMLE6------
